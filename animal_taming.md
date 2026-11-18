@@ -2,37 +2,39 @@
 title: Animal Taming
 description: 
 published: true
-date: 2026-11-18T22:05:37.968Z
+date: 2026-11-18T22:43:40.725Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T00:12:55.938Z
 ---
 
 # Animal Taming
-Animal Tamers can convert animals (and some monsters) to followers known as [pets](/Pets).
+Animal tamers turn animals, and some monsters, into followers known as [pets](/pet).
 
 ## Taming Penalty
-Taming a creature reduces its [skills](/Skills) (e.g., `Magery`) by `10%`. If it was paralyzed during the tick it was tamed, its skills are reduced by `14%` instead. Pets naturally train skills, so this penalty can be recuperated. See: [pet training](https://paradiseuo.com/Pets#pet-training) for more information.
+Taming a creature reduces its [skills](/skills), such as Magery, by `10%`. If it was paralyzed during the tick it was tamed, its skills are reduced by `14%` instead. Pets train their skills naturally, so this penalty can be recovered. See [Pet](/pet#pet-training).
 
 ## Manual Training
-- **NOTE**: Use `<alt> + <click>` on an animal to automatically follow them.
+Animal Taming is one of the longest and most tedious skills to train, because of how taming works. It is highly recommended to train [Animal Lore](/animal_lore) to grandmaster before training Animal Taming, or tamed animals won't obey commands, including `release`, which can be a problem. See [Pet](/pet#obeying-commands).
 
-Animal Taming is one of the longest and most-tedious skills because of how taming works. It is **highly recommended** to train [Animal Lore](/Animal_Lore) to grandmaster before training Animal Taming, or the animals you tame won't listen to your commands, including `release`, which can be problematic. See: [controlling pets](https://paradiseuo.com/Pets#controlling-pets) for more information.
+To follow an animal automatically, use `Alt + Click` on it.
 
-Naturally, to train Animal Taming one must tame animals. But the problem is twofold: animals wander around and can get into trouble, and animals stop giving skill gain to a player after being tamed the first time. And to make things worse, if an animal has historically been owned by too many different players across the entire shard, taming it will not gain skill.
+Naturally, training Animal Taming means taming animals. The problem is twofold: animals wander around and can get into trouble, and an animal stops giving skill gains to a player after the first time that player tames it. Worse, if an animal has been owned by too many different players across the shard, taming it gives no skill gain at all.
 
-Thus, to level Animal Training the player must wander from animal to animal, taming and releasing (or culling) each one. If an area provides no gains, it means multiple other Animal Tamers have trained here without culling, and you'll need to do the job yourself or move somewhere else.
+So training Animal Taming means wandering from animal to animal, taming and releasing (or culling) each one. If an area gives no gains, other animal tamers have trained there without culling, and the only options are to cull the animals or move somewhere else.
 
-The following chart is a list of ideal animals to tame and where to tame them. When moving to a new animal, it should be very easy to get gains, as the animal will rarely be successfully tamed and failures produce skill gains. But as skill increases, taming becomes more successful, so less gain is possible before having to move to a new animal. This is particularly apparently when going for grandmaster.
+The following table lists the best animals to tame and where to find them. A new animal gives gains easily, since it will rarely be tamed successfully and failures give skill gains. As skill rises, taming succeeds more often, so fewer gains are possible before moving on to the next animal. This is especially noticeable near grandmaster.
 
-| Source | Min | Max | Location |
-|:--|--:|--:|:--:|
-| `Stablemaster NPC` | 0.00 | 30.0 | **Most Towns** |
-| `Hinds`, `Timber Wolves` | 30.0 | 35.1 | **Moonglow** |
-| `Walrus`, `Polar Bears` | 35.1 | 53.1 | **Dagger Island** |
-| `Snow Panthers` | 53.1 | 59.1 | **Dagger Island** |
-| `Great Harts`, `Grizzly Bears` | 59.1 | 65.1 | **Moonglow** |
-| `White Wolves` | 65.1 | 71.1 | **Dagger Island** |
-| `Bulls` | 71.1 | 77.1 | **Delucia Pastures** |
-| `Giant Toads` | 77.1 | 85.5 | **Hopper's Bog** |
-| `Frenzied Ostards` | 85.5 | 100.0 | **Tortoise Lagoon** |
+| Source | Minimum | Maximum | Location |
+|:-|:-:|:-:|:-:|
+| Stablemaster NPC | 0 | 30 | Most towns |
+| Hinds, timber wolves | 30 | 35.1 | Moonglow |
+| Walruses, polar bears | 35.1 | 53.1 | Dagger Island |
+| Snow panthers | 53.1 | 59.1 | Dagger Island |
+| Great harts, grizzly bears | 59.1 | 65.1 | Moonglow |
+| White wolves | 65.1 | 71.1 | Dagger Island |
+| Bulls | 71.1 | 77.1 | Delucia Pastures |
+| Giant toads | 77.1 | 85.5 | Hopper's Bog |
+| Frenzied ostards | 85.5 | 100 | Tortoise Lagoon |
+
+## Macro Training
