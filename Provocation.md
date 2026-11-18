@@ -2,7 +2,7 @@
 title: Provocation
 description: 
 published: true
-date: 2026-11-15T03:54:08.686Z
+date: 2026-11-18T22:14:03.988Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T04:28:29.373Z
