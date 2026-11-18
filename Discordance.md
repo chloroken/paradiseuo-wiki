@@ -2,7 +2,7 @@
 title: Discordance
 description: 
 published: true
-date: 2026-11-15T03:51:14.705Z
+date: 2026-11-18T22:13:40.351Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T07:01:20.681Z
