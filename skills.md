@@ -2,7 +2,7 @@
 title: skills
 description: 
 published: true
-date: 2026-11-18T22:56:03.015Z
+date: 2026-11-18T23:07:59.699Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -25,7 +25,7 @@ Most characters take at least one of these skills, whatever their build.
 - [Anatomy](/anatomy)
 - [Animal Lore](/animal_lore)
 - [Animal Taming](/animal_taming)
-- [Archery](/archery)^𐠒^
+- [Archery](/archery) 𐠒
 - [Arms Lore](/arms_lore)
 - [Begging](/begging)
 - [Blacksmithing](/blacksmithing)
@@ -58,18 +58,16 @@ Most characters take at least one of these skills, whatever their build.
 - [Resisting Spells](/resisting_spells)
 - [Snooping](/snooping)
 - [Spirit Speak](/spirit_speak)
-- [Stealing](/stealing)^*^
+- [Stealing](/stealing) (not from players)
 - [Stealth](/stealth)
 - [Swordsmanship](/swordsmanship)
 - [Tailoring](/tailoring)
 - [Tinkering](/tinkering)
 - [Tracking](/tracking)
-- [Veterinary](/veterinary)^𐠒^
+- [Veterinary](/veterinary) 𐠒
 - [Wrestling](/wrestling)
 
-^*^ Stealing from players is disabled.
-
-^𐠒^ Has a *Paradise* change. See [Novelties](/novelties).
+𐠒 Has a *Paradise* change. See [Novelties](/novelties).
 
 ## Disabled Skills
 - Bushido
