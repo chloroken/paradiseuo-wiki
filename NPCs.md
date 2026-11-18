@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2026-11-17T13:00:17.810Z
+date: 2026-11-18T22:11:22.002Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T04:14:41.824Z
