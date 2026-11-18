@@ -2,13 +2,13 @@
 title: Mount
 description: 
 published: true
-date: 2026-11-18T22:11:13.760Z
+date: 2026-11-18T22:11:38.551Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-12T18:21:51.910Z
 ---
 
-# Mounts
+# Mount
 Mounts are [pets](/Pets) that speed up travel. Mounts do not go hungry nor lose happiness as long as they're being ridden.
 
 Only the `Horse` can be purchased, other mounts must be tamed. [Animal Tamers](/Animal_Taming) can transfer pets to non-tamers, but only low-level creatures, and the recipient can only ride them, not control them. It is common practice for a tamer to issue a `follow` command on the recipient before transferring a tamed mount like an `Ostard`.
