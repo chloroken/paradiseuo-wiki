@@ -2,7 +2,7 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-18T08:21:10.615Z
+date: 2026-11-18T08:37:02.387Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
@@ -12,6 +12,9 @@ dateCreated: 2026-11-18T08:02:09.296Z
 `Veterinary` represents the skill of healing creatures with [bandages](/Bandage). It's the [Animal Tamer's](/Animal_Taming) version of [Healing](/Healing).
 
 To heal a creature (usually a pet), use a `bandage` and stay in range until it resolves.
+
+## Stable Slots
+`Veterinary` levels counts toward a character's stable slots, alongside `Animal Taming` and `Animal Lore`. See [Stables](/Pets#stables).
 
 ## Healing
 The chance for a bandage to heal is `(Veterinary + 10)%`, minus `2%` for each slip. A veterinarian at `90` or more never fails unless the bandage slipped.
@@ -68,8 +71,18 @@ Thus, a veterinarian at `100` skill always cures any poison. Each time the banda
 | Deadly | `3` | `30%` | `70%` | `100%` |
 | Lethal | `4` | `20%` | `60%` | `100%` |
 
-## Training
-Players can attack their own pets to train weapon skills, then bandage them to train `Veterinary`. See [Pets](/Pets) for details. 
+## Manual Training
+Players can attack their own pets to train weapon skills, then bandage them to train `Veterinary`. See [Pets](/Pets) for details.
 
-## Stable Slots
-`Veterinary` levels counts toward a character's stable slots, alongside `Animal Taming` and `Animal Lore`. See [Stables](/Pets#stables).
+## Macro Training
+Create a TazUO Assistant macro with a `Journal Trigger` set to `*pet*`:
+
+| Action | Value |
+|:-|:-:|
+| **Last Target** | |
+| **Bandage Target** | |
+| **Delay** | `5100` |
+| **Say** | `*pet*` |
+| **Attack Last** | |
+
+Proceed to punch your pet and type `*pet*` to start the macro. Have lots of bandages in your inventory. Adjust the delay according to the `dexterity` chart in [bandage speed](/Veterinary#bandage%20speed).
