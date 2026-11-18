@@ -2,7 +2,7 @@
 title: Cartography
 description: 
 published: true
-date: 2026-11-17T22:50:56.772Z
+date: 2026-11-18T22:10:58.961Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-05T21:09:30.643Z
