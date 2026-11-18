@@ -1,8 +1,8 @@
 ---
-title: ParadiseUO Wiki Style Guide
+title: Wiki Style Guide
 description: 
 published: true
-date: 2026-11-18T22:08:53.727Z
+date: 2026-11-18T22:20:41.007Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T22:08:53.727Z
@@ -45,12 +45,12 @@ Italics are used for:
 - The shard name: *Paradise*
 - Text shown in game exactly as worded: the pet *looks happier*
 
-## Capitalisation
+## Capitalization
 - Proper names are capitalized: skills (Animal Lore), spells (Magic Reflection), places (Serpent's Hold), NPCs (Grizelda), and named mechanics (Pack Instinct, Loyalty).
 - Ordinary creatures and items are lowercase: dragons, bandages, a treasure map.
 
 ## Links
-- Page paths are all lowercase, with words separated by underscores: `/animal_taming`, `/treasure_map`. The page title keeps its normal capitalisation (Animal Taming); only the path is lowercase.
+- Page paths are all lowercase, with words separated by underscores: `/animal_taming`, `/treasure_map`. The page title keeps its normal capitalization (Animal Taming); only the path is lowercase.
 - Page paths and titles are singular when the page is about one kind of thing (`/pet`, `/house`), and plural when the page is an overview or list (`/skills`, `/dungeons`).
 - Links always use a relative path: `/pet`, never `https://paradiseuo.com/pet`.
 - Links to a section add an anchor: `/pet#obeying-commands`.
@@ -67,7 +67,7 @@ The wiki doesn't use note boxes, callouts, or block quotes. Important informatio
 - List items that are full sentences end with a period. Fragments have no period.
 
 ## Tables
-- The first column is left-aligned, and all other columns are centred: `|:-|:-:|:-:|`
+- The first column is left-aligned, and all other columns are centered: `|:-|:-:|:-:|`
 - No backticks inside tables, except for exact input.
 - When every row shares a unit, it goes in the header: Delay (s), Range (tiles).
 - Ranges use an en dash with spaces: 60 – 74.9
@@ -84,8 +84,7 @@ Formulas use full skill and stat names, never abbreviations.
 - Incorrect: `(vet + 10)%`
 
 ## Writing
-- British spelling: armour, colour, grey, centre, -ise endings (capitalise, organise).
-- In-game names keep the game's own spelling, even when American: the Reactive Armor spell, the Virtue of Honor.
+- American spelling: armor, color, gray, center, -ize endings (capitalize, organize).
 - The Oxford comma is always used: Animal Taming, Animal Lore, and Veterinary.
 - Third person, present tense: players, a tamer. Not "you".
 - No emoji.
