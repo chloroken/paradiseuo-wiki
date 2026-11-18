@@ -2,7 +2,7 @@
 title: Pets
 description: 
 published: true
-date: 2026-11-18T16:39:22.258Z
+date: 2026-11-18T16:41:39.082Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -71,30 +71,8 @@ For example, with a pet that needs `90` to tame:
 
 Every point of loyalty below `100` subtracts `1%` from the chance to obey. Since pets lose `10` loyalty an hour, an unfed pet loses `10%` obedience every hour. Thus regular feeding is crucial for pet control.
 
-## Stables
-Animal trainers keep pets safe in their stables. Speak these commands near an animal trainer:
-
-| Command | Effect |
-|:-|:-|
-| `stable` | Stable a pet, for `30` gold (taken from the backpack or bank) |
-| `claim` | Choose a pet to claim from the stables |
-| `claim <name>` | Quick-claim a pet by name |
-| `stablecount` | Show how many stable slots are used and available |
-
-- Stabled pets can be claimed from any animal trainer.
-- Pack animals must be unloaded before they can be stabled.
-- Dead, summoned, and human creatures cannot be stabled.
-
-Stable slots depend on a character's combined `Animal Taming`, `Animal Lore`, and `Veterinary` skill:
-
-| Combined Skill | Stable Slots |
-|:-:|:-:|
-| Below 160 | `2` |
-| 160 – 199.9 | `3` |
-| 200 – 239.9 | `4` |
-| 240+ | `5` |
-
-Each point above `95` in Animal Taming, Animal Lore, or Veterinary adds `1` more slot, so a character at `100` in all three has `20` slots.
+## Stabling Pets
+See: [stable](/Stable)
 
 ## Pack Instinct
 Some pets have a `Pack Instinct`, and when controlling multiple pets with the same instinct, they get a damage bonus. With two pets, they receive a `25%` bonus, with three, a `50%`, with four, a `75%` bonus, and with five, a `100%` bonus. This damage bonus only affects physical damage, not spells.
