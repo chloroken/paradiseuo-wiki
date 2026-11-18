@@ -1,93 +1,92 @@
 ---
-title: Spells
+title: spells
 description: 
 published: true
-date: 2026-11-18T22:14:51.400Z
+date: 2026-11-18T22:50:13.469Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T03:32:16.076Z
 ---
 
 # Spells
-The Magery [skill](/Skills) offers `64 spells` split evenly across `8 circles`. Spells can be cast as [scrolls](/Scrolls) or from a [spellbook](/Spellbook)
+The Magery [skill](/skills) offers `64` spells, split evenly across `8` circles. Spells can be cast from [scrolls](/scroll) or a [spellbook](/spellbook).
 
-## I. First Circle
-  1. [Reactive Armor](/Reactive_Armor) ^Flam^ ^Sanct^
-  2. Clumsy ^Uus^ ^Jux^
-  3. Create Food ^In^ ^Mani^ ^Ylem^
-  4. Feeblemind ^Rel^ ^Wis^
-  5. Heal ^In^ ^Mani^
-  6. Magic Arrow ^In^ ^Por^ ^Ylem^
-  7. Nightsight ^In^ ^Lor^
-  8. Weaken ^Des^ ^Mani^
+## First Circle
+- [Reactive Armor](/reactive_armor) ^Flam^ ^Sanct^
+- Clumsy ^Uus^ ^Jux^
+- Create Food ^In^ ^Mani^ ^Ylem^
+- Feeblemind ^Rel^ ^Wis^
+- Heal ^In^ ^Mani^
+- Magic Arrow ^In^ ^Por^ ^Ylem^
+- Nightsight ^In^ ^Lor^
+- Weaken ^Des^ ^Mani^
 
-## II. Second Circle
+## Second Circle
+- Agility ^Ex^ ^Uus^
+- Cunning ^Uus^ ^Wis^
+- Cure ^An^ ^Nox^
+- Harm ^An^ ^Mani^
+- Magic Trap ^In^ ^Jux^
+- Magic Untrap ^An^ ^Jux^
+- [Protection](/protection) ^Uus^ ^Sanct^
+- Strength ^Uus^ ^Mani^
 
-  9. Agility ^Ex^ ^Uus^
-  10. Cunning ^Uus^ ^Wis^
-  11. Cure ^An^ ^Nox^
-  12. Harm ^An^ ^Mani^
-  13. Magic Trap ^In^ ^Jux^
-  14. Magic Untrap ^An^ ^Jux^
-  15. [Protection](/Protection) ^Uus^ ^Sanct^
-  16. Strength ^Uus^ ^Mani^
+## Third Circle
+- Bless ^Rel^ ^Sanct^
+- Fireball ^Vas^ ^Flam^
+- Magic Lock ^An^ ^Por^
+- Poison ^In^ ^Nox^
+- Telekinesis ^Ort^ ^Por^ ^Ylem^
+- Teleport ^Rel^ ^Por^
+- Unlock ^Ex^ ^Por^
+- Wall of Stone ^In^ ^Sanct^ ^Ylem^
 
-## III. Third Circle
-  17. Bless ^Rel^ ^Sanct^
-  18. Fireball ^Vas^ ^Flam^
-  19. Magic Lock ^An^ ^Por^
-  20. Poison ^In^ ^Nox^
-  21. Telekinesis ^Ort^ ^Por^ ^Ylem^
-  22. Teleport ^Rel^ ^Por^
-  23. Unlock ^Ex^ ^Por^
-  24. Wall of Stone ^In^ ^Sanct^ ^Ylem^
+## Fourth Circle
+- Arch Cure ^Vas^ ^An^ ^Nox^
+- Arch Protection ^Vas^ ^Uus^ ^Sanct^
+- Curse ^Des^ ^Sanct^
+- Fire Field ^In^ ^Flam^ ^Grav^
+- Greater Heal ^In^ ^Vas^ ^Mani^
+- Lightning ^Por^ ^Ort^ ^Grav^
+- Mana Drain ^Ort^ ^Rel^
+- Recall ^Kal^ ^Ort^ ^Por^
 
-## IV. Fourth Circle
-  25. Arch Cure ^Vas^ ^An^ ^Nox^
-  26. Arch Protection ^Vas^ ^Uus^ ^Sanct^
-  27. Curse ^Des^ ^Sanct^
-  28. Fire Field ^In^ ^Flam^ ^Grav^
-  29. Greater Heal ^In^ ^Vas^ ^Mani^
-  30. Lightning ^Por^ ^Ort^ ^Grav^
-  31. Mana Drain ^Ort^ ^Rel^
-  32. Recall ^Kal^ ^Ort^ ^Por^
+## Fifth Circle
+- Blade Spirits ^In^ ^Jux^ ^Hur^ ^Ylem^
+- Dispel Field ^An^ ^Grav^
+- Incognito ^Kal^ ^In^ ^Ex^
+- [Magic Reflection](/magic_reflection) ^In^ ^Jux^ ^Sanct^
+- Mind Blast ^Por^ ^Corp^ ^Wis^
+- Paralyze ^An^ ^Ex^ ^Por^
+- Poison Field ^In^ ^Nox^ ^Grav^
+- Summon Creature ^Kal^ ^Xen^
 
-## V. Fifth Circle
-  33. Blade Spirits ^In^ ^Jux^ ^Hur^ ^Ylem^
-  34. Dispel Field ^An^ ^Grav^
-  35. Incognito ^Kal^ ^In^ ^Ex^
-  36. [Magic Reflection](/Magic_Reflection) ^In^ ^Jux^ ^Sanct^
-  37. Mind Blast ^Por^ ^Corp^ ^Wis^
-  38. Paralyze ^An^ ^Ex^ ^Por^
-  39. Poison Field ^In^ ^Nox^ ^Grav^
-  40. Summon Creature ^Kal^ ^Xen^
+## Sixth Circle
+- Dispel ^An^ ^Ort^
+- Energy Bolt ^Corp^ ^Por^
+- Explosion ^Vas^ ^Ort^ ^Flam^
+- Invisibility ^An^ ^Lor^ ^Xen^
+- Mark ^Kal^ ^Por^ ^Ylem^
+- Mass Curse ^Vas^ ^Des^ ^Sanct^
+- Paralyze Field ^In^ ^Ex^ ^Grav^
+- Reveal ^Wis^ ^Quas^
 
-## VI. Sixth Circle
-  41. Dispel ^An^ ^Ort^
-  42. Energy Bolt ^Corp^ ^Por^
-  43. Explosion ^Vas^ ^Ort^ ^Flam^
-  44. Invisibility ^An^ ^Lor^ ^Xen^
-  45. Mark ^Kal^ ^Por^ ^Ylem^
-  46. Mass Curse ^Vas^ ^Des^ ^Sanct^
-  47. Paralyze Field ^In^ ^Ex^ ^Grav^
-  48. Reveal ^Wis^ ^Quas^
+## Seventh Circle
+- Chain Lightning ^Vas^ ^Ort^ ^Grav^
+- Energy Field ^In^ ^Sanct^ ^Grav^
+- Flamestrike ^Kal^ ^Vas^ ^Flam^
+- Gate Travel ^Vas^ ^Rel^ ^Por^
+- Mana Vampire ^Ort^ ^Sanct^
+- Mass Dispel ^Vas^ ^An^ ^Ort^
+- Meteor Swarm ^Flam^ ^Kal^ ^Des^ ^Ylem^
+- Polymorph ^Vas^ ^Ylem^ ^Rel^
 
-## VII. Seventh Circle
-  49. Chain Lightning ^Vas^ ^Ort^ ^Grav^
-  50. Energy Field ^In^ ^Sanct^ ^Grav^
-  51. Flamestrike ^Kal^ ^Vas^ ^Flam^
-  52. Gate Travel ^Vas^ ^Rel^ ^Por^
-  53. Mana Vampire ^Ort^ ^Sanct^
-  54. Mass Dispel ^Vas^ ^An^ ^Ort^
-  55. Meteor Swarm ^Flam^ ^Kal^ ^Des^ ^Ylem^
-  56. Polymorph ^Vas^ ^Ylem^ ^Rel^
-
-## VIII. Eighth Circle
-  57. Earthquake ^In^ ^Vas^ ^Por^
-  58. Energy Vortex ^Vas^ ^Corp^ ^Por^
-  59. Resurrection ^An^ ^Corp^
-  60. Summon Air Elemental ^Kal^ ^Vas^ ^Xen^ ^Hur^
-  61. Summon Daemon ^Kal^ ^Vas^ ^Xen^ ^Corp^
-  62. Summon Earth Elemental ^Kal^ ^Vas^ ^Xen^ ^Ylem^
-  63. Summon Fire Elemental ^Kal^ ^Vas^ ^Xen^ ^Flam^
-  64. Summon Water Elemental ^Kal^ ^Vas^ ^Xen^ ^An^ ^Flam^
+## Eighth Circle
+- Earthquake ^In^ ^Vas^ ^Por^
+- Energy Vortex ^Vas^ ^Corp^ ^Por^
+- Resurrection ^An^ ^Corp^
+- Summon Air Elemental ^Kal^ ^Vas^ ^Xen^ ^Hur^
+- Summon Daemon ^Kal^ ^Vas^ ^Xen^ ^Corp^
+- Summon Earth Elemental ^Kal^ ^Vas^ ^Xen^ ^Ylem^
+- Summon Fire Elemental ^Kal^ ^Vas^ ^Xen^ ^Flam^
+- Summon Water Elemental ^Kal^ ^Vas^ ^Xen^ ^An^ ^Flam^
