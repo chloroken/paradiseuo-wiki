@@ -2,14 +2,14 @@
 title: Gargoyle's Pickaxe
 description: 
 published: true
-date: 2026-11-18T22:13:57.119Z
+date: 2026-11-18T22:46:41.849Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-12T07:10:58.698Z
 ---
 
 # Gargoyle's Pickaxe
-The `Gargoyle's Pickaxe` is a drop from Gargoyle monsters. Using it to mine ore will be one tier higher than expected. Every time an ore is mined, there is a `10%` chance to spawn a `Elemental` monster based on the type of ore mined.
+The gargoyle's pickaxe drops from gargoyles. Ore mined with it is one tier higher than normal. Each time ore is mined, there is a `10%` chance to spawn an elemental matching the type of ore.
 
-##### Charges
-When a fresh `Gargoyle's Pickaxe` drops, it has `101` ~ `125` charges. Every time an ore is mined, it loses a charge. When the last charge is gone, the item is deleted.
+## Charges
+A newly dropped gargoyle's pickaxe has `101` to `125` charges. Each ore mined uses one charge, and the pickaxe is destroyed when the last charge is used.
