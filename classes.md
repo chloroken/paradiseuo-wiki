@@ -2,7 +2,7 @@
 title: classes
 description: 
 published: true
-date: 2026-11-18T22:46:15.145Z
+date: 2026-11-18T23:13:44.871Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -16,16 +16,21 @@ During character creation there is a profession screen, but it should be ignored
 Although there are no official classes, a warrior, for example, would simply spend the `225` stat points and `700` skill points on things like Strength, Dexterity, weapon skills, defensive skills, and healing skills.
 
 ## Pseudoclasses
+### Dexxers
 - Fighter
 - Paladin
+- Stealth Archer
+### Mages
 - Tank Mage
 - Hally Mage
 - Pure Mage
-- Mapper
-- Tamer Mage
+### Bards
 - Tamer Bard
-- Stealth Archer
+- Mapper Bard
+- Pure Bard
+### Other
 - Crafter
+- Gatherer
 
 ## Builds
 
