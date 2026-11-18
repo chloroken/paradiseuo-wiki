@@ -2,17 +2,17 @@
 title: Skeleton Key
 description: 
 published: true
-date: 2026-11-18T22:14:55.709Z
+date: 2026-11-18T22:50:00.385Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-10T01:06:03.940Z
 ---
 
 # Skeleton Key
-The `Skeleton Key` gives `+10` to [Lockpicking](/Lockpicking) when used instead of a [lockpick](/Lockpick).
+A skeleton key gives `+10` [Lockpicking](/lockpicking) when used instead of a [lockpick](/lockpick).
 
-The `Skeleton Key` comes with `10` charges. On successfully picking a lock, a charge is consumed. When the last charge is consumed, the `Skeleton Key` is deleted. Failure to pick a lock will never consume a charge.
+A skeleton key has `10` charges. Each lock it successfully picks uses one charge, and the key is destroyed when the last charge is used. A failed attempt never uses a charge.
 
 ## Drop Sources
-Treasure Maps have `level * 1%` chance to drop a Skeleton Key.
-Message in a Bottle has `level * 0.5%` chance to drop a Skeleton Key.
+- Treasure maps have a `Map Level * 1%` chance to drop a skeleton key.
+- Messages in a bottle have a `Message Level * 0.5%` chance to drop a skeleton key.
