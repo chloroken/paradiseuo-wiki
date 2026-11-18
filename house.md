@@ -1,8 +1,8 @@
 ---
-title: Houses
+title: House
 description: 
 published: true
-date: 2026-11-18T22:16:25.934Z
+date: 2026-11-18T22:19:36.101Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T21:12:43.985Z
