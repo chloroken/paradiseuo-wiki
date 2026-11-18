@@ -2,20 +2,10 @@
 title: Style Guide
 description: 
 published: true
-date: 2026-11-18T22:04:19.582Z
+date: 2026-11-18T22:04:50.320Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T22:04:19.582Z
----
-
----
-title: Style Guide
-description: 
-published: true
-date: 2026-11-18T00:00:00.000Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-18T00:00:00.000Z
 ---
 
 # Style Guide
