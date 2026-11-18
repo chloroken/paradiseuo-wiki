@@ -2,7 +2,7 @@
 title: Reactive Armor
 description: 
 published: true
-date: 2026-11-15T03:53:51.258Z
+date: 2026-11-18T22:14:04.729Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T03:54:21.537Z
