@@ -2,13 +2,13 @@
 title: Stable
 description: 
 published: true
-date: 2026-11-18T16:41:37.161Z
+date: 2026-11-18T22:06:54.697Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T04:10:59.381Z
 ---
 
-# Stables
+# Stable
 `Animal Trainers` offer stable services to hold pets while their owner is offline. They respond to the following commands:
 
 | Command | Effect |
