@@ -2,7 +2,7 @@
 title: Magic Reflect
 description: 
 published: true
-date: 2026-11-15T03:54:22.377Z
+date: 2026-11-18T22:14:41.282Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T03:48:53.298Z
