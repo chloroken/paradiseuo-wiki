@@ -2,7 +2,7 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-18T08:39:19.973Z
+date: 2026-11-18T08:42:07.438Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
@@ -25,13 +25,13 @@ A successful bandage randomly heals between two ranges:
 - **Minimum:** `Animal Lore / 5 + Veterinary / 5 + 3`
 - **Maximum:** `Animal Lore / 5 + Veterinary / 2 + 10`
 
-Pets also heal an extra `1` hit point for every `100` maximum hit points they have, so bandages scale slightly with bigger pets. 
-
-| Veterinary & Animal Lore | Chance | Healed |
+| Veterinary &<br>Animal Lore | Chance | Healed |
 |:-:|:-:|:-:|
-| 60 | `70%` | `27` – `52` |
-| 80 | `90%` | `35` – `66` |
-| 100 | `100%` | `43` – `80` |
+| 60 | 70% | 27 ~ 52 |
+| 80 | 90% | 35 ~ 66 |
+| 100 | 100% | 43 ~ 80 |
+
+Pets also heal an extra `1` hit point for every `100` maximum hit points they have, so bandages scale slightly with bigger pets. 
 
 ## Slips
 Taking even a single point of damage while applying a bandage causes a slip. Slips reduces the chance to heal by `2%` and amount healed by `4`.
@@ -41,20 +41,20 @@ On *Paradise*, veterinarians can bandage from further away. For every `25` point
 
 | Skill | Range |
 |:-:|:-:|
-| < 25 | `1` tile |
-| >= 25 | `2` tiles |
-| >= 50 | `3` tiles |
-| >= 75 | `4` tiles |
-| 100 | `5` tiles |
+| < 25 | 1 tile |
+| >= 25 | 2 tiles |
+| >= 50 | 3 tiles |
+| >= 75 | 4 tiles |
+| 100 | 5 tiles |
 
 ## Bandage Speed
 The time a bandage takes depends on the healer's `Dexterity` with a notable breakpoint.
 
 | Dexterity | Delay |
 |:-:|:-:|
-| < 40 | `5` seconds |
-| >= 40 | `4` seconds |
-| 100 | `3` seconds |
+| < 40 | 5 seconds |
+| >= 40 | 4 seconds |
+| 100 | 3 seconds |
 
 ## Curing Poison
 If the veterinarian's `Veterinary` and `Animal Lore` are both `60` or above, when a target is poisoned bandaging it will attempt to cure instead of heal. The chance for a cure to succeed is:
