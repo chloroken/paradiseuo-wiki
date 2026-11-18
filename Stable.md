@@ -2,28 +2,34 @@
 title: Stable
 description: 
 published: true
-date: 2026-11-15T03:53:19.738Z
+date: 2026-11-18T16:41:37.161Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T04:10:59.381Z
 ---
 
-`Animal Trainers` offer stable services to hold pets while their owner is offline.
-## Commands
-`stable` - Store a targeted pet
-`claim menu` - Pull up the claim gump
-`claim` - Retrieve all animals
-`stablecount` - Check stable slot usage
+# Stables
+`Animal Trainers` offer stable services to hold pets while their owner is offline. They respond to the following commands:
+
+| Command | Effect |
+|:-|:-|
+| `stable` | Stable a pet, for `30` gold (taken from the backpack or bank) |
+| `claim` | Choose a pet to claim from the stables |
+| `claim <name>` | Quick-claim a pet by name |
+| `stablecount` | Show how many stable slots are used and available |
+
+- Stabled pets can be claimed from any animal trainer.
+- Pack animals must be unloaded before they can be stabled.
+- Dead, summoned, and human creatures cannot be stabled.
+
 ## Stable Slots
-**Base Slots**:
-- 2 slots (`always`)
-- 3 slots (`160+ total skills`)
-- 4 slots (`200+ total skills`)
-- 5 slots (`240+ total skills`)
+Stable slots depend on a character's combined `Animal Taming`, `Animal Lore`, and `Veterinary` skill:
 
-**Bonus Slots**:
-- +5 slots via `(Taming - 95)`
-- +5 slots via `(Animal Lore - 95)`
-- +5 slots via `(Veterinary - 95)`
+| Combined Skill | Stable Slots |
+|:-:|:-:|
+| Below 160 | `2` |
+| 160 – 199.9 | `3` |
+| 200 – 239.9 | `4` |
+| 240+ | `5` |
 
-Thus, a player can have up to `20` stable slots.
+Each point above `95` in Animal Taming, Animal Lore, or Veterinary adds `1` more slot, so a character at `100` in all three has `20` slots.
