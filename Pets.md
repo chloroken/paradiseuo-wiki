@@ -2,7 +2,7 @@
 title: Pets
 description: 
 published: true
-date: 2026-11-18T16:41:48.136Z
+date: 2026-11-18T16:41:54.863Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -72,7 +72,7 @@ For example, with a pet that needs `90` to tame:
 Every point of loyalty below `100` subtracts `1%` from the chance to obey. Since pets lose `10` loyalty an hour, an unfed pet loses `10%` obedience every hour. Thus regular feeding is crucial for pet control.
 
 ## Stabling Pets
-See: [Stable mechanics](/Stable)
+See: [Stable](/Stable)
 
 ## Pack Instinct
 Some pets have a `Pack Instinct`, and when controlling multiple pets with the same instinct, they get a damage bonus. With two pets, they receive a `25%` bonus, with three, a `50%`, with four, a `75%` bonus, and with five, a `100%` bonus. This damage bonus only affects physical damage, not spells.
