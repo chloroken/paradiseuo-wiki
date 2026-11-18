@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-18T23:34:48.427Z
+date: 2026-11-18T23:44:13.520Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -40,18 +40,18 @@ Concussion Blow and Crushing Blow can only be delivered by players and human NPC
 
 A frozen target can't move, but it can still attack anything in reach. Freezing is most useful against a target that is fleeing or chasing.
 
-## Wrestling Moves
-Fighting with bare hands allows two moves, readied with the client's stun or disarm button. The move is attempted on the next hit.
+## Wrestling Moves 𐠒
+Fighting with empty hands allows two moves. Neither needs a button: when a punch hits and the moves are off cooldown, the right one is attempted automatically. A spellbook or a light can be held, but not a weapon or shield.
 
-| Move | Requirements | Effect |
-|:-|:-:|:-:|
-| Stun | 80 Wrestling, 80 Anatomy, 15 stamina | Freezes the target in place for 4 seconds |
-| Disarm | 80 Wrestling, 80 Arms Lore, 15 stamina | Knocks the target's weapon into their backpack |
+| Move | Used Against | Requirements | Effect |
+|:-|:-:|:-:|:-:|
+| Disarm | Armed players and human NPCs | 80 Wrestling, 80 Arms Lore | Knocks the target's weapon into their backpack |
+| Stun | Everything else | 80 Wrestling, 80 Anatomy | Freezes the target in place for 4 seconds |
 
-- Each attempt costs `15` stamina, even if it fails.
-- The chance to succeed is `(Wrestling + Anatomy) / 400` for Stun, and `(Wrestling + Arms Lore) / 400` for Disarm: `40%` at 80 in both skills, and `50%` at 100.
-- Disarm only works on players and human NPCs.
-- After a successful move, another can't be used for `10` seconds.
+- Against an armed human, a wrestler without `80` Arms Lore stuns instead.
+- Each attempt costs `15` stamina, whether it succeeds or fails.
+- The chance to succeed is `(Wrestling + Arms Lore) / 400` for Disarm, and `(Wrestling + Anatomy) / 400` for Stun: `40%` at `80` in both skills, and `50%` at `100`.
+- After any attempt, neither move can be used again for `10` seconds.
 
 ## Other Effects on Hit
 - Maces and staves drain `3` to `5` of the target's stamina with every hit.
