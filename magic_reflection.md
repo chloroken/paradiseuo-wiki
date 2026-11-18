@@ -1,8 +1,8 @@
 ---
-title: Magic Reflect
+title: Magic Reflection
 description: 
 published: true
-date: 2026-11-18T22:14:41.282Z
+date: 2026-11-18T22:20:09.484Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T03:48:53.298Z
