@@ -2,7 +2,7 @@
 title: Pets
 description: 
 published: true
-date: 2026-11-18T16:37:57.858Z
+date: 2026-11-18T16:38:55.564Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -49,10 +49,7 @@ Feeding a stack is more reliable than feeding one piece. A stack of `20` will al
 Food also restores stamina: `15` per piece, minus `50`, which means that stack of `4` or more is required to restore any stamina.
 
 ## Obeying Commands
-Pets don't always obey. Every command has a chance to fail, based on the owner's skills, the pet's difficulty, and its loyalty.
-
-**Skill**
-Animal Taming matters four times as much as Animal Lore. The two combine into a weighted skill:
+Pets don't always obey. Every command has a chance to fail, based on the owner's skills, the pet's difficulty, and its loyalty. Animal Taming matters four times as much as Animal Lore. The two combine into a weighted skill:
 
 `Weighted Skill = (4 * Animal Taming + Animal Lore) / 5`
 
@@ -72,7 +69,6 @@ For example, with a pet that needs `90` to tame:
 - `90` Taming and `100` Lore: weighted `92`, `82%` chance.
 - `90` Taming and `50` Lore: weighted `82`, the pet will never obey.
 
-**Loyalty**
 Every point of loyalty below `100` subtracts `1%` from the chance to obey. Since pets lose `10` loyalty an hour, an unfed pet loses `10%` obedience every hour. A well-fed pet is a well-behaved pet.
 
 ## Stables
