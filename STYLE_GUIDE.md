@@ -1,8 +1,8 @@
 ---
-title: Wiki Style Guide
+title: ~Wiki Style Guide
 description: 
 published: true
-date: 2026-11-18T22:20:41.007Z
+date: 2026-11-18T22:55:19.435Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T22:08:53.727Z
@@ -24,7 +24,7 @@ Headings use Title Case, with short words (a, an, and, as, at, by, for, in, of, 
 - Incorrect: Training On Pets
 
 ## Backticks
-Backticks are used for exactly three things:
+Backticks are used for exactly four things:
 
 1. **Game values:** any number set by the shard's rules, which could change if the code changed. This includes percentages, durations, skill amounts, and counts.
    - Correct: a `10` second cooldown, `3` spawns per day, a `50%` chance
@@ -32,10 +32,12 @@ Backticks are used for exactly three things:
 1. **Formulas:** `(4 * Animal Taming + Animal Lore) / 5`
 1. **Exact input:** anything typed or entered exactly as written, including speech commands, keys, and values entered into a client or macro.
    - Examples: `all follow me`, `claim <name>`, `Alt + Click`, `*pet*`
+1. **Filenames and on-screen labels:** files, buttons, menus, and fields exactly as they appear on screen.
+   - Examples: `TazUOLauncher.exe`, `Plot Course`, `Profile Name`
 
 Commands are never wrapped in quotation marks inside backticks.
 
-Backticks are never used inside tables, with one exception: exact input, such as a command table, keeps its backticks.
+Backticks are never used inside tables, with one exception: exact input, filenames, and on-screen labels keep their backticks, such as in a command table.
 
 ## Bold
 Bold is only for critical warnings, such as **Pet death is permanent.** It is never used for names, places, or general emphasis.
@@ -88,6 +90,11 @@ Formulas use full skill and stat names, never abbreviations.
 - The Oxford comma is always used: Animal Taming, Animal Lore, and Veterinary.
 - Third person, present tense: players, a tamer. Not "you".
 - No emoji.
+
+## Skill Pages
+Every skill page ends with two sections, in this order, even if they're still empty:
+1. `## Manual Training`
+1. `## Macro Training`
 
 ## Paradise Changes
 Features that differ from standard Ultima Online are marked with ^𐠒^ after their name, on any page where they appear. Every marked feature is also listed on the [Novelties](/novelties) page.
