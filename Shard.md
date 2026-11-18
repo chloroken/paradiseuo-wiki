@@ -2,7 +2,7 @@
 title: Shard Info
 description: 
 published: true
-date: 2026-11-17T05:11:09.199Z
+date: 2026-11-18T22:15:44.082Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:42:22.591Z
