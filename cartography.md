@@ -1,28 +1,32 @@
 ---
-title: Cartography
+title: cartography
 description: 
 published: true
-date: 2026-11-18T22:10:58.961Z
+date: 2026-11-18T22:46:03.870Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-05T21:09:30.643Z
 ---
 
 # Cartography
-Cartographers craft `Maps` and `Charts` which can be used by `Tillermen` to automatically navigate [boats](/Boats). Cartographers can also decode [treasure maps](/Treasure_Map).
-## Crafting Maps
-Double click a `Mapmaker's Pen` to open the crafting gump.
+Cartographers craft maps and charts, which tillermen use to sail [boats](/boat) automatically. Cartographers can also decode [treasure maps](/treasure_map).
 
-| Map Type | Minimum Skill | Stop Gaining Skill |
-|:-:|:-:|:-:|
-| **Star Chart** | 0 Cartography | 60 Cartography
-| **Local Map** | 10 Cartography | 70 Cartography
-| **City Map** | 25 Cartography | 85 Cartography
-| **Sea Chart** | 35 Cartography | 95 Cartography
-| **World Map** | 39.5 Cartography | 99.5 Cartography
-## Training Cartography
-1. Buy `Mapmaker's Pens` from a `Mapmaker` near a dock.
-1. Buy `Blank Scrolls` from a `Scribe` in a library.
-1. Make the highest level map you can.
-1. Sell the map you made back to the vendor or trash it.
-1. Do this until `99.5`, then decode `Treasure Maps` for grandmaster.
+## Crafting Maps
+Double-click a mapmaker's pen to open the crafting gump.
+
+| Map Type | Minimum Cartography | Stops Gaining At |
+|:-|:-:|:-:|
+| Star Chart | 0 | 60 |
+| Local Map | 10 | 70 |
+| City Map | 25 | 85 |
+| Sea Chart | 35 | 95 |
+| World Map | 39.5 | 99.5 |
+
+## Manual Training
+1. Buy mapmaker's pens from a mapmaker near a dock.
+1. Buy blank scrolls from a scribe in a library.
+1. Make the highest-level map possible.
+1. Sell the map back to the vendor or throw it away.
+1. Repeat until `99.5`, then decode treasure maps for grandmaster.
+
+## Macro Training
