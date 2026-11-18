@@ -2,7 +2,7 @@
 title: Carpentry
 description: 
 published: true
-date: 2026-11-17T12:40:52.945Z
+date: 2026-11-18T22:15:47.171Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T06:34:26.911Z
