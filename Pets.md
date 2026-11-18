@@ -2,7 +2,7 @@
 title: Pets
 description: 
 published: true
-date: 2026-11-18T04:28:43.729Z
+date: 2026-11-18T16:25:06.827Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -13,15 +13,12 @@ Pets are a type of follower. [Mounts](/Mounts) are pets. [Animal Tamers](/Animal
 
 Most pets take up `1` follower slot, but strong pets (e.g., Drakes) take `2` slots and the most powerful pets (e.g., Dragons) take `3` slots. Follower slots are not utilized by pets stored in a [stable](#stables).
 
-**Pet death is permanent.** Pets cannot be bonded, so a pet that dies is gone for good.
-
-## Taming Penalty
-Taming a creature reduces its [skills](/Skills) (e.g., `Magery`) by `10%`. If it was paralyzed during the tick it was tamed, its skills are reduced by `14%` instead.
+**Pet death is permanent.**
 
 ## Pet Training
 Pets level up skills as they use them just like players do, and they gain skill twice as quickly as players. Even if a pet was paralyzed during taming and it has the skill reduction penalty, its skills can recover and continue training to max. Pets can also train their [stats](/Stats) up to `120`. Using `Animal Lore` reveals a creature's stats and skills.
 
-## Training With Pets
+## Training On Pets
 Players can attack their own pets to train combat skills, and heal them to train `Veterinary`.
 - A player's own pets appear **green** to them, and attacking them is never a criminal act.
 - Pets fight back when attacked. Train on a weak pet, since a strong one can kill its owner.
@@ -43,8 +40,46 @@ Animal Tamers manipulate pets with commands like `all follow me` and `dragon kil
 
 Pets can follow their owner into houses. Untamed creatures cannot enter houses.
 
-## Pet Mood
-Pet happiness must be managed in order to control pets, lest the Animal Tamer lose control at an inopportune time. Feed them their favorite food to increase happiness. Their favorite food is indicated by using Animal Lore on them.
+## Loyalty
+Every pet has a hidden `Loyalty` value from `0` to `100`. A freshly tamed pet starts at `100`, and Animal Lore shows how happy a pet is.
+
+Once an hour, every pet in the world loses `10` loyalty. Stabled pets and pets being ridden do not lose loyalty. A pet that reaches `0` cries out that it *looks around desperately*, then decides it is better off without a master and goes wild.
+
+An unfed pet at full loyalty goes wild after about `10` hours.
+
+## Feeding
+Drop food on a pet to feed it. Only its favorite food works, which Animal Lore reveals. Each piece of food in the stack has a `50%` chance to add `10` loyalty, up to the maximum of `100`. If any of it worked, the pet *looks happier*.
+
+Feeding a stack is more reliable than feeding one piece. A stack of `20` will almost always fill a pet back to full.
+
+Food also restores stamina: `15` per piece, minus `50`. A stack of `4` or more is needed to restore any stamina.
+
+## Obeying Commands
+Pets don't always obey. Every command has a chance to fail, based on the owner's skills, the pet's difficulty, and its loyalty.
+
+**Skill**
+Animal Taming matters four times as much as Animal Lore. The two combine into a weighted skill:
+
+`Weighted Skill = (4 * Animal Taming + Animal Lore) / 5`
+
+This is compared to the pet's `Minimum Taming` skill (the skill needed to tame it):
+
+| Weighted Skill | Chance to Obey |
+|:-|:-:|
+| `4.9`+ above Minimum Taming | `99%` |
+| Equal to Minimum Taming | `70%` |
+| Each point above | `+6%` |
+| Each point below | `-14%` |
+| `3.6` to `5` below | `20%` |
+| More than `5` below | `0%` |
+
+For example, with a pet that needs `90` to tame:
+- `100` Taming and `100` Lore: weighted `100`, `99%` chance.
+- `90` Taming and `100` Lore: weighted `92`, `82%` chance.
+- `90` Taming and `50` Lore: weighted `82`, the pet will never obey.
+
+**Loyalty**
+Every point of loyalty below `100` subtracts `1%` from the chance to obey. Since pets lose `10` loyalty an hour, an unfed pet loses `10%` obedience every hour. A well-fed pet is a well-behaved pet.
 
 ## Stables
 Animal trainers keep pets safe in their stables. Speak these commands near an animal trainer:
