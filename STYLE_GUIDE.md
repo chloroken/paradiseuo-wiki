@@ -2,6 +2,16 @@
 title: ~Wiki Style Guide
 description: 
 published: true
+date: 2026-11-18T23:06:27.740Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-18T22:08:53.727Z
+---
+
+---
+title: ~Wiki Style Guide
+description: 
+published: true
 date: 2026-11-18T22:55:19.435Z
 tags: 
 editor: markdown
@@ -90,6 +100,7 @@ Formulas use full skill and stat names, never abbreviations.
 - The Oxford comma is always used: Animal Taming, Animal Lore, and Veterinary.
 - Third person, present tense: players, a tamer. Not "you".
 - No emoji.
+- No superscript. Notes go in plain text, usually in parentheses or as their own sentence.
 
 ## Skill Pages
 Every skill page ends with two sections, in this order, even if they're still empty:
@@ -97,4 +108,4 @@ Every skill page ends with two sections, in this order, even if they're still em
 1. `## Macro Training`
 
 ## Paradise Changes
-Features that differ from standard Ultima Online are marked with ^𐠒^ after their name, on any page where they appear. Every marked feature is also listed on the [Novelties](/novelties) page.
+Features that differ from standard Ultima Online are marked with 𐠒 after their name, on any page where they appear. Every marked feature is also listed on the [Novelties](/novelties) page.
