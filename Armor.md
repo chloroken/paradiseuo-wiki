@@ -2,7 +2,7 @@
 title: Armor
 description: 
 published: true
-date: 2026-11-15T03:33:35.561Z
+date: 2026-11-18T22:12:42.487Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T03:33:34.463Z
