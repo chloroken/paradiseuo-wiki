@@ -2,7 +2,7 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-18T21:49:50.095Z
+date: 2026-11-18T22:06:37.515Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
