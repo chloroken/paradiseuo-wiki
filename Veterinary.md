@@ -2,7 +2,7 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-18T09:05:27.799Z
+date: 2026-11-18T17:25:35.194Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
@@ -17,9 +17,7 @@ To heal a creature (usually a pet), use a `bandage` and stay in range until it r
 `Veterinary` levels counts toward a character's stable slots, alongside `Animal Taming` and `Animal Lore`. See [Stables](/Pets#stables).
 
 ## Healing
-The chance for a bandage to heal is `(Veterinary + 10)%`, minus `2%` for each slip. A veterinarian at `90` or more never fails unless the bandage slipped.
-
-The chance for a veterinarian to successfully heal their target is `(Veterinary + 10)%`, minus `slips × 2%`. Once past level `90`, failure only occurs from slippage and range checks.
+The chance for a bandage to heal is `(Veterinary + 10)%`, minus `2%` for each slip. At `90` or higher veterinarian, bandages never fail unless a slip happens.
 
 A successful bandage randomly heals between two ranges:
 - **Minimum:** `Animal Lore / 5 + Veterinary / 5 + 3`
