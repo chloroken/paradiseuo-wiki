@@ -2,7 +2,7 @@
 title: Animal Taming
 description: 
 published: true
-date: 2026-11-18T16:48:52.138Z
+date: 2026-11-18T21:53:31.729Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T00:12:55.938Z
@@ -17,7 +17,7 @@ Taming a creature reduces its [skills](/Skills) (e.g., `Magery`) by `10%`. If it
 ## Manual Training
 - **NOTE**: Use `<alt> + <click>` on an animal to automatically follow them.
 
-Animal Taming is one of the longest and most-tedious skills because of how taming works. It is **highly recommended** to train [Animal Lore](/Skills/Animal_Lore) to grandmaster before training Animal Taming, or the animals you tame won't listen to your commands, including `release`, which can be problematic. See: [controlling pets](https://paradiseuo.com/Pets#controlling-pets) for more information.
+Animal Taming is one of the longest and most-tedious skills because of how taming works. It is **highly recommended** to train [Animal Lore](/Animal_Lore) to grandmaster before training Animal Taming, or the animals you tame won't listen to your commands, including `release`, which can be problematic. See: [controlling pets](https://paradiseuo.com/Pets#controlling-pets) for more information.
 
 Naturally, to train Animal Taming one must tame animals. But the problem is twofold: animals wander around and can get into trouble, and animals stop giving skill gain to a player after being tamed the first time. And to make things worse, if an animal has historically been owned by too many different players across the entire shard, taming it will not gain skill.
 
