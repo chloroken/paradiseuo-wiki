@@ -2,7 +2,7 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-18T17:25:35.194Z
+date: 2026-11-18T21:49:50.095Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
@@ -14,7 +14,7 @@ dateCreated: 2026-11-18T08:02:09.296Z
 To heal a creature (usually a pet), use a `bandage` and stay in range until it resolves.
 
 ## Stable Slots
-`Veterinary` levels counts toward a character's stable slots, alongside `Animal Taming` and `Animal Lore`. See [Stables](/Pets#stables).
+`Veterinary` levels counts toward a character's stable slots, alongside `Animal Taming` and `Animal Lore`. See [Stables](/Stable#stable-slots).
 
 ## Healing
 The chance for a bandage to heal is `(Veterinary + 10)%`, minus `2%` for each slip. At `90` or higher veterinarian, bandages never fail unless a slip happens.
@@ -43,7 +43,7 @@ On *Paradise*, veterinarians can bandage from further away. For every `25` point
 | >= 25 | 2 tiles |
 | >= 50 | 3 tiles |
 | >= 75 | 4 tiles |
-| 100 | 5 tiles |
+| 100+ | 5 tiles |
 
 ## Bandage Speed
 The time a bandage takes depends on the healer's `Dexterity` with a notable breakpoint at `40`.
@@ -52,7 +52,7 @@ The time a bandage takes depends on the healer's `Dexterity` with a notable brea
 |:-:|:-:|
 | < 40 | 5 seconds |
 | >= 40 | 4 seconds |
-| 100 | 3 seconds |
+| 100+ | 3 seconds |
 
 ## Curing Poison
 If the veterinarian's `Veterinary` and `Animal Lore` are both `60` or above, when a target is poisoned bandaging it will attempt to cure instead of heal. The chance for a cure to succeed is:
@@ -83,4 +83,4 @@ Get a hearty pet, several thousand bandages, and create a `TazUO Assistant` macr
 | **Say** | `*pet*` |
 | **Attack Last** | |
 
-Proceed to punch your pet and type `*pet*` to start the macro. Stop the macro with the keybind. Adjust the delay according to the `dexterity` chart in [bandage speed](/Veterinary#bandage%20speed).
+Proceed to punch your pet and type `*pet*` to start the macro. Stop the macro with the keybind. Adjust the delay according to the `dexterity` chart in [bandage speed](/Veterinary#bandage-speed).
