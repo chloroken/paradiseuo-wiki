@@ -1,20 +1,23 @@
 ---
-title: Provocation
+title: provocation
 description: 
 published: true
-date: 2026-11-18T22:14:03.988Z
+date: 2026-11-18T22:48:52.433Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T04:28:29.373Z
 ---
 
 # Provocation
-Bards can use an instrument to make two targets to fight.
+Bards use a musical instrument to make two targets fight each other.
 
-The chance to successfully provoke two monsters increases with higher [Musicianship](/Musicianship), with stronger monsters being more likely to ignore provocation.
+The chance to provoke two monsters rises with [Musicianship](/musicianship), and stronger monsters are more likely to ignore it.
 
-Provocation has a `10` second cooldown if successful or a `5` second cooldown if unsuccessful.
+Provocation has a `10` second cooldown on success and a `5` second cooldown on failure.
 
-After `60` seconds, if a provoked target loses sight of the Bard or their target, provocation ends. Fleeing monsters run instead of fight even if provoked.
+After `60` seconds, provocation ends if a provoked target loses sight of the bard or its target. Fleeing monsters run instead of fighting, even when provoked.
 
-Monsters in the `Moonglow Zoo` cannot be provoked onto each other. However, monsters can be provoked onto the Bard herself. This makes the zoo an excellent location to train Provocation.
+## Manual Training
+Monsters in the Moonglow Zoo can't be provoked onto each other, but they can be provoked onto the bard herself. This makes the zoo an excellent place to train Provocation.
+
+## Macro Training
