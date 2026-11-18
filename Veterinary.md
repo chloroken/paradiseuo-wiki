@@ -2,14 +2,14 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-18T08:02:09.296Z
+date: 2026-11-18T08:20:40.890Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
 ---
 
 # Veterinary
-`Veterinary` represents the skill of healing creatures with [bandages](/Bandage). It does not affect healing from [Magery](/Magery). It's the [Animal Tamer's](/Animal_Taming) version of [Healing](/Healing).
+`Veterinary` represents the skill of healing creatures with [bandages](/Bandage). It's the [Animal Tamer's](/Animal_Taming) version of [Healing](/Healing).
 
 To heal a pet, use a `bandage`, target the pet, and stay in range until it resolves.
 
