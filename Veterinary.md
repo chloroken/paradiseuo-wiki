@@ -2,7 +2,7 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-18T08:20:40.890Z
+date: 2026-11-18T08:21:10.615Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
@@ -11,7 +11,7 @@ dateCreated: 2026-11-18T08:02:09.296Z
 # Veterinary
 `Veterinary` represents the skill of healing creatures with [bandages](/Bandage). It's the [Animal Tamer's](/Animal_Taming) version of [Healing](/Healing).
 
-To heal a pet, use a `bandage`, target the pet, and stay in range until it resolves.
+To heal a creature (usually a pet), use a `bandage` and stay in range until it resolves.
 
 ## Healing
 The chance for a bandage to heal is `(Veterinary + 10)%`, minus `2%` for each slip. A veterinarian at `90` or more never fails unless the bandage slipped.
