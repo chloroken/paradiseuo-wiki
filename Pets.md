@@ -2,7 +2,7 @@
 title: Pets
 description: 
 published: true
-date: 2026-11-18T16:25:06.827Z
+date: 2026-11-18T16:31:28.847Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -17,12 +17,6 @@ Most pets take up `1` follower slot, but strong pets (e.g., Drakes) take `2` slo
 
 ## Pet Training
 Pets level up skills as they use them just like players do, and they gain skill twice as quickly as players. Even if a pet was paralyzed during taming and it has the skill reduction penalty, its skills can recover and continue training to max. Pets can also train their [stats](/Stats) up to `120`. Using `Animal Lore` reveals a creature's stats and skills.
-
-## Training On Pets
-Players can attack their own pets to train combat skills, and heal them to train `Veterinary`.
-- A player's own pets appear **green** to them, and attacking them is never a criminal act.
-- Pets fight back when attacked. Train on a weak pet, since a strong one can kill its owner.
-- Players cannot attack other players' pets, and pets cannot attack other players' pets.
 
 ## Healing Pets
 Pets are healed with bandages using [Veterinary](/Veterinary). The range at which a pet can be bandaged grows with Veterinary skill:
@@ -121,6 +115,12 @@ Some pets have a `Pack Instinct`, and when controlling multiple pets with the sa
 | **Daemon** | Fiend, Imp |
 | **Feline** | Cat, Cougar, Hellcat, Panther, Snow Leopard |
 | **Ostard** | Desert Ostard, Forest Ostard, Frenzied Ostard |
+
+## Training On Pets
+Players can attack their own pets to train combat skills, and heal them to train `Veterinary`.
+- A player's own pets appear **green** to them, and attacking them is never a criminal act.
+- Pets fight back when attacked. Train on a weak pet, since a strong one can kill its owner.
+- Players cannot attack other players' pets, and pets cannot attack other players' pets.
 
 ## Notable Pets
 There are many creatures one can tame, but these are notable for having high damage, health, or `Magery`; or being a `mount`, a `pack instinct` animal, or a pet with `shiny` mechanics.
