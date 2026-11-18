@@ -2,7 +2,7 @@
 title: Pets
 description: 
 published: true
-date: 2026-11-18T16:41:54.863Z
+date: 2026-11-18T16:47:30.064Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -23,11 +23,11 @@ Pets are healed with bandages using [Veterinary](/Veterinary). The range at whic
 
 | Veterinary | Range |
 |:-:|:-:|
-| 0 – 24.9 | `1` tile |
-| 25 – 49.9 | `2` tiles |
-| 50 – 74.9 | `3` tiles |
-| 75 – 99.9 | `4` tiles |
-| 100 | `5` tiles |
+| 0 – 24.9 | `1 tile` |
+| 25 – 49.9 | `2 tiles` |
+| 50 – 74.9 | `3 tiles` |
+| 75 – 99.9 | `4 tiles` |
+| 100 | `5 tiles` |
 
 ## Controlling Pets
 Animal Tamers manipulate pets with commands like `all follow me` and `dragon kill`. Because Animal Tamers can control powerful monsters, farming enemies for loot is a breeze. Assuming, of course, that they're able to keep their pets alive (and control them).
@@ -57,12 +57,10 @@ This is compared to the pet's `Minimum Taming` skill (the skill needed to tame i
 
 | Weighted Skill | Chance to Obey |
 |:-|:-:|
-| `4.9`+ above Minimum Taming | `99%` |
+| >= `Minimum Taming + 4.9` | `99%` |
 | Equal to Minimum Taming | `70%` |
-| Each point above | `+6%` |
 | Each point below | `-14%` |
-| `3.6` to `5` below | `20%` |
-| More than `5` below | `0%` |
+| <= `Minimum Taming - 5` | `0%` |
 
 For example, with a pet that needs `90` to tame:
 - `100` Taming and `100` Lore: weighted `100`, `99%` chance.
@@ -77,9 +75,9 @@ See: [Stable](/Stable)
 ## Pack Instinct
 Some pets have a `Pack Instinct`, and when controlling multiple pets with the same instinct, they get a damage bonus. With two pets, they receive a `25%` bonus, with three, a `50%`, with four, a `75%` bonus, and with five, a `100%` bonus. This damage bonus only affects physical damage, not spells.
 
-- Only pets with the same owner count toward a pack. Summoned creatures with the same instinct count too.
+- Only pets with the same owner count toward a pack.
+- Summoned creatures with the same instinct count.
 - Pack members must be attacking the same target and standing within `1` tile of it.
-- The bonus only applies when pets attack monsters, never players.
 
 | Pack | Members |
 |:-:|--|
@@ -91,13 +89,13 @@ Some pets have a `Pack Instinct`, and when controlling multiple pets with the sa
 | **Ostard** | Desert Ostard, Forest Ostard, Frenzied Ostard |
 
 ## Training On Pets
-Players can attack their own pets to train combat skills, and heal them to train `Veterinary`.
-- A player's own pets appear **green** to them, and attacking them is never a criminal act.
-- Pets fight back when attacked. Train on a weak pet, since a strong one can kill its owner.
-- Players cannot attack other players' pets, and pets cannot attack other players' pets.
+Players can attack their own pets to train combat skills, and heal them to train [Veterinary](/Veterinary).
+- A player's own pets appear **green** to them; attacking them is never a criminal act.
+- Pets do not fight back when attacked.
+- Players and their pets cannot attack other players' pets.
 
 ## Notable Pets
-There are many creatures one can tame, but these are notable for having high damage, health, or `Magery`; or being a `mount`, a `pack instinct` animal, or a pet with `shiny` mechanics.
+There are many creatures one can tame, but these are notable for having high damage, health, or `Magery`; or being a `mount`, a `Pack Instinct` animal, or a pet with `shiny` mechanics.
 
 | Pet Type | Slots | Skill | Pack Instinct | Notes |
 |:-:|:-:|:-:|:-:|:-|
