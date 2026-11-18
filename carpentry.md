@@ -1,27 +1,22 @@
 ---
-title: Carpentry
+title: carpentry
 description: 
 published: true
-date: 2026-11-18T22:15:47.171Z
+date: 2026-11-18T22:45:33.707Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T06:34:26.911Z
 ---
 
 # Carpentry
-Carpenters use tools, like `saws` and `axes`, with `logs` and `boards`.
+Carpenters use tools, like saws and axes, with logs and boards.
 
-The items that Carpenters can make include furniture, containers, armor, weapons, and house add-on deeds. There are no colored woods here, just normal wood.
-
-## Training
-To train `Carpentry` collect boards and extra tools for when they break, then craft the highest-level items you can manage. Use the 'properties' button to the right of each item in the crafting gump to determine success rate with any given item.
-
-Expect to use many thousands of boards to grandmaster the skill.
+Carpenters can make furniture, containers, armor, weapons, and house add-on deeds. There are no colored woods on *Paradise*, just normal wood.
 
 ## Other
 
-| Item | Min Skill | Max Skill | Materials |
-|:-:|:-:|:-:|:-:|
+| Item | Minimum Skill | Maximum Skill | Materials |
+|:-|:-:|:-:|:-:|
 | Barrel Staves | 0 | 25 | 5 boards |
 | Barrel Lid | 11 | 36 | 4 boards |
 | Short Music Stand | 78.9 | 103.9 | 15 boards |
@@ -30,8 +25,8 @@ Expect to use many thousands of boards to grandmaster the skill.
 
 ## Furniture
 
-| Item | Min Skill | Max Skill | Materials |
-|:-:|:-:|:-:|:-:|
+| Item | Minimum Skill | Maximum Skill | Materials |
+|:-|:-:|:-:|:-:|
 | Foot Stool | 11 | 36 | 9 boards |
 | Stool | 11 | 36 | 9 boards |
 | Bamboo Chair | 21 | 46 | 13 boards |
@@ -47,10 +42,10 @@ Expect to use many thousands of boards to grandmaster the skill.
 | Yew Wood Table | 63.1 | 88.1 | 23 boards |
 
 ## Containers
-- **NOTE**: When a chest, box, or crate is crafted, if its creator has sufficient Tinkering skill, it will be created as a `Lockable Container` and come with a key. Higher Tinkering makes the lock harder to pick. See [Tinkering](/Tinkering) for more information.
+When a chest, box, or crate is crafted by a carpenter with enough Tinkering skill, it is created as a lockable container and comes with a key. Higher Tinkering makes the lock harder to pick. See [Tinkering](/tinkering).
 
-| Item | Min Skill | Max Skill | Materials |
-|:-:|:-:|:-:|:-|
+| Item | Minimum Skill | Maximum Skill | Materials |
+|:-|:-:|:-:|:-:|
 | Wooden Box | 21 | 46 | 10 boards |
 | Small Crate | 10 | 35 | 8 boards |
 | Medium Crate | 31 | 56 | 15 boards |
@@ -63,8 +58,8 @@ Expect to use many thousands of boards to grandmaster the skill.
 
 ## Weapons
 
-| Item | Min Skill | Max Skill | Materials |
-|:-:|:-:|:-:|:-:|
+| Item | Minimum Skill | Maximum Skill | Materials |
+|:-|:-:|:-:|:-:|
 | Shepherd's Crook | 78.9 | 103.9 | 7 boards |
 | Quarter Staff | 73.6 | 98.6 | 6 boards |
 | Gnarled Staff | 78.9 | 103.9 | 7 boards |
@@ -73,14 +68,14 @@ Expect to use many thousands of boards to grandmaster the skill.
 
 ## Armor
 
-| Item | Min Skill | Max Skill | Materials |
-|:-:|:-:|:-:|:-:|
+| Item | Minimum Skill | Maximum Skill | Materials |
+|:-|:-:|:-:|:-:|
 | Wooden Shield | 52.6 | 77.6 | 9 boards |
 
 ## Instruments
 
-| Item | Min Skill | Max Skill | Materials | Other Skills |
-|:-:|:-:|:-:|:-:|:-:|
+| Item | Minimum Skill | Maximum Skill | Materials | Other Skills |
+|:-|:-:|:-:|:-:|:-:|
 | Lap Harp | 63.1 | 88.1 | 20 boards, 10 cloth | Musicianship 45 – 50 |
 | Standing Harp | 78.9 | 103.9 | 35 boards, 15 cloth | Musicianship 45 – 50 |
 | Drums | 57.8 | 82.8 | 20 boards, 10 cloth | Musicianship 45 – 50 |
@@ -90,8 +85,8 @@ Expect to use many thousands of boards to grandmaster the skill.
 
 ## Miscellaneous
 
-| Item | Min Skill | Max Skill | Materials | Other Skills |
-|:-:|:-:|:-:|:-:|:-:|
+| Item | Minimum Skill | Maximum Skill | Materials | Other Skills |
+|:-|:-:|:-:|:-:|:-:|
 | Small Bed | 94.7 | 119.8 | 100 boards, 100 cloth | Tailoring 75 – 80 |
 | Large Bed | 94.7 | 119.8 | 150 boards, 150 cloth | Tailoring 75 – 80 |
 | Dart Board | 15.7 | 40.7 | 5 boards | — |
@@ -101,8 +96,8 @@ Expect to use many thousands of boards to grandmaster the skill.
 
 ## Tailoring and Cooking
 
-| Item | Min Skill | Max Skill | Materials | Other Skills |
-|:-:|:-:|:-:|:-:|:-:|
+| Item | Minimum Skill | Maximum Skill | Materials | Other Skills |
+|:-|:-:|:-:|:-:|:-:|
 | Dress Form | 63.1 | 88.1 | 25 boards, 10 cloth | Tailoring 65 – 70 |
 | Spinning Wheel | 73.6 | 98.6 | 75 boards, 25 cloth | Tailoring 65 – 70 |
 | Loom | 84.2 | 109.2 | 85 boards, 25 cloth | Tailoring 65 – 70 |
@@ -112,16 +107,22 @@ Expect to use many thousands of boards to grandmaster the skill.
 
 ## Anvils and Forges
 
-| Item | Min Skill | Max Skill | Materials | Other Skills |
-|:-:|:-:|:-:|:-:|:-:|
+| Item | Minimum Skill | Maximum Skill | Materials | Other Skills |
+|:-|:-:|:-:|:-:|:-:|
 | Small Forge | 73.6 | 98.6 | 5 boards, 75 iron ingots | Blacksmithing 75 – 80 |
 | Large Forge | 78.9 | 103.9 | 5 boards, 100 iron ingots | Blacksmithing 80 – 85 |
 | Anvil | 73.6 | 98.6 | 5 boards, 150 iron ingots | Blacksmithing 75 – 80 |
 
-## Training
+## Training Equipment
 
-| Item | Min Skill | Max Skill | Materials | Other Skills |
-|:-:|:-:|:-:|:-:|:-:|
+| Item | Minimum Skill | Maximum Skill | Materials | Other Skills |
+|:-|:-:|:-:|:-:|:-:|
 | Training Dummy | 68.4 | 93.4 | 55 boards, 60 cloth | Tailoring 50 – 55 |
 | Pickpocket Dip | 73.6 | 98.6 | 65 boards, 60 cloth | Tailoring 50 – 55 |
 
+## Manual Training
+To train Carpentry, collect boards and spare tools for when they break, then craft the highest-level items possible. The `Properties` button beside each item in the crafting gump shows the chance of success.
+
+Expect to use many thousands of boards to reach grandmaster.
+
+## Macro Training
