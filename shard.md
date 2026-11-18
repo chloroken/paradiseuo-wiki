@@ -2,53 +2,31 @@
 title: Shard Info
 description: 
 published: true
-date: 2026-11-18T23:08:08.479Z
+date: 2026-11-18T23:50:51.674Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:42:22.591Z
 ---
 
 # Shard Info
-*Paradise* aims for relaxing, nostalgic, slow, and interesting gameplay. These are the shard's features and rules.
+*Paradise* is a private Ultima Online shard built on The Second Age (T2A), made for relaxing, nostalgic, and slow-paced PvM. For everything that sets it apart from T2A, see [Novelties](/novelties). Smaller changes are listed in the [patch notes](/patch_notes).
 
-## Novelties
-For everything that sets *Paradise* apart from T2A, see [Novelties](/novelties).
+## The Basics
+- Players can't attack each other. Duel arenas and guild wars are the only PvP.
+- Staff are available to help players who run into problems.
+- Macroing is allowed, but macros that collect items or profit must be attended.
+- New players are protected by the Young player system.
 
-## World
-- PvM and geography are inspired by T2A.
-- PvM etiquette is enforced, with no bullies.
-- Mark, Recall, and Gate Travel are disabled in dungeons and T2A.
-
-## PvP
-- World PvP is disabled.
-- Stealing from players is disabled, but items dropped on the ground can still be taken.
-- Duel arenas are enabled.
-- Order/Chaos (guild PvP) is enabled.
-
-## Skills
-- Skills are mostly T2A, but not exclusively.
-- See [Skills](/skills) for each skill.
-
-## Limits
+## Accounts
 - **`2` accounts are allowed per person.**
-- Each account can have `5` characters, for `10` in total.
-- Each account can own `1` house, for `2` in total.
-- The Young player system is enabled.
+- Each account can have `5` characters and `1` house.
 
 ## Decay
-- Boats decay after `24` hours, to prevent boat blocking.
-- Houses decay after `90` days, to ease refresh pressure.
-- The world is fully wiped every year, to prevent wealth inequality.
+- Houses decay after `90` days without a refresh, and everything inside is destroyed.
+- Boats sink `24` hours after their last refresh.
+- The world is fully wiped once a year.
 
-## Macros
-- Macroing is allowed, so feel free to experiment.
-- Unattended macros may be used for skill training.
-- Macros that collect items or profit must be attended.
-
-## Admin
+## Conduct
 - **There is zero tolerance for bigotry and disruptive behavior.**
-- Admins and GMs must never take advantage.
-
-## Development
-- Design is progressive, and change is fundamentally good.
-- Development is closed source, with public patch notes.
+- PvM etiquette is enforced, and bullying isn't tolerated.
+- Instant, permanent ban for any staff member that abuses their position.
