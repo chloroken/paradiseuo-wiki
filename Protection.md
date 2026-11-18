@@ -2,7 +2,7 @@
 title: Protection
 description: 
 published: true
-date: 2026-11-15T03:56:41.624Z
+date: 2026-11-18T22:14:44.834Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T03:23:47.390Z
