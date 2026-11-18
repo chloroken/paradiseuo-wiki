@@ -1,0 +1,103 @@
+---
+title: Style Guide
+description: 
+published: true
+date: 2026-11-18T22:04:19.582Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-18T22:04:19.582Z
+---
+
+---
+title: Style Guide
+description: 
+published: true
+date: 2026-11-18T00:00:00.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-18T00:00:00.000Z
+---
+
+# Style Guide
+Every page on the *Paradise* wiki follows these rules, so the wiki reads as one consistent document.
+
+## Page Structure
+- Each page has one `#` heading, matching the page title.
+- A short intro paragraph follows the title, before the first section.
+- Sections use `##` and subsections use `###`. Nothing deeper than `###`.
+- Sections are separated by headings only, never by horizontal rules.
+
+## Headings
+Headings use Title Case, with short words (a, an, and, as, at, by, for, in, of, on, or, the, to) in lowercase unless they come first.
+
+- Correct: Training on Pets
+- Incorrect: Training On Pets
+
+## Backticks
+Backticks are used for exactly three things:
+
+1. **Game values:** any number set by the shard's rules, which could change if the code changed. This includes percentages, durations, skill amounts, and counts.
+   - Correct: a `10` second cooldown, `3` spawns per day, a `50%` chance
+   - Incorrect: 24 hours in a day, two keys
+1. **Formulas:** `(4 * Animal Taming + Animal Lore) / 5`
+1. **Exact input:** anything typed or entered exactly as written, including speech commands, keys, and values entered into a client or macro.
+   - Examples: `all follow me`, `claim <name>`, `Alt + Click`, `*pet*`
+
+Commands are never wrapped in quotation marks inside backticks.
+
+Backticks are never used inside tables, with one exception: exact input, such as a command table, keeps its backticks.
+
+## Bold
+Bold is only for critical warnings, such as **Pet death is permanent.** It is never used for names, places, or general emphasis.
+
+## Italics
+Italics are used for:
+- The shard name: *Paradise*
+- Text shown in game exactly as worded: the pet *looks happier*
+
+## Capitalisation
+- Proper names are capitalized: skills (Animal Lore), spells (Magic Reflection), places (Serpent's Hold), NPCs (Grizelda), and named mechanics (Pack Instinct, Loyalty).
+- Ordinary creatures and items are lowercase: dragons, bandages, a treasure map.
+
+## Links
+- Page paths are all lowercase, with words separated by underscores: `/animal_taming`, `/treasure_map`. The page title keeps its normal capitalisation (Animal Taming); only the path is lowercase.
+- Links always use a relative path: `/pets`, never `https://paradiseuo.com/pets`.
+- Links to a section add an anchor: `/pets#obeying-commands`.
+- Anchors must be lowercase, with spaces converted to hyphens and punctuation removed, or they won't work. "Obeying Commands" becomes `#obeying-commands`. `%20` does not work.
+- Only the first mention of a page is linked on any given page.
+- Cross-references are written as: See [Stable](/stable).
+
+## Notes and Warnings
+The wiki doesn't use note boxes, callouts, or block quotes. Important information goes in the text, with bold for critical warnings.
+
+## Lists
+- Unordered lists use `-`.
+- Numbered lists are only used when order or rank matters, and every item is written as `1.` so Wiki.js numbers them automatically.
+- List items that are full sentences end with a period. Fragments have no period.
+
+## Tables
+- The first column is left-aligned, and all other columns are centred: `|:-|:-:|:-:|`
+- No backticks inside tables, except for exact input.
+- When every row shares a unit, it goes in the header: Delay (s), Range (tiles).
+- Ranges use an en dash with spaces: 60 – 74.9
+- Thresholds are written as: Below 40, 40 – 99, 100+
+
+## Numbers
+- Decimals only where they matter: 59.1, 100, 0 (not 100.0 or 0.00).
+- Thousands use commas: 32,000
+- Ranges in prose use "to": lasts 10 to 120 seconds.
+
+## Formulas
+Formulas use full skill and stat names, never abbreviations.
+- Correct: `(Veterinary + 10)%`
+- Incorrect: `(vet + 10)%`
+
+## Writing
+- British spelling: armour, colour, grey, centre, -ise endings (capitalise, organise).
+- In-game names keep the game's own spelling, even when American: the Reactive Armor spell, the Virtue of Honor.
+- The Oxford comma is always used: Animal Taming, Animal Lore, and Veterinary.
+- Third person, present tense: players, a tamer. Not "you".
+- No emoji.
+
+## Paradise Changes
+Features that differ from standard Ultima Online are marked with ^𐠒^ after their name, on any page where they appear. Every marked feature is also listed on the [Novelties](/novelties) page.
