@@ -2,7 +2,7 @@
 title: Houses
 description: 
 published: true
-date: 2026-11-17T22:29:06.451Z
+date: 2026-11-18T22:16:19.810Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T21:12:43.985Z
