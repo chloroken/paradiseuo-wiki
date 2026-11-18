@@ -1,8 +1,8 @@
 ---
-title: Mounts
+title: Mount
 description: 
 published: true
-date: 2026-11-17T13:05:14.755Z
+date: 2026-11-18T22:11:13.760Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-12T18:21:51.910Z
