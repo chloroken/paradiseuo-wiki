@@ -2,7 +2,7 @@
 title: Skeleton Key
 description: 
 published: true
-date: 2026-11-15T21:00:28.802Z
+date: 2026-11-18T22:14:55.709Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-10T01:06:03.940Z
