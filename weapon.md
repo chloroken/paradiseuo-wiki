@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-18T23:44:13.520Z
+date: 2026-11-18T23:54:31.813Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -49,7 +49,7 @@ Fighting with empty hands allows two moves. Neither needs a button: when a punch
 | Stun | Everything else | 80 Wrestling, 80 Anatomy | Freezes the target in place for 4 seconds |
 
 - Against an armed human, a wrestler without `80` Arms Lore stuns instead.
-- Each attempt costs `15` stamina, whether it succeeds or fails.
+- The moves cost no stamina.
 - The chance to succeed is `(Wrestling + Arms Lore) / 400` for Disarm, and `(Wrestling + Anatomy) / 400` for Stun: `40%` at `80` in both skills, and `50%` at `100`.
 - After any attempt, neither move can be used again for `10` seconds.
 
