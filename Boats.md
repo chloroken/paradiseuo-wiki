@@ -1,8 +1,8 @@
 ---
-title: Boats
+title: Boat
 description: 
 published: true
-date: 2026-11-17T22:49:32.468Z
+date: 2026-11-18T22:11:07.402Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T22:49:31.290Z
