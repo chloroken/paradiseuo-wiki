@@ -2,14 +2,14 @@
 title: Boat
 description: 
 published: true
-date: 2026-11-18T22:45:16.211Z
+date: 2026-11-18T22:54:25.266Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T22:49:31.290Z
 ---
 
 # Boat
-Boats allow travel by sea and river. They are bought from shipwrights near docks. **Boats sink `24` hours after its last refresh**, which is unusual for Ultima Online.
+Boats allow travel by sea and river. They are bought from shipwrights near docks. **Boats sink `24` hours after their last refresh**, which is unusual for Ultima Online.
 
 ## Ships
 | Ship | Price | Hold (stones) |
