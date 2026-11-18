@@ -1,21 +1,21 @@
 ---
-title: Classes
+title: classes
 description: 
 published: true
-date: 2026-11-18T22:08:07.006Z
+date: 2026-11-18T22:46:15.145Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
 ---
 
 # Classes
-The era of Ultima Online that *Paradise* targets doesn't have discrete classes (aka *professions*) in the traditional sense. Instead, players choose [stats](/Stats) and [skills](/Skills) to create a custom class which could be as traditional or unorthodox as desired.
+The era of Ultima Online that *Paradise* targets doesn't have classes (also known as professions) in the traditional sense. Instead, players choose [stats](/stats) and [skills](/skills) to create a custom class, as traditional or unorthodox as they like.
 
-- During character creation, there is a `Profession Screen`, but the screen is ignored and `Advanced` should always be selected.
+During character creation there is a profession screen, but it should be ignored, and `Advanced` should always be selected.
 
-Although there are no official classes, to play something like a Warrior one would simply spend the `225` stat points and `700` skill points on things like strength, dexterity, weaponry skills, defensive skills, and healing skills.
+Although there are no official classes, a warrior, for example, would simply spend the `225` stat points and `700` skill points on things like Strength, Dexterity, weapon skills, defensive skills, and healing skills.
 
-## Psuedoclasses
+## Pseudoclasses
 - Fighter
 - Paladin
 - Tank Mage
@@ -27,94 +27,98 @@ Although there are no official classes, to play something like a Warrior one wou
 - Stealth Archer
 - Crafter
 
-<hr></hr>
-<hr></hr>
-<hr></hr>
-<hr></hr>
-<hr></hr>
+## Builds
 
-### Dexxer (100 str, 100 dex)
-Use physical weapons to overwhelm opponents.
-1. Swordsmanship/Mace Fighting/Fencing
-1. Parrying
-1. Tactics
-1. Anatomy
-1. Healing
-1. Resisting Spells
-1. Archery
-### Med Warrior (100 str, 85 dex, 40 int)
-Like a Dexxer, but with healing and travel power.
-1. Swordsmanship/Mace Fighting/Fencing
-1. Tactics
-1. Anatomy
-1. Healing
-1. Resisting Spells
-1. Parrying
-1. Magery / Meditation (split)
-### Hally Mage (100 str, 100 int)
+### Dexxer (100 Str, 100 Dex)
+Uses physical weapons to overwhelm opponents.
+- Swordsmanship, Mace Fighting, or Fencing
+- Parrying
+- Tactics
+- Anatomy
+- Healing
+- Resisting Spells
+- Archery
+
+### Med Warrior (100 Str, 85 Dex, 40 Int)
+Like a dexxer, but with healing and travel power.
+- Swordsmanship, Mace Fighting, or Fencing
+- Tactics
+- Anatomy
+- Healing
+- Resisting Spells
+- Parrying
+- Magery and Meditation (split)
+
+### Hally Mage (100 Str, 100 Int)
 Casts spells between massive halberd hits.
-1. Swordsmanship
-2. Wrestling
-3. Tactics
-4. Magery
-5. Meditation
-6. Evaluating Intelligence
-7. Resisting Spells
-### Healer (100 str, 100 int)
-1. Magery
-1. Meditation
-1. Wrestling
-1. Anatomy
-1. Healing
-1. Musicianship
-1. Peacemaking
-### Treasure Mapper (100 str, 100 int)
-Farm monsters & complete treasure maps.
-1. Magery
-2. Meditation
-3. Cartography
-4. Lockpicking
-5. Hiding/Resisting Spells/Wrestling/Mining
-6. Provocation
-7. Musicianship
-### Barcher (100 str, 100 dex)
-Use weapons with Discordance to defeat foes between Provocations.
-1. Archery
-1. Anatomy
-1. Tactics
-1. Healing
-1. Muscianship
-1. Provocation
-1. Discordance
-### Mage Tamer (100 str, 100 int)
-Use magic and pets to fight.
-1. Animal Lore
-2. Animal Taming
-3. Resisting Spells
-4. Magery
-5. Meditation
-6. Evaluating Intelligence
-7. Wrestling
-### Bard Tamer (100 str, 100 dex)
-Fight with pets, but without magic.
-1. Animal Lore
-1. Animal Taming
-1. Veterinary
-1. Hiding
-1. Musicianship
-1. Provocation
-1. Peacemaking
+- Swordsmanship
+- Wrestling
+- Tactics
+- Magery
+- Meditation
+- Evaluating Intelligence
+- Resisting Spells
+
+### Healer (100 Str, 100 Int)
+- Magery
+- Meditation
+- Wrestling
+- Anatomy
+- Healing
+- Musicianship
+- Peacemaking
+
+### Treasure Mapper (100 Str, 100 Int)
+Farms monsters and completes treasure maps.
+- Magery
+- Meditation
+- Cartography
+- Lockpicking
+- Hiding, Resisting Spells, Wrestling, or Mining
+- Provocation
+- Musicianship
+
+### Barcher (100 Str, 100 Dex)
+Uses weapons with Discordance to defeat foes between Provocations.
+- Archery
+- Anatomy
+- Tactics
+- Healing
+- Musicianship
+- Provocation
+- Discordance
+
+### Mage Tamer (100 Str, 100 Int)
+Uses magic and pets to fight.
+- Animal Lore
+- Animal Taming
+- Resisting Spells
+- Magery
+- Meditation
+- Evaluating Intelligence
+- Wrestling
+
+### Bard Tamer (100 Str, 100 Dex)
+Fights with pets, but without magic.
+- Animal Lore
+- Animal Taming
+- Veterinary
+- Hiding
+- Musicianship
+- Provocation
+- Peacemaking
+
 ### Crafters
-Crafting comes in many shapes and sizes. Whether the output is worth the effort is entirely up to your personal tastes and the shard's economy.
-1. Blacksmithing
-2. Fletching
-3. Carpentry
-4. Mining
-6. Tailoring
-7. Tinkering
-8. Alchemy
-9. Arms Lore
-10. Item Identification
-11. Lumberjacking
-12. Poisoning
-13. Inscription
+Crafting comes in many shapes and sizes. Whether the output is worth the effort depends entirely on personal taste and the shard's economy.
+- Blacksmithing
+- Fletching
+- Carpentry
+- Mining
+- Tailoring
+- Tinkering
+- Alchemy
+- Arms Lore
+- Item Identification
+- Lumberjacking
+- Poisoning
+- Inscription
