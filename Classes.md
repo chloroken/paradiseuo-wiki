@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2026-11-18T08:42:54.090Z
+date: 2026-11-18T22:08:07.006Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
