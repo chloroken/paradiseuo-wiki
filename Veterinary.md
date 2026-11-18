@@ -2,7 +2,7 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-18T08:42:07.438Z
+date: 2026-11-18T09:05:27.799Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
@@ -48,7 +48,7 @@ On *Paradise*, veterinarians can bandage from further away. For every `25` point
 | 100 | 5 tiles |
 
 ## Bandage Speed
-The time a bandage takes depends on the healer's `Dexterity` with a notable breakpoint.
+The time a bandage takes depends on the healer's `Dexterity` with a notable breakpoint at `40`.
 
 | Dexterity | Delay |
 |:-:|:-:|
