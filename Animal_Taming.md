@@ -2,14 +2,14 @@
 title: Animal Taming
 description: 
 published: true
-date: 2026-11-18T16:30:44.775Z
+date: 2026-11-18T16:48:52.138Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T00:12:55.938Z
 ---
 
 # Animal Taming
-Animal Tamers can convert animals (and some monsters) to followers known as [Pets](/Pets).
+Animal Tamers can convert animals (and some monsters) to followers known as [pets](/Pets).
 
 ## Taming Penalty
 Taming a creature reduces its [skills](/Skills) (e.g., `Magery`) by `10%`. If it was paralyzed during the tick it was tamed, its skills are reduced by `14%` instead. Pets naturally train skills, so this penalty can be recuperated. See: [pet training](https://paradiseuo.com/Pets#pet-training) for more information.
