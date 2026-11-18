@@ -2,7 +2,7 @@
 title: Skills
 description: 
 published: true
-date: 2026-11-17T10:24:52.416Z
+date: 2026-11-18T08:02:33.139Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -62,7 +62,7 @@ Swordsmanship
 Tailoring
 Tinker
 Tracking
-Veterinary^𐠒^
+[Veterinary](/Veterinary)^𐠒^
 Wrestling
 
 `* Stealing from Players is disabled`
