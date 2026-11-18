@@ -2,7 +2,7 @@
 title: Spells
 description: 
 published: true
-date: 2026-11-15T03:58:46.938Z
+date: 2026-11-18T22:14:51.400Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T03:32:16.076Z
