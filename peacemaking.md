@@ -1,19 +1,21 @@
 ---
-title: Peacemaking
+title: peacemaking
 description: 
 published: true
-date: 2026-11-18T22:12:51.582Z
+date: 2026-11-18T22:48:29.026Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-10T02:45:03.051Z
 ---
 
 # Peacemaking
-A Bard with a musical instrument can use the `Peacemaking` skill, causing a non-player target to become `Pacified` and stop attacking for `10` to `120` seconds depending on the Bard's skill and the strength of the enemy.
+A bard with a musical instrument can use Peacemaking to Pacify a non-player target, stopping it from attacking for `10` to `120` seconds depending on the bard's skill and the strength of the target.
 
-If the Bard targets herself, all nearby targets will become `Pacified` for `1` second.
+If the bard targets herself, all nearby targets are Pacified for `1` second.
 
 ## Pacify
-A target that is `Pacified` won't fight back.
+A Pacified target won't fight back. Each time it takes damage, there is a `0.1% * Missing Hit Points` chance for Pacify to break.
 
-Upon taking damage, there is a `0.1% * missingHp` chance for `Pacified` to break.
+## Manual Training
+
+## Macro Training
