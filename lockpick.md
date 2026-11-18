@@ -1,16 +1,14 @@
 ---
-title: Lockpick
+title: lockpick
 description: 
 published: true
-date: 2026-11-18T22:15:27.242Z
+date: 2026-11-18T22:47:21.052Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-10T01:52:26.695Z
 ---
 
 # Lockpick
-A `lockpick` is used by [Lockpickers](Lockpicking) to open  locked containers and doors.
+A lockpick is used with [Lockpicking](/lockpicking) to open locked containers and doors. A failed attempt has a `25%` chance to break the lockpick.
 
-On failure, `lockpicks` have a `25%` chance to break.
-
-See also: [Skeleton Key](Skeleton_Key)
+See [Skeleton Key](/skeleton_key).
