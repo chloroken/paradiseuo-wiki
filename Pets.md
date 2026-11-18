@@ -2,7 +2,7 @@
 title: Pets
 description: 
 published: true
-date: 2026-11-18T16:38:55.564Z
+date: 2026-11-18T16:39:22.258Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -69,7 +69,7 @@ For example, with a pet that needs `90` to tame:
 - `90` Taming and `100` Lore: weighted `92`, `82%` chance.
 - `90` Taming and `50` Lore: weighted `82`, the pet will never obey.
 
-Every point of loyalty below `100` subtracts `1%` from the chance to obey. Since pets lose `10` loyalty an hour, an unfed pet loses `10%` obedience every hour. A well-fed pet is a well-behaved pet.
+Every point of loyalty below `100` subtracts `1%` from the chance to obey. Since pets lose `10` loyalty an hour, an unfed pet loses `10%` obedience every hour. Thus regular feeding is crucial for pet control.
 
 ## Stables
 Animal trainers keep pets safe in their stables. Speak these commands near an animal trainer:
