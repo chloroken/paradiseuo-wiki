@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2026-11-16T08:03:02.855Z
+date: 2026-11-18T08:42:54.090Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -16,15 +16,15 @@ The era of Ultima Online that *Paradise* targets doesn't have discrete classes (
 Although there are no official classes, to play something like a Warrior one would simply spend the `225` stat points and `700` skill points on things like strength, dexterity, weaponry skills, defensive skills, and healing skills.
 
 ## Psuedoclasses
-- Fighter (dexxer)
-- Paladin (med warrior)
+- Fighter
+- Paladin
 - Tank Mage
 - Hally Mage
 - Pure Mage
 - Mapper
 - Tamer Mage
 - Tamer Bard
-- Archer (ambusher)
+- Stealth Archer
 - Crafter
 
 <hr></hr>
