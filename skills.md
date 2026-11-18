@@ -1,79 +1,83 @@
 ---
-title: Skills
+title: skills
 description: 
 published: true
-date: 2026-11-18T22:09:26.738Z
+date: 2026-11-18T22:50:06.468Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
 ---
 
 # Skills
-A character may have up to `700` skill points. Common [class builds](/Classes) aim for powerful synergies. Some skills on *Paradise* are disabled, and others are almost useless. Such is Ultima Online, full of flavor.
+A character can have up to `700` skill points. Common [class builds](/classes) aim for powerful synergies. Some skills are disabled on *Paradise*, and others are almost useless. Such is Ultima Online, full of flavor.
 
-None of the information in these articles is guesswork, they're all tailor-written for *Paradise*. As alpha testing progresses and the code for these skills becomes better-understood, these articles will be written and fleshed out.
+None of the information in these articles is guesswork; every article is written specifically for *Paradise*. As alpha testing continues and the code behind each skill is better understood, more articles will be written and expanded.
+
 ## Notable Skills
-Most characters take at least one of these skills, regardless of build.
-1. `Magery` - Damage, healing, utility, and supreme travel options.
-1. `Animal Taming` - Controlling an army of monsters is.. powerful.
-1. `Provocation` - A skill that gets better against stronger targets.
-1. `Tactics` - Wildly improves physical damage with weapons.
-## Enabled Skills
-Alchemy
-Anatomy
-Animal Lore
-[Animal Taming](/Animal_Taming)
-Archery^𐠒^
-Arms Lore
-Begging
-Blacksmithing
-Camping
-[Carpentry](/Carpentry)
-[Cartography](/Cartography)
-Cooking
-Detecting Hidden
-[Discordance](/Discordance)
-Evaluating Intelligence
-Fencing
-Fishing
-Fletching
-Forensic Evaluation
-Healing
-Herding
-Hiding
-Inscription
-[Lockpicking](/Lockpicking)
-Lumberjacking
-Mace Fighting
-Magery
-Meditation
-Mining
-Parry
-[Peacemaking](/Peacemaking)
-Poisoning
-[Provocation](/Provocation)
-Remove Trap
-[Resisting Spells](/Resisting_Spells)
-Snooping
-Spirit Speak
-Stealing*
-Stealth
-Swordsmanship
-Tailoring
-Tinker
-Tracking
-[Veterinary](/Veterinary)^𐠒^
-Wrestling
+Most characters take at least one of these skills, whatever their build.
+- Magery: damage, healing, utility, and the best travel options
+- Animal Taming: commanding an army of monsters is powerful
+- Provocation: a skill that gets better against stronger targets
+- Tactics: greatly improves physical damage with weapons
 
-`* Stealing from Players is disabled`
-`𐠒 Has a Paradise modification`
+## Enabled Skills
+- Alchemy
+- Anatomy
+- Animal Lore
+- [Animal Taming](/animal_taming)
+- Archery^𐠒^
+- Arms Lore
+- Begging
+- Blacksmithing
+- Camping
+- [Carpentry](/carpentry)
+- [Cartography](/cartography)
+- Cooking
+- Detecting Hidden
+- [Discordance](/discordance)
+- Evaluating Intelligence
+- Fencing
+- Fishing
+- Fletching
+- Forensic Evaluation
+- Healing
+- Herding
+- Hiding
+- Inscription
+- [Lockpicking](/lockpicking)
+- Lumberjacking
+- Mace Fighting
+- Magery
+- Meditation
+- Mining
+- Parry
+- [Peacemaking](/peacemaking)
+- Poisoning
+- [Provocation](/provocation)
+- Remove Trap
+- [Resisting Spells](/resisting_spells)
+- Snooping
+- Spirit Speak
+- Stealing^*^
+- Stealth
+- Swordsmanship
+- Tailoring
+- Tinker
+- Tracking
+- [Veterinary](/veterinary)^𐠒^
+- Wrestling
+
+^*^ Stealing from players is disabled.
+
+^𐠒^ Has a *Paradise* change. See [Novelties](/novelties).
+
 ## Disabled Skills
-Bushido
-Chivalry
-Focus
-Imbuing
-Mysticism
-Necromancy
-Ninjitsu
-Spellweaving
-Throwing
+- Bushido
+- Chivalry
+- Focus
+- Imbuing
+- Mysticism
+- Necromancy
+- Ninjitsu
+- Spellweaving
+- Throwing
