@@ -2,13 +2,13 @@
 title: Boat
 description: 
 published: true
-date: 2026-11-18T22:11:07.402Z
+date: 2026-11-18T22:11:36.167Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T22:49:31.290Z
 ---
 
-# Boats
+# Boat
 Boats allow travel by sea and river. They are purchased from `Shipwrights` found near docks. A boat on *Paradise* sinks **24 hours** after it was last refreshed, which is unusual for UO.
 
 ## Ships
