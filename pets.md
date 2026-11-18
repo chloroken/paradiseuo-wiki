@@ -1,14 +1,14 @@
 ---
-title: Pets
+title: pets
 description: 
 published: true
-date: 2026-11-18T22:06:24.326Z
+date: 2026-11-18T22:18:38.991Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
 ---
 
-# Pets
+# Pet
 Pets are a type of follower. [Mounts](/Mounts) are pets. [Animal Tamers](/Animal_Taming) specialize in capturing and utilizing pets.
 
 Most pets take up `1` follower slot, but strong pets (e.g., Drakes) take `2` slots and the most powerful pets (e.g., Dragons) take `3` slots. Follower slots are not utilized by pets stored in a [stable](#stables).
