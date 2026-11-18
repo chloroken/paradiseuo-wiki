@@ -2,13 +2,13 @@
 title: Houses
 description: 
 published: true
-date: 2026-11-18T22:16:19.810Z
+date: 2026-11-18T22:16:25.934Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T21:12:43.985Z
 ---
 
-# Houses
+# House
 Houses can be placed in the world with a `house deed`, purchasable from `Architect` NPCs in carpentry shops. Houses decay after `90` days, with **everything inside being destroyed**, which is not normal UO behavior. House decay is refreshed when a door is opened or the front sign interacted with.
 
 For friends, co-owners, and the owner, logging out inside of a house is instant, like an [inn](/Inn). Monsters cannot enter houses unless tamed. Houses can install `add-ons` created from various crafting [skills](/Skills). Items in a house can be positionally-manipulated with the `Interior Decorator` item, also purchasable from `Architects` for `10,001` gold. A `Player-Owned Vendor` may be set up in a house to sell goods, a deed for these vendors may be purchased from a `Banker`. A house may have a `Trash Barrel` which deletes items after `3` minutes. Co-owners of a house may install a personal `Strongbox` to store their items without infringing on the owner's secure slots.
