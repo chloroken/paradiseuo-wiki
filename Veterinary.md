@@ -2,7 +2,7 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-18T08:37:02.387Z
+date: 2026-11-18T08:39:19.973Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
@@ -75,7 +75,7 @@ Thus, a veterinarian at `100` skill always cures any poison. Each time the banda
 Players can attack their own pets to train weapon skills, then bandage them to train `Veterinary`. See [Pets](/Pets) for details.
 
 ## Macro Training
-Create a TazUO Assistant macro with a `Journal Trigger` set to `*pet*`:
+Get a hearty pet, several thousand bandages, and create a `TazUO Assistant` macro. Bind it to a key and set the `Journal Trigger` to `*pet*` and add the following actions.
 
 | Action | Value |
 |:-|:-:|
@@ -85,4 +85,4 @@ Create a TazUO Assistant macro with a `Journal Trigger` set to `*pet*`:
 | **Say** | `*pet*` |
 | **Attack Last** | |
 
-Proceed to punch your pet and type `*pet*` to start the macro. Have lots of bandages in your inventory. Adjust the delay according to the `dexterity` chart in [bandage speed](/Veterinary#bandage%20speed).
+Proceed to punch your pet and type `*pet*` to start the macro. Stop the macro with the keybind. Adjust the delay according to the `dexterity` chart in [bandage speed](/Veterinary#bandage%20speed).
