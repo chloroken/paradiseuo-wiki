@@ -2,7 +2,7 @@
 title: Pets
 description: 
 published: true
-date: 2026-11-18T16:47:30.064Z
+date: 2026-11-18T21:53:18.100Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -46,7 +46,7 @@ Drop food on a pet to feed it. Only its favorite food works, which Animal Lore r
 
 Feeding a stack is more reliable than feeding one piece. A stack of `20` will almost always fill a pet back to full. Note that there is no limit to what a pet will eat, so don't drop more than necessary or it will be wasted.
 
-Food also restores stamina: `15` per piece, minus `50`, which means that stack of `4` or more is required to restore any stamina.
+Food also restores stamina: `15` per piece, minus `50`, which means a stack of `4` or more is required to restore any stamina.
 
 ## Obeying Commands
 Pets don't always obey. Every command has a chance to fail, based on the owner's skills, the pet's difficulty, and its loyalty. Animal Taming matters four times as much as Animal Lore. The two combine into a weighted skill:
@@ -59,8 +59,7 @@ This is compared to the pet's `Minimum Taming` skill (the skill needed to tame i
 |:-|:-:|
 | >= `Minimum Taming + 4.9` | `99%` |
 | Equal to Minimum Taming | `70%` |
-| Each point below | `-14%` |
-| <= `Minimum Taming - 5` | `0%` |
+| < `Minimum Taming - 5` | `0%` |
 
 For example, with a pet that needs `90` to tame:
 - `100` Taming and `100` Lore: weighted `100`, `99%` chance.
