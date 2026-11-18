@@ -2,16 +2,22 @@
 title: House
 description: 
 published: true
-date: 2026-11-18T22:19:36.101Z
+date: 2026-11-18T22:47:05.480Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T21:12:43.985Z
 ---
 
 # House
-Houses can be placed in the world with a `house deed`, purchasable from `Architect` NPCs in carpentry shops. Houses decay after `90` days, with **everything inside being destroyed**, which is not normal UO behavior. House decay is refreshed when a door is opened or the front sign interacted with.
+Houses are placed in the world with a house deed, bought from architects in carpentry shops. **Houses decay after `90` days, and everything inside is destroyed.** This is not normal Ultima Online behavior. Opening a door or using the front sign refreshes the decay timer.
 
-For friends, co-owners, and the owner, logging out inside of a house is instant, like an [inn](/Inn). Monsters cannot enter houses unless tamed. Houses can install `add-ons` created from various crafting [skills](/Skills). Items in a house can be positionally-manipulated with the `Interior Decorator` item, also purchasable from `Architects` for `10,001` gold. A `Player-Owned Vendor` may be set up in a house to sell goods, a deed for these vendors may be purchased from a `Banker`. A house may have a `Trash Barrel` which deletes items after `3` minutes. Co-owners of a house may install a personal `Strongbox` to store their items without infringing on the owner's secure slots.
+The owner, co-owners, and friends of a house log out instantly inside it, like at an [inn](/inn). Monsters can't enter houses unless tamed.
+
+- Houses can hold add-ons made with various crafting [skills](/skills).
+- Items in a house can be moved and adjusted with an interior decorator, also sold by architects for `10,001` gold.
+- A player vendor can be set up in a house to sell goods. Its deed is sold by bankers.
+- A house can have a trash barrel, which deletes items after `3` minutes.
+- Co-owners can place a personal strongbox to store their items without using up the owner's secure slots.
 
 ## Commands
 | Command | Permission |
@@ -28,9 +34,8 @@ For friends, co-owners, and the owner, logging out inside of a house is instant,
 | `I wish to destroy my strongbox` | Co-owner only |
 
 ## Small Homes
-
 | House | Size | Floors | Price | Lockdowns | Secures |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-|:-:|:-:|:-:|:-:|:-:|
 | Stone and Plaster House | 7 × 7 | 1 | 43,800 | 425 | 3 |
 | Field Stone House | 7 × 7 | 1 | 43,800 | 425 | 3 |
 | Small Brick House | 7 × 7 | 1 | 43,800 | 425 | 3 |
@@ -41,11 +46,9 @@ For friends, co-owners, and the owner, logging out inside of a house is instant,
 | Small Marble Workshop | 7 × 7 | 2 | 63,000 | 425 | 3 |
 | Small Stone Tower | 8 × 7 | 2 | 88,500 | 580 | 4 |
 
-
 ## Medium Homes
-
 | House | Size | Floors | Price | Lockdowns | Secures |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-|:-:|:-:|:-:|:-:|:-:|
 | Sandstone House with Patio | 12 × 8 | 1 | 90,900 | 850 | 6 |
 | Two-Story Log Cabin | 8 × 13 | 2 | 97,800 | 1,100 | 8 |
 | Two-Story Villa | 11 × 11 | 2 | 136,500 | 1,100 | 8 |
@@ -56,11 +59,10 @@ For friends, co-owners, and the owner, logging out inside of a house is instant,
 
 ## Fortifications
 | House | Size | Floors | Price | Lockdowns | Secures |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-|:-:|:-:|:-:|:-:|:-:|
 | Tower | 24 × 14 | 3 | 433,200 | 2,119 | 15 |
 | Small Stone Keep | 24 × 24 | 2 | 665,200 | 2,625 | 18 |
 | Castle | 31 × 31 | 2 | 1,022,800 | 4,076 | 28 |
-
 
 ## Notes
 - Secure containers use `125` lockdown slots each.
