@@ -1,29 +1,33 @@
 ---
-title: Discordance
+title: discordance
 description: 
 published: true
-date: 2026-11-18T22:13:40.351Z
+date: 2026-11-18T22:46:26.169Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T07:01:20.681Z
 ---
 
 # Discordance
-**Discordance** uses a musical instrument to debuff an enemy.
+Discordance uses a musical instrument to weaken an enemy.
 
 ## Effect
-**Discordance** reduces [stats](/Stats) and [skills](/Skills) for a highly-random duration, effectively lowering the target's defense and offense. The strength of the reduction effect is equal to `Discordance Level / 5` capping at `20%` at grandmaster.
+Discordance lowers the target's [stats](/stats) and [skills](/skills) for a highly random duration, weakening both its defense and offense. The reduction is `(Discordance / 5)%`, capping at `20%` at grandmaster.
 
-| Level | Strength |
-|:-:|:-:|
-| 10 | 2% |
-| 50 | 10% |
-| 100 | 20% |
+| Discordance | Reduction (%) |
+|:-|:-:|
+| 10 | 2 |
+| 50 | 10 |
+| 100 | 20 |
 
 ## Duration
-The duration of **Discordance** is `5 ~ 12.5` seconds. When the effect would expire, there is a `33%` chance to extend the duration by an additional `5 ~ 12.5` seconds, with no limit on these extensions. The expected total duration including extensions is `13.125` seconds.
+Discordance lasts `5` to `12.5` seconds. When it would expire, there is a `33%` chance to extend it by another `5` to `12.5` seconds, with no limit on extensions. The expected total duration, including extensions, is `13.125` seconds.
 
-If the Bard becomes hidden via a skill like [Hiding](/Skills/Hiding) or a spell like [Invisibility](/Spells/Invisibility), **Discordance** will end in `15` seconds and will not be extended further.
+If the bard becomes hidden, through a skill like [Hiding](/hiding) or a spell like [Invisibility](/invisibility), Discordance ends in `15` seconds and is not extended again.
 
 ## Cooldown
-**Discordance** has a fixed cooldown of `5` seconds regardless of success.
+Discordance has a fixed `5` second cooldown, whether it succeeds or fails.
+
+## Manual Training
+
+## Macro Training
