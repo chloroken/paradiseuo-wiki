@@ -2,7 +2,7 @@
 title: Gargoyle's Pickaxe
 description: 
 published: true
-date: 2026-11-15T03:51:33.087Z
+date: 2026-11-18T22:13:57.119Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-12T07:10:58.698Z
