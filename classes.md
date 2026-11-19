@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2026-11-19T07:11:51.716Z
+date: 2026-11-19T22:40:25.344Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -28,6 +28,6 @@ The following is a table of ideas. Consider it a starting point.
 | Druid<br>(Tamer Mage) | Animal Lore<br>Animal Taming<br>Evaluating Intelligence<br>Magery<br>Meditation<br>Resisting Spells<br>Veterinary | 100 | 40 | 85 | Tames animals and backs them up with magic. 40 Dexterity reaches the 4-second bandage breakpoint, and 85 Intelligence is plenty of mana. Evaluating Intelligence already gives 60 unarmed defense, so Resisting Spells guards against Paralyze, or Wrestling can take its place. |
 | Pirate<br>(Mapper Bard) | Cartography<br>Lockpicking<br>Magery<br>Meditation<br>Musicianship<br>Peacemaking<br>Provocation | 100 | 25 | 100 | Handles every step of treasure hunting alone: farms maps from monsters, decodes them, recalls to the spot, picks the lock, disarms the trap with magic, and provokes the guardians into fighting each other. |
 | Minstrel<br>(Pure Bard) | Archery<br>Discordance<br>Healing<br>Musicianship<br>Peacemaking<br>Provocation<br>Tactics | 100 | 100 | 25 | Calms, enrages, and weakens monsters with music, then shoots them. A versatile non-caster with the full Antimage bonuses, including accuracy from Tactics. |
-| Beastmaster<br>(Tamer Bard) | Animal Lore<br>Animal Taming<br>Hiding<br>Musicianship<br>Peacemaking<br>Provocation<br>Veterinary | 100 | 100 | 25 | Leads a pack of pets and turns monsters on each other. One of the strongest hunters, but without Magery it can't Recall, so it travels by moongate, boat, or on foot. No Magery also means a tougher hide through Antimage, and 100 Dexterity reaches the 3-second bandage breakpoint and adds carrying capacity. |
+| Beastmaster<br>(Tamer Bard) | Animal Lore<br>Animal Taming<br>Hiding<br>Musicianship<br>Peacemaking<br>Provocation<br>Veterinary | 100 | 100 | 25 | Leads a pack of pets and turns monsters on each other. One of the strongest hunters, but without Magery it can't Recall, so it travels by moongate, boat, or on foot. 100 Dexterity reaches the 3-second bandage breakpoint and adds carrying capacity. |
 | Artisan<br>(Crafter) | Magery<br>(6 of these)<br>Alchemy<br>Blacksmithing<br>Carpentry<br>Cooking<br>Fletching<br>Inscription<br>Tailoring<br>Tinkering | 100 | 25 | 100 | Makes what everyone else needs. 100 Intelligence covers Recall and Inscription's mana costs. A crafter who skips both is better off with 100 Dexterity, to carry more. |
-| Pioneer<br>(Gatherer) | Arms Lore<br>Fishing<br>Item Identification<br>Lumberjacking<br>Magery<br>Mining<br>(any skill) | 100 | 100 | 25 | Mines, chops, and fishes, then hauls it all home with Recall. 100 Strength and 100 Dexterity carry the most. Spare points can go to crafting skills. |
+| Pioneer<br>(Gatherer) | Arms Lore<br>Fishing<br>Item ID<br>Lumberjacking<br>Magery<br>Mining<br>(any skill) | 100 | 100 | 25 | Mines, chops, and fishes, then hauls it all home with Recall. 100 Strength and 100 Dexterity carry the most. Spare points can go to crafting skills. |
