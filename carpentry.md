@@ -2,7 +2,7 @@
 title: Carpentry
 description: 
 published: true
-date: 2026-11-19T00:15:35.122Z
+date: 2026-11-19T01:00:28.390Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T06:34:26.911Z
@@ -13,7 +13,7 @@ Carpenters use tools, like saws and axes, with logs and boards.
 
 Carpenters can make furniture, containers, armor, weapons, and house add-on deeds. There are no colored woods on *Paradise*, just normal wood.
 
-## Other
+## Basic Items
 
 | Item | Minimum Skill | Maximum Skill | Materials |
 |:-|:-:|:-:|:-:|
