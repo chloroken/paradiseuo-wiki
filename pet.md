@@ -1,8 +1,8 @@
 ---
-title: pet
+title: Pet
 description: 
 published: true
-date: 2026-11-18T22:48:34.418Z
+date: 2026-11-19T00:17:48.185Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
