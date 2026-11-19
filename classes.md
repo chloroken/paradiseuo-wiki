@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2026-11-19T02:45:29.238Z
+date: 2026-11-19T02:49:34.181Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -15,16 +15,18 @@ During character creation there is a profession screen, but it should be ignored
 
 Although there are no official classes, a warrior, for example, would spend the `225` stat points and `700` skill points on things like Strength, Dexterity, weapon skills, defensive skills, and healing skills.
 
+The follow is a table of ideas. Consider it a starting point.
+
 | Pseudoclass | Skills | Str / Dex / Int | Why |
 |:-|:-:|:-:|:-:|
-| Fighter | any weapon skill, Parrying, Tactics, Anatomy, Healing, Resisting Spells, Archery | 100 / 100 / 25 | No magic, very tanky. Can use any type of weapon with a shield to parry with. Uses ranged weapons to finish fleeing targets, can heal with bandages. Can drop Archery to take a second weapon skill for switching between one-handed and two-handed weapons for a full melee experience. |
-| Paladin | Mace Fighting, Tactics, Parrying, Anatomy, Healing, Resisting Spells, 50 Magery, 50 Meditation | 100 / 65 / 60 | Uses a mace to drain stamina and a shield to parry with. Can use light magic for buffs and spot-healing, has Meditation to regenerate mana, and can heal with bandages. |
-| Stealth Archer | Archery, Tactics, Anatomy, Healing, Hiding, Stealth, Resisting Spells | 100 / 100 / 25 | Uses the sneak attack mechanic to do huge burst damage to unsuspecting targets at a range. Can take Lockpicking over Resisting Spells to trawl dungeons for treasure. |
-| Hally Mage | Swordsmanship, Tactics, Anatomy, Magery, Evaluating Intelligence, Meditation, Resisting Spells | 100 / 25 / 100 | Uses spell damage combined with halberd hits to do huge damage and trigger Concussion Blows. Between halberd swings, heal and cast other spells. Extremely strong in duels. |
-| Pure Mage | Magery, Evaluating Intelligence, Meditation, Resisting Spells, Inscription, Anatomy, Alchemy | 100 / 25 / 100 | A pure caster. Anatomy and Evaluating Intelligence give 110 unarmed defense, which is slightly better than the defense provided by 100 Wrestling. Inscription strengthens Reactive Armor and Protection. |
+| Fighter | Parrying, Tactics, Anatomy, Healing, Resisting Spells, Archery, any weapon skill | 100 / 100 / 25 | No magic, very tanky. Can use any type of weapon with a shield to parry with. Uses ranged weapons to finish fleeing targets, can heal with bandages. Can drop Archery to take a second weapon skill for switching between one-handed and two-handed weapons for a full melee experience. |
+| Paladin | Mace Fighting, Tactics, Parrying, Anatomy, Healing, Resisting Spells, 50 Magery, 50 Meditation | 100 / 65 / 60 | Very tanky, uses a mace to drain stamina and a shield to parry with. Can use light magic for buffs and spot-healing, has Meditation to regenerate mana, and can heal with bandages. |
+| Stealth Archer | Archery, Tactics, Anatomy, Healing, Hiding, Stealth, Resisting Spells/Lockpicking | 100 / 100 / 25 | Uses the sneak attack mechanic to do huge burst damage to unsuspecting targets at a range. Can take Lockpicking over Resisting Spells to trawl dungeons for treasure. |
+| Hally Mage | Swordsmanship, Tactics, Anatomy, Magery, Evaluating Intelligence, Meditation, Resisting Spells | 100 / 25 / 100 | Uses spell damage combined with halberd hits to do huge damage and trigger Concussion Blows. Between halberd swings, heals and casts other spells while remaining safe with Wrestling. Extremely strong in duels. |
+| Pure Mage | Magery, Evaluating Intelligence, Meditation, Resisting Spells, Inscription, Anatomy, Alchemy | 100 / 25 / 100 | A pure caster. Anatomy and Evaluating Intelligence give 110 unarmed defense, which is slightly better than the defense provided by 100 Wrestling. Inscription strengthens Reactive Armor and Protection. The result is a mage with surprisingly-high defense for wearing cloth. |
 | Tank Mage | Magery, Evaluating Intelligence, Meditation, Resisting Spells, Wrestling, Anatomy, Tactics | 100 / 25 / 100 | Unarmed caster that leverages Wrestling mechanics to stun and damage targets. Wrestling and Anatomy at 80 or more give an automatic stun that stops movement for 4 seconds every 10 seconds at no cost. Tactics makes the punches hit hard. Can heal and nuke with spells with full competency. Can equip some armor at the cost of Meditation efficacy. |
 | Tamer Mage | Animal Taming, Animal Lore, Veterinary, Magery, Meditation, Evaluating Intelligence, Resisting Spells | 100 / 40 / 85 | 40 Dexterity reaches the 4-second bandage breakpoint. Evaluating Intelligence already gives 60 unarmed defense, so Resisting Spells guards against Paralyze instead. Can take Wrestling instead of Resisting Spells. |
-| Mapper Bard | Cartography, Lockpicking, Magery, Meditation, Musicianship, Provocation, Peacemaking | 100 / 25 / 100 | Single-handedly handles every step of treasure hunting: farming the maps from monsters, decoding the map, recalling to the map area, picking the lock, disabling the trap, and provoking the guardians onto each other. |
+| Mapper Bard | Cartography, Lockpicking, Magery, Meditation, Musicianship, Provocation, Peacemaking | 100 / 25 / 100 | Single-handedly covers every step of treasure hunting: farming the maps from monsters, decoding the map, recalling to the map area, picking the lock, disabling the trap, and provoking the guardians onto each other. |
 | Pure Bard | Musicianship, Provocation, Peacemaking, Discordance, Archery, Tactics, Healing | 100 / 100 / 25 | A ranged attacker with tons of utility. High adaptability for a non-caster. |
 | Tamer Bard | Animal Taming, Animal Lore, Veterinary, Musicianship, Provocation, Peacemaking, Hiding | 100 / 100 / 25 | Extremely strong PvMer but lacks utility. Without Magery, Intelligence is useless. 100 Dexterity reaches the 3-second bandage breakpoint and adds extra carrying capacity. |
 | Crafter | Blacksmithing, Tinkering, Carpentry, Tailoring, Fletching, Alchemy, Inscription | 100 / 25 / 100 | Takes max Intelligence to make Inscription's mana consumption less tedious. |
