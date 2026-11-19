@@ -2,7 +2,7 @@
 title: Magery
 description: 
 published: true
-date: 2026-11-19T07:47:48.916Z
+date: 2026-11-19T07:59:35.759Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:10:03.878Z
@@ -33,7 +33,7 @@ At `100` Magery, 7th circle spells succeed `86%` of the time and 8th circle spel
 Casting from a scroll counts as two circles lower, so a scroll of an 8th circle spell is cast with the chances of a 6th circle spell. A grandmaster never fails a scroll of any circle.
 
 ## Antimage 𐠒
-Characters with less than `100` Magery get bonuses to accuracy, toughness, and hit point regeneration, at full strength with `0` Magery. Every point of Magery shrinks them, so a fighter has to choose between spells and the Antimage bonuses. A character with `50` Magery keeps half of each bonus. See [Combat](/combat#antimage).
+Characters with less than `100` Magery get bonuses to accuracy, toughness, and hit point regeneration, at full strength with `0` Magery. Every point of Magery shrinks them, so a fighter has to choose between spells and the Antimage bonuses. A character with `50` Magery keeps half of each bonus. See [Antimage](/combat#antimage).
 
 ## Related Skills
 - [Evaluating Intelligence](/evaluating_intelligence) raises spell damage, and gives unarmed defense alongside Anatomy.
@@ -42,7 +42,7 @@ Characters with less than `100` Magery get bonuses to accuracy, toughness, and h
 - [Resisting Spells](/resisting_spells) protects against spells, and a caster's Magery makes their spells harder to resist.
 
 ## Travel
-Recall, Mark, and Gate Travel are the fastest ways to cross the world, but none of them work in dungeons or the Lost Lands. See [Shard Features](/features#travel). 𐠒
+Recall, Mark, and Gate Travel are the fastest ways to cross the world, but none of them work in dungeons or the Lost Lands. See [Travel](/features#travel). 𐠒
 
 ## Manual Training
 Every cast, successful or not, has a chance to raise Magery, as long as the caster's skill is inside that circle's range in the casting chance table. Once a circle never fails, it stops training Magery, so the circle to practice rises with skill.
