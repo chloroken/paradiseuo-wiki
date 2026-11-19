@@ -2,7 +2,7 @@
 title: Pet
 description: 
 published: true
-date: 2026-11-19T00:17:48.185Z
+date: 2026-11-19T00:45:30.574Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -16,7 +16,7 @@ Most pets take up `1` follower slot, but strong pets, such as drakes, take `2` s
 **Pet death is permanent.**
 
 ## Pet Training
-Pets train their skills by using them, just like players, but twice as quickly. Even if a pet was paralyzed while being tamed and took the skill penalty, its skills can recover and keep training to their maximum. Pets can also train their [stats](/stats) up to `120`. Animal Lore reveals a creature's stats and skills.
+Pets train their skills by using them, just like players, but twice as quickly. Even if a pet was paralyzed while being tamed and took the skill penalty, its skills can recover and keep training to their maximum. Pets can train each of their [stats](/stats) up to `100`, the same cap as players. A pet that already starts above `100` in a stat, such as a dragon's Strength, can't raise that stat any further. Animal Lore reveals a creature's stats and skills.
 
 ## Healing Pets
 Pets are healed with bandages using [Veterinary](/veterinary). The range at which a pet can be bandaged grows with Veterinary skill:
@@ -98,9 +98,9 @@ There are many creatures to tame, but these stand out for high damage, health, o
 
 | Pet | Slots | Skill | Pack Instinct | Notes |
 |:-|:-:|:-:|:-:|:-:|
-| Horse | 1 | 30.1 | | Mount |
-| Forest Ostard | 1 | 34.8 | Ostard | Mount |
-| Desert Ostard | 1 | 40 | Ostard | Mount |
+| Horse | 1 | 29.1 | | Mount |
+| Forest Ostard | 1 | 29.1 | Ostard | Mount |
+| Desert Ostard | 1 | 29.1 | Ostard | Mount |
 | Grizzly Bear | 1 | 59.1 | Bear | |
 | Bull | 1 | 71.1 | Bull | |
 | Frenzied Ostard | 1 | 77.1 | Ostard | Mount |
