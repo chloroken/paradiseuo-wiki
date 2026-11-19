@@ -1,8 +1,8 @@
 ---
-title: spells
+title: Spells
 description: 
 published: true
-date: 2026-11-18T23:07:46.124Z
+date: 2026-11-19T00:17:26.210Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T03:32:16.076Z
