@@ -18,7 +18,7 @@ Changes to *Paradise*, newest first.
     - Hit points regenerate up to `5×` faster
     - All three bonuses are full at `0` Magery and shrink to nothing at `100`
     - Only players get the bonuses
-- Fix [Young](/young_player) players being unable to Recall, Gate Travel, or use moongates
+- Fix [Young players](/young_player) being unable to Recall, Gate Travel, or use moongates
 - Wrestling moves are now automatic:
     - Armed players and human NPCs are disarmed, and everything else is stunned
     - Moves are only attempted when a punch hits, and need free hands

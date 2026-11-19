@@ -9,7 +9,7 @@ dateCreated: 2026-11-03T22:05:20.404Z
 ---
 
 # Skills
-A character can have up to `700` skill points. Common [class builds](/classes) aim for powerful synergies. Some skills are disabled on *Paradise*, and others are almost useless. Such is Ultima Online, full of flavor.
+A character can have up to `700` skill points. Common [class builds](/classes) aim for powerful synergies. Some skills are disabled on *Paradise*, and others are almost useless.
 
 Every article is written specifically for *Paradise*, and checked against the server's code wherever possible. As alpha testing continues and the code behind each skill is better understood, more articles will be written and expanded.
 

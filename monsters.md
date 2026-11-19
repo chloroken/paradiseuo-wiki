@@ -25,7 +25,7 @@ Monsters on *Paradise* behave differently from later versions of Ultima Online:
 ## Fighting Monsters
 Monsters hit as hard in melee as they did in T2A, which is harder than in later versions of Ultima Online. Characters with little Magery take less physical damage through [Antimage](/combat#antimage). See [Combat](/combat).
 
-Outside of dungeons, monsters won't attack [Young](/young_player) players unless the Young player attacks first.
+Outside of dungeons, monsters won't attack [Young players](/young_player) unless the Young player attacks first.
 
 ## Dealing With Monsters
 - Many animals and monsters can be tamed. See [Animal Taming](/animal_taming) and [Pet](/pet).

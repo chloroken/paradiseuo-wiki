@@ -44,9 +44,10 @@ Karma is lost by:
 - Killing templars.
 
 ### Templars and Thugs
+Templars are good NPCs and thugs are evil ones, found outside the teleporters to their karma towns.
+
 - They attack players whose Karma is opposite to theirs.
 - They give no Fame and drop poor loot.
-- They're found outside the teleporters to their karma towns.
 - Each kill changes Karma by `25` to `75`.
 - Beyond `5,000` or `-5,000` Karma, the change is halved.
 - Every player who damaged the NPC receives the full Karma change.

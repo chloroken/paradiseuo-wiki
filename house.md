@@ -36,32 +36,32 @@ The owner, co-owners, and friends of a house log out instantly inside it, like a
 ## Small Homes
 | House | Size | Floors | Price (gold) | Lockdowns | Secures |
 |:-|:-:|:-:|:-:|:-:|:-:|
-| Stone and Plaster House | 7 × 7 | 1 | 43,800 | 425 | 3 |
-| Field Stone House | 7 × 7 | 1 | 43,800 | 425 | 3 |
-| Small Brick House | 7 × 7 | 1 | 43,800 | 425 | 3 |
-| Wooden House | 7 × 7 | 1 | 43,800 | 425 | 3 |
-| Wood and Plaster House | 7 × 7 | 1 | 43,800 | 425 | 3 |
-| Thatched Roof Cottage | 7 × 7 | 1 | 43,800 | 425 | 3 |
-| Small Stone Workshop | 7 × 7 | 2 | 60,600 | 425 | 3 |
-| Small Marble Workshop | 7 × 7 | 2 | 63,000 | 425 | 3 |
-| Small Stone Tower | 8 × 7 | 2 | 88,500 | 580 | 4 |
+| Stone and plaster house | 7 × 7 | 1 | 43,800 | 425 | 3 |
+| Field stone house | 7 × 7 | 1 | 43,800 | 425 | 3 |
+| Small brick house | 7 × 7 | 1 | 43,800 | 425 | 3 |
+| Wooden house | 7 × 7 | 1 | 43,800 | 425 | 3 |
+| Wood and plaster house | 7 × 7 | 1 | 43,800 | 425 | 3 |
+| Thatched roof cottage | 7 × 7 | 1 | 43,800 | 425 | 3 |
+| Small stone workshop | 7 × 7 | 2 | 60,600 | 425 | 3 |
+| Small marble workshop | 7 × 7 | 2 | 63,000 | 425 | 3 |
+| Small stone tower | 8 × 7 | 2 | 88,500 | 580 | 4 |
 
 ## Medium Homes
 | House | Size | Floors | Price (gold) | Lockdowns | Secures |
 |:-|:-:|:-:|:-:|:-:|:-:|
-| Sandstone House with Patio | 12 × 8 | 1 | 90,900 | 850 | 6 |
-| Two-Story Log Cabin | 8 × 13 | 2 | 97,800 | 1,100 | 8 |
-| Two-Story Villa | 11 × 11 | 2 | 136,500 | 1,100 | 8 |
-| Brick House | 14 × 14 | 1 | 144,500 | 1,100 | 8 |
-| Large House with Patio | 15 × 14 | 1 | 152,800 | 1,100 | 8 |
-| Marble House with Patio | 15 × 14 | 2 | 192,000 | 1,370 | 10 |
-| Two-Story Wood and Plaster House | 14 × 14 | 2 | 192,400 | 1,370 | 10 |
+| Sandstone house with patio | 12 × 8 | 1 | 90,900 | 850 | 6 |
+| Two-story log cabin | 8 × 13 | 2 | 97,800 | 1,100 | 8 |
+| Two-story villa | 11 × 11 | 2 | 136,500 | 1,100 | 8 |
+| Brick house | 14 × 14 | 1 | 144,500 | 1,100 | 8 |
+| Large house with patio | 15 × 14 | 1 | 152,800 | 1,100 | 8 |
+| Marble house with patio | 15 × 14 | 2 | 192,000 | 1,370 | 10 |
+| Two-story wood and plaster house | 14 × 14 | 2 | 192,400 | 1,370 | 10 |
 
 ## Fortifications
 | House | Size | Floors | Price (gold) | Lockdowns | Secures |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Tower | 24 × 14 | 3 | 433,200 | 2,119 | 15 |
-| Small Stone Keep | 24 × 24 | 2 | 665,200 | 2,625 | 18 |
+| Small stone keep | 24 × 24 | 2 | 665,200 | 2,625 | 18 |
 | Castle | 31 × 31 | 2 | 1,022,800 | 4,076 | 28 |
 
 ## Notes

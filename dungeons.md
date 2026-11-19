@@ -9,7 +9,7 @@ dateCreated: 2026-11-14T20:25:42.451Z
 ---
 
 # Dungeons
-Dungeons are found across Britannia and the Lost Lands. Monsters in dungeons attack [Young](/young_player) players like anyone else.
+Dungeons are found across Britannia and the Lost Lands. Monsters in dungeons attack [Young players](/young_player) like anyone else.
 
 ## Britannia
 | Name | Floors | Location | Notes |

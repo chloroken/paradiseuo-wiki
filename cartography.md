@@ -16,11 +16,11 @@ Double-click a mapmaker's pen to open the crafting menu.
 
 | Map Type | Minimum Cartography | Gain Limit |
 |:-|:-:|:-:|
-| Star Chart | 0 | 60 |
-| Local Map | 10 | 70 |
-| City Map | 25 | 85 |
-| Sea Chart | 35 | 95 |
-| World Map | 39.5 | 99.5 |
+| Star chart | 0 | 60 |
+| Local map | 10 | 70 |
+| City map | 25 | 85 |
+| Sea chart | 35 | 95 |
+| World map | 39.5 | 99.5 |
 
 ## Manual Training
 1. Buy mapmaker's pens from a mapmaker near a dock.

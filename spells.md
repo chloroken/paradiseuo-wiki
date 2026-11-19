@@ -9,7 +9,7 @@ dateCreated: 2026-11-07T03:32:16.076Z
 ---
 
 # Spells
-The Magery [skill](/skills) offers `64` spells, split evenly across `8` circles. Spells can be cast from [scrolls](/scroll) or a [spellbook](/spellbook).
+This page lists every spell in [Magery](/magery) by circle, with the words spoken to cast it. Spells can be cast from [scrolls](/scroll) or a [spellbook](/spellbook).
 
 ## First Circle
 - [Reactive Armor](/reactive_armor): *Flam Sanct*

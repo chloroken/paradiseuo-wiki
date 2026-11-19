@@ -43,4 +43,4 @@ A treasure chest's loot depends on its map level. Treasure maps found inside are
 | 100 | Magic equipment | 6 * Level |
 | 100 | Scrolls | 5 * Level |
 | 50 | Treasure map | 1 |
-| Level | [Skeleton key](/skeleton_key) | 1 |
+| Map Level | [Skeleton key](/skeleton_key) | 1 |

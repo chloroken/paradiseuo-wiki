@@ -11,7 +11,7 @@ dateCreated: 2026-11-16T07:24:49.945Z
 # Pet
 Pets are a type of follower, and [mounts](/mount) are pets too. [Animal tamers](/animal_taming) specialize in capturing and using pets.
 
-Most pets take up `1` follower slot, but strong pets, such as drakes, take `2` slots, and the most powerful pets, such as dragons, take `3` slots.
+Most pets take up `1` follower slot, but strong pets, such as drakes, take `2` slots, and the most powerful pets, such as dragons, take `3` slots. Pets can be left with an animal trainer while their owner is offline. See [Stable](/stable).
 
 **Pet death is permanent.**
 
@@ -61,9 +61,6 @@ For example, with a pet that needs `90` to tame:
 - `90` Animal Taming and `50` Animal Lore give a weighted skill of `82`, and the pet will never obey.
 
 Every point of Loyalty below `100` subtracts `1%` from the chance to obey, so an unfed pet obeys less and less. See [Loyalty](#loyalty).
-
-## Stabling Pets
-See [Stable](/stable).
 
 ## Pack Instinct
 Some pets have a Pack Instinct. When an owner controls several pets with the same instinct, they get a damage bonus: `25%` with two pets, `50%` with three, `75%` with four, and `100%` with five. The bonus only affects physical damage, not spells.

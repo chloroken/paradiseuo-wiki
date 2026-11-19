@@ -14,12 +14,12 @@ Boats allow travel by sea and river. They are bought from shipwrights near docks
 ## Ships
 | Ship | Price (gold) | Hold (stones) |
 |:-|:-:|:-:|
-| Small Ship | 10,177 | 400 |
-| Small Dragon Ship | 10,177 | 400 |
-| Medium Ship | 11,552 | 400 |
-| Medium Dragon Ship | 11,552 | 400 |
-| Large Ship | 12,927 | 400 |
-| Large Dragon Ship | 12,927 | 400 |
+| Small ship | 10,177 | 400 |
+| Small dragon ship | 10,177 | 400 |
+| Medium ship | 11,552 | 400 |
+| Medium dragon ship | 11,552 | 400 |
+| Large ship | 12,927 | 400 |
+| Large dragon ship | 12,927 | 400 |
 
 A dragon ship differs from the ship of the same size only in its look. Shipwrights also sell a spyglass for `3` gold, a flavor item that shows the moon's current phase.
 
@@ -31,17 +31,17 @@ Anyone standing on the boat can give commands to the tillerman.
 
 | Command | Effect |
 |:-|:-:|
-| `Forward` / `Unfurl sail` | Sail forward at full speed |
-| `Back` | Sail backward |
-| `Left` / `Right` | Drift sideways to port / starboard |
-| `Forward left` / `Forward right` | Sail diagonally forward |
-| `Back left` / `Back right` | Sail diagonally backward |
-| `Slow forward`, `Slow left`, etc. | Any of the above at half speed |
-| `Forward one`, `Left one`, etc. | Move a single tile in that direction |
-| `Turn right` / `Starboard` | Turn the boat 90° right |
-| `Turn left` / `Port` | Turn the boat 90° left |
-| `Come about` | Turn the boat 180° |
-| `Stop` / `Furl sail` | Stop moving |
+| `forward` / `unfurl sail` | Sail forward at full speed |
+| `back` | Sail backward |
+| `left` / `right` | Drift sideways to port / starboard |
+| `forward left` / `forward right` | Sail diagonally forward |
+| `back left` / `back right` | Sail diagonally backward |
+| `slow forward`, `slow left`, etc. | Any of the above at half speed |
+| `forward one`, `left one`, etc. | Move a single tile in that direction |
+| `turn right` / `starboard` | Turn the boat 90° right |
+| `turn left` / `port` | Turn the boat 90° left |
+| `come about` | Turn the boat 180° |
+| `stop` / `furl sail` | Stop moving |
 
 - At full speed, a ship moves forward `4` tiles per second. Sideways and backward movement is half that, and slow commands halve it again.
 - A ship stops when it reaches land, another ship, or any other obstacle. The tillerman says *Ar, we've stopped sir.*
@@ -58,13 +58,13 @@ A ship can follow a course plotted on a map.
 
 | Command | Effect |
 |:-|:-:|
-| `Start` | Sail the whole course from the first pin |
-| `Continue` | Resume the course from where it stopped |
-| `Goto #` | Sail the course to pin # |
-| `Single #` | Sail straight to pin # and stop |
-| `Nav` | Ask which pin the ship is heading to |
+| `start` | Sail the whole course from the first pin |
+| `continue` | Resume the course from where it stopped |
+| `goto #` | Sail the course to pin # |
+| `single #` | Sail straight to pin # and stop |
+| `nav` | Ask which pin the ship is heading to |
 
-The ship sails each leg at full speed and turns on its own. If land or another obstacle is in the way, it stops. Place pins over open water, and say `Continue` to resume after steering around a blockage by hand. Courses only work on the Felucca map.
+The ship sails each leg at full speed and turns on its own. If land or another obstacle is in the way, it stops. Place pins over open water, and say `continue` to resume after steering around a blockage by hand. Courses only work on the Felucca map.
 
 The map isn't used up. The tillerman hands it back, and the same map can be given to any number of ships. The course stays on the ship through dry-docking and server restarts until a new map is given. If the pins change, give the map to the tillerman again.
 
@@ -74,7 +74,7 @@ The hold is the container at the front of the ship and carries up to `400` stone
 ## Dry-Docking
 To store a ship, step off it and double-click the tillerman with a ship key in the backpack. Before dry-docking, the ship must be empty, the deck clear of items, and nobody can be aboard.
 
-Dry-docking is free, after a confirmation window. The ship becomes a toy ship in its owner's backpack, and its keys are removed. Double-click the model to launch the ship again with a fresh set of keys. A dry-docked ship in toy form never decays.
+Dry-docking is free, after a confirmation window. The ship becomes a toy ship in its owner's backpack, and its keys are removed. Double-click the toy ship to launch the ship again with a fresh set of keys. A dry-docked ship in toy form never decays.
 
 ## Decay
 A ship sinks `24` hours after it was last refreshed. A ship is refreshed at every world save while a player is aboard, and it never decays while someone is aboard or while it's moving.
@@ -86,7 +86,7 @@ Boat decay is short because players traditionally used rows of boats to block ob
 ## Naming
 | Command | Effect | Permission |
 |:-|:-:|:-:|
-| `Set name <name>` | Rename the ship | Owner |
-| `Remove name` | Clear the ship's name | Owner |
+| `set name <name>` | Rename the ship | Owner |
+| `remove name` | Clear the ship's name | Owner |
 
 The owner can also rename the ship by double-clicking the tillerman while aboard. Other characters on the owner's account can't rename the ship.

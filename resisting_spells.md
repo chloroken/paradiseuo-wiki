@@ -2,7 +2,7 @@
 title: Resisting Spells
 description: 
 published: true
-date: 2026-11-19T09:13:31.700Z
+date: 2026-11-19T00:50:57.725Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-12T08:34:37.098Z

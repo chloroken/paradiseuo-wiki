@@ -11,7 +11,7 @@ dateCreated: 2026-11-19T07:34:36.283Z
 # Healing
 Healing is the skill of treating people with [bandages](/bandage). It heals wounds, cures poison, and can even bring the dead back to life. Its counterpart for creatures is [Veterinary](/veterinary).
 
-To heal someone, use a bandage on them, or on oneself, and stay next to them until it finishes. [Anatomy](/anatomy) works alongside Healing in every formula on this page.
+To heal, use a bandage on oneself or on someone else. When bandaging someone else, the healer has to stay next to them until the bandage finishes. [Anatomy](/anatomy) works alongside Healing in every formula on this page.
 
 ## Healing Wounds
 The chance for a bandage to heal is `(Healing + 10)%`, minus `2%` for each slip. At `90` Healing or higher, bandages never fail unless they slip.
