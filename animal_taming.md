@@ -2,7 +2,7 @@
 title: Animal Taming
 description: 
 published: true
-date: 2026-11-18T22:43:40.725Z
+date: 2026-11-19T01:00:11.145Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T00:12:55.938Z
@@ -14,12 +14,14 @@ Animal tamers turn animals, and some monsters, into followers known as [pets](/p
 ## Taming Penalty
 Taming a creature reduces its [skills](/skills), such as Magery, by `10%`. If it was paralyzed during the tick it was tamed, its skills are reduced by `14%` instead. Pets train their skills naturally, so this penalty can be recovered. See [Pet](/pet#pet-training).
 
+The penalty applies again every time a creature is tamed by a new owner, so a pet that has been released and re-tamed several times keeps less of its original skill each time.
+
 ## Manual Training
 Animal Taming is one of the longest and most tedious skills to train, because of how taming works. It is highly recommended to train [Animal Lore](/animal_lore) to grandmaster before training Animal Taming, or tamed animals won't obey commands, including `release`, which can be a problem. See [Pet](/pet#obeying-commands).
 
 To follow an animal automatically, use `Alt + Click` on it.
 
-Naturally, training Animal Taming means taming animals. The problem is twofold: animals wander around and can get into trouble, and an animal stops giving skill gains to a player after the first time that player tames it. Worse, if an animal has been owned by too many different players across the shard, taming it gives no skill gain at all.
+Naturally, training Animal Taming means taming animals. The problem is twofold: animals wander around and can get into trouble, and an animal stops giving skill gains to a player after the first time that player tames it. Worse, an animal that has had too many owners across the shard can't be tamed at all.
 
 So training Animal Taming means wandering from animal to animal, taming and releasing (or culling) each one. If an area gives no gains, other animal tamers have trained there without culling, and the only options are to cull the animals or move somewhere else.
 
