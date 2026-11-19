@@ -1,13 +1,3 @@
----
-title: Patch Notes
-description: 
-published: true
-date: 2026-11-19T02:04:42.821Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-04T19:38:55.944Z
----
-
 # Patch Notes
 Changes to *Paradise*, newest first.
 

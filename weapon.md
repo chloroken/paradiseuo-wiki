@@ -1,15 +1,5 @@
----
-title: Weapon
-description: 
-published: true
-date: 2026-11-18T23:54:31.813Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-18T23:29:24.473Z
----
-
 # Weapon
-Weapons are split into types, and each type is trained with its own skill. Some types have special attacks or other effects on hit.
+Each type of weapon is trained with its own skill, and some types have special attacks or other effects on hit.
 
 ## Weapon Types
 | Type | Skill | Examples |
@@ -36,9 +26,9 @@ Two-handed axes, polearms, maces, and spears each have a special attack. Every h
 | Crushing Blow | Two-handed maces | 1.5× base damage |
 | Paralyzing Blow | Two-handed spears | Freezes the target in place for 2 seconds |
 
-Concussion Blow and Crushing Blow can only be delivered by players and human NPCs. Concussion Blow lowers maximum mana, so it is especially strong against spellcasters.
+Concussion Blow and Crushing Blow can only be delivered by players and human NPCs. Concussion Blow also lowers the target's maximum mana.
 
-A frozen target can't move, but it can still attack anything in reach. Freezing is most useful against a target that is fleeing or chasing.
+A frozen target can't move, but it can still attack anything in reach.
 
 ## Wrestling Moves 𐠒
 Fighting with empty hands allows two moves. Neither needs a button: when a punch hits and the moves are off cooldown, the right one is attempted automatically. A spellbook or a light can be held, but not a weapon or shield.
@@ -60,4 +50,4 @@ Fighting with empty hands allows two moves. Neither needs a button: when a punch
 - Arrows and bolts that hit a monster or animal have a `40%` chance to land in its backpack, where they can be looted back. Missed shots have a `40%` chance to drop on the ground.
 
 ## Unarmed Defense
-When fighting with bare hands, a character defends with whichever is higher: their Wrestling, or `(Anatomy + Evaluating Intelligence + 20) / 2`, up to `120`. This means a mage with `100` [Evaluating Intelligence](/evaluating_intelligence) defends as if they had `60` Wrestling, even with none.
+When fighting with bare hands, a character defends with whichever is higher: their Wrestling, or `(Anatomy + Evaluating Intelligence + 20) / 2`, up to `120`. A mage with `100` [Evaluating Intelligence](/evaluating_intelligence) and no Wrestling defends as if they had `60` Wrestling.

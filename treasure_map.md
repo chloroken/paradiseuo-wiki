@@ -1,19 +1,9 @@
----
-title: Treasure Map
-description: 
-published: true
-date: 2026-11-18T22:50:41.720Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-10T01:23:58.121Z
----
-
 # Treasure Map
 Treasure maps drop from monsters and have a level from `0` to `5`, with stronger monsters dropping higher-level maps. Level `0` maps only drop for Young players.
 
 A map must be decoded with [Cartography](/cartography) before the location it shows can be found in the world. The treasure chest must then be dug up with a shovel (made easier with [Mining](/mining)), unlocked with [Lockpicking](/lockpicking), and its trap disarmed with [Magery](/magery) or [Remove Trap](/remove_trap). Finally, the guardian monsters must be defeated. Only then does the treasure chest become vulnerable.
 
-Monsters keep spawning while the chest is looted, so stay alert. The type of monsters that spawn depends on the chest's level.
+Monsters keep spawning while the chest is looted. The type of monsters that spawn depends on the chest's level.
 
 ## Decoding
 Double-click a treasure map to try decoding it.

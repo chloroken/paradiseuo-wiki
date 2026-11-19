@@ -1,13 +1,3 @@
----
-title: Pet
-description: 
-published: true
-date: 2026-11-19T00:47:37.605Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-16T07:24:49.945Z
----
-
 # Pet
 Pets are a type of follower, and [mounts](/mount) are pets too. [Animal tamers](/animal_taming) specialize in capturing and using pets.
 
@@ -30,7 +20,7 @@ Pets are healed with bandages using [Veterinary](/veterinary). The range at whic
 | 100 | 5 |
 
 ## Controlling Pets
-Animal tamers command pets with phrases like `all follow me` and `dragon kill`. Because tamers can control powerful monsters, farming enemies for loot is a breeze, as long as they can keep their pets alive and under control.
+Animal tamers command pets with phrases like `all follow me` and `dragon kill`. Tamers can control powerful monsters, which makes hunting for loot much easier, provided their pets stay alive and obedient.
 
 Pets can follow their owner into houses. Untamed creatures can't enter houses.
 
@@ -61,14 +51,14 @@ This is compared to the pet's minimum taming skill, the skill needed to tame it:
 | Equal to Minimum Taming | 70 |
 | Below Minimum Taming - 5 | 0 |
 
-Pets that need `29.1` or less to tame, such as horses and ostards, always obey, whatever their owner's skill or Loyalty. Summoned creatures always obey as well.
+Pets that need `29.1` or less to tame, such as horses and ostards, always obey, regardless of their owner's skill or Loyalty. Summoned creatures always obey as well.
 
 For example, with a pet that needs `90` to tame:
 - `100` Animal Taming and `100` Animal Lore give a weighted skill of `100`, for a `99%` chance.
 - `90` Animal Taming and `100` Animal Lore give a weighted skill of `92`, for an `82%` chance.
 - `90` Animal Taming and `50` Animal Lore give a weighted skill of `82`, and the pet will never obey.
 
-Every point of Loyalty below `100` subtracts `1%` from the chance to obey. Since pets lose `10` Loyalty an hour, an unfed pet loses `10%` obedience every hour, which makes regular feeding crucial for pet control.
+Every point of Loyalty below `100` subtracts `1%` from the chance to obey. Pets lose `10` Loyalty an hour, so an unfed pet loses `10%` obedience every hour.
 
 ## Stabling Pets
 See [Stable](/stable).
@@ -96,7 +86,7 @@ Players can attack their own pets to train combat skills, and heal them to train
 - Players and their pets can't attack other players' pets.
 
 ## Notable Pets
-There are many creatures to tame, but these stand out for high damage, health, or Magery, or for being a mount, a Pack Instinct animal, or a pet with Shiny variants.
+These are some of the most useful creatures to tame.
 
 | Pet | Slots | Skill | Pack Instinct | Notes |
 |:-|:-:|:-:|:-:|:-:|

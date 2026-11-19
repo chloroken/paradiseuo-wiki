@@ -1,13 +1,3 @@
----
-title: Animal Taming
-description: 
-published: true
-date: 2026-11-19T01:00:11.145Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-08T00:12:55.938Z
----
-
 # Animal Taming
 Animal tamers turn animals, and some monsters, into followers known as [pets](/pet).
 
@@ -17,15 +7,15 @@ Taming a creature reduces its [skills](/skills), such as Magery, by `10%`. If it
 The penalty applies again every time a creature is tamed by a new owner, so a pet that has been released and re-tamed several times keeps less of its original skill each time.
 
 ## Manual Training
-Animal Taming is one of the longest and most tedious skills to train, because of how taming works. It is highly recommended to train [Animal Lore](/animal_lore) to grandmaster before training Animal Taming, or tamed animals won't obey commands, including `release`, which can be a problem. See [Pet](/pet#obeying-commands).
+Animal Taming is one of the slowest skills to train. Train [Animal Lore](/animal_lore) to grandmaster first, or tamed animals won't obey commands, including `release`. See [Pet](/pet#obeying-commands).
 
 To follow an animal automatically, use `Alt + Click` on it.
 
-Naturally, training Animal Taming means taming animals. The problem is twofold: animals wander around and can get into trouble, and an animal stops giving skill gains to a player after the first time that player tames it. Worse, an animal that has had too many owners across the shard can't be tamed at all.
+Training Animal Taming means taming animals. Animals wander off, and an animal stops giving skill gains to a player after the first time that player tames it. An animal that has had too many owners can't be tamed at all.
 
-So training Animal Taming means wandering from animal to animal, taming and releasing (or culling) each one. If an area gives no gains, other animal tamers have trained there without culling, and the only options are to cull the animals or move somewhere else.
+Tamers move from animal to animal, taming and then releasing or culling each one. If an area gives no gains, other tamers have trained there without culling, so cull the animals or move on.
 
-The following table lists the best animals to tame and where to find them. A new animal gives gains easily, since it will rarely be tamed successfully and failures give skill gains. As skill rises, taming succeeds more often, so fewer gains are possible before moving on to the next animal. This is especially noticeable near grandmaster.
+The following table lists the best animals to tame and where to find them. A new animal gives gains easily, since it will rarely be tamed successfully and failures give skill gains. As skill rises, taming succeeds more often, so each animal gives fewer gains, particularly near grandmaster.
 
 | Source | Minimum | Maximum | Location |
 |:-|:-:|:-:|:-:|

@@ -1,13 +1,3 @@
----
-title: Stats
-description: 
-published: true
-date: 2026-11-19T01:00:01.737Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-07T05:21:32.224Z
----
-
 # Stats
 Every character has three stats: Strength, Dexterity, and Intelligence. Each stat can reach `100`, up to a combined total of `225`.
 
@@ -17,7 +7,7 @@ Every character has three stats: Strength, Dexterity, and Intelligence. Each sta
 | Dexterity | Stamina | Swing speed, bandage speed, carrying capacity |
 | Intelligence | Mana | |
 
-`100` Strength is highly recommended for almost every [class](/classes), to have enough hit points to survive.
+Almost every [class](/classes) takes `100` Strength, for the hit points.
 
 ## Strength
 - Maximum hit points are `Strength / 2 + 50`, so `100` Strength gives `100` hit points.

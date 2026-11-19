@@ -1,13 +1,3 @@
----
-title: Resisting Spells
-description: 
-published: true
-date: 2026-11-19T00:50:57.725Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-12T08:34:37.098Z
----
-
 # Resisting Spells
 Resisting Spells gives a chance to shrug off part of a hostile spell. A resisted spell does three quarters of its damage, or lasts three quarters of its duration.
 
@@ -32,7 +22,7 @@ The chance to resist a spell depends on the defender's Resisting Spells, the cas
 
 `Resist Chance = max(Resisting Spells / 5, Resisting Spells - ((Caster's Magery - 20) / 5 + Circle * 5)) / 2` percent
 
-Higher-circle spells and stronger casters are harder to resist. Whatever the caster, the chance never drops below `Resisting Spells / 10` percent.
+Higher-circle spells and stronger casters are harder to resist, but the chance never drops below `Resisting Spells / 10` percent.
 
 Against a caster with `100` Magery:
 
@@ -56,7 +46,7 @@ Resisting Spells can only gain from a spell if the defender's skill is below tha
 | 7th | 120 |
 | 8th | 130 |
 
-So past `85` skill, only 7th and 8th circle spells, such as Flame Strike, Chain Lightning, and Meteor Swarm, train Resisting Spells.
+Past `85` skill, only 7th and 8th circle spells, such as Flame Strike, Chain Lightning, and Meteor Swarm, train Resisting Spells.
 
 ## Manual Training
 

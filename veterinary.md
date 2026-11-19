@@ -1,13 +1,3 @@
----
-title: Veterinary
-description: 
-published: true
-date: 2026-11-19T00:16:49.241Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-18T08:02:09.296Z
----
-
 # Veterinary
 Veterinary is the skill of healing creatures with [bandages](/bandage). It's the [animal tamer's](/animal_taming) version of [Healing](/healing).
 
@@ -29,7 +19,7 @@ A successful bandage heals a random amount between:
 | 80 | 90 | 35 – 66 |
 | 100 | 100 | 43 – 80 |
 
-Pets also heal an extra `1` hit point for every `100` maximum hit points they have, so bandages scale slightly with bigger pets.
+Pets also heal an extra `1` hit point for every `100` maximum hit points they have.
 
 ## Slips
 Taking even a single point of damage while applying a bandage causes a slip. Each slip reduces the chance to heal by `2%` and the amount healed by `4`.
@@ -59,7 +49,7 @@ If the veterinarian's Veterinary and Animal Lore are both `60` or higher, bandag
 
 `(Veterinary - 30) / 50 - (0.1 * Poison Level) - (0.02 * Slips)`
 
-So a veterinarian at `100` skill always cures any poison. Each slip lowers the chance by `2%`.
+A veterinarian at `100` skill always cures any poison, unless the bandage slips. Each slip lowers the chance by `2%`.
 
 | Poison | Level | Chance at 60 (%) | Chance at 80 (%) | Chance at 100 (%) |
 |:-|:-:|:-:|:-:|:-:|

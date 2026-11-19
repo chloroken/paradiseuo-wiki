@@ -1,17 +1,7 @@
----
-title: Home
-description: 
-published: true
-date: 2026-11-19T00:32:48.743Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-03T21:50:31.643Z
----
-
 # Welcome
-*Paradise* is a private [Ultima Online](https://uo.com/) shard by [chloroken](https://twitch.tv/chloroken). It loosely targets [The Second Age](https://en.wikipedia.org/wiki/Ultima_Online:_The_Second_Age) (T2A) era using modified [ServUO](https://github.com/ServUO/ServUO) code, and is made for relaxing, nostalgic, and slow-paced PvM.
+*Paradise* is a private [Ultima Online](https://uo.com/) shard by [chloroken](https://twitch.tv/chloroken). It loosely targets [The Second Age](https://en.wikipedia.org/wiki/Ultima_Online:_The_Second_Age) (T2A) era using modified [ServUO](https://github.com/ServUO/ServUO) code, and is built for slow, relaxed PvM.
 
-See [Shard Features](/features) for the broad strokes that set *Paradise* apart from T2A. See [Patch Notes](/patch_notes) for smaller changes.
+See [Shard Features](/features) for the major ways *Paradise* differs from T2A. See [Patch Notes](/patch_notes) for smaller changes.
 
 ![papua.png](/papua.png)
 
