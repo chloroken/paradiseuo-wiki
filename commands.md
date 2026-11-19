@@ -2,31 +2,17 @@
 title: Commands
 description: 
 published: true
-date: 2026-11-19T07:01:55.985Z
+date: 2026-11-19T07:06:46.885Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:06:15.205Z
 ---
 
 # Commands
-Commands require text entry and cause something to happen.
-
-## Typed Commands
-Players can type a few commands in the chat line, starting with `[`.
-| Command | Effect |
-|:-|:-:|
-| `[Help` | Lists every command the player can use |
-| `[HelpInfo` | Opens a window describing each command |
-| `[Password <new> <new>` | Changes the account's password, typed twice to avoid mistakes |
-| `[TimePlayed` | Shows how long the character has been played |
-| `[Time` | Shows the server's time, in UTC |
-| `[TimeStamp` | Shows the server's date and time, in UTC |
-| `[WhatIsIt` | Targets an object and shows what type of object it is |
-
-Guildmasters often ask for a certain amount of play time before accepting a new member, which `[TimePlayed` shows.
+Commands are typed into the chat line, and make something happen.
 
 ## Speech Commands
-Many other actions on *Paradise* use speech: phrases said aloud to right NPC, pet, or item. Commands for an NPC only work when standing near it, and some need its name first, such as `Alice train`. Using "! " with a space allows for yelling of commands.
+Many other actions on *Paradise* use speech: phrases said aloud to the right NPC, pet, or object. Commands for an NPC only work when standing near it, and some need its name first, such as `Alice train`. Starting a message with `! ` yells it, so it carries further.
 
 ### Anywhere
 | Phrase | Effect |
@@ -64,6 +50,20 @@ Many other actions on *Paradise* use speech: phrases said aloud to right NPC, pe
 | `news` | Asks a town crier for the news |
 | `appraise` | Asks a real estate broker to value a house deed |
 
+### Places
+Some places in the world respond to a spoken word.
+
+| Phrase | Where | Effect |
+|:-|:-:|:-:|
+| `recdu` | Teleporter in Moonglow | Teleports to Papua, in the Lost Lands |
+| `recsu` | Teleporter in Papua | Teleports to Moonglow |
+| `doracron` | Serpent pillars in the seas of Britannia | Moves a boat and everyone on it to the Lost Lands sea |
+| `sueacron` | Serpent pillars in the Lost Lands sea | Moves a boat and everyone on it back to Britannia |
+| `cross` | Skara Brae's ferry points | Crosses the water between Skara Brae and the mainland |
+| `om om om` | Shrine of Spirituality | Moves the speaker into the shrine |
+
+The teleporters work within a few tiles. The serpent pillars only work from a boat within `10` tiles of the pillar, and the word must be said on its own. See [Boat](/boat).
+
 Escort quest commands, such as `destination`, are on the [World](/world#quests) page.
 
 Other speech commands are listed on their own pages:
@@ -71,3 +71,18 @@ Other speech commands are listed on their own pages:
 - Stable commands, such as `stable` and `claim`. See [Stable](/stable).
 - House commands, such as `I wish to lock this down`. See [House](/house).
 - Tillerman commands, such as `forward` and `stop`. See [Boat](/boat).
+
+## Server Commands
+Players can type commands in the chat line starting with `[` to access server-side information.
+
+| Command | Effect |
+|:-|:-:|
+| `[Help` | Lists every command the player can use |
+| `[HelpInfo` | Opens a window describing each command |
+| `[Password <new> <new>` | Changes the account's password, typed twice to avoid mistakes |
+| `[TimePlayed` | Shows how long the character has been played |
+| `[Time` | Shows the server's time, in UTC |
+| `[TimeStamp` | Shows the server's date and time, in UTC |
+| `[WhatIsIt` | Targets an object and shows what type of object it is |
+
+Guildmasters often ask for a certain amount of play time before accepting a new member, which `[TimePlayed` shows.
