@@ -1,8 +1,8 @@
 ---
-title: provocation
+title: Provocation
 description: 
 published: true
-date: 2026-11-18T22:48:52.433Z
+date: 2026-11-19T00:18:51.181Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T04:28:29.373Z
