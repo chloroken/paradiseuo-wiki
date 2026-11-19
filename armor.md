@@ -2,7 +2,7 @@
 title: Armor
 description: 
 published: true
-date: 2026-11-19T00:46:38.045Z
+date: 2026-11-19T05:18:03.989Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T03:33:34.463Z
@@ -30,4 +30,4 @@ Each piece of armor reduces damage by a random amount between `50%` and `100%` o
 | Chest | 35 |
 
 ## Durability
-When a piece of armor is hit, it loses durability, and blunt weapons cause more durability loss. Armor that runs out of durability breaks and must be repaired. Each time a piece of armor breaks, its maximum durability decreases. Eventually it can no longer be repaired, and it vanishes the next time it breaks. Armor can be repaired by a [blacksmith](/blacksmith).
+When a piece of armor is hit, it loses durability, and blunt weapons cause more durability loss. Armor that runs out of durability breaks and must be repaired. Each time a piece of armor breaks, its maximum durability decreases. Eventually it can no longer be repaired, and it vanishes the next time it breaks. Armor can be repaired by a [blacksmith](/blacksmithing).
