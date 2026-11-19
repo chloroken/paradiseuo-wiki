@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-19T07:34:51.084Z
+date: 2026-11-19T07:50:57.827Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -25,7 +25,7 @@ Each type of weapon is trained with its own skill, and some types have special a
 | Spears | Fencing | Spears, short spears, pikes |
 | Knives | Swordsmanship | Cleavers, butcher knives, skinning knives |
 | Bows | [Archery](/archery) | Bows, crossbows, heavy crossbows |
-| Fists | [Wrestling](/wrestling) | Bare hands |
+| Fists | Wrestling] | Bare hands |
 
 ## Special Attacks
 Two-handed axes, polearms, maces, and spears each have a special attack. Every hit has an `Anatomy / 400` chance to trigger it, which is `25%` at `100` [Anatomy](/anatomy).
@@ -50,4 +50,4 @@ Fighting with empty hands allows two automatic moves: armed players and human NP
 - Arrows and bolts that hit a monster or animal have a `40%` chance to land in its backpack, where they can be looted back. Missed shots have a `40%` chance to drop on the ground.
 
 ## Unarmed Defense
-When fighting with bare hands, a character defends with Wrestling, or with Anatomy and Evaluating Intelligence if that's better. See [Wrestling](/wrestling#unarmed-defense).
+When fighting with bare hands, a character defends with Wrestling, or with Anatomy and Evaluating Intelligence if that's better. See [Unarmed Defense](/wrestling#unarmed-defense).
