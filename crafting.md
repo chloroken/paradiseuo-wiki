@@ -2,7 +2,7 @@
 title: Crafting
 description: 
 published: true
-date: 2026-11-19T05:25:54.519Z
+date: 2026-11-19T05:29:47.352Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:59.693Z
@@ -10,8 +10,6 @@ dateCreated: 2026-11-19T00:05:59.693Z
 
 # Crafting
 Crafters turn gathered resources into weapons, armor, clothing, furniture, potions, scrolls, and more. Each crafting skill needs its own tool, which opens a menu of everything that skill can make.
-
-Ore can be smelted straight from a pack animal's backpack. 𐠒
 
 ## Crafting Skills
 | Skill | Tool | Main Resources | Makes |
@@ -26,7 +24,7 @@ Ore can be smelted straight from a pack animal's backpack. 𐠒
 | [Tailoring](/tailoring) | Sewing kit | Cloth, leather | Clothing, leather armor |
 | [Tinkering](/tinkering) | Tinker's tools | Ingots, boards | Tools, jewelry, traps |
 
-Blacksmithing needs an anvil and a forge nearby. Raw resources come from the gathering skills: [Mining](/mining) for ore, [Lumberjacking](/lumberjacking) for logs, and [Fishing](/fishing).
+Blacksmithing needs an anvil and a forge nearby. Raw resources come from the gathering skills: [Mining](/mining) for ore, [Lumberjacking](/lumberjacking) for logs, and [Fishing](/fishing). Ore can be smelted straight from a pack animal's backpack. 𐠒
 
 ## Success Chance
 Every item has a minimum and a maximum skill. Below the minimum it can't be made, and at the maximum it never fails. In between, the chance rises evenly from a starting chance at the minimum:
