@@ -1,8 +1,8 @@
 ---
-title: carpentry
+title: Carpentry
 description: 
 published: true
-date: 2026-11-18T22:45:33.707Z
+date: 2026-11-19T00:15:35.122Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T06:34:26.911Z
