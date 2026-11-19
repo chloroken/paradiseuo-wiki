@@ -2,7 +2,7 @@
 title: Lockpicking
 description: 
 published: true
-date: 2026-11-19T11:35:14.879Z
+date: 2026-11-19T11:36:35.746Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T21:00:26.779Z
@@ -58,7 +58,7 @@ The carpenter's Tinkering then sets how hard the lock is to pick:
 Higher Tinkering keeps making the lock harder to pick, and raises the Lockpicking needed to try it. No crafted lock stops a lockpicker with `95` or more.
 
 ## Manual Training
-Pick chests in towns and dungeons, and in your spare time pick the hardest crafted container you can find.
+Pick chests in towns and dungeons, and pick the hardest crafted container available in between.
 
 ## Macro Training
 Example TazUO Legion script:
