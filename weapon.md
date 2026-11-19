@@ -43,4 +43,3 @@ Concussion Blow and Crushing Blow can only be delivered by players and human NPC
 ## Other Effects on Hit
 - Maces and staves drain `3` to `5` of the target's stamina with every hit.
 - Swords, knives, daggers, and spears coated with [Poisoning](/poisoning) have a `50%` chance per hit to poison the target, using one charge each hit.
-- Arrows and bolts that hit a monster or animal have a `40%` chance to land in its backpack, where they can be looted back. Missed shots have a `40%` chance to drop on the ground.

@@ -13,7 +13,7 @@ These items have their own articles.
 
 ## Equipment
 - [Armor](/armor)
-- [Weapons](/weapon)
+- [Weapon](/weapon)
 
 ## Other Items
 - [Treasure Map](/treasure_map)

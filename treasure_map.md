@@ -26,11 +26,8 @@ Double-click a treasure map to try decoding it.
 | 4 | 80 | 90 | Never |
 | 5 | 90 | 100 | Never |
 
-## Lockpicking
-A lockpicker can use a [lockpick](/lockpick) on a treasure chest to try opening it.
-
-## Disarming
-A treasure chest can be disarmed from range with [Telekinesis](/telekinesis), avoiding the explosion and its damage. Without Magery, the only options are Remove Trap or taking the trap damage.
+## Opening the Chest
+A lockpicker can use a [lockpick](/lockpick) on a treasure chest to try opening it. Its trap can be disarmed from range with [Telekinesis](/telekinesis), avoiding the explosion and its damage. Without Magery, the only options are Remove Trap or taking the trap damage.
 
 ## Loot
 A treasure chest's loot depends on its map level. Treasure maps found inside are one level lower, but never below level `1`.
