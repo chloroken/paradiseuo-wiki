@@ -2,7 +2,7 @@
 title: Boat
 description: 
 published: true
-date: 2026-11-19T00:43:06.126Z
+date: 2026-11-19T01:00:19.282Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T22:49:31.290Z
@@ -24,7 +24,7 @@ Boats allow travel by sea and river. They are bought from shipwrights near docks
 A dragon ship differs from the ship of the same size only in its look. Shipwrights also sell a spyglass for `3` gold, a flavor item that shows the moon's current phase.
 
 ## Launching and Keys
-Double-click a ship deed and target open water to launch the ship. Two ship keys are created: one goes into the owner's backpack and one into their bank box. The keys lock and unlock the ship's planks on each side, which are double-clicked to board. Keep the bank key safe, because anyone holding a key can dry-dock the ship, stealing it.
+Double-click a ship deed and target open water to launch the ship. Two ship keys are created: one goes into the owner's backpack and one into their bank box. The keys lock and unlock the ship's planks on each side, which are double-clicked to board. Keep the bank key safe, because anyone holding a key can dry-dock the ship, stealing it. If the bank box is full, the bank key is lost, so make room before launching. If the backpack is full, its key drops to the ground.
 
 ## Manual Navigation
 Anyone standing on the boat can give commands to the tillerman.
@@ -74,7 +74,7 @@ The hold is the container at the front of the ship and carries up to `400` stone
 ## Dry-Docking
 To store a ship, step off it and double-click the tillerman with a ship key in the backpack. Before dry-docking, the ship must be empty, the deck clear of items, and nobody can be aboard.
 
-Dry-docking is free, after a confirmation window. The ship becomes a toy ship in its owners backpack, and its keys are removed. If the bank box is full, the bank key is lost, so make room before launching. If the backpack is full, its key drops to the ground. Double-click the model to launch the ship again with a fresh set of keys. A dry-docked ship in toy form never decays.
+Dry-docking is free, after a confirmation window. The ship becomes a toy ship in its owner's backpack, and its keys are removed. Double-click the model to launch the ship again with a fresh set of keys. A dry-docked ship in toy form never decays.
 
 ## Decay
 A ship sinks `24` hours after it was last refreshed. A ship is refreshed at every world save while a player is aboard, and it never decays while someone is aboard or while it's moving.
