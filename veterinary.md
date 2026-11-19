@@ -2,7 +2,7 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-19T05:34:45.123Z
+date: 2026-11-19T07:46:50.812Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
@@ -55,7 +55,7 @@ The time a bandage takes depends on the healer's Dexterity, with an important br
 | 100+ | 3 |
 
 ## Curing Poison
-If the veterinarian's Veterinary and Animal Lore are both `60` or higher, bandaging a poisoned target tries to cure it instead of healing it. The chance to cure is:
+Bandaging a poisoned target always tries to cure the poison instead of healing, so a poisoned creature can’t be healed with bandages until the poison is gone. The cure always fails unless the veterinarian’s Veterinary and Animal Lore are both 60 or higher. The chance to cure is:
 
 `(Veterinary - 30) / 50 - (0.1 * Poison Level) - (0.02 * Slips)`
 
