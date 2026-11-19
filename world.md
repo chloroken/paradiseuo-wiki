@@ -2,20 +2,23 @@
 title: World
 description: 
 published: true
-date: 2026-11-19T07:48:26.707Z
+date: 2026-11-19T07:52:12.798Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:07:19.032Z
 ---
 
 # World
-*Paradise* uses the Felucca version of the Britannia map, including the Lost Lands. This page covers the people, quests, and points of interest found across it. Monsters and dungeons have pages of their own: see [Monsters](/monsters) and [Dungeons](/dungeons).
+*Paradise* uses the Felucca version of the Britannia map, including the Lost Lands. This page covers the people, quests, and points of interest found across it.
 
 ## Towns
 See: [Towns](/towns)
 
 ## Dungeons
 See: [Dungeons](/dungeons)
+
+## Monsters
+See: [Monsters](/monsters)
 
 ## NPCs
 Non-player characters, or NPCs, offer services and trade, and some can even help in combat.
