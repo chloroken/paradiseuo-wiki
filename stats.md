@@ -2,7 +2,7 @@
 title: Stats
 description: 
 published: true
-date: 2026-11-19T00:38:08.232Z
+date: 2026-11-19T01:00:01.737Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T05:21:32.224Z
@@ -13,7 +13,7 @@ Every character has three stats: Strength, Dexterity, and Intelligence. Each sta
 
 | Stat | Gives | Also Affects |
 |:-|:-:|:-:|
-| Strength | Hit points | Melee damage, carrying capacity |
+| Strength | Hit points | Weapon damage, carrying capacity |
 | Dexterity | Stamina | Swing speed, bandage speed, carrying capacity |
 | Intelligence | Mana | |
 
@@ -21,7 +21,7 @@ Every character has three stats: Strength, Dexterity, and Intelligence. Each sta
 
 ## Strength
 - Maximum hit points are `Strength / 2 + 50`, so `100` Strength gives `100` hit points.
-- Melee damage rises by `1%` for every `5` Strength, up to `20%` at `100`.
+- Weapon damage, including bows, rises by `1%` for every `5` Strength, up to `20%` at `100`.
 - Carrying capacity rises by `3.5` stones per point of Strength.
 
 ## Dexterity
