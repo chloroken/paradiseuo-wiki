@@ -2,7 +2,7 @@
 title: Tactics
 description: 
 published: true
-date: 2026-11-19T05:35:34.254Z
+date: 2026-11-19T06:56:17.920Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T03:55:39.690Z
@@ -25,14 +25,7 @@ Tactics changes weapon damage by `(Tactics − 50)%`. It applies to every weapon
 Below `50`, Tactics lowers damage, so a character who fights with no Tactics does half damage. Tactics is applied first, and the bonuses from Strength, Anatomy, and Lumberjacking multiply the result, so Tactics makes every other damage bonus worth more. See [Combat](/combat#damage).
 
 ## Accuracy 𐠒
-Through [Antimage](/combat#antimage), Tactics also adds to weapon skill when rolling to hit, for characters with less than `100` Magery. The bonus is `30 * (Tactics / 100) * ((100 − Magery) / 100)` points.
-
-| Tactics | Magery | Accuracy Bonus (points) |
-|:-|:-:|:-:|
-| 100 | 0 | 30 |
-| 100 | 50 | 15 |
-| 50 | 0 | 15 |
-| Any | 100 | 0 |
+Through Antimage, Tactics also improves accuracy for characters with less than `100` Magery. The bonus grows with Tactics and shrinks as Magery rises. See [Antimage](/combat#antimage).
 
 ## Manual Training
 Every hit with any weapon, including bare hands, has a chance to raise Tactics. Attacking one's own [pet](/pet) isn't criminal 𐠒, so a tamed animal makes a safe training partner.
