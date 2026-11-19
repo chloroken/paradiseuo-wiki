@@ -2,7 +2,7 @@
 title: Stealth
 description: 
 published: true
-date: 2026-11-19T07:34:20.704Z
+date: 2026-11-19T07:43:39.875Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T07:34:20.704Z
@@ -13,16 +13,16 @@ Stealth is the skill of moving while hidden. A character must already be hidden 
 
 ## Requirements
 - At least `80` Hiding, or the attempt fails with *You are not hidden well enough*.
-- At least `25` Stealth, or any step reveals the character.
 - Light armor. Armor totaling `26` or more armor rating makes stealth impossible, and any armor makes it harder.
 - No mount. Riding while hidden reveals the character as soon as they move.
 
 ## Moving Quietly
-Walking while hidden uses Stealth automatically. On success, the character can take `1` step for every `10` points of Stealth, so `10` steps at `100` skill. When those steps run out, the next step uses Stealth again. A failed attempt reveals the character.
+Stealth is used like any other skill, while already hidden. On success, the character can walk `1` step for every `10` points of Stealth, so `10` steps at `100` skill. Once those steps run out, the next step reveals the character, so Stealth has to be used again before then. A failed attempt reveals the character.
 
-Without armor, the chance to succeed is `(Stealth + 20)%`, so it never fails from `80` Stealth. Each point of armor rating makes it harder.
+The chance to succeed is `(Stealth + 20 - 2 * Armor Rating)%`. Without armor, it never fails from `80` Stealth.
 
-Running uses up `2` steps at a time, and reveals the character once the steps run out instead of trying again.
+- Running while hidden reveals the character at once.
+- After each attempt, the skill can't be used again for `10` seconds.
 
 ## Ambush 𐠒
 Each stealthed step before a ranged attack makes an archer's ambush stronger. See [Archery](/archery).
