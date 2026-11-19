@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2026-11-19T05:35:58.005Z
+date: 2026-11-19T06:56:27.526Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
@@ -37,7 +37,7 @@ Every attack, hit or miss, has a chance to raise the attacker's weapon skill.
 
 Two things can raise hit chance beyond skill:
 - Antimage adds to the attacker's weapon skill for this roll. See [Antimage](#antimage).
-- Stealth archers gain accuracy for every stealthed step before an ambush, and can't miss after `10` steps. 𐠒 See [Archery](/archery).
+- Stealth archers gain accuracy for every stealthed step before an ambush, until the shot can't miss. 𐠒 See [Archery](/archery).
 
 ## Damage
 Every weapon rolls its base damage, which is then changed in two steps.
