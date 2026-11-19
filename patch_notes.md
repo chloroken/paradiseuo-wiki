@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-18T22:48:17.117Z
+date: 2026-11-19T00:35:09.514Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -20,7 +20,7 @@ Changes to *Paradise*, newest first.
     - Remove moongate access to Buccaneer's Den
     - Add thugs and templars at their towns' teleporters for Karma farming
     - Item donations to NPCs no longer give Fame
-    - Utilize existing shrine Karma unlock system
+    - Speak a shrine's mantra beside its ankh to unlock locked Karma
 - Attacking one's own [pet](/pet) is no longer criminal, so pets can be used to train weapon skills
 - Pets now appear as allies to their owners
 - Add more strongbox and trash barrel commands
