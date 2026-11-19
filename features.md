@@ -2,7 +2,7 @@
 title: Shard Features
 description: 
 published: true
-date: 2026-11-19T00:03:10.022Z
+date: 2026-11-19T00:39:03.549Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -19,6 +19,9 @@ Animal tamers can bandage pets from further away, up to `5` tiles at grandmaster
 
 ## Wrestler Rework
 Wrestling moves happen automatically, with no button or macro needed. When an empty-handed punch hits and the moves are off cooldown, armed players and human NPCs are disarmed, and everything else is stunned. The moves cost no stamina, and each attempt starts a `10` second cooldown. See [Weapon](/weapon).
+
+## Carrying Capacity
+In T2A, only Strength affects how much a character can carry. On *Paradise*, Dexterity adds half as much as Strength: `1.75` stones per point, compared to `3.5`. A character with `100` Strength and `100` Dexterity can carry `565` stones instead of `390`. See [Stats](/stats).
 
 ## PvP
 The world uses Trammel rules on the Felucca map, so players can't attack each other anywhere. Duel arenas and guild PvP are the only ways to fight other players. Players also can't steal from other players, though items dropped on the ground can still be taken.
