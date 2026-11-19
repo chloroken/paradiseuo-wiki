@@ -2,10 +2,10 @@
 title: Tactics
 description: 
 published: true
-date: 2026-11-19T04:00:00.000Z
+date: 2026-11-19T05:35:34.254Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-19T04:00:00.000Z
+dateCreated: 2026-11-19T03:55:39.690Z
 ---
 
 # Tactics
@@ -35,7 +35,7 @@ Through [Antimage](/combat#antimage), Tactics also adds to weapon skill when rol
 | Any | 100 | 0 |
 
 ## Manual Training
-Every hit with any weapon, including bare hands, has a chance to raise Tactics. Attacking one's own [pet](/pet) isn't criminal, so a tamed animal makes a safe training partner.
+Every hit with any weapon, including bare hands, has a chance to raise Tactics. Attacking one's own [pet](/pet) isn't criminal 𐠒, so a tamed animal makes a safe training partner.
 
 ## Macro Training
 Tactics has no active use, so it can't be macroed on its own. It only rises through fighting.
