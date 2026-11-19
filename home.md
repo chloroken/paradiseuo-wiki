@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-11-19T06:55:56.807Z
+date: 2026-11-19T07:08:14.725Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:50:31.643Z
@@ -19,7 +19,7 @@ See [Shard Features](/features) for the major ways *Paradise* differs from T2A. 
 - This shard is designed for single players or cooperative groups.
 - Players can't attack each other. Duel arenas and guild wars are the only PvP.
 - Macroing is allowed, but macros that collect items or profit must be attended.
-- New players are protected by the [Young player](/young_player) system.
+- New players are protected by the [Young](/young_player) player system.
 
 ## Accounts
 - A **maximum** of `2` accounts are allowed per person.
