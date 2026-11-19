@@ -2,14 +2,14 @@
 title: House
 description: 
 published: true
-date: 2026-11-18T22:47:05.480Z
+date: 2026-11-19T05:38:52.424Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T21:12:43.985Z
 ---
 
 # House
-Houses are placed in the world with a house deed, bought from architects in carpentry shops. **Houses decay after `90` days, and everything inside is destroyed.** This is not normal Ultima Online behavior. Opening a door or using the front sign refreshes the decay timer.
+Houses are placed in the world with a house deed, bought from architects in carpentry shops. **Houses decay after `90` days, and everything inside is destroyed.** 𐠒 This is not normal Ultima Online behavior. Opening a door or using the front sign refreshes the decay timer.
 
 The owner, co-owners, and friends of a house log out instantly inside it, like at an [inn](/inn). Monsters can't enter houses unless tamed.
 
