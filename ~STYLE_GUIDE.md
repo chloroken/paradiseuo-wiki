@@ -2,7 +2,7 @@
 title: ~Style Guide~
 description: 
 published: true
-date: 2026-11-19T07:52:55.141Z
+date: 2026-11-19T07:53:44.434Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:22:42.267Z
@@ -18,7 +18,7 @@ Every page on the *Paradise* wiki follows these rules, so the wiki reads as one 
 - Sections are separated by headings only, never by horizontal rules.
 
 ## Headings
-Headings use Title Case, with short words (a, an, and, as, at, by, for, in, of, on, or, the, to, with) in lowercase unless they come first.
+Headings use Title Case, with short words (a, an, and, as, at, by, for, in, of, on, or, the, to) in lowercase unless they come first.
 
 - Correct: Training on Pets
 - Incorrect: Training On Pets
