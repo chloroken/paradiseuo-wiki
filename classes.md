@@ -1,8 +1,8 @@
 ---
-title: classes
+title: Classes
 description: 
 published: true
-date: 2026-11-18T23:52:37.136Z
+date: 2026-11-19T00:15:59.753Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
