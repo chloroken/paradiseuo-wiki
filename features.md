@@ -2,7 +2,7 @@
 title: Shard Features
 description: 
 published: true
-date: 2026-11-19T06:55:49.746Z
+date: 2026-11-19T07:44:45.220Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -18,7 +18,7 @@ Stealth archers can ambush their targets. Breaking Hiding with a ranged weapon a
 Animal tamers can bandage pets from further away as their [Veterinary](/veterinary) skill rises, instead of only from an adjacent tile. They can also attack their own pets without becoming criminals, to train combat skills and Veterinary. During alpha, Animal Taming gains skill twice as fast as normal. Pets always keep pace with their owner, even when the owner is mounted. Silver steeds and nightmares have a small chance to spawn Shiny, with a rare hue. See [Mount](/mount).
 
 ## Wrestler Rework
-Wrestling moves happen automatically, with no button or macro needed. When an empty-handed punch hits and the moves are off cooldown, armed players and human NPCs are disarmed, and everything else is stunned. The moves cost no stamina, and each attempt starts a short cooldown. See [Weapon](/weapon).
+Wrestling moves happen automatically, with no button or macro needed. When an empty-handed punch hits and the moves are off cooldown, armed players and human NPCs are disarmed, and everything else is stunned. The moves cost no stamina, and each attempt starts a short cooldown. See [Wrestling](/wrestling).
 
 ## Antimage
 Characters with little or no Magery get three combat bonuses, meant to make specializing in weapons as fun as playing a mage. Tactics improves their accuracy, they take less physical damage, and their hit points regenerate faster. The bonuses are strongest with no Magery, and shrink as Magery rises. Only players get them. See [Combat](/combat#antimage).
