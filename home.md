@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-11-19T07:09:46.556Z
+date: 2026-11-19T07:49:44.253Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:50:31.643Z
@@ -26,7 +26,7 @@ See [Shard Features](/features) for the major ways *Paradise* differs from T2A. 
 - Each account can have `5` characters and `1` [house](/house).
 
 ## Decay
-- [Houses](/house) decay after `90` days without a refresh, and everything inside is destroyed. 𐠒
+- Houses decay after `90` days without a refresh, and everything inside is destroyed. 𐠒
 - [Boats](/boat) sink `24` hours after their last refresh. 𐠒
 
 ## Conduct
