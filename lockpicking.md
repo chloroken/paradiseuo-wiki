@@ -2,7 +2,7 @@
 title: Lockpicking
 description: 
 published: true
-date: 2026-11-19T00:20:20.342Z
+date: 2026-11-19T11:14:53.728Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T21:00:26.779Z
@@ -41,6 +41,54 @@ Dungeon chests are found in dungeons and hold traditional dungeon loot. They ran
 | 4 | 75 | 85 | 100 |
 | 5 | 90 | 100 | 100 |
 
+## Crafted Containers
+A chest, box, or crate made with [Carpentry](/carpentry) gets a lock and key if the carpenter passes a Tinkering check. The chance is `(Tinkering + 5) / 20`, so it's `25%` with no Tinkering and certain from `15` Tinkering.
+
+The carpenter's Tinkering then sets how hard the lock is to pick:
+- Lockpicking needed to try: `0.8 * Tinkering - 4`
+- The chance to pick rises evenly from `0.8 * Tinkering - 14` Lockpicking, and never fails from `0.8 * Tinkering + 35`, up to a maximum of `95`.
+
+| Carpenter's Tinkering | Lockpicking to Try | Never Fails At |
+|:-|:-:|:-:|
+| 0 | 0 | 35 |
+| 15 | 8 | 47 |
+| 50 | 36 | 75 |
+| 75 | 56 | 95 |
+| 100 | 76 | 95 |
+
+Above `75` Tinkering, the lock gets no harder to pick, but fewer lockpickers can try it at all. No crafted lock stops a lockpicker with `95` or more.
+
 ## Manual Training
+Pick chests in towns and dungeons, and in your spare time pick the hardest crafted container you can find.
 
 ## Macro Training
+Example TazUO Legion script:
+```
+API.SysMsg("Target your lockpick")
+pick = API.RequestTarget()
+API.SysMsg("Target the box")
+box = API.RequestTarget()
+API.SysMsg("Target the box's key")
+key = API.RequestTarget()
+
+while True:
+    # Pick the lock
+    API.ClearJournal()
+    API.UseObject(pick)
+    API.WaitForTarget()
+    API.Target(box)
+    API.Pause(4)
+
+    if API.InJournal("successfully"):
+        # Relock it with the key
+        API.ClearJournal()
+        API.UseObject(key)
+        API.WaitForTarget()
+        API.Target(box)
+        API.Pause(1)
+    elif API.InJournal("broke"):
+        API.SysMsg("Lockpick broke, target a new one")
+        pick = API.RequestTarget()
+
+    API.Pause(1)
+```
