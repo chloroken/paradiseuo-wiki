@@ -2,7 +2,7 @@
 title: Monsters
 description: 
 published: true
-date: 2026-11-19T07:54:02.907Z
+date: 2026-11-19T07:59:48.140Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:09:38.337Z
@@ -12,7 +12,7 @@ dateCreated: 2026-11-19T00:09:38.337Z
 Monsters roam the wilds and fill the [dungeons](/dungeons). They range from rats and slimes near town to dragons and daemons in the deepest dungeons, and many of them can be tamed or turned against each other.
 
 ## T2A Monsters 𐠒
-Only monsters from T2A and earlier roam the world, with the silver steed as the one exception. Creatures added by later expansions, such as plague beasts, boglings, juka, and greater dragons, have been removed, and the dungeons added after T2A are closed. See [Shard Features](/features#t2a-monsters).
+Only monsters from T2A and earlier roam the world, with the silver steed as the one exception. Creatures added by later expansions, such as plague beasts, boglings, juka, and greater dragons, have been removed, and the dungeons added after T2A are closed. See [T2A Monsters](/features#t2a-monsters).
 
 ## Behavior 𐠒
 Monsters on *Paradise* behave differently from standard ServUO:
