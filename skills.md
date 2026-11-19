@@ -2,7 +2,7 @@
 title: Skills
 description: 
 published: true
-date: 2026-11-19T00:17:36.713Z
+date: 2026-11-19T00:33:24.042Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -67,7 +67,7 @@ Most characters take at least one of these skills, whatever their build.
 - [Veterinary](/veterinary) 𐠒
 - [Wrestling](/wrestling)
 
-𐠒 Has a *Paradise* change. See [Novelties](/novelties).
+𐠒 Has a *Paradise* change. See [Shard Features](/features).
 
 ## Disabled Skills
 - Bushido
