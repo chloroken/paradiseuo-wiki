@@ -1,8 +1,8 @@
 ---
-title: armor
+title: Armor
 description: 
 published: true
-date: 2026-11-18T22:44:13.618Z
+date: 2026-11-19T00:15:24.357Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T03:33:34.463Z
