@@ -2,7 +2,7 @@
 title: Commands
 description: 
 published: true
-date: 2026-11-19T07:25:59.640Z
+date: 2026-11-19T07:49:07.476Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:06:15.205Z
@@ -70,7 +70,7 @@ Other speech commands are listed on their own pages:
 - Pet commands, such as `all follow me`. See [Pet](/pet).
 - Stable commands, such as `stable` and `claim`. See [Stable](/stable).
 - House commands, such as `I wish to lock this down`. See [House](/house).
-- Tillerman commands, such as `forward` and `stop`. See [Boat](/boat).
+- Tillerman commands, such as `forward` and `stop`.
 
 ## Server Commands
 Players can type commands in the chat line starting with `[` to check or change account and server details.
