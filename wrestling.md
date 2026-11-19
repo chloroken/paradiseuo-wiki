@@ -2,7 +2,7 @@
 title: Wrestling
 description: 
 published: true
-date: 2026-11-19T07:33:41.865Z
+date: 2026-11-19T08:02:00.782Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T07:33:41.865Z
@@ -12,7 +12,7 @@ dateCreated: 2026-11-19T07:33:41.865Z
 Wrestling is the skill of fighting with bare hands. It also decides how well an empty-handed character defends, which matters to mages who keep their hands free for casting.
 
 ## Fighting Unarmed
-A character with nothing in their hands fights with their fists, using Wrestling to hit. Fists do `1` to `8` damage before bonuses, and swing quickly. Tactics, Strength, and Anatomy raise fist damage like any other weapon. See [Combat](/combat#damage).
+A character with nothing in their hands fights with their fists, using Wrestling to hit. Fists do `1` to `8` damage before bonuses, and swing quickly. Tactics, Strength, and Anatomy raise fist damage like any other weapon. See [Damage](/combat#damage).
 
 A spellbook or a light can be held without counting as a weapon.
 
