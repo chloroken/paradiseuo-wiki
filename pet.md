@@ -2,7 +2,7 @@
 title: Pet
 description: 
 published: true
-date: 2026-11-19T00:45:30.574Z
+date: 2026-11-19T00:47:37.605Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -60,6 +60,8 @@ This is compared to the pet's minimum taming skill, the skill needed to tame it:
 | Minimum Taming + 4.9 or higher | 99 |
 | Equal to Minimum Taming | 70 |
 | Below Minimum Taming - 5 | 0 |
+
+Pets that need `29.1` or less to tame, such as horses and ostards, always obey, whatever their owner's skill or Loyalty. Summoned creatures always obey as well.
 
 For example, with a pet that needs `90` to tame:
 - `100` Animal Taming and `100` Animal Lore give a weighted skill of `100`, for a `99%` chance.
