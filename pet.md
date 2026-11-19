@@ -2,7 +2,7 @@
 title: Pet
 description: 
 published: true
-date: 2026-11-19T00:47:37.605Z
+date: 2026-11-19T05:34:19.423Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -19,7 +19,7 @@ Most pets take up `1` follower slot, but strong pets, such as drakes, take `2` s
 Pets train their skills by using them, just like players, but twice as quickly. Even if a pet was paralyzed while being tamed and took the skill penalty, its skills can recover and keep training to their maximum. Pets can train each of their [stats](/stats) up to `100`, the same cap as players. A pet that already starts above `100` in a stat, such as a dragon's Strength, can't raise that stat any further. Animal Lore reveals a creature's stats and skills.
 
 ## Healing Pets
-Pets are healed with bandages using [Veterinary](/veterinary). The range at which a pet can be bandaged grows with Veterinary skill:
+Pets are healed with bandages using [Veterinary](/veterinary). The range at which a pet can be bandaged grows with Veterinary skill 𐠒:
 
 | Veterinary | Range (tiles) |
 |:-|:-:|
@@ -90,8 +90,8 @@ Some pets have a Pack Instinct. When an owner controls several pets with the sam
 | Ostard | Desert Ostard, Forest Ostard, Frenzied Ostard |
 
 ## Training on Pets
-Players can attack their own pets to train combat skills, and heal them to train Veterinary.
-- A player's own pets appear green to them, and attacking them is never a criminal act.
+Players can attack their own pets to train combat skills, and heal them to train Veterinary. 𐠒
+- A player's own pets appear green to them, and attacking them is never a criminal act. 𐠒
 - Pets don't fight back when attacked.
 - Players and their pets can't attack other players' pets.
 
@@ -110,7 +110,7 @@ These are some of the most useful creatures to tame.
 | Drake | 2 | 84.3 | | Fire breath |
 | Hell Hound | 1 | 85.5 | Canine | Fire breath |
 | Predator Hellcat | 2 | 90 | Feline | Fire breath |
-| Silver Steed | 1 | 90 | | Mount, can be Shiny |
+| Silver Steed | 1 | 90 | | Mount, can be Shiny 𐠒 |
 | Dragon | 3 | 93.9 | | Fire breath |
-| Nightmare | 2 | 100 | | Mount, fire breath, can be Shiny |
+| Nightmare | 2 | 100 | | Mount, fire breath, can be Shiny 𐠒 |
 | White Wyrm | 3 | 100 | | Highest damage |
