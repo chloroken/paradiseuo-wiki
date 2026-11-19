@@ -1,8 +1,8 @@
 ---
-title: stable
+title: Stable
 description: 
 published: true
-date: 2026-11-18T22:50:19.551Z
+date: 2026-11-19T00:17:14.241Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T04:10:59.381Z
