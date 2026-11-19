@@ -2,7 +2,7 @@
 title: Shard Features
 description: 
 published: true
-date: 2026-11-19T07:58:51.338Z
+date: 2026-11-19T11:43:04.539Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -28,7 +28,7 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 - Dexterity adds carrying capacity, half as much per point as Strength. See [Carrying Capacity](/stats#carrying-capacity).
 - Animal tamers can bandage pets from further away as their Veterinary skill rises. See [Veterinary: Range](/veterinary#range).
 - Players can attack their own pets without becoming criminals, and their own pets appear green to them. See [Training on Pets](/pet#training-on-pets).
-- Pets always keep pace with their owner, even when the owner is mounted.
+- Pets keep pace with their owner, even when the owner is mounted.
 - During alpha, Animal Taming gains skill twice as fast as normal.
 - Silver steeds and nightmares have a small chance to spawn Shiny, with a rare hue. See [Mount](/mount).
 - Houses decay if they aren't refreshed, and everything inside is destroyed rather than dropped on the ground. See [House](/house).
