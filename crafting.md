@@ -2,7 +2,7 @@
 title: Crafting
 description: 
 published: true
-date: 2026-11-19T07:58:40.176Z
+date: 2026-11-19T08:03:56.339Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:59.693Z
@@ -49,7 +49,7 @@ Weapons, armor, clothing, furniture, and other gear can come out exceptional. Th
 Fletching works differently: half the success chance, minus `10%`, so at most `40%`.
 
 An exceptional item gets these bonuses:
-- Weapons do `20%` more damage. See [Damage](/combat#damage).
+- Weapons do `20%` more damage. See [Combat: Damage](/combat#damage).
 - Armor gets `8` more armor rating. See [Armor](/armor).
 - Weapons and armor last `20%` longer before breaking.
 
