@@ -2,7 +2,7 @@
 title: Carpentry
 description: 
 published: true
-date: 2026-11-19T01:00:28.390Z
+date: 2026-11-19T11:19:33.253Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T06:34:26.911Z
@@ -40,7 +40,7 @@ Carpentry is the skill of turning boards into furniture, containers, weapons, sh
 | Large table | 84.2 | 109.2 | 27 boards |
 
 ## Containers
-When a chest, box, or crate is crafted by a carpenter with enough Tinkering skill, it is created as a lockable container and comes with a key. Higher Tinkering makes the lock harder to pick. See [Tinkering](/tinkering).
+A chest, box, or crate made by a carpenter can come with a lock and a key, depending on the carpenter's [Tinkering](/tinkering). Higher Tinkering makes the lock harder to pick. See [Crafted Containers](/lockpicking#crafted-containers).
 
 | Item | Minimum Skill | Maximum Skill | Materials |
 |:-|:-:|:-:|:-:|
