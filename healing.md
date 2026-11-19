@@ -2,7 +2,7 @@
 title: Healing
 description: 
 published: true
-date: 2026-11-19T07:34:36.283Z
+date: 2026-11-19T07:44:57.790Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T07:34:36.283Z
@@ -48,7 +48,7 @@ Bandaging oneself is much slower: `9.4 + 0.6 * (120 - Dexterity) / 10` seconds.
 | 100 | 10.6 |
 
 ## Curing Poison
-If the healer's Healing and Anatomy are both `60` or higher, bandaging a poisoned target tries to cure it instead of healing it. The chance to cure is:
+Bandaging a poisoned target always tries to cure the poison instead of healing, so a poisoned target can't be healed with bandages until the poison is gone. The cure always fails unless the healer's Healing and Anatomy are both `60` or higher. The chance to cure is:
 
 `(Healing - 30) / 50 - (0.1 * Poison Level) - (0.02 * Slips)`
 
