@@ -1,8 +1,8 @@
 ---
-title: peacemaking
+title: Peacemaking
 description: 
 published: true
-date: 2026-11-18T22:48:29.026Z
+date: 2026-11-19T00:19:20.439Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-10T02:45:03.051Z
