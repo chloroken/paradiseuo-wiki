@@ -2,7 +2,7 @@
 title: Pet
 description: 
 published: true
-date: 2026-11-19T05:34:19.423Z
+date: 2026-11-19T06:56:06.360Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -19,15 +19,7 @@ Most pets take up `1` follower slot, but strong pets, such as drakes, take `2` s
 Pets train their skills by using them, just like players, but twice as quickly. Even if a pet was paralyzed while being tamed and took the skill penalty, its skills can recover and keep training to their maximum. Pets can train each of their [stats](/stats) up to `100`, the same cap as players. A pet that already starts above `100` in a stat, such as a dragon's Strength, can't raise that stat any further. Animal Lore reveals a creature's stats and skills.
 
 ## Healing Pets
-Pets are healed with bandages using [Veterinary](/veterinary). The range at which a pet can be bandaged grows with Veterinary skill 𐠒:
-
-| Veterinary | Range (tiles) |
-|:-|:-:|
-| 0 – 24.9 | 1 |
-| 25 – 49.9 | 2 |
-| 50 – 74.9 | 3 |
-| 75 – 99.9 | 4 |
-| 100 | 5 |
+Pets are healed with bandages using [Veterinary](/veterinary). The range at which a pet can be bandaged grows with Veterinary skill. 𐠒 See [Veterinary](/veterinary#range).
 
 ## Controlling Pets
 Animal tamers command pets with phrases like `all follow me` and `dragon kill`. Tamers can control powerful monsters, which makes hunting for loot much easier, provided their pets stay alive and obedient.
