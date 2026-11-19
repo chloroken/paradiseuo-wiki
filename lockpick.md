@@ -1,8 +1,8 @@
 ---
-title: lockpick
+title: Lockpick
 description: 
 published: true
-date: 2026-11-18T22:47:21.052Z
+date: 2026-11-19T00:20:36.235Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-10T01:52:26.695Z
