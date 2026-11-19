@@ -2,14 +2,14 @@
 title: Reputation
 description: 
 published: true
-date: 2026-11-19T00:18:00.314Z
+date: 2026-11-19T05:34:04.982Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-14T06:31:40.281Z
 ---
 
 # Reputation
-A character's reputation is made of two values: Fame and Karma. Each has its own benefits, and together they determine a character's [title](#titles).
+A character's reputation is made of two values: Fame and Karma, and together they determine a character's [title](#titles) and benefits. 𐠒 
 
 ## Fame
 Fame measures how respected a character is by other citizens, and gives different bonuses depending on how famous a character is. At high Fame, jewelers pay more for gems. At low Fame, the chance of skill gain is higher. Fame gains slow down as Fame rises.
