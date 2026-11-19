@@ -1,8 +1,8 @@
 ---
-title: discordance
+title: Discordance
 description: 
 published: true
-date: 2026-11-18T22:46:26.169Z
+date: 2026-11-19T00:16:16.450Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T07:01:20.681Z
