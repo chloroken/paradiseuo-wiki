@@ -2,7 +2,7 @@
 title: Shard Features
 description: 
 published: true
-date: 2026-11-19T00:39:03.549Z
+date: 2026-11-19T01:00:59.129Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -30,7 +30,7 @@ The world uses Trammel rules on the Felucca map, so players can't attack each ot
 Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower. See [Reputation](/reputation).
 
 ## Travel
-Mark, Recall, and Gate Travel don't work in dungeons or the Lost Lands. Buccaneer's Den has no moongate, and Serpent's Hold is reached by a teleporter north of Trinsic.
+Mark, Recall, and Gate Travel don't work in dungeons or the Lost Lands. Buccaneer's Den has no moongate, and Serpent's Hold can also be reached by a teleporter north of Trinsic.
 
 ## Decay
 Houses decay after `90` days without a refresh, and everything inside is destroyed rather than dropped on the ground. Boats sink `24` hours after their last refresh, to stop players blocking objectives and islands with boats.
