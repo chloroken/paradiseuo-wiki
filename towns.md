@@ -2,7 +2,7 @@
 title: Towns
 description: 
 published: true
-date: 2026-11-19T07:09:54.483Z
+date: 2026-11-19T08:01:26.492Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T05:45:52.782Z
@@ -29,7 +29,7 @@ Towns are where players bank, buy and sell, train skills, and stable their pets.
 | Vesper | No | |
 | Yew | Yes | |
 
-Serpent's Hold and Buccaneer's Den each have a teleporter leading to them. See [Reputation](/reputation#karma-towns). 𐠒
+Serpent's Hold and Buccaneer's Den each have a teleporter leading to them. See [Karma Towns](/reputation#karma-towns). 𐠒
 
 ## Lost Lands
 | Town | Moongate | Notes |
