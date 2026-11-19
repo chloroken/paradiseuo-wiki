@@ -2,7 +2,7 @@
 title: Lumberjacking
 description: 
 published: true
-date: 2026-11-19T07:47:21.546Z
+date: 2026-11-19T07:59:06.429Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:14:13.025Z
@@ -22,7 +22,7 @@ Double-click an axe, then target a tree within `2` tiles. The character chops a 
 Trees share their wood with nearby trees, in patches of `4` by `3` tiles. Each patch holds enough wood for `2` to `4` successful chops, then shows *There's not enough wood here to harvest.* A patch refills `20` to `30` minutes after it runs out, so it's faster to move on to another group of trees than to wait.
 
 ## Logs and Boards
-A log weighs `2` stones, so a full load adds up quickly. Using an axe on logs cuts them into boards, which most carpentry and fletching recipes use. A pack animal can carry the extra weight, and Dexterity adds carrying capacity. See [Stats](/stats#carrying-capacity). 𐠒
+A log weighs `2` stones, so a full load adds up quickly. Using an axe on logs cuts them into boards, which most carpentry and fletching recipes use. A pack animal can carry the extra weight, and Dexterity adds carrying capacity. See [Carrying Capacity](/stats#carrying-capacity). 𐠒
 
 ## Axe Damage
 Lumberjacking adds bonus damage to attacks made with axes. The bonus is `(Lumberjacking / 5)%`, up to `20%` at grandmaster.
