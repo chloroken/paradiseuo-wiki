@@ -2,7 +2,7 @@
 title: Lockpicking
 description: 
 published: true
-date: 2026-11-19T11:14:53.728Z
+date: 2026-11-19T11:26:06.896Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T21:00:26.779Z
@@ -64,23 +64,20 @@ Pick chests in towns and dungeons, and in your spare time pick the hardest craft
 ## Macro Training
 Example TazUO Legion script:
 ```
-API.SysMsg("Target your lockpick")
-pick = API.RequestTarget()
+pick = API.FindType(0x14FC, API.Backpack)
 API.SysMsg("Target the box")
 box = API.RequestTarget()
 API.SysMsg("Target the box's key")
 key = API.RequestTarget()
 
 while True:
-    # Pick the lock
     API.ClearJournal()
     API.UseObject(pick)
     API.WaitForTarget()
     API.Target(box)
     API.Pause(4)
 
-    if API.InJournal("successfully"):
-        # Relock it with the key
+    if API.InJournal("quickly") or API.InJournal("appear"):
         API.ClearJournal()
         API.UseObject(key)
         API.WaitForTarget()
@@ -88,7 +85,7 @@ while True:
         API.Pause(1)
     elif API.InJournal("broke"):
         API.SysMsg("Lockpick broke, target a new one")
-        pick = API.RequestTarget()
+        pick = API.FindType(0x14FC, API.Backpack)
 
     API.Pause(1)
 ```
