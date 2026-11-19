@@ -25,7 +25,9 @@ Each type of weapon is trained with its own skill, and some types have special a
 | Spears | Fencing | Spears, short spears, pikes |
 | Knives | Swordsmanship | Cleavers, butcher knives, skinning knives |
 | Bows | [Archery](/archery) | Bows, crossbows, heavy crossbows |
-| Fists | Wrestling] | Bare hands |
+| Fists | Wrestling | Bare hands |
+
+Fighting with bare hands has its own automatic moves and unarmed defense. See [Wrestling](/wrestling).
 
 ## Special Attacks
 Two-handed axes, polearms, maces, and spears each have a special attack. Every hit has an `Anatomy / 400` chance to trigger it, which is `25%` at `100` [Anatomy](/anatomy).
@@ -38,16 +40,7 @@ Two-handed axes, polearms, maces, and spears each have a special attack. Every h
 
 Concussion Blow and Crushing Blow can only be delivered by players and human NPCs. Concussion Blow also lowers the target's maximum mana.
 
-A frozen target can't move, but it can still attack anything in reach.
-
-## Wrestling Moves 𐠒
-Fighting with empty hands allows two automatic moves: armed players and human NPCs can be disarmed, and everything else can be stunned. See [Wrestling](/wrestling).
-
 ## Other Effects on Hit
 - Maces and staves drain `3` to `5` of the target's stamina with every hit.
-- Axes gain bonus damage from [Lumberjacking](/lumberjacking), up to `20%` at grandmaster.
 - Swords, knives, daggers, and spears coated with [Poisoning](/poisoning) have a `50%` chance per hit to poison the target, using one charge each hit.
 - Arrows and bolts that hit a monster or animal have a `40%` chance to land in its backpack, where they can be looted back. Missed shots have a `40%` chance to drop on the ground.
-
-## Unarmed Defense
-When fighting with bare hands, a character defends with Wrestling, or with Anatomy and Evaluating Intelligence if that's better. See [Unarmed Defense](/wrestling#unarmed-defense).

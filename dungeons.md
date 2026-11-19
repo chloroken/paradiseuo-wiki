@@ -19,7 +19,7 @@ Dungeons are found across Britannia and the Lost Lands. Monsters in dungeons att
 | [Despise](/despise) | 3 | North of Britain | Easy monsters, evil mages on floor 3 |
 | [Destard](/destard) | 3 | Trinsic Jungle | Dragons, drakes, and the ancient wyrm |
 | [Hythloth](/hythloth) | 4 | Fire Island | |
-| [Shame](/shame) | 4 | South of Yew | All types of elementals, including blood elementals on floor 5 |
+| [Shame](/shame) | 5 | South of Yew | All types of elementals, including blood elementals on floor 5 |
 | [Wind](/wind) | 1 | North of Britain | Daemons, dragons, drakes, and liches |
 | [Wrong](/wrong) | 2 | Northwest of Minoc | Lizardmen, ratmen, ettins, trolls, and ogres |
 

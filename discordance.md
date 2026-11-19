@@ -12,7 +12,7 @@ dateCreated: 2026-11-08T07:01:20.681Z
 Discordance uses a musical instrument to weaken an enemy.
 
 ## Effect
-Discordance lowers the target's [stats](/stats) and [skills](/skills) for a highly random duration, weakening both its defense and offense. The reduction is `(Discordance / 5)%`, capping at `20%` at grandmaster.
+Discordance lowers the target's [stats](/stats) and [skills](/skills) for a short, random duration, weakening both its defense and offense. The reduction is `(Discordance / 5)%`, capping at `20%` at grandmaster.
 
 | Discordance | Reduction (%) |
 |:-|:-:|
@@ -26,7 +26,7 @@ Discordance lasts `5` to `12.5` seconds. When it would expire, there is a `33%` 
 If the bard becomes hidden, through a skill like [Hiding](/hiding) or a spell like [Invisibility](/invisibility), Discordance ends in `15` seconds and is not extended again.
 
 ## Cooldown
-Discordance has a fixed `5` second cooldown, whether it succeeds or fails. 𐠒
+Discordance has a fixed `5` second cooldown, whether it succeeds or fails.
 
 ## Manual Training
 

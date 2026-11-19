@@ -42,13 +42,13 @@ Most characters take at least one of these skills.
 - [Forensic Evaluation](/forensic_evaluation)
 - [Healing](/healing)
 - [Herding](/herding)
-- [Hiding](/hiding)
+- [Hiding](/hiding) 𐠒
 - [Inscription](/inscription)
 - [Item Identification](/item_identification)
 - [Lockpicking](/lockpicking)
 - [Lumberjacking](/lumberjacking)
 - [Mace Fighting](/mace_fighting)
-- [Magery](/magery)
+- [Magery](/magery) 𐠒
 - [Meditation](/meditation)
 - [Musicianship](/musicianship)
 - [Mining](/mining)
@@ -61,16 +61,16 @@ Most characters take at least one of these skills.
 - [Snooping](/snooping)
 - [Spirit Speak](/spirit_speak)
 - [Stealing](/stealing) (not from players)
-- [Stealth](/stealth)
+- [Stealth](/stealth) 𐠒
 - [Swordsmanship](/swordsmanship)
 - [Tactics](/tactics) 𐠒
 - [Tailoring](/tailoring)
 - [Tinkering](/tinkering)
 - [Tracking](/tracking)
-- [Veterinary](/veterinary) 𐠒
+- [Veterinary](/veterinary)
 - [Wrestling](/wrestling)
 
-𐠒 Has a *Paradise* change. See [Shard Features](/features).
+𐠒 Part of a *Paradise* rework. See [Shard Features](/features).
 
 ## Disabled Skills
 - Bushido

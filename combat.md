@@ -42,7 +42,7 @@ Two things can raise hit chance beyond skill:
 ## Damage
 Every weapon rolls its base damage, which is then changed in two steps.
 
-First, [Tactics](/tactics) changes the damage by `(Tactics − 50)%`, from `−50%` at `0` to `+50%` at `100`. A character with no Tactics does half damage.
+First, [Tactics](/tactics) changes the damage by `(Tactics - 50)%`, from `-50%` at `0` to `+50%` at `100`. A character with no Tactics does half damage.
 
 Second, these bonuses are added together, then applied to the result:
 
@@ -51,7 +51,7 @@ Second, these bonuses are added together, then applied to the result:
 | Strength | 1% per 5 Strength | 20 |
 | [Anatomy](/anatomy) | 1% per 5 Anatomy, plus 10% at grandmaster | 30 |
 | [Lumberjacking](/lumberjacking) | 1% per 5 Lumberjacking, axes only | 20 |
-| Weapon quality | +20% exceptional, −20% low quality | |
+| Weapon quality | +20% exceptional, -20% low quality | |
 
 A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` times the weapon's base damage. With an exceptional weapon, that rises to `1.5 * 1.7 = 2.55` times, and with an exceptional axe and `100` Lumberjacking, to `1.5 * 1.9 = 2.85` times.
 
@@ -67,7 +67,7 @@ Armor then absorbs part of the damage before it reaches the target. See [Armor](
 ## Antimage 𐠒
 Characters with little or no Magery get three bonuses in combat, meant to make fighting with weapons, in melee or at range, as fun as playing a tamer, bard, or mage. Each bonus is at its full size with `0` Magery, shrinks evenly as Magery rises, and is gone at `100`. Only players get these bonuses, not monsters or pets.
 
-- Accuracy: Tactics adds up to `30` points to the attacker's weapon skill when rolling to hit, for every kind of weapon, including bows and bare hands. The bonus is `30 * (Tactics / 100) * ((100 − Magery) / 100)` points.
+- Accuracy: Tactics adds up to `30` points to the attacker's weapon skill when rolling to hit, for every kind of weapon, including bows and bare hands. The bonus is `30 * (Tactics / 100) * ((100 - Magery) / 100)` points.
 - Toughness: physical damage taken is reduced by up to `20%`, after armor. This covers weapons and monsters' melee attacks, but not spells, breath, or poison.
 - Regeneration: hit points regenerate up to `5` times as fast.
 

@@ -14,7 +14,7 @@ Every character has three stats: Strength, Dexterity, and Intelligence. Each sta
 | Stat | Gives | Also Affects |
 |:-|:-:|:-:|
 | Strength | Hit points | Weapon damage, carrying capacity |
-| Dexterity | Stamina | Swing speed, bandage speed, carrying capacity 𐠒 |
+| Dexterity | Stamina | Swing speed, bandage speed, carrying capacity |
 | Intelligence | Mana | |
 
 Almost every [class](/classes) takes `100` Strength, for the hit points.
@@ -27,8 +27,8 @@ Almost every [class](/classes) takes `100` Strength, for the hit points.
 ## Dexterity
 - Maximum stamina equals Dexterity.
 - Melee and ranged attacks are faster with more current stamina, so a tired character swings more slowly. See [Combat](/combat).
-- Bandages are faster at `40` and `100` Dexterity. See [Bandage Speed](/veterinary#bandage-speed).
-- Carrying capacity rises by `1.75` stones per point of Dexterity, half as much as Strength. 𐠒
+- Bandages are faster at `40` and `100` Dexterity. See [Bandage Speed](/healing#bandage-speed).
+- Carrying capacity rises by `1.75` stones per point of Dexterity, half as much as Strength.
 
 ## Intelligence
 - Maximum mana equals Intelligence.
@@ -46,11 +46,11 @@ A character can carry `40 + 3.5 * Strength + 1.75 * Dexterity` stones before bec
 ## Gaining Stats
 Stats rise while training [skills](/skills), as long as the skill is set to increase. This still works when the skill is already at its maximum, though more slowly. A skill that is locked or set to decrease never raises stats.
 
-- Each stat can only rise once in a while, so gains come in a slow trickle rather than all at once.
+- Each time a skill rolls for a gain, a stat set to increase has a small chance to rise, so stats climb gradually alongside skills.
 - Once the three stats total `225`, a stat can only rise if another stat is set to decrease.
 - Stats are set to increase, decrease, or stay locked with the arrows beside each stat in the status window.
 
-Some skills are good for gaining a particular stat:
+Some skills raise a particular stat and are easy to use over and over, which makes them convenient for gaining it. They aren't always the skills with the highest chance for that stat:
 - Strength: Camping, Herding, and Mining
 - Dexterity: Snooping, Musicianship, and Camping
 - Intelligence: Herding, Camping, and Spirit Speak

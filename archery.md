@@ -55,6 +55,6 @@ Archers with little or no Magery get the same [Antimage](/combat#antimage) bonus
 The stealth archer combines Archery with Hiding and Stealth to open every fight with an ambush. Archery is also a common second weapon skill for bards and fighters, for finishing off fleeing targets. See [Classes](/classes).
 
 ## Manual Training
-Every shot, hit or miss, has a chance to raise Archery. Attacking one's own [pet](/pet) isn't criminal 𐠒, so a tamed animal makes a safe training partner, as long as there are arrows or bolts to spare.
+Every shot, hit or miss, has a chance to raise Archery. Attacking one's own [pet](/pet) isn't criminal, so a tamed animal makes a safe training partner, as long as there are arrows or bolts to spare.
 
 ## Macro Training

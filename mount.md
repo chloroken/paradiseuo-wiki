@@ -26,7 +26,7 @@ Forest and desert ostards are found in the Lost Lands, in their matching biomes.
 Frenzied ostards have more stamina and stronger stats than their calmer cousins. They're found east of Delucia, near Tortoise Lagoon, and come in dark browns and yellows.
 
 ## Silver Steed
-Silver steeds are found in the Oasis in the Lost Lands. A silver steed takes up `1` follower slot and fights like a strong horse. There is a `1%` chance for a silver steed to be Shiny, giving it an ice-white hue. 𐠒
+Silver steeds are found in the Oasis in the Lost Lands. A silver steed takes up `1` follower slot and fights like a strong horse. There is a `1%` chance for a silver steed to be Shiny, giving it an ice-white hue.
 
 ![a normal and shiny silver steed](/mount_silversteed.png)
 Shiny above, normal below.
@@ -39,7 +39,7 @@ Nightmares come in one of four styles, based on mane and color: Short Light, Sho
 ![all 4 normal nightmares](/mount_nightmares.png)
 Normal nightmares.
 
-There is a `1%` chance for a nightmare to be Shiny, giving it a rare metallic hue on top of its random style. 𐠒
+There is a `1%` chance for a nightmare to be Shiny, giving it a rare metallic hue on top of its random style.
 
 ![all 4 shiny nightmares](/mount_nightmares_shiny.png)
 Shiny nightmares.

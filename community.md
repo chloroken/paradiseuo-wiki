@@ -15,4 +15,4 @@ dateCreated: 2026-11-19T01:58:52.454Z
 The [Discord server](https://discord.gg/HeQHyJzBPr) is the best place to chat with other players, ask questions, and reach staff.
 
 ## Forums
-The [forums](https://forums.paradiseuo.com/) hold longer discussions, guides, and announcements, and serve as the issues/bug/ideas hub.
+The [forums](https://forums.paradiseuo.com/) hold longer discussions, guides, and announcements, and are where bugs and ideas are reported.

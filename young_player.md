@@ -17,8 +17,7 @@ New players start with Young status, which protects their characters while they 
 - When a Young player dies, they keep all of their items in their backpack instead of dropping them on their corpse.
 - Healers heal Young players to full health for free when they walk up, once every `5` minutes.
 - Young players can log out instantly anywhere instead of needing to wait.
-- Young players can travel anywhere by Recall, Gate Travel, and moongates. 𐠒
-- Level `0` [treasure maps](/treasure_map) can only be used by Young players.
+- Young players can travel anywhere by Recall, Gate Travel, and moongates.
 
 ## Limits
 - Dungeons have no Young protection. Entering one shows a warning, and monsters inside attack as normal. See [Dungeons](/dungeons).

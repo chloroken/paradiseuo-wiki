@@ -54,8 +54,8 @@ Changes to *Paradise*, newest first.
 - [Veterinary](/veterinary) adds `Veterinary / 25` extra tiles to pet bandage range
 - Bandage weight halved
 - Runebook use range set to `3`, from `2`
-- Runebook use cooldown set to `3`, from `7`
-- Remove non-T2A items from the Carpentry crafting gump
+- Runebook use cooldown set to `3` seconds, from `7`
+- Remove non-T2A items from the Carpentry crafting menu
 - Set house decay to `90` days
 - House decay no longer drops items; they're deleted instead
 - Meditation, potions, and Wrestling ignore equippable lights
@@ -143,7 +143,7 @@ Changes to *Paradise*, newest first.
     - No longer cast Invisibility
 
 ## 2026.11.05b
-- Fix the Cartography crafting gump:
+- Fix the Cartography crafting menu:
     - Remove tattered wall maps and the wall map of Eodon
     - Move the star chart from last to first
 - Allow smelting ore directly from a pack animal's inventory

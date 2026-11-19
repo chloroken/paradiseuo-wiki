@@ -24,7 +24,7 @@ Crafters turn gathered resources into weapons, armor, clothing, furniture, potio
 | [Tailoring](/tailoring) | Sewing kit | Cloth, leather | Clothing, leather armor |
 | [Tinkering](/tinkering) | Tinker's tools | Ingots, boards | Tools, jewelry, traps |
 
-Blacksmithing needs an anvil and a forge nearby. Raw resources come from the gathering skills: [Mining](/mining) for ore, [Lumberjacking](/lumberjacking) for logs, and [Fishing](/fishing). Ore can be smelted straight from a pack animal's backpack. 𐠒
+Blacksmithing needs an anvil and a forge nearby. Raw resources come from the gathering skills: [Mining](/mining) for ore, [Lumberjacking](/lumberjacking) for logs, and [Fishing](/fishing) for fish to cook. Ore can be smelted straight from a pack animal's backpack.
 
 ## Success Chance
 Every item has a minimum and a maximum skill. Below the minimum it can't be made, and at the maximum it never fails. In between, the chance rises evenly from a starting chance at the minimum:

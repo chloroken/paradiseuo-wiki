@@ -12,9 +12,9 @@ dateCreated: 2026-11-05T21:09:30.643Z
 Cartographers craft maps and charts, which tillermen use to sail [boats](/boat) automatically. Cartographers can also decode [treasure maps](/treasure_map).
 
 ## Crafting Maps
-Double-click a mapmaker's pen to open the crafting gump.
+Double-click a mapmaker's pen to open the crafting menu.
 
-| Map Type | Minimum Cartography | Stops Gaining At |
+| Map Type | Minimum Cartography | Gain Limit |
 |:-|:-:|:-:|
 | Star Chart | 0 | 60 |
 | Local Map | 10 | 70 |

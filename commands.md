@@ -9,10 +9,10 @@ dateCreated: 2026-11-19T00:06:15.205Z
 ---
 
 # Commands
-Commands are typed into the chat line, and make something happen.
+Commands are typed into the chat line. Most are phrases spoken to NPCs, pets, and objects, and a few are server commands that start with `[`.
 
 ## Speech Commands
-Many other actions on *Paradise* use speech: phrases said aloud to the right NPC, pet, or object. Commands for an NPC only work from nearby, and some need its name first, such as `Alice train`. Speech starting with an exclamation point and a space, like `! bank`, is converted into a yell, which carries further than normal speech.
+Many actions on *Paradise* use speech: phrases said aloud to the right NPC, pet, or object. Commands for an NPC only work from nearby, and some need its name first, such as `Alice train`. Speech starting with an exclamation point and a space, like `! bank`, is converted into a yell, which carries further than normal speech.
 
 ### Anywhere
 | Phrase | Effect |
@@ -64,7 +64,7 @@ Some places in the world respond to a spoken word.
 
 The teleporters work within a few tiles. The serpent pillars only work from a boat within `10` tiles of the pillar, and the word must be said on its own. See [Boat](/boat).
 
-Escort quest commands, such as `destination`, are on the [World](/world#quests) page.
+Escort quest commands, such as `destination`, are listed with the quests. See [Quests](/world#quests).
 
 Other speech commands are listed on their own pages:
 - Pet commands, such as `all follow me`. See [Pet](/pet).
@@ -81,8 +81,8 @@ Players can type commands in the chat line starting with `[` to check or change 
 | `[HelpInfo` | Opens a window describing each command |
 | `[Password <new> <new>` | Changes the account's password, typed twice to avoid mistakes |
 | `[TimePlayed` | Shows how long the character has been played |
-| `[Time` | Shows the server's time, in UTC |
-| `[TimeStamp` | Shows the server's date and time, in UTC |
+| `[Time` | Shows the current time |
+| `[TimeStamp` | Shows the current date and time |
 | `[WhatIsIt` | Targets an object and shows what type of object it is |
 
 Guildmasters often ask for a certain amount of play time before accepting a new member, which `[TimePlayed` shows.

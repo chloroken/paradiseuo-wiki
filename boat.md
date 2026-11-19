@@ -9,10 +9,10 @@ dateCreated: 2026-11-17T22:49:31.290Z
 ---
 
 # Boat
-Boats allow travel by sea and river. They are bought from shipwrights near docks. **Boats sink `24` hours after their last refresh** 𐠒, which is unusual for Ultima Online.
+Boats allow travel by sea and river. They are bought from shipwrights near docks, and sink quickly if left unused. See [Decay](#decay).
 
 ## Ships
-| Ship | Price | Hold (stones) |
+| Ship | Price (gold) | Hold (stones) |
 |:-|:-:|:-:|
 | Small Ship | 10,177 | 400 |
 | Small Dragon Ship | 10,177 | 400 |
@@ -64,7 +64,7 @@ A ship can follow a course plotted on a map.
 | `Single #` | Sail straight to pin # and stop |
 | `Nav` | Ask which pin the ship is heading to |
 
-The ship sails each leg at full speed and turns on its own. If land or another obstacle is in the way, it stops. Place pins over open water, and say `Continue` to resume after steering around a blockage by hand. Courses only work in Felucca and Trammel.
+The ship sails each leg at full speed and turns on its own. If land or another obstacle is in the way, it stops. Place pins over open water, and say `Continue` to resume after steering around a blockage by hand. Courses only work on the Felucca map.
 
 The map isn't used up. The tillerman hands it back, and the same map can be given to any number of ships. The course stays on the ship through dry-docking and server restarts until a new map is given. If the pins change, give the map to the tillerman again.
 
@@ -72,12 +72,12 @@ The map isn't used up. The tillerman hands it back, and the same map can be give
 The hold is the container at the front of the ship and carries up to `400` stones. Items can also be dropped on the deck, and they move with the ship.
 
 ## Dry-Docking
-To store a ship, step off it and double-click the tillerman with a ship key in the backpack. 𐠒 Before dry-docking, the ship must be empty, the deck clear of items, and nobody can be aboard.
+To store a ship, step off it and double-click the tillerman with a ship key in the backpack. Before dry-docking, the ship must be empty, the deck clear of items, and nobody can be aboard.
 
 Dry-docking is free, after a confirmation window. The ship becomes a toy ship in its owner's backpack, and its keys are removed. Double-click the model to launch the ship again with a fresh set of keys. A dry-docked ship in toy form never decays.
 
 ## Decay
-A ship sinks `24` hours after it was last refreshed. 𐠒 A ship is refreshed at every world save while a player is aboard, and it never decays while someone is aboard or while it's moving.
+A ship sinks `24` hours after it was last refreshed. A ship is refreshed at every world save while a player is aboard, and it never decays while someone is aboard or while it's moving.
 
 **When a ship sinks, everything in the hold and on deck is lost.** Dry-dock ships that won't be used for a while.
 

@@ -15,4 +15,4 @@ A skeleton key has `10` charges. Each lock it successfully picks uses one charge
 
 ## Drop Sources
 - Treasure maps have a `Map Level * 1%` chance to drop a skeleton key.
-- Messages in a bottle have a `Message Level * 0.5%` chance to drop a skeleton key.
+- [Messages in a bottle](/message_in_a_bottle) have a `Message Level * 0.5%` chance to drop a skeleton key.

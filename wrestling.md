@@ -16,7 +16,7 @@ A character with nothing in their hands fights with their fists, using Wrestling
 
 A spellbook or a light can be held without counting as a weapon.
 
-## Wrestling Moves 𐠒
+## Wrestling Moves
 Fighting with empty hands allows two moves. Neither needs a button: when a punch hits and the moves are off cooldown, the right one is attempted automatically.
 
 | Move | Used Against | Requirements | Effect |
@@ -28,7 +28,6 @@ Fighting with empty hands allows two moves. Neither needs a button: when a punch
 - The moves cost no stamina.
 - The chance to succeed is `(Wrestling + Arms Lore) / 400` for Disarm, and `(Wrestling + Anatomy) / 400` for Stun: `40%` at `80` in both skills, and `50%` at `100`.
 - After any attempt, neither move can be used again for `10` seconds.
-- A stunned target can't move, but can still attack anything in reach.
 
 ## Unarmed Defense
 When fighting with bare hands, a character defends with whichever is higher: their Wrestling, or `(Anatomy + Evaluating Intelligence + 20) / 2`, up to `120`. A mage with `100` [Evaluating Intelligence](/evaluating_intelligence) and no Wrestling defends as if they had `60` Wrestling, and one with `100` Anatomy as well defends as if they had `110`.

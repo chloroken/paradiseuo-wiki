@@ -9,7 +9,7 @@ dateCreated: 2026-11-19T05:45:52.782Z
 ---
 
 # Towns
-Towns are where players bank, buy and sell, train skills, and stable their pets. Many of them have a moongate, and the towns of the Lost Lands can only be reached on foot or by boat.
+Towns are where players bank, buy and sell, train skills, and stable their pets. Many of them have a moongate, and the towns of the Lost Lands can only be reached on foot, by teleporter, or by boat.
 
 ## Britannia
 | Town | Moongate | Notes |
@@ -29,7 +29,7 @@ Towns are where players bank, buy and sell, train skills, and stable their pets.
 | Vesper | No | |
 | Yew | Yes | |
 
-Serpent's Hold and Buccaneer's Den each have a teleporter leading to them. See [Karma Towns](/reputation#karma-towns). 𐠒
+Serpent's Hold and Buccaneer's Den each have a teleporter leading to them. See [Karma Towns](/reputation#karma-towns).
 
 ## Lost Lands
 | Town | Moongate | Notes |
@@ -37,4 +37,4 @@ Serpent's Hold and Buccaneer's Den each have a teleporter leading to them. See [
 | Delucia | No | |
 | Papua | No | |
 
-Recall, Mark, and Gate Travel don't work in the Lost Lands. 𐠒
+Recall, Mark, and Gate Travel don't work in the Lost Lands.

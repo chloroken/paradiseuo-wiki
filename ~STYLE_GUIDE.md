@@ -81,6 +81,7 @@ The wiki doesn't use note boxes, callouts, or block quotes. Important informatio
 - Decimals only where they matter: 59.1, 100, 0 (not 100.0 or 0.00).
 - Thousands use commas: 32,000
 - Ranges in prose use "to": lasts 10 to 120 seconds.
+- Minus signs use a plain hyphen, not a longer dash: -50%, `(Healing - 30) / 50`.
 
 ## Formulas
 Formulas use full skill and stat names, never abbreviations.
@@ -89,6 +90,8 @@ Formulas use full skill and stat names, never abbreviations.
 
 ## Writing
 - American spelling: armor, color, gray, center, -ize endings (capitalize, organize).
+- In-game names keep their in-game spelling, even when it's British: a grey wolf.
+- Paired female and male words put the female form first: Lady/Lord.
 - The Oxford comma is always used: Animal Taming, Animal Lore, and Veterinary.
 - Third person, present tense: players, a tamer. Not "you".
 - No emoji.
@@ -100,4 +103,6 @@ Every skill page ends with two sections, in this order, even if they're still em
 1. `## Macro Training`
 
 ## Paradise Changes
-Features that differ from standard Ultima Online are marked with 𐠒 after their name, on any page where they appear. Every marked feature is also listed on the [Shard Features](/features) page.
+Only reworks are marked with 𐠒: novel systems, or large reworks of existing ones, such as Antimage. Small tweaks, quality-of-life changes, and changes made to match T2A are not marked, even when they differ from other versions of Ultima Online.
+
+The marker goes after the rework's name, on any page where it appears. Every rework is listed under Reworks on the [Shard Features](/features) page, and other novel changes are listed there under Other Changes, without the marker.

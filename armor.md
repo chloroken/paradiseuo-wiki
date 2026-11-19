@@ -11,7 +11,7 @@ dateCreated: 2026-11-15T03:33:34.463Z
 # Armor
 Armor reduces incoming physical damage. Heavy armor lowers stamina and Dexterity, and most armor prevents the use of [Meditation](/meditation).
 
-## Algorithm
+## How Armor Works
 When hit by an attack, the following happens in order:
 1. The defender tries to parry with a shield.
 1. A random piece of the defender's armor is hit (see the table below).

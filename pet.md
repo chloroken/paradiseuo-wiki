@@ -19,7 +19,7 @@ Most pets take up `1` follower slot, but strong pets, such as drakes, take `2` s
 Pets train their skills by using them, just like players, but twice as quickly. Even if a pet was paralyzed while being tamed and took the skill penalty, its skills can recover and keep training to their maximum. Pets can train each of their [stats](/stats) up to `100`, the same cap as players. A pet that already starts above `100` in a stat, such as a dragon's Strength, can't raise that stat any further. Animal Lore reveals a creature's stats and skills.
 
 ## Healing Pets
-Pets are healed with bandages using [Veterinary](/veterinary). The range at which a pet can be bandaged grows with Veterinary skill. See [Veterinary: Range](/veterinary#range). 𐠒
+Pets are healed with bandages using [Veterinary](/veterinary). The range at which a pet can be bandaged grows with Veterinary skill. See [Veterinary: Range](/veterinary#range).
 
 ## Controlling Pets
 Animal tamers command pets with phrases like `all follow me` and `dragon kill`. Tamers can control powerful monsters, which makes hunting for loot much easier, provided their pets stay alive and obedient.
@@ -38,7 +38,7 @@ Drop food on a pet to feed it. Only its favorite food works, which Animal Lore r
 
 Feeding a stack is more reliable than feeding one piece. A stack of `20` almost always fills a pet back to full. There's no limit to how much a pet will eat, so don't drop more than needed, or the rest is wasted.
 
-Food also restores stamina: `15` per piece, minus `50`. A stack of `4` or more is needed to restore any stamina.
+Food also restores `15 * Pieces - 50` stamina, so a stack of `4` or more is needed to restore any.
 
 ## Obeying Commands
 Pets don't always obey. Every command has a chance to fail, based on the owner's skills, the pet's difficulty, and its Loyalty. Animal Taming matters four times as much as Animal Lore, and the two combine into a weighted skill:
@@ -60,7 +60,7 @@ For example, with a pet that needs `90` to tame:
 - `90` Animal Taming and `100` Animal Lore give a weighted skill of `92`, for an `82%` chance.
 - `90` Animal Taming and `50` Animal Lore give a weighted skill of `82`, and the pet will never obey.
 
-Every point of Loyalty below `100` subtracts `1%` from the chance to obey. Pets lose `10` Loyalty an hour, so an unfed pet loses `10%` obedience every hour.
+Every point of Loyalty below `100` subtracts `1%` from the chance to obey, so an unfed pet obeys less and less. See [Loyalty](#loyalty).
 
 ## Stabling Pets
 See [Stable](/stable).
@@ -74,16 +74,16 @@ Some pets have a Pack Instinct. When an owner controls several pets with the sam
 
 | Pack | Members |
 |:-|:-:|
-| Bear | Black Bear, Brown Bear, Grizzly Bear, Polar Bear |
+| Bear | Black bear, brown bear, grizzly bear, polar bear |
 | Bull | Bull |
-| Canine | Dark Wolf, Dire Wolf, Dog, Grey Wolf, Hell Hound, Timber Wolf, White Wolf |
-| Daemon | Fiend, Imp |
-| Feline | Cat, Cougar, Hellcat, Panther, Snow Leopard |
-| Ostard | Desert Ostard, Forest Ostard, Frenzied Ostard |
+| Canine | Dark wolf, dire wolf, dog, grey wolf, hell hound, timber wolf, white wolf |
+| Daemon | Fiend, imp |
+| Feline | Cat, cougar, hellcat, panther, snow leopard |
+| Ostard | Desert ostard, forest ostard, frenzied ostard |
 
 ## Training on Pets
-Players can attack their own pets to train combat skills, and heal them to train Veterinary. 𐠒
-- A player's own pets appear green to them, and attacking them is never a criminal act. 𐠒
+Players can attack their own pets to train combat skills, and heal them to train Veterinary.
+- A player's own pets appear green to them, and attacking them is never a criminal act.
 - Pets don't fight back when attacked.
 - Players and their pets can't attack other players' pets.
 
@@ -93,16 +93,16 @@ These are some of the most useful creatures to tame.
 | Pet | Slots | Skill | Pack Instinct | Notes |
 |:-|:-:|:-:|:-:|:-:|
 | Horse | 1 | 29.1 | | Mount |
-| Forest Ostard | 1 | 29.1 | Ostard | Mount |
-| Desert Ostard | 1 | 29.1 | Ostard | Mount |
-| Grizzly Bear | 1 | 59.1 | Bear | |
+| Forest ostard | 1 | 29.1 | Ostard | Mount |
+| Desert ostard | 1 | 29.1 | Ostard | Mount |
+| Grizzly bear | 1 | 59.1 | Bear | |
 | Bull | 1 | 71.1 | Bull | |
-| Frenzied Ostard | 1 | 77.1 | Ostard | Mount |
+| Frenzied ostard | 1 | 77.1 | Ostard | Mount |
 | Imp | 2 | 83.1 | Daemon | High Magery |
 | Drake | 2 | 84.3 | | Fire breath |
-| Hell Hound | 1 | 85.5 | Canine | Fire breath |
-| Predator Hellcat | 2 | 90 | Feline | Fire breath |
-| Silver Steed | 1 | 90 | | Mount, can be Shiny 𐠒 |
+| Hell hound | 1 | 85.5 | Canine | Fire breath |
+| Predator hellcat | 2 | 90 | Feline | Fire breath |
+| Silver steed | 1 | 90 | | Mount, can be Shiny |
 | Dragon | 3 | 93.9 | | Fire breath |
-| Nightmare | 2 | 100 | | Mount, fire breath, can be Shiny 𐠒 |
-| White Wyrm | 3 | 100 | | Highest damage |
+| Nightmare | 2 | 100 | | Mount, fire breath, can be Shiny |
+| White wyrm | 3 | 100 | | Highest damage |

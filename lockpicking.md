@@ -14,9 +14,9 @@ Lockpickers use [lockpicks](/lockpick) to pick locks. These locks often secure c
 ## Town Chests
 Town chests are scattered through buildings in towns. A chest's difficulty is tied to the NPCs who live in the building, and its loot usually matches the type of building. A chest in an alchemist's shop might contain potions, for example.
 
-| Chest Level | Minimum Skill | Maximum Skill | NPC Types |
+| Chest Level | Minimum Skill | Maximum Skill | Buildings |
 |:-|:-:|:-:|:-:|
-| Level 1 | 0 | 30 | Alchemist, Baker, Bard, Butcher, Carpenter, Clothier, Cobbler, Docks, Farm, Healer, Herbalist, Inn, Library, Merchant, Mill, Mine, Observatory, Painter, Stables, Tavern, Thief Guild, Tinker, Veterinarian |
+| Level 1 | 0 | 30 | Alchemist, Baker, Bard, Butcher, Carpenter, Clothier, Cobbler, Docks, Farm, Healer, Herbalist, Inn, Library, Merchant, Mill, Mine, Observatory, Painter, Stables, Tavern, Thieves' Guild, Tinker, Veterinarian |
 | Level 2 | 30 | 60 | Armorer, Blacksmith, Bowyer, Jeweler, Mage, Ranger, Tanner, Weaponsmith, Provisioner |
 | Level 3 | 60 | 90 | Fighters Guild, Guards |
 

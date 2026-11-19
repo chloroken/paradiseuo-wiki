@@ -9,34 +9,29 @@ dateCreated: 2026-11-18T23:04:02.833Z
 ---
 
 # Shard Features
-*Paradise* uses The Second Age (T2A) era as a baseline for everything on this page. This page lists only the major ways *Paradise* differs from T2A. Smaller tweaks are listed in the [patch notes](/patch_notes).
+*Paradise* uses The Second Age (T2A) era as its baseline. This page lists the ways *Paradise* deliberately differs from T2A: reworks, which are marked 𐠒 across the wiki, and other novel changes. Changes that bring the shard closer to T2A, and smaller tweaks, are listed in the [patch notes](/patch_notes).
 
-## Archer Rework
-Stealth archers can ambush their targets. Breaking Hiding with a ranged weapon attack does bonus damage, and every stealthed step before the shot adds more damage and accuracy, until the shot can't miss. Monsters and animals can't be ambushed again right away. See [Archery](/archery).
+## Reworks
 
-## Tamer Rework
-Animal tamers can bandage pets from further away as their [Veterinary](/veterinary) skill rises, instead of only from an adjacent tile. They can also attack their own pets without becoming criminals, to train combat skills and Veterinary. During alpha, Animal Taming gains skill twice as fast as normal. Pets always keep pace with their owner, even when the owner is mounted. Silver steeds and nightmares have a small chance to spawn Shiny, with a rare hue. See [Mount](/mount).
-
-## Wrestler Rework
-Wrestling moves happen automatically, with no button or macro needed. When an empty-handed punch hits and the moves are off cooldown, armed players and human NPCs are disarmed, and everything else is stunned. The moves cost no stamina, and each attempt starts a short cooldown. See [Wrestling](/wrestling).
-
-## Antimage
+### Antimage 𐠒
 Characters with little or no Magery get three combat bonuses, meant to make specializing in weapons as fun as playing a mage. Tactics improves their accuracy, they take less physical damage, and their hit points regenerate faster. The bonuses are strongest with no Magery, and shrink as Magery rises. Only players get them. See [Antimage](/combat#antimage).
 
-## Carrying Capacity
-In T2A, only Strength affects how much a character can carry. On *Paradise*, Dexterity adds carrying capacity too, half as much per point as Strength. See [Stats](/stats).
+### Ambush 𐠒
+Stealth archers can ambush their targets. Breaking Hiding with a ranged weapon attack does bonus damage, and every stealthed step before the shot adds more damage and accuracy, until the shot can't miss. Monsters and animals can't be ambushed again right away. See [Archery](/archery).
 
-## PvP
-The world uses Trammel rules on the Felucca map, so players can't attack each other anywhere. Duel arenas and guild PvP are the only ways to fight other players. Players also can't steal from other players, though items dropped on the ground can still be taken.
+### Reputation 𐠒
+Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower, and locked Karma is unlocked with shrine mantras. See [Reputation](/reputation).
 
-## Reputation
-Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower. See [Reputation](/reputation).
-
-## T2A Monsters
-Only monsters from T2A and earlier roam the world, with the silver steed as the one exception. Creatures added by later expansions, such as plague beasts, boglings, juka, and greater dragons, have been removed, and the dungeons added after T2A are closed.
-
-## Travel
-Mark, Recall, and Gate Travel don't work in dungeons or the Lost Lands. Buccaneer's Den has no moongate, and Serpent's Hold can also be reached by a teleporter north of Trinsic.
-
-## Decay
-Houses decay if they aren't refreshed, and everything inside is destroyed rather than dropped on the ground. Boats sink soon after their last refresh, to stop players blocking objectives and islands with boats. See [House](/house) and [Boat](/boat).
+## Other Changes
+- The world uses Trammel rules on the Felucca map, so players can't attack or steal from each other anywhere. Duel arenas and guild wars are the only PvP, and items dropped on the ground can still be taken.
+- Wrestling moves happen automatically when an empty-handed punch hits, with no button or macro needed. See [Wrestling Moves](/wrestling#wrestling-moves).
+- Dexterity adds carrying capacity, half as much per point as Strength. See [Carrying Capacity](/stats#carrying-capacity).
+- Animal tamers can bandage pets from further away as their Veterinary skill rises. See [Veterinary: Range](/veterinary#range).
+- Players can attack their own pets without becoming criminals, and their own pets appear green to them. See [Training on Pets](/pet#training-on-pets).
+- Pets always keep pace with their owner, even when the owner is mounted.
+- During alpha, Animal Taming gains skill twice as fast as normal.
+- Silver steeds and nightmares have a small chance to spawn Shiny, with a rare hue. See [Mount](/mount).
+- Houses decay if they aren't refreshed, and everything inside is destroyed rather than dropped on the ground. See [House](/house).
+- Boats sink soon after their last refresh, to stop players blocking objectives and islands with boats. See [Boat](/boat).
+- Saying `claim` to an animal trainer opens a list of stabled pets to choose from. See [Stable](/stable).
+- Ore can be smelted straight from a pack animal's backpack. See [Crafting](/crafting).

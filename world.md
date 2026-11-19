@@ -9,25 +9,16 @@ dateCreated: 2026-11-19T00:07:19.032Z
 ---
 
 # World
-*Paradise* uses the Felucca version of the Britannia map, including the Lost Lands. This page covers the people, quests, and points of interest found across it.
-
-## Towns
-See: [Towns](/towns)
-
-## Dungeons
-See: [Dungeons](/dungeons)
-
-## Monsters
-See: [Monsters](/monsters)
+*Paradise* uses the Felucca version of the Britannia map, including the Lost Lands. This page covers the people, quests, and points of interest found across it. See [Towns](/towns), [Dungeons](/dungeons), and [Monsters](/monsters).
 
 ## NPCs
 Non-player characters, or NPCs, offer services and trade, and some can even help in combat.
 
-- [Stablemasters](/stable) keep pets safe while their owners are offline.
+- [Animal trainers](/stable) keep pets safe while their owners are offline.
 - Escortables ask to be led to another town, as part of a quest.
 - Blacksmiths repair weapons and armor.
 
-Two towns only serve characters of the right Karma: Serpent's Hold for the good, and Buccaneer's Den for the evil. See [Karma Towns](/reputation#karma-towns). 𐠒
+Two towns only serve characters of the right Karma 𐠒: Serpent's Hold for the good, and Buccaneer's Den for the evil. See [Karma Towns](/reputation#karma-towns).
 
 ## Quests
 *Paradise* has the following quests:

@@ -9,7 +9,7 @@ dateCreated: 2026-11-17T21:12:43.985Z
 ---
 
 # House
-Houses are placed in the world with a house deed, bought from architects in carpentry shops. **Houses decay after `90` days, and everything inside is destroyed.** 𐠒 This is not normal Ultima Online behavior. Opening a door or using the front sign refreshes the decay timer.
+Houses are placed in the world with a house deed, bought from architects in carpentry shops. **Houses decay after `90` days, and everything inside is destroyed.** Opening a door or using the front sign refreshes the decay timer.
 
 The owner, co-owners, and friends of a house log out instantly inside it, like at an [inn](/inn). Monsters can't enter houses unless tamed.
 
@@ -34,7 +34,7 @@ The owner, co-owners, and friends of a house log out instantly inside it, like a
 | `I wish to destroy my strongbox` | Co-owner only |
 
 ## Small Homes
-| House | Size | Floors | Price | Lockdowns | Secures |
+| House | Size | Floors | Price (gold) | Lockdowns | Secures |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Stone and Plaster House | 7 × 7 | 1 | 43,800 | 425 | 3 |
 | Field Stone House | 7 × 7 | 1 | 43,800 | 425 | 3 |
@@ -47,7 +47,7 @@ The owner, co-owners, and friends of a house log out instantly inside it, like a
 | Small Stone Tower | 8 × 7 | 2 | 88,500 | 580 | 4 |
 
 ## Medium Homes
-| House | Size | Floors | Price | Lockdowns | Secures |
+| House | Size | Floors | Price (gold) | Lockdowns | Secures |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Sandstone House with Patio | 12 × 8 | 1 | 90,900 | 850 | 6 |
 | Two-Story Log Cabin | 8 × 13 | 2 | 97,800 | 1,100 | 8 |
@@ -58,7 +58,7 @@ The owner, co-owners, and friends of a house log out instantly inside it, like a
 | Two-Story Wood and Plaster House | 14 × 14 | 2 | 192,400 | 1,370 | 10 |
 
 ## Fortifications
-| House | Size | Floors | Price | Lockdowns | Secures |
+| House | Size | Floors | Price (gold) | Lockdowns | Secures |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Tower | 24 × 14 | 3 | 433,200 | 2,119 | 15 |
 | Small Stone Keep | 24 × 24 | 2 | 665,200 | 2,625 | 18 |

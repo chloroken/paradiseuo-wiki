@@ -14,7 +14,7 @@ Animal trainers offer stables to keep pets safe while their owners are offline. 
 | Command | Effect |
 |:-|:-:|
 | `stable` | Stable a pet for 30 gold, taken from the backpack or bank |
-| `claim` | Choose a pet to claim from the stables 𐠒 |
+| `claim` | Choose a pet to claim from the stables |
 | `claim <name>` | Quick-claim a pet by name |
 | `stablecount` | Show how many stable slots are used and available |
 

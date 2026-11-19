@@ -29,7 +29,7 @@ The following table lists the best animals to tame and where to find them. A new
 
 | Source | Minimum | Maximum | Location |
 |:-|:-:|:-:|:-:|
-| Stablemaster NPC | 0 | 30 | Most towns |
+| Animal trainer | 0 | 30 | Most towns |
 | Hinds, timber wolves | 30 | 35.1 | Moonglow |
 | Walruses, polar bears | 35.1 | 53.1 | Dagger Island |
 | Snow panthers | 53.1 | 59.1 | Dagger Island |
