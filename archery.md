@@ -2,7 +2,7 @@
 title: Archery
 description: 
 published: true
-date: 2026-11-19T07:57:43.136Z
+date: 2026-11-19T08:03:39.820Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:21:12.302Z
@@ -28,7 +28,7 @@ All three weapons take both hands, so an archer can't hold a shield. While holdi
 
 Arrows and bolts that hit a monster or animal have a `40%` chance to land in its backpack, where they can be looted back. Missed shots have a `40%` chance to drop on the ground.
 
-Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Damage](/combat#damage).
+Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Combat: Damage](/combat#damage).
 
 ## Ambush 𐠒
 An archer who hides with the Hiding skill and then attacks with a bow or crossbow ambushes the target, for extra damage. Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
