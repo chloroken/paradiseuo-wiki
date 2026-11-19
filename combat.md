@@ -40,16 +40,22 @@ Two things can raise hit chance beyond skill:
 - Stealth archers gain accuracy for every stealthed step before an ambush, and can't miss after `10` steps. See [Archery](/archery).
 
 ## Damage
-Every weapon rolls its base damage, which is then raised or lowered by the attacker's skills and stats. These bonuses are added together:
+Every weapon rolls its base damage, which is then changed in two steps.
+
+First, [Tactics](/tactics) changes the damage by `(Tactics − 50)%`, from `−50%` at `0` to `+50%` at `100`. A character with no Tactics does half damage.
+
+Second, these bonuses are added together, then applied to the result:
 
 | Source | Bonus | At 100 (%) |
 |:-|:-:|:-:|
-| [Tactics](/tactics) | (Tactics − 50)% | +50 |
-| Strength | 1% per 5 Strength | +20 |
-| [Anatomy](/anatomy) | 1% per 5 Anatomy, plus 10% at grandmaster | +30 |
-| [Lumberjacking](/lumberjacking) | 1% per 5 Lumberjacking, axes only | +20 |
+| Strength | 1% per 5 Strength | 20 |
+| [Anatomy](/anatomy) | 1% per 5 Anatomy, plus 10% at grandmaster | 30 |
+| [Lumberjacking](/lumberjacking) | 1% per 5 Lumberjacking, axes only | 20 |
+| Weapon quality | +20% exceptional, −20% low quality | |
 
-Tactics below `50` lowers damage, so a character with no Tactics does half damage before the other bonuses. A fighter with `100` in Tactics, Strength, and Anatomy does `2` times the base damage of a weapon. A worn-out weapon does less damage, down to half when it's about to break.
+A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` times the weapon's base damage. With an exceptional weapon, that rises to `1.5 * 1.7 = 2.55` times, and with an exceptional axe and `100` Lumberjacking, to `1.5 * 1.9 = 2.85` times.
+
+A worn-out weapon does less damage, down to half when it's about to break.
 
 Armor then absorbs part of the damage before it reaches the target. See [Armor](/armor).
 
