@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-19T00:35:09.514Z
+date: 2026-11-19T00:35:26.089Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -42,7 +42,7 @@ Changes to *Paradise*, newest first.
 
 ## 2026.11.15
 - Fix MvM damage (it was halved while adjusting MvP damage)
-- Move server daily restart to a systemd service
+- Move the server's daily restart to a scheduled cron job
 - Adjust various Lockpicking requirements
 - Halve the weight of gold and reagents
 - Marked recall runes now show a custom description
