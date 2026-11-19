@@ -2,7 +2,7 @@
 title: Stats
 description: 
 published: true
-date: 2026-11-19T01:00:01.737Z
+date: 2026-11-19T05:36:21.644Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T05:21:32.224Z
@@ -14,7 +14,7 @@ Every character has three stats: Strength, Dexterity, and Intelligence. Each sta
 | Stat | Gives | Also Affects |
 |:-|:-:|:-:|
 | Strength | Hit points | Weapon damage, carrying capacity |
-| Dexterity | Stamina | Swing speed, bandage speed, carrying capacity |
+| Dexterity | Stamina | Swing speed, bandage speed, carrying capacity 𐠒 |
 | Intelligence | Mana | |
 
 Almost every [class](/classes) takes `100` Strength, for the hit points.
