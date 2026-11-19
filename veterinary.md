@@ -2,7 +2,7 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-19T00:16:49.241Z
+date: 2026-11-19T05:34:45.123Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
@@ -35,7 +35,7 @@ Pets also heal an extra `1` hit point for every `100` maximum hit points they ha
 Taking even a single point of damage while applying a bandage causes a slip. Each slip reduces the chance to heal by `2%` and the amount healed by `4`.
 
 ## Range
-On *Paradise*, veterinarians can bandage from further away. For every `25` points of Veterinary, bandages gain `1` more tile of range when used on creatures.
+On *Paradise*, veterinarians can bandage from further away. 𐠒 For every `25` points of Veterinary, bandages gain `1` more tile of range when used on creatures.
 
 | Veterinary | Range (tiles) |
 |:-|:-:|
@@ -70,7 +70,7 @@ A veterinarian at `100` skill always cures any poison, unless the bandage slips.
 | Lethal | 4 | 20 | 60 | 100 |
 
 ## Manual Training
-Players can attack their own pets to train weapon skills, then bandage them to train Veterinary. See [Pet](/pet#training-on-pets).
+Players can attack their own pets to train weapon skills, then bandage them to train Veterinary. 𐠒 See [Pet](/pet#training-on-pets).
 
 ## Macro Training
 Get a hearty pet and several thousand bandages, then create a TazUO Assistant macro. Bind it to a key, set its `Journal Trigger` to `*pet*`, and add the following actions:
