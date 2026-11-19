@@ -2,7 +2,7 @@
 title: Monsters
 description: 
 published: true
-date: 2026-11-19T07:52:27.624Z
+date: 2026-11-19T07:52:36.139Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:09:38.337Z
@@ -27,7 +27,7 @@ Monsters hit harder in melee than in standard ServUO, which got T2A's monster da
 
 Outside of dungeons, monsters won't attack [Young](/young_player) players unless the Young player attacks first.
 
-## Dealing With Monsters
+## Dealing with Monsters
 - Many animals and monsters can be tamed. See [Animal Taming](/animal_taming) and [Pet](/pet).
 - Bards can turn monsters against each other with [Provocation](/provocation), or calm them with [Peacemaking](/peacemaking).
 
