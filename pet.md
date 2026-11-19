@@ -2,7 +2,7 @@
 title: Pet
 description: 
 published: true
-date: 2026-11-19T07:48:18.134Z
+date: 2026-11-19T07:54:50.472Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -11,7 +11,7 @@ dateCreated: 2026-11-16T07:24:49.945Z
 # Pet
 Pets are a type of follower, and [mounts](/mount) are pets too. [Animal tamers](/animal_taming) specialize in capturing and using pets.
 
-Most pets take up `1` follower slot, but strong pets, such as drakes, take `2` slots, and the most powerful pets, such as dragons, take `3` slots. Pets kept in a [stable](/stable) don't use follower slots.
+Most pets take up `1` follower slot, but strong pets, such as drakes, take `2` slots, and the most powerful pets, such as dragons, take `3` slots.
 
 **Pet death is permanent.**
 
