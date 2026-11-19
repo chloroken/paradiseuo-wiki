@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2026-11-19T06:56:37.210Z
+date: 2026-11-19T07:11:51.716Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -11,9 +11,7 @@ dateCreated: 2026-11-08T22:35:49.369Z
 # Classes
 The era of Ultima Online that *Paradise* targets doesn't have classes (also known as professions) in the traditional sense. Instead, players choose [stats](/stats) and [skills](/skills) to create a custom class, as traditional or unorthodox as they like.
 
-During character creation there is a profession screen, but it should be ignored, and `Advanced` should always be selected.
-
-Although there are no official classes, a warrior, for example, would spend the `225` stat points and `700` skill points on things like Strength, Dexterity, weapon skills, defensive skills, and healing skills.
+During character creation there is a profession screen, but it should be ignored, and `Advanced` should always be selected. Although there are no official classes, a warrior, for example, would spend the `225` stat points and `700` skill points on things like Strength, Dexterity, weapon skills, defensive skills, and healing skills.
 
 Builds without Magery get the [Antimage](/combat#antimage) 𐠒 bonuses: better accuracy with Tactics, less physical damage taken, and faster hit point regeneration. The bonuses shrink as Magery rises, so a build with `50` Magery keeps half of each, and a full mage gets none.
 
