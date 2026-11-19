@@ -1,8 +1,8 @@
 ---
-title: skills
+title: Skills
 description: 
 published: true
-date: 2026-11-18T23:07:59.699Z
+date: 2026-11-19T00:17:36.713Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
