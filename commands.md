@@ -2,7 +2,7 @@
 title: Commands
 description: 
 published: true
-date: 2026-11-19T07:11:21.245Z
+date: 2026-11-19T07:25:59.640Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:06:15.205Z
@@ -12,7 +12,7 @@ dateCreated: 2026-11-19T00:06:15.205Z
 Commands are typed into the chat line, and make something happen.
 
 ## Speech Commands
-Many other actions on *Paradise* use speech: phrases said aloud to the right NPC, pet, or object. Commands for an NPC only work when standing near it, and some need its name first, such as `Alice train`. Starting a message with `! ` yells it, so it carries further.
+Many other actions on *Paradise* use speech: phrases said aloud to the right NPC, pet, or object. Commands for an NPC only work from nearby, and some need its name first, such as `Alice train`. Speech starting with an exclamation point and a space, like `! bank`, is converted into a yell, which carries further than normal speech.
 
 ### Anywhere
 | Phrase | Effect |
