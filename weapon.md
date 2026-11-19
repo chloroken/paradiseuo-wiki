@@ -9,7 +9,7 @@ dateCreated: 2026-11-18T23:29:24.473Z
 ---
 
 # Weapon
-Each type of weapon is trained with its own skill, and some types have special attacks or other effects on hit.
+Each type of weapon is trained with its own skill, and some types have special attacks or other effects on hit. Hit chance, swing speed, and damage work the same way for every weapon. See [Combat](/combat).
 
 ## Weapon Types
 | Type | Skill | Examples |

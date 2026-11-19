@@ -18,7 +18,7 @@ Most characters take at least one of these skills.
 - Magery: damage, healing, utility, and the best travel options
 - Animal Taming: commanding an army of monsters is powerful
 - Provocation: a skill that gets better against stronger targets
-- Tactics: raises weapon damage by up to `50%`
+- Tactics: raises weapon damage by up to `50%`, and accuracy for fighters without Magery
 
 ## Enabled Skills
 - [Alchemy](/alchemy)
@@ -63,7 +63,7 @@ Most characters take at least one of these skills.
 - [Stealing](/stealing) (not from players)
 - [Stealth](/stealth)
 - [Swordsmanship](/swordsmanship)
-- [Tactics](/tactics)
+- [Tactics](/tactics) 𐠒
 - [Tailoring](/tailoring)
 - [Tinkering](/tinkering)
 - [Tracking](/tracking)

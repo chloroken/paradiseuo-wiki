@@ -12,6 +12,12 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 
 ## 2026.11.19
+- Add the [Antimage](/features#antimage) rework, so characters with less Magery fight better:
+    - Tactics adds up to `30` points of weapon skill when rolling to hit
+    - Physical damage taken is reduced by up to `20%`
+    - Hit points regenerate up to `5×` faster
+    - All three bonuses are full at `0` Magery and shrink to nothing at `100`
+    - Only players get the bonuses
 - Wrestling moves are now automatic:
     - Armed players and human NPCs are disarmed, and everything else is stunned
     - Moves are only attempted when a punch hits, and need free hands

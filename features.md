@@ -20,6 +20,9 @@ Animal tamers can bandage pets from further away, up to `5` tiles at grandmaster
 ## Wrestler Rework
 Wrestling moves happen automatically, with no button or macro needed. When an empty-handed punch hits and the moves are off cooldown, armed players and human NPCs are disarmed, and everything else is stunned. The moves cost no stamina, and each attempt starts a `10` second cooldown. See [Weapon](/weapon).
 
+## Antimage
+Characters with little or no Magery get three combat bonuses, meant to make melee fun alongside tamers, bards, and mages. At `0` Magery, Tactics adds up to `30` points to weapon skill when rolling to hit, physical damage taken drops by `20%`, and hit points regenerate `5` times as fast. The bonuses shrink evenly as Magery rises, and are gone at `100`. Only players get them. See [Combat](/combat#antimage).
+
 ## Carrying Capacity
 In T2A, only Strength affects how much a character can carry. On *Paradise*, Dexterity adds half as much as Strength: `1.75` stones per point, compared to `3.5`. A character with `100` Strength and `100` Dexterity can carry `565` stones instead of `390`. See [Stats](/stats).
 
