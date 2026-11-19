@@ -2,14 +2,14 @@
 title: Dungeons
 description: 
 published: true
-date: 2026-11-19T05:29:30.225Z
+date: 2026-11-19T07:07:10.725Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-14T20:25:42.451Z
 ---
 
 # Dungeons
-Dungeons are found across Britannia and the Lost Lands. [Young](/young_players) players are not ignored by monsters in dungeons.
+Dungeons are found across Britannia and the Lost Lands. [Young](/young_player) players are not ignored by monsters in dungeons.
 
 ## Britannia
 | Name | Floors | Location | Notes |
