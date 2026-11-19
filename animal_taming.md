@@ -2,7 +2,7 @@
 title: Animal Taming
 description: 
 published: true
-date: 2026-11-19T01:00:11.145Z
+date: 2026-11-19T07:57:25.857Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T00:12:55.938Z
@@ -12,12 +12,12 @@ dateCreated: 2026-11-08T00:12:55.938Z
 Animal tamers turn animals, and some monsters, into followers known as [pets](/pet).
 
 ## Taming Penalty
-Taming a creature reduces its [skills](/skills), such as Magery, by `10%`. If it was paralyzed during the tick it was tamed, its skills are reduced by `14%` instead. Pets train their skills naturally, so this penalty can be recovered. See [Pet](/pet#pet-training).
+Taming a creature reduces its [skills](/skills), such as Magery, by `10%`. If it was paralyzed during the tick it was tamed, its skills are reduced by `14%` instead. Pets train their skills naturally, so this penalty can be recovered. See [Pet Training](/pet#pet-training).
 
 The penalty applies again every time a creature is tamed by a new owner, so a pet that has been released and re-tamed several times keeps less of its original skill each time.
 
 ## Manual Training
-Animal Taming is one of the slowest skills to train. Train [Animal Lore](/animal_lore) to grandmaster first, or tamed animals won't obey commands, including `release`. See [Pet](/pet#obeying-commands).
+Animal Taming is one of the slowest skills to train. Train [Animal Lore](/animal_lore) to grandmaster first, or tamed animals won't obey commands, including `release`. See [Obeying Commands](/pet#obeying-commands).
 
 To follow an animal automatically, use `Alt + Click` on it.
 
