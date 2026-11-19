@@ -2,7 +2,7 @@
 title: Skills
 description: 
 published: true
-date: 2026-11-19T03:02:16.434Z
+date: 2026-11-19T05:04:48.791Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -18,7 +18,7 @@ Most characters take at least one of these skills.
 - Magery: damage, healing, utility, and the best travel options
 - Animal Taming: commanding an army of monsters is powerful
 - Provocation: a skill that gets better against stronger targets
-- Tactics: raises weapon damage by up to `50%`, and accuracy for fighters without Magery
+- Tactics: supercharges weapon damage & enhances [antimage](/combat#antimage)
 
 ## Enabled Skills
 - [Alchemy](/alchemy)
