@@ -2,7 +2,7 @@
 title: Carpentry
 description: 
 published: true
-date: 2026-11-19T11:19:33.253Z
+date: 2026-11-19T11:19:53.462Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T06:34:26.911Z
@@ -49,7 +49,7 @@ A chest, box, or crate made by a carpenter can come with a lock and a key, depen
 | Medium crate | 31 | 56 | 15 boards |
 | Empty bookcase | 31.5 | 56.5 | 25 boards |
 | Large crate | 47.3 | 72.3 | 18 boards |
-| Keg | 57.8 | 82.8 | 3 barrel staves, 1 barrel hoop, 1 barrel lid |
+| Keg | 57.8 | 82.8 | 3 barrel staves<br>1 barrel hoop<br>1 barrel lid |
 | Wooden chest | 73.6 | 98.6 | 20 boards |
 | Armoire | 84.2 | 109.2 | 35 boards |
 | Fancy armoire | 84.2 | 109.2 | 35 boards |
