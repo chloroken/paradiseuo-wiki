@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-19T00:54:58.476Z
+date: 2026-11-19T02:04:42.821Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -21,6 +21,9 @@ Changes to *Paradise*, newest first.
 - Dexterity now adds `1.75` stones of carrying capacity per point, half as much as Strength
 - Thrown weapons can no longer be equipped
 - Fix Mana Drain and Mana Vampire being resisted almost every time
+- Remove monsters added after T2A from the world, including plague beasts, boglings, bog things, toxic elementals, juka, golems, greater dragons, and shadow wyrms
+- Close the dungeons added after T2A: Sanctuary, Prism of Light, Blighted Grove, Painted Caves, and Khaldun
+- Remove leftover teleporters to Ter Mur, the Stygian Abyss, and the champion spawn network
 
 ## 2026.11.18
 - Add new [reputation](/reputation) mechanics:
