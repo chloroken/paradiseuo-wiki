@@ -1,8 +1,8 @@
 ---
-title: protection
+title: Protection
 description: 
 published: true
-date: 2026-11-18T22:48:40.807Z
+date: 2026-11-19T00:19:02.346Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T03:23:47.390Z
