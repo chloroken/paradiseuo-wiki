@@ -2,7 +2,7 @@
 title: ~Style Guide~
 description: 
 published: true
-date: 2026-11-19T08:05:51.445Z
+date: 2026-11-19T11:16:36.125Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:22:42.267Z
@@ -38,6 +38,8 @@ Backticks are used for exactly four things:
 Commands are never wrapped in quotation marks inside backticks.
 
 Backticks are never used inside tables, with one exception: exact input, filenames, and on-screen labels keep their backticks, such as in a command table.
+
+Scripts, macros, and other multi-line code go in a code block: a line of three backticks before the code and another after it, with no language name. A short line before the block says what it is, such as "Example TazUO Legion script:". See [Lockpicking: Macro Training](/lockpicking#macro-training).
 
 ## Bold
 Bold is only for critical warnings, such as **Pet death is permanent.** It is never used for names, places, or general emphasis.
