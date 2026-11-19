@@ -2,14 +2,14 @@
 title: Home
 description: 
 published: true
-date: 2026-11-19T04:30:13.070Z
+date: 2026-11-19T04:39:10.305Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:50:31.643Z
 ---
 
 # Welcome
-*Paradise* is a private [Ultima Online](https://uo.com/) shard based on [T2A](https://en.wikipedia.org/wiki/Ultima_Online:_The_Second_Age), but era accuracy isn't the goal. Fun, interesting gameplay is.
+*Paradise* is an [Ultima Online](https://uo.com/) shard based on [T2A](https://en.wikipedia.org/wiki/Ultima_Online:_The_Second_Age), but era accuracy isn't the goal. Fun, interesting gameplay is. A paradise.
 
 See [Shard Features](/features) for the major ways *Paradise* differs from T2A. See [Patch Notes](/patch_notes) for smaller and ongoing changes.
 
