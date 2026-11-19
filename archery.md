@@ -2,20 +2,10 @@
 title: Archery
 description: 
 published: true
-date: 2026-11-19T05:35:10.836Z
+date: 2026-11-19T05:35:20.410Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:21:12.302Z
----
-
----
-title: Archery
-description: 
-published: true
-date: 2026-11-19T04:20:00.000Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-19T04:20:00.000Z
 ---
 
 # Archery
