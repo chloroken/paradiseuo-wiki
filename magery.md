@@ -2,10 +2,10 @@
 title: Magery
 description: 
 published: true
-date: 2026-11-19T04:10:00.000Z
+date: 2026-11-19T05:39:18.333Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-19T04:10:00.000Z
+dateCreated: 2026-11-19T04:10:03.878Z
 ---
 
 # Magery
@@ -42,7 +42,7 @@ Characters with less than `100` Magery get bonuses to accuracy, toughness, and h
 - [Resisting Spells](/resisting_spells) protects against spells, and a caster's Magery makes their spells harder to resist.
 
 ## Travel
-Recall, Mark, and Gate Travel are the fastest ways to cross the world, but none of them work in dungeons or the Lost Lands. See [Shard Features](/features#travel).
+Recall, Mark, and Gate Travel are the fastest ways to cross the world, but none of them work in dungeons or the Lost Lands. 𐠒 See [Shard Features](/features#travel).
 
 ## Manual Training
 Every cast, successful or not, has a chance to raise Magery, as long as the caster's skill is inside that circle's range in the casting chance table. Once a circle never fails, it stops training Magery, so the circle to practice rises with skill.
