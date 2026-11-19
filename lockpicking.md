@@ -2,7 +2,7 @@
 title: Lockpicking
 description: 
 published: true
-date: 2026-11-19T11:36:35.746Z
+date: 2026-11-19T22:37:08.845Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T21:00:26.779Z
@@ -61,7 +61,7 @@ Higher Tinkering keeps making the lock harder to pick, and raises the Lockpickin
 Pick chests in towns and dungeons, and pick the hardest crafted container available in between.
 
 ## Macro Training
-Example TazUO Legion script:
+Get 3 locked boxes: one made with 50 Tinkering, one made with 75, and one made with 100. Then run this TazUO Legion script, reseting for each new box tier, until grandmaster.
 ```
 pick = API.FindType(0x14FC, API.Backpack)
 API.SysMsg("Target the box")
