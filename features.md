@@ -2,7 +2,7 @@
 title: Shard Features
 description: 
 published: true
-date: 2026-11-19T07:44:45.220Z
+date: 2026-11-19T07:58:51.338Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -21,7 +21,7 @@ Animal tamers can bandage pets from further away as their [Veterinary](/veterina
 Wrestling moves happen automatically, with no button or macro needed. When an empty-handed punch hits and the moves are off cooldown, armed players and human NPCs are disarmed, and everything else is stunned. The moves cost no stamina, and each attempt starts a short cooldown. See [Wrestling](/wrestling).
 
 ## Antimage
-Characters with little or no Magery get three combat bonuses, meant to make specializing in weapons as fun as playing a mage. Tactics improves their accuracy, they take less physical damage, and their hit points regenerate faster. The bonuses are strongest with no Magery, and shrink as Magery rises. Only players get them. See [Combat](/combat#antimage).
+Characters with little or no Magery get three combat bonuses, meant to make specializing in weapons as fun as playing a mage. Tactics improves their accuracy, they take less physical damage, and their hit points regenerate faster. The bonuses are strongest with no Magery, and shrink as Magery rises. Only players get them. See [Antimage](/combat#antimage).
 
 ## Carrying Capacity
 In T2A, only Strength affects how much a character can carry. On *Paradise*, Dexterity adds carrying capacity too, half as much per point as Strength. See [Stats](/stats).
