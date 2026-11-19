@@ -1,8 +1,8 @@
 ---
-title: reputation
+title: Reputation
 description: 
 published: true
-date: 2026-11-18T22:49:31.385Z
+date: 2026-11-19T00:18:00.314Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-14T06:31:40.281Z
