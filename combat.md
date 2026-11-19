@@ -2,14 +2,14 @@
 title: Combat
 description: 
 published: true
-date: 2026-11-19T06:56:27.526Z
+date: 2026-11-19T07:44:28.404Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
 ---
 
 # Combat
-Combat on *Paradise* follows T2A rules, apart from the changes marked 𐠒. This page covers how often attacks land, how fast they come, how much damage they do, and the extra toughness given to characters without Magery. For weapon types, special attacks, and Wrestling moves, see [Weapon](/weapon).
+Combat on *Paradise* follows T2A rules, apart from the changes marked 𐠒. This page covers how often attacks land, how fast they come, how much damage they do, and the extra toughness given to characters without Magery. For weapon types and special attacks, see [Weapon](/weapon), and for Wrestling moves, see [Wrestling](/wrestling).
 
 ## Swing Speed
 The delay between attacks depends on the weapon's speed and the attacker's current stamina:
@@ -23,7 +23,7 @@ Each attack compares the attacker's weapon skill to the defender's:
 
 `(Attacker's Weapon Skill + 50) / ((Defender's Weapon Skill + 50) * 2)`
 
-The defender uses the skill of whatever weapon they're holding, so a fencer defends with Fencing and an archer with Archery. An empty-handed character defends with Wrestling, or with Anatomy and Evaluating Intelligence. See [Unarmed defense](/weapon#unarmed-defense).
+The defender uses the skill of whatever weapon they're holding, so a fencer defends with Fencing and an archer with Archery. An empty-handed character defends with Wrestling, or with Anatomy and Evaluating Intelligence. See [Wrestling](/wrestling#unarmed-defense).
 
 | Attacker Skill | Defender Skill | Hit Chance (%) |
 |:-|:-:|:-:|
@@ -37,7 +37,7 @@ Every attack, hit or miss, has a chance to raise the attacker's weapon skill.
 
 Two things can raise hit chance beyond skill:
 - Antimage adds to the attacker's weapon skill for this roll. See [Antimage](#antimage).
-- Stealth archers gain accuracy for every stealthed step before an ambush, until the shot can't miss. 𐠒 See [Archery](/archery).
+- Stealth archers gain accuracy for every stealthed step before an ambush 𐠒, until the shot can't miss. See [Archery](/archery).
 
 ## Damage
 Every weapon rolls its base damage, which is then changed in two steps.
@@ -60,7 +60,7 @@ A worn-out weapon does less damage, down to half when it's about to break.
 Armor then absorbs part of the damage before it reaches the target. See [Armor](/armor).
 
 ## Being Hit
-- Any damage, however small, makes a bandage slip. See [Veterinary](/veterinary).
+- Any damage, however small, makes a bandage slip. See [Healing](/healing#slips).
 - Frozen characters can't move or begin casting a spell, but can still attack anything in reach. Wrestling stuns and Paralyzing Blow freeze their target, and the freeze lasts its full time, even through damage.
 - Paralyzed characters have the same limits, but taking damage breaks the paralysis. The Paralyze spell and paralyze fields paralyze their target.
 
