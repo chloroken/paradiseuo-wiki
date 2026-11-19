@@ -1,3 +1,13 @@
+---
+title: Stats
+description: 
+published: true
+date: 2026-11-19T01:00:01.737Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-07T05:21:32.224Z
+---
+
 # Stats
 Every character has three stats: Strength, Dexterity, and Intelligence. Each stat can reach `100`, up to a combined total of `225`.
 

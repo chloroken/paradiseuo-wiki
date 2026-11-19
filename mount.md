@@ -1,3 +1,13 @@
+---
+title: Mount
+description: 
+published: true
+date: 2026-11-19T00:59:49.009Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-12T18:21:51.910Z
+---
+
 # Mount
 Mounts are [pets](/pet) that speed up travel. Mounts don't get hungry or lose Loyalty while being ridden.
 

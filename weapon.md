@@ -1,3 +1,13 @@
+---
+title: Weapon
+description: 
+published: true
+date: 2026-11-18T23:54:31.813Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-18T23:29:24.473Z
+---
+
 # Weapon
 Each type of weapon is trained with its own skill, and some types have special attacks or other effects on hit.
 

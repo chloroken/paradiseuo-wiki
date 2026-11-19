@@ -1,3 +1,13 @@
+---
+title: Pet
+description: 
+published: true
+date: 2026-11-19T00:47:37.605Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-16T07:24:49.945Z
+---
+
 # Pet
 Pets are a type of follower, and [mounts](/mount) are pets too. [Animal tamers](/animal_taming) specialize in capturing and using pets.
 

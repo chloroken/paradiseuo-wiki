@@ -1,3 +1,13 @@
+---
+title: Provocation
+description: 
+published: true
+date: 2026-11-19T00:40:19.157Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-08T04:28:29.373Z
+---
+
 # Provocation
 Bards use a musical instrument to make two targets fight each other.
 

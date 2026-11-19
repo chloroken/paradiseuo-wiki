@@ -1,3 +1,13 @@
+---
+title: Shard Features
+description: 
+published: true
+date: 2026-11-19T02:04:26.449Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-18T23:04:02.833Z
+---
+
 # Shard Features
 *Paradise* uses The Second Age (T2A) era as a baseline for everything on this page. This page lists only the major ways *Paradise* differs from T2A. Smaller tweaks are listed in the [patch notes](/patch_notes).
 

@@ -1,3 +1,13 @@
+---
+title: Classes
+description: 
+published: true
+date: 2026-11-19T00:15:59.753Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-08T22:35:49.369Z
+---
+
 # Classes
 The era of Ultima Online that *Paradise* targets doesn't have classes (also known as professions) in the traditional sense. Instead, players choose [stats](/stats) and [skills](/skills) to create a custom class, as traditional or unorthodox as they like.
 

@@ -1,3 +1,13 @@
+---
+title: Treasure Map
+description: 
+published: true
+date: 2026-11-18T22:50:41.720Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-10T01:23:58.121Z
+---
+
 # Treasure Map
 Treasure maps drop from monsters and have a level from `0` to `5`, with stronger monsters dropping higher-level maps. Level `0` maps only drop for Young players.
 
