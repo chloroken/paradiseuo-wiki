@@ -22,7 +22,7 @@ Most characters take at least one of these skills.
 
 ## Enabled Skills
 - [Alchemy](/alchemy)
-- [Anatomy](/anatomy)
+- [Anatomy](/anatomy) 𐠒
 - [Animal Lore](/animal_lore)
 - [Animal Taming](/animal_taming)
 - [Archery](/archery) 𐠒
@@ -52,7 +52,7 @@ Most characters take at least one of these skills.
 - [Meditation](/meditation)
 - [Musicianship](/musicianship)
 - [Mining](/mining)
-- [Parrying](/parrying)
+- [Parrying](/parrying) 𐠒
 - [Peacemaking](/peacemaking)
 - [Poisoning](/poisoning)
 - [Provocation](/provocation)

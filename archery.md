@@ -49,7 +49,7 @@ An archer who hides with the Hiding skill and then attacks with a bow or crossbo
 | 10 | 2.0× | 100 | 100 |
 
 ## Antimage 𐠒
-Archers with little or no Magery get the same [Antimage](/combat#antimage) bonuses as any other fighter: better accuracy with Tactics, less physical damage taken, and faster hit point regeneration. Antimage and ambushes both apply to the same shot.
+Archers with little or no Magery get the same [Antimage](/combat#antimage) bonuses as any other fighter: accuracy from Tactics, toughness from Parrying, and regeneration from Anatomy. Few archers have room for Parrying, so most go without the toughness bonus. Antimage and ambushes both apply to the same shot.
 
 ## Builds
 The stealth archer combines Archery with Hiding and Stealth to open every fight with an ambush. Archery is also a common second weapon skill for bards and fighters, for finishing off fleeing targets. See [Classes](/classes).

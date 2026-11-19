@@ -33,7 +33,7 @@ At `100` Magery, 7th circle spells succeed `86%` of the time and 8th circle spel
 Casting from a scroll counts as two circles lower, so a scroll of an 8th circle spell is cast with the chances of a 6th circle spell. A grandmaster never fails a scroll of any circle.
 
 ## Antimage 𐠒
-Characters with less than `100` Magery get bonuses to accuracy, toughness, and hit point regeneration, at full strength with `0` Magery. Every point of Magery shrinks them, so a fighter has to choose between spells and the Antimage bonuses. A character with `50` Magery keeps half of each bonus. See [Antimage](/combat#antimage).
+Characters with less than `100` Magery get bonuses to accuracy, toughness, and hit point regeneration, from Tactics, Parrying, and Anatomy. Every point of Magery shrinks them, so a fighter has to choose between spells and the Antimage bonuses. A character with `50` Magery keeps half of each bonus they have the skill for. See [Antimage](/combat#antimage).
 
 ## Related Skills
 - [Evaluating Intelligence](/evaluating_intelligence) raises spell damage, and gives unarmed defense alongside Anatomy.

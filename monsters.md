@@ -23,7 +23,7 @@ Monsters on *Paradise* behave differently from later versions of Ultima Online:
 - Monsters only cast Teleport when they're stuck, and never cast Invisibility.
 
 ## Fighting Monsters
-Monsters hit as hard in melee as they did in T2A, which is harder than in later versions of Ultima Online. Characters with little Magery take less physical damage through [Antimage](/combat#antimage). See [Combat](/combat).
+Monsters hit as hard in melee as they did in T2A, which is harder than in later versions of Ultima Online. Characters with Parrying and little Magery take less physical damage through [Antimage](/combat#antimage). See [Combat](/combat).
 
 Outside of dungeons, monsters won't attack [Young players](/young_player) unless the Young player attacks first.
 

@@ -14,7 +14,7 @@ dateCreated: 2026-11-18T23:04:02.833Z
 ## Reworks
 
 ### Antimage 𐠒
-Characters with little or no Magery get three combat bonuses, meant to make specializing in weapons as fun as playing a mage. Tactics improves their accuracy, they take less physical damage, and their hit points regenerate faster. The bonuses are strongest with no Magery, and shrink as Magery rises. Only players get them. See [Antimage](/combat#antimage).
+Characters with little or no Magery get three combat bonuses, meant to make specializing in weapons as fun as playing a mage. Tactics improves their accuracy, Parrying reduces the physical damage they take, and Anatomy speeds up their hit point regeneration. Each bonus grows with its skill and shrinks as Magery rises. Only players get them. See [Antimage](/combat#antimage).
 
 ### Ambush 𐠒
 Stealth archers can ambush their targets. Breaking Hiding with a ranged weapon attack does bonus damage, and every stealthed step before the shot adds more damage and accuracy, until the shot can't miss. Monsters and animals can't be ambushed again right away. See [Archery](/archery).

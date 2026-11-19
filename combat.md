@@ -65,13 +65,13 @@ Armor then absorbs part of the damage before it reaches the target. See [Armor](
 - Paralyzed characters have the same limits, but taking damage breaks the paralysis. The Paralyze spell and paralyze fields paralyze their target.
 
 ## Antimage 𐠒
-Characters with little or no Magery get three bonuses in combat, meant to make fighting with weapons, in melee or at range, as fun as playing a tamer, bard, or mage. Each bonus is at its full size with `0` Magery, shrinks evenly as Magery rises, and is gone at `100`. Only players get these bonuses, not monsters or pets.
+Characters with little or no Magery get three bonuses in combat, meant to make fighting with weapons, in melee or at range, as fun as playing a tamer, bard, or mage. Each bonus comes from its own skill, and is at its full size with `100` in that skill and `0` Magery. The skill and Magery scales multiply, so a character with `50` in the skill and `50` Magery gets a quarter of the bonus. Only players get these bonuses, not monsters or pets.
 
-- Accuracy: Tactics adds up to `30` points to the attacker's weapon skill when rolling to hit, for every kind of weapon, including bows and bare hands. The bonus is `30 * (Tactics / 100) * ((100 - Magery) / 100)` points.
-- Toughness: physical damage taken is reduced by up to `20%`, after armor. This covers weapons and monsters' melee attacks, but not spells, breath, or poison.
-- Regeneration: hit points regenerate up to `5` times as fast.
+- Accuracy, from Tactics: up to `30` points added to the attacker's weapon skill when rolling to hit, for every kind of weapon, including bows and bare hands. The bonus is `30 * (Tactics / 100) * ((100 - Magery) / 100)` points.
+- Toughness, from Parrying: physical damage taken is reduced by up to `20%`, after armor. The reduction is `20% * (Parrying / 100) * ((100 - Magery) / 100)`. It covers weapons and monsters' melee attacks, but not spells, breath, or poison. It doesn't need a shield.
+- Regeneration, from Anatomy: hit points regenerate up to `5` times as fast. The speed is `1 + 4 * (Anatomy / 100) * ((100 - Magery) / 100)` times normal.
 
-| Magery | Accuracy Bonus (points at 100 Tactics) | Damage Taken (%) | Regeneration Speed |
+| Magery | Accuracy Bonus (points at 100 Tactics) | Damage Taken at 100 Parrying (%) | Regeneration Speed at 100 Anatomy |
 |:-|:-:|:-:|:-:|
 | 0 | 30 | 80 | 5× |
 | 25 | 22.5 | 85 | 4× |
@@ -81,4 +81,4 @@ Characters with little or no Magery get three bonuses in combat, meant to make f
 
 With `100` Tactics, `100` weapon skill, and no Magery, a fighter hits a defender with `100` skill `60%` of the time instead of `50%`, and hits a monster with `80` Wrestling `69%` of the time instead of `58%`.
 
-The bonuses check the character's Magery at all times, so raising or lowering Magery changes them immediately. These numbers are being tested during alpha and may change.
+The bonuses use base skill, so items and spells that raise a skill don't count. They check the character's skills and Magery at all times, so changing any of them changes the bonuses immediately. These numbers are being tested during alpha and may change.
