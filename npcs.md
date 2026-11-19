@@ -1,8 +1,8 @@
 ---
-title: npcs
+title: NPCs
 description: 
 published: true
-date: 2026-11-18T22:47:48.374Z
+date: 2026-11-19T00:19:33.787Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T04:14:41.824Z
