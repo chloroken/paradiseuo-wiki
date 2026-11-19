@@ -1,8 +1,8 @@
 ---
-title: cartography
+title: Cartography
 description: 
 published: true
-date: 2026-11-18T22:46:03.870Z
+date: 2026-11-19T00:15:44.881Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-05T21:09:30.643Z
