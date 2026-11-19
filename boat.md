@@ -2,14 +2,14 @@
 title: Boat
 description: 
 published: true
-date: 2026-11-19T01:00:19.282Z
+date: 2026-11-19T05:39:02.269Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T22:49:31.290Z
 ---
 
 # Boat
-Boats allow travel by sea and river. They are bought from shipwrights near docks. **Boats sink `24` hours after their last refresh**, which is unusual for Ultima Online.
+Boats allow travel by sea and river. They are bought from shipwrights near docks. **Boats sink `24` hours after their last refresh** 𐠒, which is unusual for Ultima Online.
 
 ## Ships
 | Ship | Price | Hold (stones) |
@@ -72,12 +72,12 @@ The map isn't used up. The tillerman hands it back, and the same map can be give
 The hold is the container at the front of the ship and carries up to `400` stones. Items can also be dropped on the deck, and they move with the ship.
 
 ## Dry-Docking
-To store a ship, step off it and double-click the tillerman with a ship key in the backpack. Before dry-docking, the ship must be empty, the deck clear of items, and nobody can be aboard.
+To store a ship, step off it and double-click the tillerman with a ship key in the backpack. 𐠒 Before dry-docking, the ship must be empty, the deck clear of items, and nobody can be aboard.
 
 Dry-docking is free, after a confirmation window. The ship becomes a toy ship in its owner's backpack, and its keys are removed. Double-click the model to launch the ship again with a fresh set of keys. A dry-docked ship in toy form never decays.
 
 ## Decay
-A ship sinks `24` hours after it was last refreshed. A ship is refreshed at every world save while a player is aboard, and it never decays while someone is aboard or while it's moving.
+A ship sinks `24` hours after it was last refreshed. 𐠒 A ship is refreshed at every world save while a player is aboard, and it never decays while someone is aboard or while it's moving.
 
 **When a ship sinks, everything in the hold and on deck is lost.** Dry-dock ships that won't be used for a while.
 
