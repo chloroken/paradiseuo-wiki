@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2026-11-19T03:02:05.391Z
+date: 2026-11-19T03:02:38.691Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -17,7 +17,7 @@ Although there are no official classes, a warrior, for example, would spend the 
 
 The follow is a table of ideas. Consider it a starting point.
 
-| Pseudoclass | Skills | Str / Dex / Int | Why |
+| Pseudoclass | Skills | Str / Dex / Int | Premise |
 |:-|:-:|:-:|:-:|
 | Fighter | Parrying, Tactics, Anatomy, Healing, Resisting Spells, Archery, any weapon skill | 100 / 100 / 25 | No magic, very tanky. Can use any type of weapon with a shield to parry with. Uses ranged weapons to finish fleeing targets, can heal with bandages. Can drop Archery to take a second weapon skill for switching between one-handed and two-handed weapons for a full melee experience. |
 | Paladin | Mace Fighting, Tactics, Parrying, Anatomy, Healing, Resisting Spells, 50 Magery, 50 Meditation | 100 / 65 / 60 | Very tanky, uses a mace to drain stamina and a shield to parry with. Can use light magic for buffs and spot-healing, has Meditation to regenerate mana, and can heal with bandages. |
