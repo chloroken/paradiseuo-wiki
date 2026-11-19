@@ -2,16 +2,17 @@
 title: Commands
 description: 
 published: true
-date: 2026-11-19T05:27:47.532Z
+date: 2026-11-19T07:01:55.985Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:06:15.205Z
 ---
 
 # Commands
-Players can type a few commands in the chat line, starting with `[`. Many other actions on *Paradise* use speech: phrases said aloud near the right NPC, pet, or item.
+Commands require text entry and cause something to happen.
 
 ## Typed Commands
+Players can type a few commands in the chat line, starting with `[`.
 | Command | Effect |
 |:-|:-:|
 | `[Help` | Lists every command the player can use |
@@ -25,18 +26,48 @@ Players can type a few commands in the chat line, starting with `[`. Many other 
 Guildmasters often ask for a certain amount of play time before accepting a new member, which `[TimePlayed` shows.
 
 ## Speech Commands
-Speech commands are said in normal chat, without a `[`.
+Many other actions on *Paradise* use speech: phrases said aloud to right NPC, pet, or item. Commands for an NPC only work when standing near it, and some need its name first, such as `Alice train`. Using "! " with a space allows for yelling of commands.
 
+### Anywhere
 | Phrase | Effect |
 |:-|:-:|
-| `bank` | Opens the bank box, near a banker |
+| `guards` | Calls the town guards on nearby criminals, in a guarded town |
+| `I must consider my sins` | Shows the character's murder counts |
+| `I resign from my guild` | Leaves the character's player guild |
+| `I renounce my young player status` | Gives up Young status. See [Young Player](/young_player). |
+
+### Bankers
+| Phrase | Effect |
+|:-|:-:|
+| `bank` | Opens the bank box |
+| `balance` | Shows how much gold is in the bank box |
+| `withdraw <amount>` | Moves up to 5,000 gold from the bank box to the backpack |
+| `check <amount>` | Writes a bank check for 5,000 to 1,000,000 gold |
+
+### Vendors
+| Phrase | Effect |
+|:-|:-:|
 | `vendor buy` | Opens the buy menu of nearby vendors |
 | `vendor sell` | Opens the sell menu of nearby vendors |
-| `I must consider my sins` | Shows the character's murder counts |
-| `I resign from my guild` | Leaves the character's guild |
-| `I renounce my young player status` | Gives up Young status. See [Young Player](/young_player). |
+| `<name> buy` | Opens one vendor's buy menu |
+| `<name> sell` | Opens one vendor's sell menu |
+
+### Other NPCs
+| Phrase | Effect |
+|:-|:-:|
+| `<name> train` | Lists the skills a townsperson can teach, for a fee |
+| `<name> time` | Asks a townsperson for the time |
+| `<name> move` | Asks a townsperson to step aside |
+| `join` | Joins the NPC guild of a nearby guildmaster |
+| `resign` | Leaves the NPC guild of a nearby guildmaster |
+| `disguise` | Buys a disguise kit from the Thieves' Guild guildmaster |
+| `news` | Asks a town crier for the news |
+| `appraise` | Asks a real estate broker to value a house deed |
+
+Escort quest commands, such as `destination`, are on the [World](/world#quests) page.
 
 Other speech commands are listed on their own pages:
 - Pet commands, such as `all follow me`. See [Pet](/pet).
 - Stable commands, such as `stable` and `claim`. See [Stable](/stable).
 - House commands, such as `I wish to lock this down`. See [House](/house).
+- Tillerman commands, such as `forward` and `stop`. See [Boat](/boat).
