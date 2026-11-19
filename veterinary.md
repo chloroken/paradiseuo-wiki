@@ -2,7 +2,7 @@
 title: Veterinary
 description: 
 published: true
-date: 2026-11-19T07:46:50.812Z
+date: 2026-11-19T08:00:20.548Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T08:02:09.296Z
@@ -14,7 +14,7 @@ Veterinary is the skill of healing creatures with [bandages](/bandage). It's the
 To heal a creature, usually a pet, use a bandage on it and stay in range until it finishes.
 
 ## Stable Slots
-Veterinary counts toward a character's stable slots, alongside Animal Taming and Animal Lore. See [Stable](/stable#stable-slots).
+Veterinary counts toward a character's stable slots, alongside Animal Taming and Animal Lore. See [Stable Slots](/stable#stable-slots).
 
 ## Healing
 The chance for a bandage to heal is `(Veterinary + 10)%`, minus `2%` for each slip. At `90` Veterinary or higher, bandages never fail unless they slip.
@@ -70,7 +70,7 @@ A veterinarian at `100` skill always cures any poison, unless the bandage slips.
 | Lethal | 4 | 20 | 60 | 100 |
 
 ## Manual Training
-Players can attack their own pets to train weapon skills, then bandage them to train Veterinary. 𐠒 See [Pet](/pet#training-on-pets).
+Players can attack their own pets to train weapon skills, then bandage them to train Veterinary. 𐠒 See [Training on Pets](/pet#training-on-pets).
 
 ## Macro Training
 Get a hearty pet and several thousand bandages, then create a TazUO Assistant macro. Bind it to a key, set its `Journal Trigger` to `*pet*`, and add the following actions:
