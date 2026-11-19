@@ -2,7 +2,7 @@
 title: ~Style Guide~
 description: 
 published: true
-date: 2026-11-19T07:56:35.973Z
+date: 2026-11-19T08:05:51.445Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:22:42.267Z
@@ -60,7 +60,7 @@ Italics are used for:
 - Only the first mention of a page is linked on any given page.
 - Link text follows normal sentence capitalization: capitals only for proper names, such as skills, spells, and places. Ordinary words stay lowercase.
   - Examples: tamers turn animals into [pets](/pet), healed with [Veterinary](/veterinary), listed in the [patch notes](/patch_notes)
-- Cross-references are the one exception, and use the title of what they link to: the page's title for a whole page, such as See [Stable](/stable), or the section's heading for a section, such as See [Antimage](/combat#antimage). Markers like 𐠒 are left out of the link text.
+- Cross-references are the one exception, and use the title of what they link to: the page's title for a whole page, such as See [Stable](/stable), or the section's heading for a section, such as See [Antimage](/combat#antimage). If the heading is too vague to stand on its own, the page title and a colon go before it, such as See [Combat: Damage](/combat#damage). Markers like 𐠒 are left out of the link text.
 
 ## Notes and Warnings
 The wiki doesn't use note boxes, callouts, or block quotes. Important information goes in the text, with bold for critical warnings.
