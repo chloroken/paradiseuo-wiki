@@ -2,7 +2,7 @@
 title: Archery
 description: 
 published: true
-date: 2026-11-19T05:35:20.410Z
+date: 2026-11-19T07:57:43.136Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:21:12.302Z
@@ -20,15 +20,15 @@ Archery covers bows, crossbows, and heavy crossbows. Bows fire arrows, and cross
 | Crossbow | 30 | 8 – 43 | 18 | 4.17 | 8 |
 | Heavy crossbow | 40 | 11 – 56 | 10 | 7.5 | 8 |
 
-Damage is before Tactics and the other bonuses. The bow does the most damage over time, while the heavy crossbow hits hardest per shot, which suits an ambush. Delay follows the same formula as every weapon, so it grows as stamina drops. See [Combat](/combat#swing-speed).
+Damage is before Tactics and the other bonuses. The bow does the most damage over time, while the heavy crossbow hits hardest per shot, which suits an ambush. Delay follows the same formula as every weapon, so it grows as stamina drops. See [Swing Speed](/combat#swing-speed).
 
 An archer has to stand still for `1` second after their last step before they can fire.
 
-All three weapons take both hands, so an archer can't hold a shield. While holding a bow or crossbow, an archer defends with Archery. See [Combat](/combat#hit-chance).
+All three weapons take both hands, so an archer can't hold a shield. While holding a bow or crossbow, an archer defends with Archery. See [Hit Chance](/combat#hit-chance).
 
 Arrows and bolts that hit a monster or animal have a `40%` chance to land in its backpack, where they can be looted back. Missed shots have a `40%` chance to drop on the ground.
 
-Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Combat](/combat#damage).
+Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Damage](/combat#damage).
 
 ## Ambush 𐠒
 An archer who hides with the Hiding skill and then attacks with a bow or crossbow ambushes the target, for extra damage. Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
