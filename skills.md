@@ -2,7 +2,7 @@
 title: Skills
 description: 
 published: true
-date: 2026-11-19T01:00:46.822Z
+date: 2026-11-19T03:02:16.434Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -44,6 +44,7 @@ Most characters take at least one of these skills.
 - [Herding](/herding)
 - [Hiding](/hiding)
 - [Inscription](/inscription)
+- [Item Identification](/item_identification)
 - [Lockpicking](/lockpicking)
 - [Lumberjacking](/lumberjacking)
 - [Mace Fighting](/mace_fighting)
