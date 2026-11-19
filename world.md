@@ -2,7 +2,7 @@
 title: World
 description: 
 published: true
-date: 2026-11-19T05:43:51.294Z
+date: 2026-11-19T07:10:09.717Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:07:19.032Z
@@ -35,8 +35,8 @@ Two towns only serve characters of the right Karma: Serpent's Hold for the good,
 - Witch's Apprentice: double-click Grizelda.
 
 ## Points of Interest
-- Cyclops Valley: Home of titans and the nightmare
+- Cyclops Valley: Home of titans and nightmares
 - The Oasis: Home of the silver steed
-- Shrines: There are eight of them scattered across Brittania
+- Shrines: There are eight of them scattered across Britannia
 - Moonglow Zoo: Creatures of all variety with a `24` hour respawn
-- Tortoise Lagoon: Home of Frenzied Ostards
+- Tortoise Lagoon: Home of frenzied ostards
