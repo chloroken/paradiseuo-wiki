@@ -2,7 +2,7 @@
 title: Skills
 description: 
 published: true
-date: 2026-11-19T00:33:24.042Z
+date: 2026-11-19T00:39:42.509Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -49,6 +49,7 @@ Most characters take at least one of these skills, whatever their build.
 - [Mace Fighting](/mace_fighting)
 - [Magery](/magery)
 - [Meditation](/meditation)
+- [Musicianship](/musicianship)
 - [Mining](/mining)
 - [Parrying](/parrying)
 - [Peacemaking](/peacemaking)
@@ -61,6 +62,7 @@ Most characters take at least one of these skills, whatever their build.
 - [Stealing](/stealing) (not from players)
 - [Stealth](/stealth)
 - [Swordsmanship](/swordsmanship)
+- [Tactics](/tactics)
 - [Tailoring](/tailoring)
 - [Tinkering](/tinkering)
 - [Tracking](/tracking)
