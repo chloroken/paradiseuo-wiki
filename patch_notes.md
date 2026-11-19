@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-19T00:35:26.089Z
+date: 2026-11-19T00:54:58.476Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -10,6 +10,17 @@ dateCreated: 2026-11-04T19:38:55.944Z
 
 # Patch Notes
 Changes to *Paradise*, newest first.
+
+## 2026.11.19
+- Wrestling moves are now automatic:
+    - Armed players and human NPCs are disarmed, and everything else is stunned
+    - Moves are only attempted when a punch hits, and need free hands
+    - Moves no longer cost stamina
+    - Any attempt starts a `10` second cooldown
+    - The stun and disarm buttons now only explain that the moves are automatic
+- Dexterity now adds `1.75` stones of carrying capacity per point, half as much as Strength
+- Thrown weapons can no longer be equipped
+- Fix Mana Drain and Mana Vampire being resisted almost every time
 
 ## 2026.11.18
 - Add new [reputation](/reputation) mechanics:
@@ -25,6 +36,9 @@ Changes to *Paradise*, newest first.
 - Pets now appear as allies to their owners
 - Add more strongbox and trash barrel commands
 - Fix the spyglass showing Trammel's moon phase
+- Fighting one's own pets no longer blocks Recall and Gate Travel
+- Saying `claim` at a stable now opens the list of stabled pets
+- The stealth archer's *You are in perfect position!* message now only appears once
 
 ## 2026.11.17
 - [Veterinary](/veterinary) adds `Veterinary / 25` extra tiles to pet bandage range
