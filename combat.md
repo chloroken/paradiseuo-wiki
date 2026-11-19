@@ -65,7 +65,7 @@ Armor then absorbs part of the damage before it reaches the target. See [Armor](
 - Paralyzed characters have the same limits, but taking damage breaks the paralysis. The Paralyze spell and paralyze fields paralyze their target.
 
 ## Antimage 𐠒
-Characters with little or no Magery get three bonuses in combat, meant to make melee fun alongside tamers, bards, and mages. Each bonus is at its full size with `0` Magery, shrinks evenly as Magery rises, and is gone at `100`. Only players get these bonuses, not monsters or pets.
+Characters with little or no Magery get three bonuses in combat, meant to make fighting with weapons, in melee or at range, as fun as playing a tamer, bard, or mage. Each bonus is at its full size with `0` Magery, shrinks evenly as Magery rises, and is gone at `100`. Only players get these bonuses, not monsters or pets.
 
 - Accuracy: Tactics adds up to `30` points to the attacker's weapon skill when rolling to hit, for every kind of weapon, including bows and bare hands. The bonus is `30 * (Tactics / 100) * ((100 − Magery) / 100)` points.
 - Toughness: physical damage taken is reduced by up to `20%`, after armor. This covers weapons and monsters' melee attacks, but not spells, breath, or poison.

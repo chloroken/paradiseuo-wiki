@@ -12,7 +12,7 @@ dateCreated: 2026-11-18T23:04:02.833Z
 *Paradise* uses The Second Age (T2A) era as a baseline for everything on this page. This page lists only the major ways *Paradise* differs from T2A. Smaller tweaks are listed in the [patch notes](/patch_notes).
 
 ## Archer Rework
-Stealth archers can ambush their targets. Breaking Hiding with a ranged weapon attack does `1.5×` damage, and every stealthed step before the shot adds more damage and accuracy. After `10` steps, the shot can't miss and does `2.0×` damage. A target can only be ambushed once per minute. See [Archery](/archery).
+Stealth archers can ambush their targets. Breaking Hiding with a ranged weapon attack does `1.5×` damage, and every stealthed step before the shot adds more damage and accuracy. After `10` steps, the shot can't miss and does `2.0×` damage. A monster or animal can only be ambushed once per minute. See [Archery](/archery).
 
 ## Tamer Rework
 Animal tamers can bandage pets from further away, up to `5` tiles at grandmaster [Veterinary](/veterinary), instead of only from an adjacent tile. They can also attack their own pets without becoming criminals, to train combat skills and Veterinary. During alpha, Animal Taming gains skill twice as fast as normal. Pets always keep pace with their owner, even when the owner is mounted. Silver steeds and nightmares have a `1%` chance to spawn Shiny, with a rare hue. See [Mount](/mount).
@@ -21,7 +21,7 @@ Animal tamers can bandage pets from further away, up to `5` tiles at grandmaster
 Wrestling moves happen automatically, with no button or macro needed. When an empty-handed punch hits and the moves are off cooldown, armed players and human NPCs are disarmed, and everything else is stunned. The moves cost no stamina, and each attempt starts a `10` second cooldown. See [Weapon](/weapon).
 
 ## Antimage
-Characters with little or no Magery get three combat bonuses, meant to make melee fun alongside tamers, bards, and mages. At `0` Magery, Tactics adds up to `30` points to weapon skill when rolling to hit, physical damage taken drops by `20%`, and hit points regenerate `5` times as fast. The bonuses shrink evenly as Magery rises, and are gone at `100`. Only players get them. See [Combat](/combat#antimage).
+Characters with little or no Magery get three combat bonuses, meant to make fighting with weapons, in melee or at range, as fun as playing a tamer, bard, or mage. At `0` Magery, Tactics adds up to `30` points to weapon skill when rolling to hit, physical damage taken drops by `20%`, and hit points regenerate `5` times as fast. The bonuses shrink evenly as Magery rises, and are gone at `100`. Only players get them. See [Combat](/combat#antimage).
 
 ## Carrying Capacity
 In T2A, only Strength affects how much a character can carry. On *Paradise*, Dexterity adds half as much as Strength: `1.75` stones per point, compared to `3.5`. A character with `100` Strength and `100` Dexterity can carry `565` stones instead of `390`. See [Stats](/stats).
