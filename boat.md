@@ -2,7 +2,7 @@
 title: Boat
 description: 
 published: true
-date: 2026-11-19T00:42:22.396Z
+date: 2026-11-19T00:43:06.126Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T22:49:31.290Z
@@ -74,7 +74,7 @@ The hold is the container at the front of the ship and carries up to `400` stone
 ## Dry-Docking
 To store a ship, step off it and double-click the tillerman with a ship key in the backpack. Before dry-docking, the ship must be empty, the deck clear of items, and nobody can be aboard.
 
-Dry-docking is free, after a confirmation window. The ship becomes a toy ship in its owners backpack, and its keys are removed. Double-click the model to launch the ship again with a fresh set of keys. A dry-docked ship in toy form never decays.
+Dry-docking is free, after a confirmation window. The ship becomes a toy ship in its owners backpack, and its keys are removed. If the bank box is full, the bank key is lost, so make room before launching. If the backpack is full, its key drops to the ground. Double-click the model to launch the ship again with a fresh set of keys. A dry-docked ship in toy form never decays.
 
 ## Decay
 A ship sinks `24` hours after it was last refreshed. A ship is refreshed at every world save while a player is aboard, and it never decays while someone is aboard or while it's moving.
