@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-11-19T04:39:10.305Z
+date: 2026-11-19T04:46:33.501Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:50:31.643Z
@@ -13,7 +13,7 @@ dateCreated: 2026-11-03T21:50:31.643Z
 
 See [Shard Features](/features) for the major ways *Paradise* differs from T2A. See [Patch Notes](/patch_notes) for smaller and ongoing changes.
 
-![papua.png](/papua.png)
+![papua.png](/home_papua.png)
 
 ## The Basics
 - This shard is designed for single players or cooperative groups.
