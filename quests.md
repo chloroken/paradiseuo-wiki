@@ -1,8 +1,8 @@
 ---
-title: quests
+title: Quests
 description: 
 published: true
-date: 2026-11-18T22:49:09.715Z
+date: 2026-11-19T00:18:40.985Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-12T03:40:23.623Z
