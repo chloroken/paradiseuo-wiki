@@ -2,7 +2,7 @@
 title: Armor
 description: 
 published: true
-date: 2026-11-19T00:15:24.357Z
+date: 2026-11-19T00:46:38.045Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T03:33:34.463Z
@@ -24,8 +24,8 @@ Each piece of armor reduces damage by a random amount between `50%` and `100%` o
 |:-|:-:|
 | Neck | 7 |
 | Hands | 7 |
-| Arms | 15 |
-| Head | 14 |
+| Arms | 14 |
+| Head | 15 |
 | Legs | 22 |
 | Chest | 35 |
 
