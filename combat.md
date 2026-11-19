@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2026-11-19T07:44:28.404Z
+date: 2026-11-19T07:58:25.523Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
@@ -23,7 +23,7 @@ Each attack compares the attacker's weapon skill to the defender's:
 
 `(Attacker's Weapon Skill + 50) / ((Defender's Weapon Skill + 50) * 2)`
 
-The defender uses the skill of whatever weapon they're holding, so a fencer defends with Fencing and an archer with Archery. An empty-handed character defends with Wrestling, or with Anatomy and Evaluating Intelligence. See [Wrestling](/wrestling#unarmed-defense).
+The defender uses the skill of whatever weapon they're holding, so a fencer defends with Fencing and an archer with Archery. An empty-handed character defends with Wrestling, or with Anatomy and Evaluating Intelligence. See [Unarmed Defense](/wrestling#unarmed-defense).
 
 | Attacker Skill | Defender Skill | Hit Chance (%) |
 |:-|:-:|:-:|
@@ -60,7 +60,7 @@ A worn-out weapon does less damage, down to half when it's about to break.
 Armor then absorbs part of the damage before it reaches the target. See [Armor](/armor).
 
 ## Being Hit
-- Any damage, however small, makes a bandage slip. See [Healing](/healing#slips).
+- Any damage, however small, makes a bandage slip. See [Slips](/healing#slips).
 - Frozen characters can't move or begin casting a spell, but can still attack anything in reach. Wrestling stuns and Paralyzing Blow freeze their target, and the freeze lasts its full time, even through damage.
 - Paralyzed characters have the same limits, but taking damage breaks the paralysis. The Paralyze spell and paralyze fields paralyze their target.
 
