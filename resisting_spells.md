@@ -2,14 +2,14 @@
 title: Resisting Spells
 description: 
 published: true
-date: 2026-11-18T22:49:46.355Z
+date: 2026-11-19T00:50:57.725Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-12T08:34:37.098Z
 ---
 
 # Resisting Spells
-A resisted spell does three quarters of its damage, or lasts three quarters of its duration.
+Resisting Spells gives a chance to shrug off part of a hostile spell. A resisted spell does three quarters of its damage, or lasts three quarters of its duration.
 
 ## Resistable Spells
 - Mind Blast
@@ -28,20 +28,35 @@ A resisted spell does three quarters of its damage, or lasts three quarters of i
 - Poison
 
 ## Resist Chance
-- `A = Resisting Spells / 5`
-- `B = (Caster's Magery - 20) / 5 + (1 + Circle) * 5`, which ranges from `20` to `95` (8th circle)
-- `X` is whichever of `A` or `B` is higher.
+The chance to resist a spell depends on the defender's Resisting Spells, the caster's Magery, and the spell's circle:
 
-`X` is then divided by `2`, then by `100`, giving `0.10` to `0.475` (8th circle):
-- If `X <= 0`, the spell is never resisted.
-- If `X >= 1`, the spell is always resisted.
+`Resist Chance = max(Resisting Spells / 5, Resisting Spells - ((Caster's Magery - 20) / 5 + Circle * 5)) / 2` percent
+
+Higher-circle spells and stronger casters are harder to resist. Whatever the caster, the chance never drops below `Resisting Spells / 10` percent.
+
+Against a caster with `100` Magery:
+
+| Resisting Spells | 1st Circle (%) | 4th Circle (%) | 6th Circle (%) | 8th Circle (%) |
+|:-|:-:|:-:|:-:|:-:|
+| 50 | 14.5 | 7 | 5 | 5 |
+| 80 | 29.5 | 22 | 17 | 12 |
+| 100 | 39.5 | 32 | 27 | 22 |
 
 ## Skill Gain
-A resist check is eligible for skill gain if `X >= 0.1`.
+Resisting Spells can only gain from a spell if the defender's skill is below that circle's limit:
 
-- `C = (1 + Circle) * 10 + (1 + Circle / 6) * 25`, for example `127.5`
-- If `X` (`0.1` to `0.475`) is below `C`, Resisting Spells can gain.
-- The resist itself is then checked, with `X` between `0` and `1`.
+| Circle | Gains Below |
+|:-|:-:|
+| 1st | 35 |
+| 2nd | 45 |
+| 3rd | 55 |
+| 4th | 65 |
+| 5th | 75 |
+| 6th | 85 |
+| 7th | 120 |
+| 8th | 130 |
+
+So past `85` skill, only 7th and 8th circle spells, such as Flame Strike, Chain Lightning, and Meteor Swarm, train Resisting Spells.
 
 ## Manual Training
 
