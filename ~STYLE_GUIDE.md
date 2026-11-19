@@ -1,8 +1,8 @@
 ---
-title: Style Guide
+title: ~Style Guide~
 description: 
 published: true
-date: 2026-11-19T00:22:42.267Z
+date: 2026-11-19T00:28:02.622Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:22:42.267Z
@@ -58,7 +58,9 @@ Italics are used for:
 - Links to a section add an anchor: `/pet#obeying-commands`.
 - Anchors must be lowercase, with spaces converted to hyphens and punctuation removed, or they won't work. "Obeying Commands" becomes `#obeying-commands`. `%20` does not work.
 - Only the first mention of a page is linked on any given page.
-- Cross-references are written as: See [Stable](/stable).
+- Link text follows normal sentence capitalization: capitals only for proper names, such as skills, spells, and places. Ordinary words stay lowercase.
+  - Examples: tamers turn animals into [pets](/pet), healed with [Veterinary](/veterinary), listed in the [patch notes](/patch_notes)
+- Cross-references are the one exception, and use the page's title: See [Stable](/stable).
 
 ## Notes and Warnings
 The wiki doesn't use note boxes, callouts, or block quotes. Important information goes in the text, with bold for critical warnings.
@@ -98,4 +100,4 @@ Every skill page ends with two sections, in this order, even if they're still em
 1. `## Macro Training`
 
 ## Paradise Changes
-Features that differ from standard Ultima Online are marked with 𐠒 after their name, on any page where they appear. Every marked feature is also listed on the [Novelties](/novelties) page.
+Features that differ from standard Ultima Online are marked with 𐠒 after their name, on any page where they appear. Every marked feature is also listed on the [Shard Features](/features) page.
