@@ -19,6 +19,10 @@ Changes to *Paradise*, newest first.
     - All three bonuses are full at `0` Magery and shrink to nothing at `100`
     - Only players get the bonuses
 - Tie Antimage toughness to Parrying and regeneration to Anatomy, scaled against Magery like accuracy from Tactics
+- Poisoning can now coat all fencing weapons, arrows, and bolts, but no longer swords or knives:
+    - Anyone can use poisoned weapons and ammunition, but every swing or shot risks poisoning the user, from `50%` at `0` Poisoning to `5%` at `50` and `0%` at `100`
+    - Poisoned arrows and bolts are fired before clean ones, strongest poison first, and recovered ammunition is always clean
+    - Poisoners with enough skill can see the strength of poison on arrows and bolts by single-clicking them
 - Fix [Young players](/young_player) being unable to Recall, Gate Travel, or use moongates
 - Wrestling moves are now automatic:
     - Armed players and human NPCs are disarmed, and everything else is stunned

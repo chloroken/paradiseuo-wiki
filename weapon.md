@@ -42,4 +42,4 @@ Concussion Blow and Crushing Blow can only be delivered by players and human NPC
 
 ## Other Effects on Hit
 - Maces and staves drain `3` to `5` of the target's stamina with every hit.
-- Swords, knives, daggers, and spears coated with [Poisoning](/poisoning) have a `50%` chance per hit to poison the target, using one charge each hit.
+- Fencing weapons can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).

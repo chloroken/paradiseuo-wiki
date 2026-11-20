@@ -35,3 +35,4 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 - Boats sink soon after their last refresh, to stop players blocking objectives and islands with boats. See [Boat](/boat).
 - Saying `claim` to an animal trainer opens a list of stabled pets to choose from. See [Stable](/stable).
 - Ore can be smelted straight from a pack animal's backpack. See [Crafting](/crafting).
+- Poisoning can coat fencing weapons, arrows, and bolts, but not swords. Anyone can use poisoned weapons, but without Poisoning, every swing or shot risks poisoning the user. See [Poisoning](/poisoning).

@@ -28,6 +28,8 @@ All three weapons take both hands, so an archer can't hold a shield. While holdi
 
 Arrows and bolts that hit a monster or animal have a `40%` chance to land in its backpack, where they can be looted back. Missed shots have a `40%` chance to drop on the ground.
 
+Arrows and bolts can be coated with poison, and are fired before clean ones. Recovered arrows and bolts are always clean. See [Poisoned Weapons](/poisoning#poisoned-weapons).
+
 Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Combat: Damage](/combat#damage).
 
 ## Ambush 𐠒
