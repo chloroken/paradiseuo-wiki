@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T04:30:01.326Z
+date: 2026-11-20T05:00:29.708Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -12,12 +12,35 @@ dateCreated: 2026-11-18T23:04:02.833Z
 *Paradise* uses The Second Age (T2A) era as its baseline. This page lists the significant ways that *Paradise* deliberately differs from T2A. Smaller tweaks are listed in the [patch notes](/patch_notes).
 
 ## Fighter Rework
-Fighters are reworked to keep pace with mages, tamers, and bards in PvM. Each part rewards a different skill or style:
-- Valor: characters who fight without magic are gripped by [Valor](https://wiki.ultimacodex.com/wiki/Valor), the warrior's virtue. Tactics improves their accuracy, Parrying reduces the physical damage they take, and Anatomy speeds up their hit point regeneration. Each bonus grows with its skill and shrinks as Magery rises. Only players get these bonuses. See [Valor](/combat#valor).
-- Ambush: archers can ambush their targets from the shadows. Breaking Hiding with a ranged weapon attack does bonus damage, and every stealthed step before the shot adds more damage and accuracy, until the shot can't miss. Monsters and animals can't be ambushed again right away. See [Archery](/archery).
-- Poisoning: fencing weapons, arrows, and bolts can be coated with poison. The chance to apply poison is tied to Poisoning level with perfect application at grandmaster. Anyone can fight with poisoned weapons, but every swing or shot risks poisoning the user without skill, with grandmasters never poisoning themselves. Poison has a defensive aspect, as spellcasters spend their spells curing themselves instead of using offensive spells. See [Poisoning](/poisoning).
-- Wrestling: moves happen automatically when an empty-handed punch hits, with no button or macro needed. See [Wrestling Moves](/wrestling#wrestling-moves).
-- Carrying capacity: Dexterity adds carrying capacity, half as much per point as Strength, so fighters who raise Dexterity can carry more of their gear. See [Carrying Capacity](/stats#carrying-capacity).
+Fighters are enhanced to keep pace with mages, tamers, and bards in PvM. Each part rewards a different skill or style:
+- Valor: a counterweight to Magery.
+	- Characters who fight without magic are gripped by [Valor](https://wiki.ultimacodex.com/wiki/Valor), the warrior's virtue.
+  - Valor grants fighter-related skills additional bonuses that diminish as Magery increases. 
+  - Tactics improve accuracy, Parrying reduces physical damage taken, and Anatomy speeds up hit point regeneration.
+  - Only players get these bonuses.
+  - See [Valor](/combat#valor).
+- Ambush: a T2A-friendly enhancement to Archery.
+	- Archers can ambush their targets from the shadows.
+  - Breaking Hiding with a ranged weapon attack does bonus damage
+  - For every stealthed footstep, add more damage and accuracy.
+  - After enough footsteps, the attack cannot miss.
+  - Monsters and animals can't be ambushed again right away.
+  - See [Archery](/archery).
+- Poisoning: no longer a crafting skill.
+	- Fencing weapons, arrows, and bolts can be coated with poison.
+  - The chance to apply poison is tied to Poisoning level with perfect application at grandmaster.
+  - Anyone can fight with poisoned weapons, but risk poisoning themselves without skill, unless grandmaster.
+  - Poisoning better impacts fighter survivability, as spellcasters casting Cure aren't casting Flame Strike.
+  - See [Poisoning](/poisoning).
+- Wrestling
+	- Moves happen automatically when an empty-handed punch hits, with no button or macro needed.
+  - Automatically chooses between stun and disarm based on skill levels and target.
+  - See [Wrestling Moves](/wrestling#wrestling-moves).
+- Carrying capacity
+	- Since most builds maximize Strength, the carrying weight limit is ubiquitous.
+  - Dexterity adds carrying capacity, half as much per point as Strength.
+  - This lets fighters who raise Dexterity carry more, helping make up for a lack of travel options.
+  - See [Carrying Capacity](/stats#carrying-capacity).
 
 ## Taming Enhancements
 Animal tamers get several changes that make training, healing, and keeping pets easier:
