@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T02:45:25.701Z
+date: 2026-11-20T08:32:47.681Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,16 +12,20 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 
 ## 2026.11.20
-- Rename Antimage to [Valor](/combat#valor), the warrior's virtue
-- Rework Antimage so each bonus comes from its own skill, and the bonuses shrink both as the skill drops and as Magery rises:
-    - Tactics still adds up to `30` points of weapon skill when rolling to hit
-    - Parrying now reduces physical damage taken by up to `20%`, without needing a shield
-    - Anatomy now increases hit point regeneration by up to `5×`
+- Rename Antimage to [Valor](/combat#valor), the warrior's virtue from Ultima lore
+- Tune Valor so each bonus comes from a skill, not just by not having Magery:
+    - Tactics still passively adds up to `30` points of weapon skill
+    - Parrying passively reduces physical damage taken by up to `20%`
+    - Anatomy passively increases hit point regeneration by up to `5×`
     - Each bonus is full at `100` in its skill and `0` Magery, so `50` in the skill with `50` Magery gives a quarter of it
 - Poisoning can now coat all fencing weapons, arrows, and bolts, but no longer swords or knives:
-    - Anyone can use poisoned weapons and ammunition, but every swing or shot risks poisoning the user, from `50%` at `0` Poisoning to `5%` at `50` and `0%` at `100`
+    - Anyone can use poisoned weapons and ammunition, but every swing or shot risks poisoning the user, from `50%` at `0` Poisoning, to `5%` at `50`, and `0%` at `100`
     - Poisoned arrows and bolts are fired before clean ones, strongest poison first, and recovered ammunition is always clean
     - Poisoners with enough skill can see the strength of poison on weapons, arrows, and bolts by single-clicking them
+- Adjust [Fletching](/fletching) to benefit archers in the field:
+    - At `100` Fletching, ranged weapons attack `2` tiles further
+    - At `100` Fletching, the delay an archer must stand still to attack is reduced by half, from `1.0` to `0.5` seconds
+    - At `100` Fletching, arrows and bolts that miss are twice as likely to drop, from `40%` to `80%`
 - Fix the [Lumberjacking](/lumberjacking) grandmaster bonus never applying, so axes now do `30%` bonus damage at `100` Lumberjacking instead of `20%`
 
 ## 2026.11.19
