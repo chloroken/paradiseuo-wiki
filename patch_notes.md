@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T13:16:41.336Z
+date: 2026-11-20T16:16:33.668Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -34,6 +34,10 @@ Changes to *Paradise*, newest first.
 - Fix the [Lumberjacking](/lumberjacking) grandmaster bonus never applying, so axes now do `30%` bonus damage at `100` Lumberjacking instead of `20%`
 - Prevent monsters from casting heals
 - Prevent monsters from casting necro spells
+- Edit treasure map description to make it T2A
+- Reduce potion weight
+- Rework player armor, it should now be much more powerful
+- Monsters no longer use armor
 
 ## 2026.11.19
 - Add the Antimage rework, so characters with less Magery fight better:
