@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T09:45:23.599Z
+date: 2026-11-20T11:24:55.079Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -31,8 +31,8 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM.
   - Dexterity adds carrying capacity, half as much per point as Strength.
   - Fighters who raise Dexterity can now carry more per trip.
 
-### Archers
-Archers receive several enhancements that make ranged combat more effective:
+## Archer Rework
+Archers receive several enhancements that make ranged combat more effective.
 
 - Archers benefit from Valor bonuses.
 - Arrows and bolts can be coated with poison.
