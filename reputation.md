@@ -2,7 +2,7 @@
 title: Reputation
 description: 
 published: true
-date: 2026-11-20T02:50:34.544Z
+date: 2026-11-20T02:52:27.522Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-14T06:31:40.281Z
@@ -44,15 +44,6 @@ Karma is lost by:
 - Successfully applying poison with [Poisoning](/poisoning).
 - Killing templars.
 
-### Templars and Thugs
-Templars are good NPCs and thugs are evil ones, found outside the teleporters to their Karma towns.
-
-- They attack players whose Karma is opposite to theirs.
-- They give no Fame and drop poor loot.
-- Each kill changes Karma by `25` to `75`.
-- Beyond `5,000` or `-5,000` Karma, the change is halved.
-- Every player who damaged the NPC receives the full Karma change.
-
 ### Karma Towns
 The people of these two towns only deal with characters of the right Karma.
 
@@ -63,6 +54,15 @@ The people of these two towns only deal with characters of the right Karma.
 
 - Vendors, bankers, animal trainers, healers, trainers, and hirelings in these towns refuse to deal with characters who don't meet the requirement.
 - Neither town has a moongate. Travel there by boat, by magic, or by teleporter.
+
+### Templars and Thugs
+Templars are good NPCs and thugs are evil ones, found outside the teleporters to their Karma towns.
+
+- They attack players whose Karma is opposite to theirs.
+- They give no Fame and drop poor loot.
+- Each kill changes Karma by `25` to `75`.
+- Beyond `5,000` or `-5,000` Karma, the change is halved.
+- Every player who damaged the NPC receives the full Karma change.
 
 ### Karma Lock
 - If Karma drops from positive to below `0`, it becomes locked.
