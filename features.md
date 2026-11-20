@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T04:28:09.347Z
+date: 2026-11-20T04:30:01.326Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -13,7 +13,7 @@ dateCreated: 2026-11-18T23:04:02.833Z
 
 ## Fighter Rework
 Fighters are reworked to keep pace with mages, tamers, and bards in PvM. Each part rewards a different skill or style:
-- Valor: characters who fight without magic are gripped by Valor, the warrior's virtue. Tactics improves their accuracy, Parrying reduces the physical damage they take, and Anatomy speeds up their hit point regeneration. Each bonus grows with its skill and shrinks as Magery rises. Only players get these bonuses. See [Valor](/combat#valor).
+- Valor: characters who fight without magic are gripped by [Valor](https://wiki.ultimacodex.com/wiki/Valor), the warrior's virtue. Tactics improves their accuracy, Parrying reduces the physical damage they take, and Anatomy speeds up their hit point regeneration. Each bonus grows with its skill and shrinks as Magery rises. Only players get these bonuses. See [Valor](/combat#valor).
 - Ambush: archers can ambush their targets from the shadows. Breaking Hiding with a ranged weapon attack does bonus damage, and every stealthed step before the shot adds more damage and accuracy, until the shot can't miss. Monsters and animals can't be ambushed again right away. See [Archery](/archery).
 - Poisoning: fencing weapons, arrows, and bolts can be coated with poison. The chance to apply poison is tied to Poisoning level with perfect application at grandmaster. Anyone can fight with poisoned weapons, but every swing or shot risks poisoning the user without skill, with grandmasters never poisoning themselves. Poison has a defensive aspect, as spellcasters spend their spells curing themselves instead of using offensive spells. See [Poisoning](/poisoning).
 - Wrestling: moves happen automatically when an empty-handed punch hits, with no button or macro needed. See [Wrestling Moves](/wrestling#wrestling-moves).
