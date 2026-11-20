@@ -2,7 +2,7 @@
 title: Lockpicking
 description: 
 published: true
-date: 2026-11-19T22:37:08.845Z
+date: 2026-11-20T02:55:34.549Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T21:00:26.779Z
@@ -10,6 +10,7 @@ dateCreated: 2026-11-15T21:00:26.779Z
 
 # Lockpicking
 Lockpickers use [lockpicks](/lockpick) to pick locks. These locks often secure containers full of loot, which the lockpicker can then take. A [skeleton key](/skeleton_key) can be used instead of a lockpick.
+
 ## Town Chests
 Town chests are scattered through buildings in towns. A chest's difficulty is tied to the NPCs who live in the building, and its loot usually matches the type of building. A chest in an alchemist's shop might contain potions, for example.
 
@@ -61,7 +62,7 @@ Higher Tinkering keeps making the lock harder to pick, and raises the Lockpickin
 Pick chests in towns and dungeons, and pick the hardest crafted container available in between.
 
 ## Macro Training
-Get 3 locked boxes: one made with 50 Tinkering, one made with 75, and one made with 100. Then run this TazUO Legion script, reseting for each new box tier, until grandmaster.
+Get three locked boxes: one made with 50 Tinkering, one made with 75, and one made with 100. Then run this TazUO Legion script, resetting for each new box tier, until grandmaster.
 ```
 pick = API.FindType(0x14FC, API.Backpack)
 API.SysMsg("Target the box")
