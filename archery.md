@@ -2,7 +2,7 @@
 title: Archery
 description: 
 published: true
-date: 2026-11-20T06:09:56.801Z
+date: 2026-11-20T06:12:57.008Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:21:12.302Z
