@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T01:04:19.502Z
+date: 2026-11-20T01:05:24.027Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,12 +12,13 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 
 ## 2026.11.19
-- Add the [Antimage](/features#antimage) rework, so characters with less Magery fight better:
+- Add the [Antimage](/features#antimage) rework, a set of bonuses that diminish as Magery level increases:
     - Tactics adds up to `30` points of weapon skill when rolling to hit
     - Parrying reduces physical damage taken by up to `20%`
     - Anatomy increases hit point regeneration rate by up to `5×`
     - All three bonuses are full at `0` Magery and shrink to nothing at `100`
-    - Only players get the bonuses
+    - These bonuses are cut in half at `50` Magery, and are completely gone at `100`
+    - Only players get antimage bonuses
 - Poisoning can now coat all fencing weapons, arrows, and bolts, but no longer swords or knives:
     - Anyone can use poisoned weapons and ammunition, but every swing or shot risks poisoning the user, from `50%` at `0` Poisoning to `5%` at `50` and `0%` at `100`
     - Poisoned arrows and bolts are fired before clean ones, strongest poison first, and recovered ammunition is always clean
