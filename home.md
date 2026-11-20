@@ -2,14 +2,14 @@
 title: Home
 description: 
 published: true
-date: 2026-11-20T03:43:46.376Z
+date: 2026-11-20T05:04:46.884Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:50:31.643Z
 ---
 
 # Welcome
-*Paradise* is an [Ultima Online](https://uo.com/) shard based on [T2A](https://en.wikipedia.org/wiki/Ultima_Online:_The_Second_Age). It keeps the old-school feel and awesome design, but implements clever scoped reworks and makes quality-of-life changes where they help. It's intended for solo players and small groups, and PvP is consensual only.
+*Paradise* is an [Ultima Online](https://uo.com/) shard based on [T2A](https://en.wikipedia.org/wiki/Ultima_Online:_The_Second_Age). It keeps the old-school feel and classic base design, but implements clever scoped reworks and makes quality-of-life changes where they help. It's intended for solo players and small groups, and PvP is consensual only.
 
 The main design goal is build diversity: fighters are rebalanced to keep pace with mages, tamers, and bards in PvM, and skills that otherwise do little are given combat uses, creating thousands of viable builds instead of just a handful. This wiki directly cites the server's code, so making builds doesn't involve guesswork. Separately, systems like the reputation rework and planned quests add to the world's lore and immersion in quirky and useful ways.
 
