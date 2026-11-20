@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2026-11-20T11:09:56.444Z
+date: 2026-11-20T17:17:19.024Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -11,7 +11,7 @@ dateCreated: 2026-11-08T22:35:49.369Z
 # Classes
 Ultima Online doesn't have discrete classes. Instead, players choose [stats](/stats) and [skills](/skills) to create a build. For example, to play a Warrior one would spend stat points on Strength and Dexterity, and skill points on weapon, defensive, and healing skills.
 
-During character creation there is a profession screen, but it should be ignored and `Advanced` should always be selected. The following classes are just ideas, many of them rooted in classic T2A gameplay.
+During character creation there is a profession screen, but it should be ignored and `Advanced` should always be selected because *Paradise* targets an era that predates that screen. The following classes are just ideas, many of them rooted in classic T2A gameplay.
 
 ## Fighters
 | Class | Concept | Classic Name |
