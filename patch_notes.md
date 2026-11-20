@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T16:16:33.668Z
+date: 2026-11-20T16:19:54.856Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -15,7 +15,7 @@ Changes to *Paradise*, newest first.
 - Rename Antimage to [Valor](/combat#valor), the warrior's virtue from Ultima lore
 - Tune Valor so each bonus comes from a skill, not just by not having Magery:
     - Tactics still passively adds up to `30` points of weapon skill
-    - Parrying passively reduces physical damage taken by up to `20%`
+    - Parrying passively reduces physical damage taken by up to `20%`, happens before armor reductions
     - Anatomy passively increases hit point regeneration by up to `5×`
     - Each bonus is full at `100` in its skill and `0` Magery, so `50` in the skill with `50` Magery gives a quarter of it
 - Poisoning can now coat all fencing weapons, arrows, and bolts, but no longer swords or knives:
