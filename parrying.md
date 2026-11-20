@@ -2,7 +2,7 @@
 title: Parrying
 description: 
 published: true
-date: 2026-11-20T03:28:42.286Z
+date: 2026-11-20T16:18:45.076Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T03:26:26.815Z
@@ -12,7 +12,7 @@ dateCreated: 2026-11-20T03:26:26.815Z
 Parrying is the skill of blocking attacks with a shield. Through [Valor](/combat#valor), it also makes characters who fight without magic tougher, with or without a shield.
 
 ## Blocking
-A character holding a shield has a chance to block each weapon attack that hits them. A blocked attack still lands, but the shield stops part of its damage first. Body armor then absorbs part of what's left. See [Armor](/armor).
+A character holding a shield has a chance to block each weapon attack that hits them. A blocked attack still lands, but the shield stops part of its damage. Body-worn armor then reduces what's left. See [Armor](/armor).
 
 Without a shield, attacks are never blocked, whatever the character's Parrying.
 
@@ -42,7 +42,7 @@ The table is for shields of regular quality at full durability. An exceptional s
 Shields are made with [Blacksmithing](/blacksmithing), except the wooden shield, which is made with [Carpentry](/carpentry). Order shields can only be equipped by members of an Order guild, and chaos shields by members of a Chaos guild.
 
 ## Valor
-Parrying also gives Valor's toughness bonus, which reduces the physical damage a character takes from weapons and monsters' melee attacks. It needs no shield and applies after armor. The bonus grows with Parrying and shrinks as Magery rises. See [Valor](/combat#valor).
+Parrying also gives Valor's toughness bonus, which reduces the physical damage a character takes from weapons and monsters' melee attacks. It needs no shield and applies before armor. The bonus grows with Parrying and shrinks as Magery rises. See [Valor](/combat#valor).
 
 ## Manual Training
 Use a shield to block hits. Maybe a swarm of rats would do the trick..?
