@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2026-11-20T16:17:56.385Z
+date: 2026-11-20T16:32:17.819Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
@@ -57,7 +57,7 @@ A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` t
 
 A worn-out weapon does less damage, down to half when it's about to break.
 
-Valor, shields, and then armor reduce the damage before it reaches the target. See [Armor](/armor).
+Valor, shields, armor, and Arch Protection reduce the damage before it reaches the target. See [Armor](/armor).
 
 ## Being Hit
 - Any damage, however small, makes a bandage slip. See [Healing: Slips](/healing#slips).
