@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2026-11-20T02:21:49.368Z
+date: 2026-11-20T03:29:11.727Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
@@ -65,7 +65,7 @@ Armor then absorbs part of the damage before it reaches the target. See [Armor](
 - Paralyzed characters have the same limits, but taking damage breaks the paralysis. The Paralyze spell and paralyze fields paralyze their target.
 
 ## Valor
-Valor is the warrior's virtue. Characters who fight with weapons instead of magic are gripped by it and get three bonuses in combat. The further a character turns toward magic, the weaker Valor's hold on them. Each bonus comes from its own skill and is at its full size with `100` in that skill and `0` Magery. The skill and Magery scales multiply, so a character with `50` in the skill and `50` Magery gets a quarter of the bonus. Only players get these bonuses, not monsters or pets.
+Valor is the warrior's virtue. Characters who fight with weapons instead of magic are gripped by it and get three bonuses in combat. The further a character turns toward magic, the weaker Valor's hold on them. Valor has nothing to do with the virtue system from later versions of Ultima Online, which *Paradise* doesn't use. Each bonus comes from its own skill and is at its full size with `100` in that skill and `0` Magery. The skill and Magery scales multiply, so a character with `50` in the skill and `50` Magery gets a quarter of the bonus. Only players get these bonuses, not monsters or pets.
 
 - Accuracy, from Tactics: up to `30` points added to the attacker's weapon skill when rolling to hit, for every kind of weapon, including bows and bare hands. The bonus is `30 * (Tactics / 100) * ((100 - Magery) / 100)` points.
 - Toughness, from Parrying: physical damage taken is reduced by up to `20%`, after armor. The reduction is `20% * (Parrying / 100) * ((100 - Magery) / 100)`. It covers weapons and monsters' melee attacks, but not spells, breath, or poison. It doesn't need a shield.
