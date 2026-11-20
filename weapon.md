@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-20T01:02:22.880Z
+date: 2026-11-20T02:44:22.132Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -15,7 +15,7 @@ Each type of weapon is trained with its own skill, and some types have special a
 | Type | Skill | Examples |
 |:-|:-:|:-:|
 | Swords | [Swordsmanship](/swordsmanship) | Longswords, katanas, scimitars |
-| Kryss and Lances | [Fencing](/fencing) | Kryss, lances |
+| Krysses | [Fencing](/fencing) | Kryss |
 | Axes | Swordsmanship | Battle axes, double axes, executioner's axes |
 | War Axe | [Mace Fighting](/mace_fighting) | War axe |
 | Polearms | Swordsmanship | Halberds, bardiches |
