@@ -2,7 +2,7 @@
 title: Cartography
 description: 
 published: true
-date: 2026-11-19T00:15:44.881Z
+date: 2026-11-20T02:35:34.202Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-05T21:09:30.643Z
@@ -27,6 +27,7 @@ Double-click a mapmaker's pen to open the crafting menu.
 1. Buy blank scrolls from a scribe in a library.
 1. Make the highest-level map possible.
 1. Sell the map back to the vendor or throw it away.
-1. Repeat until `99.5`, then decode treasure maps for grandmaster.
+1. Repeat until `99.5`.
+1. For the last `0.5`, decode level `3` or higher treasure maps.
 
 ## Macro Training
