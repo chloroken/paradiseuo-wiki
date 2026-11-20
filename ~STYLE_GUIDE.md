@@ -2,7 +2,7 @@
 title: ~Style Guide~
 description: 
 published: true
-date: 2026-11-19T11:16:36.125Z
+date: 2026-11-20T02:32:03.493Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:22:42.267Z
@@ -95,6 +95,9 @@ Formulas use full skill and stat names, never abbreviations.
 - In-game names keep their in-game spelling, even when it's British: a grey wolf.
 - Paired female and male words put the female form first: Lady/Lord.
 - The Oxford comma is always used: Animal Taming, Animal Lore, and Veterinary.
+- Other commas are used only where they help the reader. A comma that can be removed without changing the meaning or making the sentence harder to read is removed. A sentence that needs three or more commas is usually better split in two.
+  - Correct: Fists do `1` to `8` damage before bonuses and swing quickly.
+  - Incorrect: Fists do `1` to `8` damage before bonuses, and swing quickly.
 - Third person, present tense: players, a tamer. Not "you".
 - No emoji.
 - No superscript. Notes go in plain text, usually in parentheses or as their own sentence.
