@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-20T03:06:33.842Z
+date: 2026-11-20T16:51:22.381Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -41,5 +41,6 @@ Two-handed axes, polearms, maces, and spears each have a special attack. Every h
 Concussion Blow and Crushing Blow can only be delivered by players and human NPCs. Concussion Blow also lowers the target's maximum mana.
 
 ## Other Effects on Hit
+- Swords can land a critical strike, which doubles the hit's damage before armor. The chance is `Swordsmanship / 10` percent, or `10%` at `100`. Only players with swords can land them, not with axes, polearms, or knives.
 - Maces and staves drain `3` to `5` of the target's stamina with every hit.
 - Fencing weapons can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).
