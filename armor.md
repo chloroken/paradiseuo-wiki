@@ -2,7 +2,7 @@
 title: Armor
 description: 
 published: true
-date: 2026-11-20T16:30:45.293Z
+date: 2026-11-20T16:42:50.307Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T03:33:34.463Z
@@ -21,7 +21,7 @@ When hit by an attack, the following happens in order:
 
 Each piece of armor reduces damage by a random `1%` to `2%` for every point of its armor rating, up to `90%`. A plate chest with `40` armor reduces damage by `40%` to `80%`. Because the reduction is a percentage, armor protects against hard hits as well as light ones.
 
-Arch Protection and a held shield then remove a flat amount, between `50%` and `100%` of `(Arch Protection + 2 * Shield Rating) * Flat Scale`, using the scale for the body slot that was hit. For a heater shield at `100` Parrying, that's up to `8` damage on a chest hit and `1` on a hand hit.
+Arch Protection and an equipped shield then remove a flat amount, between `50%` and `100%` of `(Arch Protection + 2 * Shield Rating) * Flat Scale`, using the scale for the body slot that was hit. For a heater shield at `100` Parrying, that's up to `8` damage on a chest hit and `1` on a hand hit.
 
 | Body Slot | Chance to Be Hit (%) | Flat Scale (%) |
 |:-|:-:|:-:|
