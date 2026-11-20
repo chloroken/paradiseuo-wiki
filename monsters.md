@@ -2,7 +2,7 @@
 title: Monsters
 description: 
 published: true
-date: 2026-11-19T07:59:48.140Z
+date: 2026-11-20T04:26:47.790Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:09:38.337Z
@@ -25,11 +25,12 @@ Monsters on *Paradise* behave differently from later versions of Ultima Online:
 ## Fighting Monsters
 Monsters hit as hard in melee as they did in T2A, which is harder than in later versions of Ultima Online. Characters with Parrying and little Magery take less physical damage through [Valor](/combat#valor). See [Combat](/combat).
 
-Outside of dungeons, monsters won't attack [Young players](/young_player) unless the Young player attacks first.
-
 ## Dealing With Monsters
+- Monsters can be slain with weapons. See [Combat](/combat).
 - Many animals and monsters can be tamed. See [Animal Taming](/animal_taming) and [Pet](/pet).
 - Bards can turn monsters against each other with [Provocation](/provocation), or calm them with [Peacemaking](/peacemaking).
+
+Outside of dungeons, monsters won't initiate an attack against  [Young players](/young_player).
 
 ## Loot
 Monsters carry gold and items, and stronger monsters can drop [treasure maps](/treasure_map). Some loot has been removed on *Paradise*:
