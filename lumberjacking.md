@@ -2,7 +2,7 @@
 title: Lumberjacking
 description: 
 published: true
-date: 2026-11-19T07:59:06.429Z
+date: 2026-11-20T02:21:42.370Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:14:13.025Z
@@ -25,14 +25,14 @@ Trees share their wood with nearby trees, in patches of `4` by `3` tiles. Each p
 A log weighs `2` stones, so a full load adds up quickly. Using an axe on logs cuts them into boards, which most carpentry and fletching recipes use. A pack animal can carry the extra weight, and Dexterity adds carrying capacity. See [Carrying Capacity](/stats#carrying-capacity).
 
 ## Axe Damage
-Lumberjacking adds bonus damage to attacks made with axes. The bonus is `(Lumberjacking / 5)%`, up to `20%` at grandmaster.
+Lumberjacking adds bonus damage to attacks made with axes. The bonus is `(Lumberjacking / 5)%`, plus `10%` at grandmaster, for `30%` at `100`.
 
 | Lumberjacking | Axe Damage Bonus (%) |
 |:-|:-:|
 | 25 | 5 |
 | 50 | 10 |
 | 75 | 15 |
-| 100 | 20 |
+| 100 | 30 |
 
 The bonus only applies to axes. Swords, maces, fencing weapons, and bows get nothing from Lumberjacking.
 
