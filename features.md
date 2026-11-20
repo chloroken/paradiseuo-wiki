@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T16:51:30.336Z
+date: 2026-11-20T17:00:13.783Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -44,7 +44,7 @@ Archers receive several enhancements that make ranged combat more effective.
 - [Ambush](/archery#ambush):
 	- Shots do bonus damage if they break Hiding.
   - Breaking Stealth further enhances the shot.
-- [Tracking](/tracking#archer-accuracy):
+- [Tracking](/tracking#archery-accuracy):
 	- Increases accuracy with ranged weapons.
   - Shots against fleeing targets never miss.
 
