@@ -2,7 +2,7 @@
 title: Reputation
 description: 
 published: true
-date: 2026-11-20T00:35:27.697Z
+date: 2026-11-20T02:50:34.544Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-14T06:31:40.281Z
@@ -31,7 +31,7 @@ Fame is lost by:
 - Being resurrected, at `10%` each time.
 
 ## Karma
-Karma measures good and evil. Karma changes slow down the further a character strays from neutral, except for changes from templars and thugs. Most monsters are evil, so hunting monsters naturally raises Karma. Keeping Karma negative takes thought and planning.
+Karma measures good and evil. Karma changes slow down the further a character strays from neutral. Most monsters are evil, so hunting monsters naturally raises Karma. Keeping Karma negative takes thought and planning.
 
 ### Gaining and Losing Karma
 Karma is gained by:
