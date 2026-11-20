@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T11:48:09.238Z
+date: 2026-11-20T16:42:00.323Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -19,6 +19,9 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM.
 - [Valor](/combat#valor):
   - Characters who fight without magic are gripped by [the warrior's virtue](https://wiki.ultimacodex.com/wiki/Valor).
   - Valor grants fighting bonuses that diminish as Magery increases.
+- [Armor](/armor#how-armor-works):
+  - Armor reduces damage by a percentage, so it protects against hard hits as well as light ones.
+  - Shields also reduce every hit, on top of blocking.
 - [Wrestling Moves](/wrestling#wrestling-moves):
   - Wrestling moves happen automatically, no button or macro needed.
   - Automatically chooses a move based on skill levels and target.
