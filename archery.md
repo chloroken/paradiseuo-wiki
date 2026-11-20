@@ -2,7 +2,7 @@
 title: Archery
 description: 
 published: true
-date: 2026-11-20T06:12:57.008Z
+date: 2026-11-20T06:46:53.058Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:21:12.302Z
@@ -39,9 +39,9 @@ An archer who hides with the [Hiding](/hiding) skill and then attacks with a bow
 
 Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
 
-- Each stealthed step adds `0.05×` damage, capped at a total of `0.5×`.
+- Each stealthed step adds `0.1×` damage, capped at a total of `1.0×`.
 - Each stealthed step also adds accuracy equal to `10%` of the accuracy missing for a guaranteed hit.
-- After `10` stealthed steps, the shot does `2.0×` damage and can't miss. The archer sees *You are in perfect position!* when this is reached, and *You strike with perfect advantage!* on the shot.
+- After `10` stealthed steps, the shot does a total of `2.5×` damage and can't miss. The archer sees *You are in perfect position!* when this is reached, and *You strike with perfect advantage!* on the shot.
 - Below `100` Stealth, using Stealth again before the steps run out allows the count to keep going toward `10`.
 
 | Stealthed Steps | Damage | Missing Hit Chance Closed (%) | Hit Chance from 50% (%) |
@@ -56,7 +56,8 @@ Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
 ## Restrictions
 - Only the Hiding skill counts. Hiding with the [Invisibility](/invisibility) spell or an [invisibility potion](/invisibility_potion) will not trigger ambush.
 - Must use Hiding before Stealth, or stealthed steps wont count.
-- Once a monster or animal has been damaged by an ambush, it becomes alert for `1` minute. Ambushes on alert targets causes the bonus damage and accuracy being ignored, but don't refresh the alert duration. Players do not become alert when ambushed.
+- Once a monster or animal has been damaged by an ambush, it becomes alert for `1` minute. Ambushes on alert targets causes the bonus damage and accuracy being ignored, but don't refresh the alert duration.
+- Ambush is capped at `2.0×` damage to players, and players do not become alert when ambushed.
 
 ## Dialogue
 | Trigger | Dialogue |
