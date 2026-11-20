@@ -105,6 +105,6 @@ Every skill page ends with two sections, in this order, even if they're still em
 1. `## Macro Training`
 
 ## Paradise Changes
-Reworks, meaning novel systems or large reworks of existing ones such as Antimage, are listed under Reworks on the [Shard Features](/features) page. Other novel changes are listed there under Other Changes. Small tweaks, quality-of-life changes, and changes made to match T2A go only in the [patch notes](/patch_notes), even when they differ from other versions of Ultima Online.
+Reworks, meaning novel systems or large reworks of existing ones such as Antimage, each get their own section on the [Features](/features) page. Other novel changes are listed there under Other Changes. Small tweaks, quality-of-life changes, and changes made to match T2A go only in the [patch notes](/patch_notes), even when they differ from other versions of Ultima Online.
 
 Other pages describe each change as part of how the game works, without flagging it as a change.

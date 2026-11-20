@@ -9,7 +9,7 @@ dateCreated: 2026-11-19T00:05:40.279Z
 ---
 
 # Combat
-Combat on *Paradise* follows T2A rules, apart from the changes listed in [Shard Features](/features). This page covers how often attacks land, how fast they come, how much damage they do, and the extra toughness given to characters without Magery. For weapon types and special attacks, see [Weapon](/weapon), and for Wrestling moves, see [Wrestling](/wrestling).
+Combat on *Paradise* follows T2A rules, apart from the changes listed in [Features](/features). This page covers how often attacks land, how fast they come, how much damage they do, and the extra toughness given to characters without Magery. For weapon types and special attacks, see [Weapon](/weapon), and for Wrestling moves, see [Wrestling](/wrestling).
 
 ## Swing Speed
 The delay between attacks depends on the weapon's speed and the attacker's current stamina:

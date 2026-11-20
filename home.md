@@ -13,7 +13,7 @@ dateCreated: 2026-11-03T21:50:31.643Z
 
 The main design goal is build diversity: fighters are rebalanced to keep pace with mages, tamers, and bards in PvM, and skills that otherwise do little are given combat uses. Separately, systems like the reputation rework and planned quests add to the world's lore and immersion. This wiki documents the shard's mechanics checked against the server's code.
 
-See [Shard Features](/features) for the major ways *Paradise* differs from T2A. See [Patch Notes](/patch_notes) for smaller and ongoing changes.
+See [Features](/features) for the major ways *Paradise* differs from T2A. See [Patch Notes](/patch_notes) for smaller and ongoing changes.
 
 ![a robed adventurer sits atop a nightmare outside the papua bank](/home_papua.png)
 
