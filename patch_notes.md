@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T02:21:58.744Z
+date: 2026-11-20T02:34:19.384Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -190,7 +190,7 @@ These are the changes to ServUO's base, and the server's starting point.
 - Moongates changed to Felucca only
 - Creature bonding disabled
 - Swing cycle changed to be more like T2A
-- Provocation cooldown changed to `5` seconds
+- Provocation failure cooldown changed to `5` seconds
 - Provocation can target the bard who used it
 - Moonglow Zoo spawns changed to avoid guard aggro
 - Council of Mages moved to its proper location
