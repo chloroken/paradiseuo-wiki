@@ -24,7 +24,7 @@ The chance to succeed is `(Stealth + 20 - 2 * Armor Rating)%`. Without armor, it
 - Running while hidden reveals the character at once.
 - After each attempt, the skill can't be used again for `10` seconds.
 
-## Ambush 𐠒
+## Ambush
 Each stealthed step before a ranged attack makes an archer's ambush stronger. See [Archery](/archery).
 
 ## Manual Training

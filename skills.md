@@ -22,10 +22,10 @@ Most characters take at least one of these skills.
 
 ## Enabled Skills
 - [Alchemy](/alchemy)
-- [Anatomy](/anatomy) 𐠒
+- [Anatomy](/anatomy)
 - [Animal Lore](/animal_lore)
 - [Animal Taming](/animal_taming)
-- [Archery](/archery) 𐠒
+- [Archery](/archery)
 - [Arms Lore](/arms_lore)
 - [Begging](/begging)
 - [Blacksmithing](/blacksmithing)
@@ -42,17 +42,17 @@ Most characters take at least one of these skills.
 - [Forensic Evaluation](/forensic_evaluation)
 - [Healing](/healing)
 - [Herding](/herding)
-- [Hiding](/hiding) 𐠒
+- [Hiding](/hiding)
 - [Inscription](/inscription)
 - [Item Identification](/item_identification)
 - [Lockpicking](/lockpicking)
 - [Lumberjacking](/lumberjacking)
 - [Mace Fighting](/mace_fighting)
-- [Magery](/magery) 𐠒
+- [Magery](/magery)
 - [Meditation](/meditation)
 - [Musicianship](/musicianship)
 - [Mining](/mining)
-- [Parrying](/parrying) 𐠒
+- [Parrying](/parrying)
 - [Peacemaking](/peacemaking)
 - [Poisoning](/poisoning)
 - [Provocation](/provocation)
@@ -61,16 +61,14 @@ Most characters take at least one of these skills.
 - [Snooping](/snooping)
 - [Spirit Speak](/spirit_speak)
 - [Stealing](/stealing) (not from players)
-- [Stealth](/stealth) 𐠒
+- [Stealth](/stealth)
 - [Swordsmanship](/swordsmanship)
-- [Tactics](/tactics) 𐠒
+- [Tactics](/tactics)
 - [Tailoring](/tailoring)
 - [Tinkering](/tinkering)
 - [Tracking](/tracking)
 - [Veterinary](/veterinary)
 - [Wrestling](/wrestling)
-
-𐠒 Part of a *Paradise* rework. See [Shard Features](/features).
 
 ## Disabled Skills
 - Bushido

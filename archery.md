@@ -32,7 +32,7 @@ Arrows and bolts can be coated with poison, and are fired before clean ones. Rec
 
 Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Combat: Damage](/combat#damage).
 
-## Ambush 𐠒
+## Ambush
 An archer who hides with the Hiding skill and then attacks with a bow or crossbow ambushes the target, for extra damage. Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
 
 - A shot that breaks Hiding without any stealthed steps does `1.5×` damage. This works while mounted.
@@ -50,7 +50,7 @@ An archer who hides with the Hiding skill and then attacks with a bow or crossbo
 | 8 | 1.9× | 80 | 90 |
 | 10 | 2.0× | 100 | 100 |
 
-## Antimage 𐠒
+## Antimage
 Archers with little or no Magery get the same [Antimage](/combat#antimage) bonuses as any other fighter: accuracy from Tactics, toughness from Parrying, and regeneration from Anatomy. Few archers have room for Parrying, so most go without the toughness bonus. Antimage and ambushes both apply to the same shot.
 
 ## Builds

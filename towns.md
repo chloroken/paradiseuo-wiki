@@ -15,7 +15,7 @@ Towns are where players bank, buy and sell, train skills, and stable their pets.
 | Town | Moongate | Notes |
 |:-|:-:|:-:|
 | Britain | Yes | |
-| Buccaneer's Den | No | Island, low Karma only 𐠒 |
+| Buccaneer's Den | No | Island, low Karma only |
 | Cove | No | |
 | Jhelom | Yes | Island |
 | Magincia | Yes | Island |
@@ -23,7 +23,7 @@ Towns are where players bank, buy and sell, train skills, and stable their pets.
 | Moonglow | Yes | Island |
 | Nujel'm | No | Island |
 | Ocllo | No | Island |
-| Serpent's Hold | No | Island, high Karma only 𐠒 |
+| Serpent's Hold | No | Island, high Karma only |
 | Skara Brae | Yes | Island |
 | Trinsic | Yes | |
 | Vesper | No | |

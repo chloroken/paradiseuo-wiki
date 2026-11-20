@@ -27,7 +27,7 @@ A hidden character is revealed by:
 - Attacking, casting a spell, or using most skills and items.
 - Another player using Detecting Hidden nearby, or a monster using Detecting Hidden or casting Reveal.
 
-## Ambush 𐠒
+## Ambush
 Only a hide made with the Hiding skill allows an ambush with a bow or crossbow. The Invisibility spell and invisibility potions don't count. See [Archery](/archery).
 
 ## Manual Training
