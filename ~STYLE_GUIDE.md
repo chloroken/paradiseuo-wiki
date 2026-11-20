@@ -50,7 +50,7 @@ Italics are used for:
 - Text shown in game exactly as worded: the pet *looks happier*
 
 ## Capitalization
-- Proper names are capitalized: skills (Animal Lore), spells (Magic Reflection), places (Serpent's Hold), NPCs (Grizelda), and named mechanics (Pack Instinct, Loyalty).
+- Proper names are capitalized: skills (Animal Lore), spells (Magic Reflection), places (Serpent's Hold), NPCs (Grizelda), and named mechanics (Pack Instinct, Loyalty, Valor).
 - Ordinary creatures and items are lowercase: dragons, bandages, a treasure map.
 
 ## Links
@@ -62,7 +62,7 @@ Italics are used for:
 - Only the first mention of a page is linked on any given page.
 - Link text follows normal sentence capitalization: capitals only for proper names, such as skills, spells, and places. Ordinary words stay lowercase.
   - Examples: tamers turn animals into [pets](/pet), healed with [Veterinary](/veterinary), listed in the [patch notes](/patch_notes)
-- Cross-references are the one exception, and use the title of what they link to: the page's title for a whole page, such as See [Stable](/stable), or the section's heading for a section, such as See [Antimage](/combat#antimage). If the heading is too vague to stand on its own, the page title and a colon go before it, such as See [Combat: Damage](/combat#damage).
+- Cross-references are the one exception, and use the title of what they link to: the page's title for a whole page, such as See [Stable](/stable), or the section's heading for a section, such as See [Valor](/combat#valor). If the heading is too vague to stand on its own, the page title and a colon go before it, such as See [Combat: Damage](/combat#damage).
 
 ## Notes and Warnings
 The wiki doesn't use note boxes, callouts, or block quotes. Important information goes in the text, with bold for critical warnings.
@@ -108,6 +108,6 @@ Every skill page ends with two sections, in this order, even if they're still em
 1. `## Macro Training`
 
 ## Paradise Changes
-Reworks, meaning novel systems or large reworks of existing ones such as Antimage, each get their own section on the [Features](/features) page. Other novel changes are listed there under Other Changes. Small tweaks, quality-of-life changes, and changes made to match T2A go only in the [patch notes](/patch_notes), even when they differ from other versions of Ultima Online.
+Reworks, meaning novel systems or large reworks of existing ones such as Valor, each get their own section on the [Features](/features) page. Other novel changes are listed there under Other Changes. Small tweaks, quality-of-life changes, and changes made to match T2A go only in the [patch notes](/patch_notes), even when they differ from other versions of Ultima Online.
 
 Other pages describe each change as part of how the game works, without flagging it as a change.

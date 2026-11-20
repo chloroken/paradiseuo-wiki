@@ -9,7 +9,7 @@ dateCreated: 2026-11-19T04:10:03.878Z
 ---
 
 # Magery
-Magery is the skill of casting spells. It offers damage, healing, utility, and the best ways to travel, which is why most characters take it. On *Paradise*, it also costs fighters their [Antimage](/combat#antimage) bonuses.
+Magery is the skill of casting spells. It offers damage, healing, utility, and the best ways to travel, which is why most characters take it. On *Paradise*, every point of Magery also weakens [Valor](/combat#valor), the warrior's virtue that strengthens fighters. A fighter has to choose between spells and Valor.
 
 ## Spells
 Magery has `64` spells, split evenly across `8` circles. Each spell needs reagents and mana, and is cast from a spellbook or a scroll. See [Spells](/spells).
@@ -31,9 +31,6 @@ Each circle has a range of Magery where its spells can fail. Below the range a s
 At `100` Magery, 7th circle spells succeed `86%` of the time and 8th circle spells `50%` of the time.
 
 Casting from a scroll counts as two circles lower, so a scroll of an 8th circle spell is cast with the chances of a 6th circle spell. A grandmaster never fails a scroll of any circle.
-
-## Antimage
-Characters with less than `100` Magery get bonuses to accuracy, toughness, and hit point regeneration, from Tactics, Parrying, and Anatomy. Every point of Magery shrinks them, so a fighter has to choose between spells and the Antimage bonuses. A character with `50` Magery keeps half of each bonus they have the skill for. See [Antimage](/combat#antimage).
 
 ## Related Skills
 - [Evaluating Intelligence](/evaluating_intelligence) raises spell damage, and gives unarmed defense alongside Anatomy.

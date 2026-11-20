@@ -13,7 +13,7 @@ dateCreated: 2026-11-18T23:04:02.833Z
 
 ## Fighter Rework
 Fighters are reworked to keep pace with mages, tamers, and bards in PvM. Each part rewards a different skill or style:
-- Antimage: characters with little or no Magery get three combat bonuses, each from its own skill. Tactics improves accuracy, Parrying reduces the physical damage taken, and Anatomy speeds up hit point regeneration. Each bonus grows with its skill and shrinks as Magery rises, and only players get them. See [Antimage](/combat#antimage).
+- Valor: characters who fight without magic are gripped by Valor, the warrior's virtue. Tactics improves their accuracy, Parrying reduces the physical damage they take, and Anatomy speeds up their hit point regeneration. Each bonus grows with its skill and shrinks as Magery rises. Only players get these bonuses. See [Valor](/combat#valor).
 - Ambush: stealth archers can ambush their targets. Breaking Hiding with a ranged weapon attack does bonus damage, and every stealthed step before the shot adds more damage and accuracy, until the shot can't miss. Monsters and animals can't be ambushed again right away. See [Archery](/archery).
 - Poisoning: fencing weapons, arrows, and bolts can be coated with poison, giving Poisoning a real place in combat. Anyone can fight with poisoned weapons, but every swing or shot risks poisoning the user. The risk falls as Poisoning rises and ends at grandmaster. See [Poisoning](/poisoning).
 - Wrestling: moves happen automatically when an empty-handed punch hits, with no button or macro needed. See [Wrestling Moves](/wrestling#wrestling-moves).

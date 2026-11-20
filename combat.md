@@ -9,7 +9,7 @@ dateCreated: 2026-11-19T00:05:40.279Z
 ---
 
 # Combat
-Combat on *Paradise* follows T2A rules, apart from the changes listed in [Features](/features). This page covers how often attacks land, how fast they come, how much damage they do, and the extra toughness given to characters without Magery. For weapon types and special attacks, see [Weapon](/weapon), and for Wrestling moves, see [Wrestling](/wrestling).
+Combat on *Paradise* follows T2A rules, apart from the changes listed in [Features](/features). This page covers how often attacks land, how fast they come, how much damage they do, and Valor, the warrior's virtue that strengthens characters who fight without magic. For weapon types and special attacks, see [Weapon](/weapon), and for Wrestling moves, see [Wrestling](/wrestling).
 
 ## Swing Speed
 The delay between attacks depends on the weapon's speed and the attacker's current stamina:
@@ -36,7 +36,7 @@ The defender uses the skill of whatever weapon they're holding, so a fencer defe
 Every attack, hit or miss, has a chance to raise the attacker's weapon skill.
 
 Two things can raise hit chance beyond skill:
-- Antimage adds to the attacker's weapon skill for this roll. See [Antimage](#antimage).
+- Valor adds to the attacker's weapon skill for this roll. See [Valor](#valor).
 - Stealth archers gain accuracy for every stealthed step before an ambush, until the shot can't miss. See [Archery](/archery).
 
 ## Damage
@@ -64,8 +64,8 @@ Armor then absorbs part of the damage before it reaches the target. See [Armor](
 - Frozen characters can't move or begin casting a spell, but can still attack anything in reach. Wrestling stuns and Paralyzing Blow freeze their target, and the freeze lasts its full time, even through damage.
 - Paralyzed characters have the same limits, but taking damage breaks the paralysis. The Paralyze spell and paralyze fields paralyze their target.
 
-## Antimage
-Characters with little or no Magery get three bonuses in combat, meant to make fighting with weapons, in melee or at range, as fun as playing a tamer, bard, or mage. Each bonus comes from its own skill, and is at its full size with `100` in that skill and `0` Magery. The skill and Magery scales multiply, so a character with `50` in the skill and `50` Magery gets a quarter of the bonus. Only players get these bonuses, not monsters or pets.
+## Valor
+Valor is the warrior's virtue. Characters who fight with weapons instead of magic are gripped by it and get three bonuses in combat. The further a character turns toward magic, the weaker Valor's hold on them. Each bonus comes from its own skill and is at its full size with `100` in that skill and `0` Magery. The skill and Magery scales multiply, so a character with `50` in the skill and `50` Magery gets a quarter of the bonus. Only players get these bonuses, not monsters or pets.
 
 - Accuracy, from Tactics: up to `30` points added to the attacker's weapon skill when rolling to hit, for every kind of weapon, including bows and bare hands. The bonus is `30 * (Tactics / 100) * ((100 - Magery) / 100)` points.
 - Toughness, from Parrying: physical damage taken is reduced by up to `20%`, after armor. The reduction is `20% * (Parrying / 100) * ((100 - Magery) / 100)`. It covers weapons and monsters' melee attacks, but not spells, breath, or poison. It doesn't need a shield.

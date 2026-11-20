@@ -12,7 +12,8 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 
 ## 2026.11.20
-- Rework [Antimage](/combat#antimage) so each bonus comes from its own skill, and the bonuses shrink both as the skill drops and as Magery rises:
+- Rename Antimage to [Valor](/combat#valor), the warrior's virtue
+- Rework Antimage so each bonus comes from its own skill, and the bonuses shrink both as the skill drops and as Magery rises:
     - Tactics still adds up to `30` points of weapon skill when rolling to hit
     - Parrying now reduces physical damage taken by up to `20%`, without needing a shield
     - Anatomy now increases hit point regeneration by up to `5×`
@@ -24,7 +25,7 @@ Changes to *Paradise*, newest first.
 - Fix the [Lumberjacking](/lumberjacking) grandmaster bonus never applying, so axes now do `30%` bonus damage at `100` Lumberjacking instead of `20%`
 
 ## 2026.11.19
-- Add the [Antimage](/combat#antimage) rework, so characters with less Magery fight better:
+- Add the Antimage rework, so characters with less Magery fight better:
     - Tactics adds up to `30` points of weapon skill when rolling to hit
     - Physical damage taken is reduced by up to `20%`
     - Hit points regenerate up to `5×` faster
