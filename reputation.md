@@ -2,7 +2,7 @@
 title: Reputation
 description: 
 published: true
-date: 2026-11-19T05:34:04.982Z
+date: 2026-11-20T00:35:27.697Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-14T06:31:40.281Z
@@ -41,6 +41,7 @@ Karma is gained by:
 Karma is lost by:
 - Killing good creatures.
 - Successfully [begging](/begging).
+- Successfully applying poison with [Poisoning](/poisoning).
 - Killing templars.
 
 ### Templars and Thugs
