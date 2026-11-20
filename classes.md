@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2026-11-20T10:54:12.680Z
+date: 2026-11-20T11:09:56.444Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -13,20 +13,36 @@ Ultima Online doesn't have discrete classes. Instead, players choose [stats](/st
 
 During character creation there is a profession screen, but it should be ignored and `Advanced` should always be selected. The following classes are just ideas, many of them rooted in classic T2A gameplay.
 
-## Class Ideas:
+## Fighters
 | Class | Concept | Classic Name |
 |:-|:-:|:-:|
-| [Fighter](/fighter) | Weapon specialist | Dexxer |
+| [Fighter](/fighter) | Weapons specialist | Dexxer |
 | [Paladin](/paladin) | Tank with light magic | Med Warrior |
-| [Deadeye](/deadeye) | Ranged weapon specialist | Archer |
-| [Assassin](/assassin) | Poison specialist | Assassin |
-| [Shadow](/shadow) | Stealth archer | n/a |
-| [Battlemage](/battlemage) | Magical polearm duelist | Hally Mage |
-| [Monk](/monk) | Unarmed specialist, with magic | Tank Mage |
-| [Sorcerer](/sorcerer) | Tanky pure caster, summoner | Mage |
-| [Druid](/druid) | Utility, magic, and beasts | Tamer Mage |
-| [Pirate](/pirate) | Map specialist | Tmapper |
-| [Minstrel](/minstrel) | Musical archer | Bard |
-| [Beastmaster](/beastmaster) | Music abilities with beasts | Bard Tamer |
+| [Assassin](/assassin) | Poisons, fencing specialist | Assassin |
+
+## Archers
+| Class | Concept | Classic Name |
+|:-|:-:|:-:|
+| [Deadeye](/deadeye) | Bow specialist | Pure Archer |
+| [Shadow](/shadow) | Stealthy crossbow specialist | n/a |
+
+## Mages
+| Class | Concept | Classic Name |
+|:-|:-:|:-:|
+| [Battlemage](/battlemage) | Offensive magic, polearm specialist | Hally Mage |
+| [Monk](/monk) | Offensive magic, unarmed specialist | Tank Mage |
+| [Sorcerer](/sorcerer) | Offensive magic, special defenses | Pure Mage |
+| [Druid](/druid) | Offensive magic, pet army | Tamer Mage |
+
+## Bards
+| Class | Concept | Classic Name |
+|:-|:-:|:-:|
+| [Pirate](/pirate) | Treasure map specialist | Mapper Bard |
+| [Minstrel](/minstrel) | Music utility, ranged damage | Pure Bard |
+| [Beastmaster](/beastmaster) | Music utility, pet army | Tamer Bard |
+
+## Toilers
+| Class | Concept | Classic Name |
+|:-|:-:|:-:|
 | [Artisan](/artisan) | Crafting specialist | Crafter |
-| [Forager](/forager) | Harvest specialist | Crafter |
+| [Forager](/forager) | Harvest specialist | Gatherer |
