@@ -2,7 +2,7 @@
 title: Poisoning
 description: 
 published: true
-date: 2026-11-20T03:11:50.380Z
+date: 2026-11-20T03:13:14.217Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T00:56:57.736Z
@@ -21,7 +21,7 @@ These can be poisoned:
 - Arrows and bolts in the backpack
 - Food
 
-Swords, knives, axes, and other weapons can’t be poisoned.
+Swords, knives, axes, and other weapons can't be poisoned.
 
 | Potion | Minimum Skill | Maximum Skill | Doses |
 |:-|:-:|:-:|:-:|
