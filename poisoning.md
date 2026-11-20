@@ -2,7 +2,7 @@
 title: Poisoning
 description: 
 published: true
-date: 2026-11-20T03:13:14.217Z
+date: 2026-11-20T04:08:35.608Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T00:56:57.736Z
@@ -33,11 +33,14 @@ Swords, knives, axes, and other weapons can't be poisoned.
 The chance to succeed rises evenly from the minimum skill, and never fails from the maximum. A potion gives `18 - 2 * Poison Level` doses. A weapon uses one dose per hit. On a stack of arrows or bolts, up to that many are coated, and the rest stay clean.
 
 ## Poisoned Weapons
-A poisoned weapon uses a dose on every hit, with a `50%` chance to poison the target.
+A poisoned weapon uses a dose on every swing or shot.
 
 Single-clicking a poisoned weapon, arrow, or bolt only shows that it's poisoned. A character whose Poisoning is high enough to apply that poison also sees its strength.
 
-Poisoned arrows and bolts are fired before clean ones, strongest poison first, and each poisoned shot that hits has a `50%` chance to poison the target. Arrows and bolts recovered after a shot are always clean. Poisoned ammunition only stacks with ammunition carrying the same poison, and can't go on a commodity deed.
+Arrows and bolts recovered after a shot are always clean. Poisoned ammunition only stacks with ammunition carrying the same poison, and can't go on a commodity deed. The strongest-poisoned ammunition is always used first if multiple kinds are present.
+
+## Poison Chance
+Each swing or shot that hits with a poisoned weapon or ammunition has a chance to poison the target based on Poisoning level. The chance is either `50%` or `Poisoning level * 1%`, whichever is higher. A grandmaster Poisoner that successfully hits an attack has a `100%` chance to poison.
 
 ## Self-Poisoning
 Anyone can use poisoned weapons and ammunition, but every swing or shot with poison, hit or miss, risks poisoning the user with the same poison, with the message *You nick yourself and become poisoned!* The risk falls evenly from `50%` at `0` Poisoning to `5%` at `50`, then evenly to `0%` at `100`.
