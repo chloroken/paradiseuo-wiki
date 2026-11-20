@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T17:00:13.783Z
+date: 2026-11-20T17:00:56.062Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
