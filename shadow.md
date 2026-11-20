@@ -2,14 +2,14 @@
 title: Shadow
 description: 
 published: true
-date: 2026-11-20T13:53:32.661Z
+date: 2026-11-20T14:02:44.457Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T10:06:33.424Z
 ---
 
 # Shadow
-The Shadow is a stealthy archer who specializes in ambushes. Hiding and Stealth allow the Shadow to approach targets undetected before delivering a devastating opening shot. Without Magery, the Shadow receives the full Valor accuracy and regeneration bonuses. Prefers a heavy crossbow to take advantage of the increased damage from an ambush.
+The Shadow is a stealthy archer who specializes in ambushes. Hiding and Stealth allow the Shadow to approach targets undetected before delivering a devastating opening shot. Without Magery, the Shadow receives the full Valor accuracy and regeneration bonuses. Prefers a heavy crossbow to take advantage of the increased damage from an ambush, but can switch to a bow for higher sustained damage after the opener.
 
 ## Skills
 - 100 Archery
