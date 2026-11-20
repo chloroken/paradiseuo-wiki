@@ -2,7 +2,7 @@
 title: Animal Taming
 description: 
 published: true
-date: 2026-11-19T07:57:25.857Z
+date: 2026-11-20T02:36:51.624Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T00:12:55.938Z
@@ -17,7 +17,7 @@ Taming a creature reduces its [skills](/skills), such as Magery, by `10%`. If it
 The penalty applies again every time a creature is tamed by a new owner, so a pet that has been released and re-tamed several times keeps less of its original skill each time.
 
 ## Manual Training
-Animal Taming is one of the slowest skills to train. Train [Animal Lore](/animal_lore) to grandmaster first, or tamed animals won't obey commands, including `release`. See [Obeying Commands](/pet#obeying-commands).
+Animal Taming is one of the slowest skills to train. It is important to also train [Animal Lore](/animal_lore) to help tamed animals respond to commands. See [Obeying Commands](/pet#obeying-commands).
 
 To follow an animal automatically, use `Alt + Click` on it.
 
