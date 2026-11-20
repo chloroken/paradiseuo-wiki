@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T17:00:56.062Z
+date: 2026-11-20T17:13:23.816Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -64,5 +64,5 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 ## Other Changes
 - The world uses Trammel rules on the Felucca map, so players can't attack or steal from each other anywhere. Duel arenas and guild wars are the only PvP, and items dropped on the ground can still be taken.
 - Houses decay if they aren't refreshed, and everything inside is destroyed rather than dropped on the ground. See [House](/house).
-- Boats sink soon after their last refresh, to stop players blocking objectives and islands with boats. See [Boat](/boat).
+- Boats sink quickly if not captained, to stop players blocking objectives and islands with boats. See [Boat](/boat).
 - Ore can be smelted straight from a pack animal's backpack. See [Crafting](/crafting).
