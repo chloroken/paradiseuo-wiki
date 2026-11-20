@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T11:24:55.079Z
+date: 2026-11-20T11:48:09.238Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -25,17 +25,15 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM.
 - [Poisoning](/poisoning):
   - Only fencing weapons can be poisoned.
   - Inflicting poison on hit is now tied to Poisoning level.
-  - Unskilled Poisoners can accidentally poison themselves.
 - [Carrying Capacity](/stats#carrying-capacity):
-  - Most builds maximize Strength, the carrying weight limit is ubiquitous.
   - Dexterity adds carrying capacity, half as much per point as Strength.
-  - Fighters who raise Dexterity can now carry more per trip.
 
 ## Archer Rework
 Archers receive several enhancements that make ranged combat more effective.
 
-- Archers benefit from Valor bonuses.
-- Arrows and bolts can be coated with poison.
+- Valor and Poison:
+	- Archers also benefit from Valor bonuses.
+	- Arrows and bolts can be coated with poison.
 - [Fletching](/fletching#fletching-and-archery):
   - Increases range, reduces time to shoot, and saves more arrows.
 - [Ambush](/archery#ambush):
