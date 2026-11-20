@@ -2,7 +2,7 @@
 title: Archery
 description: 
 published: true
-date: 2026-11-19T08:03:39.820Z
+date: 2026-11-20T02:54:54.939Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:21:12.302Z
@@ -38,6 +38,7 @@ An archer who hides with the Hiding skill and then attacks with a bow or crossbo
 - A shot that breaks Hiding without any stealthed steps does `1.5×` damage. This works while mounted.
 - Each stealthed step adds `0.05×` damage, and closes `10%` of the gap between the archer's normal hit chance and a guaranteed hit.
 - After `10` stealthed steps, the shot can't miss and does `2.0×` damage. The archer sees *You are in perfect position!* when this is reached, and *You strike with perfect advantage!* on the shot.
+- Stealth can be chained to reach the `10` steps before reaching grandmaster.
 - Once a monster or animal has been ambushed, hit or miss, nobody can ambush it again for `1` minute. Trying shows *Your target is too alert to ambush!* Players can be ambushed again at any time.
 - Only the [Hiding](/hiding) skill counts. Hiding with the [Invisibility](/invisibility) spell or an [invisibility potion](/invisibility_potion) gives no ambush.
 
