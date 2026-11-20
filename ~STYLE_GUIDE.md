@@ -2,7 +2,7 @@
 title: ~Style Guide~
 description: 
 published: true
-date: 2026-11-20T02:32:03.493Z
+date: 2026-11-20T03:29:21.442Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:22:42.267Z
@@ -106,6 +106,8 @@ Formulas use full skill and stat names, never abbreviations.
 Every skill page ends with two sections, in this order, even if they're still empty:
 1. `## Manual Training`
 1. `## Macro Training`
+
+These two sections can be written with some levity, since players read them while grinding. Every other rule still applies.
 
 ## Paradise Changes
 Reworks, meaning novel systems or large reworks of existing ones such as Valor, each get their own section on the [Features](/features) page. Other novel changes are listed there under Other Changes. Small tweaks, quality-of-life changes, and changes made to match T2A go only in the [patch notes](/patch_notes), even when they differ from other versions of Ultima Online.
