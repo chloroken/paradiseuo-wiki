@@ -2,7 +2,7 @@
 title: Pet
 description: 
 published: true
-date: 2026-11-19T08:02:37.077Z
+date: 2026-11-20T04:27:23.390Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -13,7 +13,7 @@ Pets are a type of follower, and [mounts](/mount) are pets too. [Animal tamers](
 
 Most pets take up `1` follower slot, but strong pets, such as drakes, take `2` slots, and the most powerful pets, such as dragons, take `3` slots. Pets can be left with an animal trainer while their owner is offline. See [Stable](/stable).
 
-**Pet death is permanent.**
+**Pet death is permanent. GMs cannot resurrect pets.**
 
 ## Pet Training
 Pets train their skills by using them, just like players, but twice as quickly. Even if a pet was paralyzed while being tamed and took the skill penalty, its skills can recover and keep training to their maximum. Pets can train each of their [stats](/stats) up to `100`, the same cap as players. A pet that already starts above `100` in a stat, such as a dragon's Strength, can't raise that stat any further. Animal Lore reveals a creature's stats and skills.
