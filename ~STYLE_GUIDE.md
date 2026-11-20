@@ -2,7 +2,7 @@
 title: ~Style Guide~
 description: 
 published: true
-date: 2026-11-20T03:29:21.442Z
+date: 2026-11-20T05:14:56.554Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:22:42.267Z
@@ -66,6 +66,8 @@ Italics are used for:
 
 ## Notes and Warnings
 The wiki doesn't use note boxes, callouts, or block quotes. Important information goes in the text, with bold for critical warnings.
+
+A detail that hasn't been checked against the server's code ends with (unconfirmed), in plain text, before the sentence's final punctuation. The marker is removed once the detail is checked. Example: A thrown potion adds `Alchemy / 10` damage (unconfirmed).
 
 ## Lists
 - Unordered lists use `-`.
