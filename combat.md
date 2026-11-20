@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2026-11-19T08:03:02.242Z
+date: 2026-11-20T02:21:49.368Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
@@ -50,10 +50,10 @@ Second, these bonuses are added together, then applied to the result:
 |:-|:-:|:-:|
 | Strength | 1% per 5 Strength | 20 |
 | [Anatomy](/anatomy) | 1% per 5 Anatomy, plus 10% at grandmaster | 30 |
-| [Lumberjacking](/lumberjacking) | 1% per 5 Lumberjacking, axes only | 20 |
+| [Lumberjacking](/lumberjacking) | 1% per 5 Lumberjacking, plus 10% at grandmaster, axes only | 30 |
 | Weapon quality | +20% exceptional, -20% low quality | |
 
-A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` times the weapon's base damage. With an exceptional weapon, that rises to `1.5 * 1.7 = 2.55` times, and with an exceptional axe and `100` Lumberjacking, to `1.5 * 1.9 = 2.85` times.
+A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` times the weapon's base damage. With an exceptional weapon, that rises to `1.5 * 1.7 = 2.55` times, and with an exceptional axe and `100` Lumberjacking, to `1.5 * 2.0 = 3` times.
 
 A worn-out weapon does less damage, down to half when it's about to break.
 
