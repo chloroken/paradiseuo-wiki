@@ -2,23 +2,25 @@
 title: Ministrel
 description: 
 published: true
-date: 2026-11-20T10:23:19.886Z
+date: 2026-11-20T10:25:56.163Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T10:23:19.886Z
 ---
 
-# Minstrel
-The Minstrel is a non-magical bard who uses music to control the battlefield before finishing enemies with a bow. Provocation turns them against each other, and Discordance weakens their offense and defense, and Peacemaking calms monsters in a pinch. With no Magery, the Minstrel is fully affected by Valor, but without Parrying and Anatomy, only receives the accuracy bonus from Tactics.
+# Beastmaster
+The Beastmaster leads a pack of powerful pets and uses bardic music to control enemies. Peacemaking and Provocation allow it to manage encounters by calming monsters or turning them against each other. Drums, while not required, are highly thematic.
+
+The Beastmaster is one of the strongest hunting builds because of Animal Taming and Provocation, but without Magery it cannot Recall. Thus, travel relies on moongates, boats, walking, or friends, which can complicate a follower setup. With 100 Dexterity, bandages reach the 3-second breakpoint and carrying capacity is maximized.
 
 ## Skills
-- 100 Archery
-- 100 Tactics
+- 100 Animal Taming
+- 100 Animal Lore
+- 100 Veterinary
 - 100 Musicianship
 - 100 Peacemaking
 - 100 Provocation
-- 100 Discordance
-- 100 Healing
+- 100 Hiding
 
 ## Stats
 | Stat | Amount |
