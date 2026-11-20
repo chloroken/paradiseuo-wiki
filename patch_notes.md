@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T01:05:24.027Z
+date: 2026-11-20T02:21:58.744Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,18 +11,26 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 
-## 2026.11.19
-- Add the [Antimage](/features#antimage) rework, a set of bonuses that diminish as Magery level increases:
-    - Tactics adds up to `30` points of weapon skill when rolling to hit
-    - Parrying reduces physical damage taken by up to `20%`
-    - Anatomy increases hit point regeneration rate by up to `5×`
-    - All three bonuses are full at `0` Magery and shrink to nothing at `100`
-    - These bonuses are cut in half at `50` Magery, and are completely gone at `100`
-    - Only players get antimage bonuses
+## 2026.11.20
+- Rework [Antimage](/combat#antimage) so each bonus comes from its own skill, and the bonuses shrink both as the skill drops and as Magery rises:
+    - Tactics still adds up to `30` points of weapon skill when rolling to hit
+    - Parrying now reduces physical damage taken by up to `20%`, without needing a shield
+    - Anatomy now increases hit point regeneration by up to `5×`
+    - Each bonus is full at `100` in its skill and `0` Magery, so `50` in the skill with `50` Magery gives a quarter of it
 - Poisoning can now coat all fencing weapons, arrows, and bolts, but no longer swords or knives:
     - Anyone can use poisoned weapons and ammunition, but every swing or shot risks poisoning the user, from `50%` at `0` Poisoning to `5%` at `50` and `0%` at `100`
     - Poisoned arrows and bolts are fired before clean ones, strongest poison first, and recovered ammunition is always clean
     - Poisoners with enough skill can see the strength of poison on weapons, arrows, and bolts by single-clicking them
+- Fix the [Lumberjacking](/lumberjacking) grandmaster bonus never applying, so axes now do `30%` bonus damage at `100` Lumberjacking instead of `20%`
+
+## 2026.11.19
+- Add the [Antimage](/combat#antimage) rework, so characters with less Magery fight better:
+    - Tactics adds up to `30` points of weapon skill when rolling to hit
+    - Physical damage taken is reduced by up to `20%`
+    - Hit points regenerate up to `5×` faster
+    - All three bonuses are full at `0` Magery and shrink to nothing at `100`
+    - Only players get the bonuses
+- Fix [Young players](/young_player) being unable to Recall, Gate Travel, or use moongates
 - Wrestling moves are now automatic:
     - Armed players and human NPCs are disarmed, and everything else is stunned
     - Moves are only attempted when a punch hits, and need free hands
@@ -35,7 +43,6 @@ Changes to *Paradise*, newest first.
 - Remove monsters added after T2A from the world, including plague beasts, boglings, bog things, toxic elementals, juka, golems, greater dragons, and shadow wyrms
 - Close the dungeons added after T2A: Sanctuary, Prism of Light, Blighted Grove, Painted Caves, and Khaldun
 - Remove leftover teleporters to Ter Mur, the Stygian Abyss, and the champion spawn network
-- Fix [Young players](/young_player) being unable to Recall, Gate Travel, or use moongates
 
 ## 2026.11.18
 - Add new [reputation](/reputation) mechanics:
