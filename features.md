@@ -2,14 +2,16 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T05:03:25.864Z
+date: 2026-11-20T08:34:43.954Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
 ---
 
 # Features
-*Paradise* uses The Second Age (T2A) era as its baseline. This page lists the significant ways that *Paradise* deliberately differs from T2A. Smaller tweaks are listed in the [patch notes](/patch_notes).
+*Paradise* uses The Second Age (T2A) era as its baseline. This page lists the significant ways that *Paradise* deliberately differs from T2A.
+
+Smaller tweaks are listed in the [patch notes](/patch_notes).
 
 ## Fighter Rework
 Fighters are enhanced to keep pace with mages, tamers, and bards in PvM. Each part rewards a different skill or style:
@@ -19,18 +21,21 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM. Each pa
   - Tactics improve accuracy, Parrying reduces physical damage taken, and Anatomy speeds up hit point regeneration.
   - Only players get these bonuses.
   - See [Valor](/combat#valor).
+- Poisoning: no longer just a crafting skill.
+	- Fencing weapons, arrows, and bolts can be coated with poison.
+  - The chance to apply poison is tied to Poisoning level with perfect application at grandmaster.
+  - Anyone can fight with poisoned weapons, but risk poisoning themselves without skill, unless grandmaster.
+  - Poisoning better impacts fighter survivability, as spellcasters casting Cure aren't casting Flame Strike.
+  - See [Poisoning](/poisoning).
 - Ambush: a T2A-friendly enhancement to Archery.
   - Breaking Hiding with a ranged weapon attack does bonus damage
   - For every stealthed footstep taken, the attack gets stronger and truer.
   - After ten footsteps, the attack becomes true and cannot miss.
   - Ambushing a monster or animal makes it immune to all ambushes for a minute.
   - See [Archery](/archery).
-- Poisoning: no longer a crafting skill.
-	- Fencing weapons, arrows, and bolts can be coated with poison.
-  - The chance to apply poison is tied to Poisoning level with perfect application at grandmaster.
-  - Anyone can fight with poisoned weapons, but risk poisoning themselves without skill, unless grandmaster.
-  - Poisoning better impacts fighter survivability, as spellcasters casting Cure aren't casting Flame Strike.
-  - See [Poisoning](/poisoning).
+- Fletching: no longer just a crafting skill
+    - Increases range, reduces time to shoot, and saves more arrows.
+    - See [Fletching](/fletching#fletching-and-archery).
 - Wrestling
 	- Moves happen automatically when an empty-handed punch hits, with no button or macro needed.
   - Automatically chooses between stun and disarm based on skill levels and target.
