@@ -2,14 +2,14 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T04:23:37.149Z
+date: 2026-11-20T04:28:09.347Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
 ---
 
 # Features
-*Paradise* uses The Second Age (T2A) era as its baseline. This page lists the ways *Paradise* deliberately differs from T2A: reworks and other novel changes. Changes that bring the shard closer to T2A, and smaller tweaks, are listed in the [patch notes](/patch_notes).
+*Paradise* uses The Second Age (T2A) era as its baseline. This page lists the significant ways that *Paradise* deliberately differs from T2A. Smaller tweaks are listed in the [patch notes](/patch_notes).
 
 ## Fighter Rework
 Fighters are reworked to keep pace with mages, tamers, and bards in PvM. Each part rewards a different skill or style:
