@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2026-11-20T08:37:45.918Z
+date: 2026-11-20T09:49:32.452Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -20,8 +20,8 @@ The following is a table of ideas. Consider it a starting point.
 | Archetype | Skills | Str | Dex | Int | Premise |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Fighter<br>(Dexxer) | (a weapon skill)<br>-and-<br>Anatomy<br>Archery<br>Healing<br>Parrying<br>Resisting Spells<br>Tactics<br> | 100 | 100 | 25 | The classic warrior. No magic means the full Valor bonuses, so the fighter is very hard to kill. Uses a one-handed weapon with a shield, bandages to heal, and a bow for anything that runs. Archery can be swapped for a second weapon skill to add two-handed weapons. |
-| Paladin<br>(Med Warrior) | Anatomy<br>Healing<br>Mace Fighting<br>40 Magery<br>60 Meditation<br>Parrying<br>Resisting Spells<br>Tactics | 100 | 40 | 85 | A warrior with access to defensive magic. Low Dexterity means slower swings, but the mace drains stamina with every hit, slowing enemy attacks. 40 Magery keeps most of the Valor bonuses but allows casting of 2nd circle  spells reliably, including Heal, Cure, and buff spells. Uses bandages for self-healing, and 40 Dexterity means 4-second bandages on others. |
-| Marksman<br>(Pure Archer) | Anatomy<br>Archery<br>Healing<br>Fletching<br>Tactics<br>Poisoning<br>Resisting Spells | 100 | 100 | 25 |  |
+| Paladin<br>(Med Warrior) | Anatomy<br>Healing<br>Mace Fighting<br>40 Magery<br>60 Meditation<br>Parrying<br>Tactics<br>-and-<br>Resisting Spells<br>-or<br>Hiding | 100 | 40 | 85 | A warrior with access to defensive magic. Low Dexterity means slower swings, but the mace drains stamina with every hit, slowing enemy attacks. 40 Magery keeps most of the Valor bonuses but allows casting of 2nd circle  spells reliably, including Heal, Cure, and buff spells. Uses bandages for self-healing, and 40 Dexterity means 4-second bandages on others. |
+| Deadeye<br>(Pure Archer) | Anatomy<br>Archery<br>Healing<br>Fletching<br>Tactics<br>Tracking<br>Resisting Spells | 100 | 100 | 25 | A traditional archer, taking advantage of the Fletching and Tracking bonuses. Fletching allows smoother and farther shooting, and Tracking ensure marks actually get hit. |
 | Shadow<br>(Stealth Archer) | Anatomy<br>Archery<br>Healing<br>Hiding<br>Stealth<br>Tactics<br>-and-<br>Resisting Spells<br>-or-<br>Lockpicking<br> | 100 | 100 | 25 | Hides, sneaks up, and opens with an ambush. Enough stealthed steps make the shot impossible to miss and much stronger, and a heavy crossbow hits hardest of all. No Magery means full Valor accuracy and regeneration, but without Parrying, no toughness bonus. Lockpicking can replace Resisting Spells so the Assassin can access dungeon chests.
 | Battlemage<br>(Hally Mage) | Evaluating Intelligence<br>Magery<br>Meditation<br>Resisting Spells<br>Swordsmanship<br>Tactics<br>Wrestling | 100 | 25 | 100 | Casts a spell, then follows up with a halberd. Wrestling defends while the hands are free for casting. Full Magery means no Valor bonuses, and without Anatomy the halberd never lands a Concussion Blow, but it's still one of the strongest dueling builds. |
 | Sorcerer<br>(Pure Mage) | Anatomy<br>Evaluating Intelligence<br>Inscription<br>Magery<br>Meditation<br>Resisting Spells<br>(any skill) | 100 | 25 | 100 | Fights in cloth and is harder to kill than it looks. Anatomy and Evaluating Intelligence give 110 unarmed defense, better than 100 Wrestling, and Inscription strengthens Reactive Armor and Protection. The last skill is free for whatever suits. |
