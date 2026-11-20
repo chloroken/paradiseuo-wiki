@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T16:19:54.856Z
+date: 2026-11-20T16:31:30.852Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -36,7 +36,8 @@ Changes to *Paradise*, newest first.
 - Prevent monsters from casting necro spells
 - Edit treasure map description to make it T2A
 - Reduce potion weight
-- Rework player armor, it should now be much more powerful
+- Armor now reduces damage by a percentage instead of a flat amount, so it protects against hard hits as well as light ones
+- Shields now also reduce every hit by a small amount, on top of blocking
 - Monsters no longer use armor
 
 ## 2026.11.19
