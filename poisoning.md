@@ -2,10 +2,10 @@
 title: Poisoning
 description: 
 published: true
-date: 2026-11-20T00:15:00.000Z
+date: 2026-11-20T01:02:12.859Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-20T00:15:00.000Z
+dateCreated: 2026-11-20T00:56:57.736Z
 ---
 
 # Poisoning
@@ -33,7 +33,9 @@ The chance to succeed rises evenly from the minimum skill, and never fails from 
 ## Poisoned Weapons
 A poisoned weapon uses a dose on every hit, with a `50%` chance to poison the target.
 
-Poisoned arrows and bolts are fired before clean ones, strongest poison first, and each poisoned shot that hits has a `50%` chance to poison the target. Arrows and bolts recovered after a shot are always clean. Poisoned ammunition only stacks with ammunition carrying the same poison, and can't go on a commodity deed. Single-clicking it shows *(poisoned)*, or the poison's strength, such as *(deadly poison)*, to a character whose Poisoning is high enough to apply that poison.
+Single-clicking a poisoned weapon, arrow, or bolt only shows that it's poisoned. A character whose Poisoning is high enough to apply that poison also sees its strength.
+
+Poisoned arrows and bolts are fired before clean ones, strongest poison first, and each poisoned shot that hits has a `50%` chance to poison the target. Arrows and bolts recovered after a shot are always clean. Poisoned ammunition only stacks with ammunition carrying the same poison, and can't go on a commodity deed.
 
 ## Self-Poisoning
 Anyone can use poisoned weapons and ammunition, but every swing or shot with poison, hit or miss, risks poisoning the user with the same poison, with the message *You nick yourself and become poisoned!* The risk falls evenly from `50%` at `0` Poisoning to `5%` at `50`, then evenly to `0%` at `100`.
