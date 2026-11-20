@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T11:25:00.016Z
+date: 2026-11-20T12:23:29.642Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -32,6 +32,8 @@ Changes to *Paradise*, newest first.
     - This effectively means that max Tracking adjusts current accuracy `50%` closer to a guaranteed hit
     - This bonus is doubled against fleeing enemies, meaning a grandmaster Tracker never misses a fleeing target
 - Fix the [Lumberjacking](/lumberjacking) grandmaster bonus never applying, so axes now do `30%` bonus damage at `100` Lumberjacking instead of `20%`
+- Prevent monsters from casting heals
+- Prevent monsters from casting necro spells
 
 ## 2026.11.19
 - Add the Antimage rework, so characters with less Magery fight better:
