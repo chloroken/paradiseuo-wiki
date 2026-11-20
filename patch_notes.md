@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-19T05:15:35.384Z
+date: 2026-11-20T01:03:20.674Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -22,7 +22,7 @@ Changes to *Paradise*, newest first.
 - Poisoning can now coat all fencing weapons, arrows, and bolts, but no longer swords or knives:
     - Anyone can use poisoned weapons and ammunition, but every swing or shot risks poisoning the user, from `50%` at `0` Poisoning to `5%` at `50` and `0%` at `100`
     - Poisoned arrows and bolts are fired before clean ones, strongest poison first, and recovered ammunition is always clean
-    - Poisoners with enough skill can see the strength of poison on arrows and bolts by single-clicking them
+    - Poisoners with enough skill can see the strength of poison on weapons, arrows, and bolts by single-clicking them
 - Fix [Young players](/young_player) being unable to Recall, Gate Travel, or use moongates
 - Wrestling moves are now automatic:
     - Armed players and human NPCs are disarmed, and everything else is stunned
