@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T05:00:29.708Z
+date: 2026-11-20T05:03:25.864Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -20,11 +20,10 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM. Each pa
   - Only players get these bonuses.
   - See [Valor](/combat#valor).
 - Ambush: a T2A-friendly enhancement to Archery.
-	- Archers can ambush their targets from the shadows.
   - Breaking Hiding with a ranged weapon attack does bonus damage
-  - For every stealthed footstep, add more damage and accuracy.
-  - After enough footsteps, the attack cannot miss.
-  - Monsters and animals can't be ambushed again right away.
+  - For every stealthed footstep taken, the attack gets stronger and truer.
+  - After ten footsteps, the attack becomes true and cannot miss.
+  - Ambushing a monster or animal makes it immune to all ambushes for a minute.
   - See [Archery](/archery).
 - Poisoning: no longer a crafting skill.
 	- Fencing weapons, arrows, and bolts can be coated with poison.
