@@ -2,7 +2,7 @@
 title: Parrying
 description: 
 published: true
-date: 2026-11-20T16:18:45.076Z
+date: 2026-11-20T16:31:06.576Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T03:26:26.815Z
@@ -10,6 +10,8 @@ dateCreated: 2026-11-20T03:26:26.815Z
 
 # Parrying
 Parrying is the skill of blocking attacks with a shield. Through [Valor](/combat#valor), it also makes characters who fight without magic tougher, with or without a shield.
+
+An equipped shield also reduces every hit by a flat amount, whether or not it blocks. See [Armor](/armor).
 
 ## Blocking
 A character holding a shield has a chance to block each weapon attack that hits them. A blocked attack still lands, but the shield stops part of its damage. Body-worn armor then reduces what's left. See [Armor](/armor).
