@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T16:43:58.045Z
+date: 2026-11-20T16:51:45.818Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -38,6 +38,7 @@ Changes to *Paradise*, newest first.
 - Reduce potion weight
 - Armor now reduces damage by a percentage instead of a flat amount, so it protects against hard hits as well as light ones
 - Shields now also reduce every hit by a small amount, on top of blocking
+- Swords can now critically strike for double damage, with a `10%` chance at `100` Swordsmanship
 
 ## 2026.11.19
 - Add the Antimage rework, so characters with less Magery fight better:
