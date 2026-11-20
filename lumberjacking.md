@@ -2,7 +2,7 @@
 title: Lumberjacking
 description: 
 published: true
-date: 2026-11-20T02:21:42.370Z
+date: 2026-11-20T03:08:54.085Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:14:13.025Z
@@ -34,7 +34,7 @@ Lumberjacking adds bonus damage to attacks made with axes. The bonus is `(Lumber
 | 75 | 15 |
 | 100 | 30 |
 
-The bonus only applies to axes. Swords, maces, fencing weapons, and bows get nothing from Lumberjacking.
+The bonus only applies to axes. Confusingly and despite war axes being able to chop trees, they use Mace Fighting and get no damage bonus from Lumberjacking. Swords, maces, fencing weapons, and bows get nothing from Lumberjacking.
 
 ## Manual Training
 Chop trees with an axe.
