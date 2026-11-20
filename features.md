@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T16:42:00.323Z
+date: 2026-11-20T16:51:30.336Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -28,6 +28,8 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM.
 - [Poisoning](/poisoning):
   - Only fencing weapons can be poisoned.
   - Inflicting poison on hit is now tied to Poisoning level.
+- [Critical Strikes](/weapon#other-effects-on-hit):
+  - Swords can critically strike for double damage, more often with higher Swordsmanship.
 - [Carrying Capacity](/stats#carrying-capacity):
   - Dexterity adds carrying capacity, half as much per point as Strength.
 
