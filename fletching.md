@@ -2,7 +2,7 @@
 title: Fletching
 description: 
 published: true
-date: 2026-11-20T08:06:03.003Z
+date: 2026-11-20T08:06:23.652Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T08:06:03.003Z
@@ -12,7 +12,7 @@ dateCreated: 2026-11-20T08:06:03.003Z
 Fletching is the skill of crafting ranged weapons and ammunition. Fletchers use boards and feathers to create bows, crossbows, arrows, and bolts. Fletching supports Archery by providing the weapons and ammunition needed to fight at range.
 
 ## Tools and Materials
-Fletching requires a set of Fletcher's Tools, which opens the crafting menu. Boards can be obtained through [Lumberjacking](lumberjacking), while feathers can be obtained from creatures that drop them.
+Fletching requires a set of Fletcher's Tools, which opens the crafting menu. Boards can be obtained through [Lumberjacking](/lumberjacking), while feathers can be obtained from creatures that drop them.
 
 | Material | Used For |
 | --- | --- |
@@ -21,7 +21,7 @@ Fletching requires a set of Fletcher's Tools, which opens the crafting menu. Boa
 | Fletcher's Tools | Crafting equipment |
 
 ## Crafting
-Fletching produces two main categories of items. Bows use arrows, while crossbows use bolts. Ammunition is consumed when firing, regardless of whether the shot hits or misses. See [Archery](archery).
+Fletching produces two main categories of items. Bows use arrows, while crossbows use bolts. Ammunition is consumed when firing, regardless of whether the shot hits or misses. See [Archery](/archery).
 
 | Category | Items |
 | --- | --- |
