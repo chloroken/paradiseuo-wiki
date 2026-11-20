@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T02:34:19.384Z
+date: 2026-11-20T02:45:25.701Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -180,7 +180,6 @@ These are the changes to ServUO's base, and the server's starting point.
 - ServUO's era set to T2A, which disables a lot of content not listed here
 - Stat cap set to `100`
 - Champions disabled
-- Programs other than Razor disabled
 - Factions disabled
 - Duel arenas enabled
 - Guild PvP enabled
