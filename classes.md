@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2026-11-20T10:54:05.702Z
+date: 2026-11-20T10:54:12.680Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -19,7 +19,7 @@ During character creation there is a profession screen, but it should be ignored
 | [Fighter](/fighter) | Weapon specialist | Dexxer |
 | [Paladin](/paladin) | Tank with light magic | Med Warrior |
 | [Deadeye](/deadeye) | Ranged weapon specialist | Archer |
-| [Assassin](/shadow) | Poison specialist | Assassin |
+| [Assassin](/assassin) | Poison specialist | Assassin |
 | [Shadow](/shadow) | Stealth archer | n/a |
 | [Battlemage](/battlemage) | Magical polearm duelist | Hally Mage |
 | [Monk](/monk) | Unarmed specialist, with magic | Tank Mage |
