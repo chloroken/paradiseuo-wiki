@@ -2,7 +2,7 @@
 title: Poisoning
 description: 
 published: true
-date: 2026-11-20T02:14:43.982Z
+date: 2026-11-20T02:49:59.459Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T00:56:57.736Z
@@ -24,7 +24,7 @@ Swords, knives, axes, and other weapons can't be poisoned.
 | Potion | Minimum Skill | Maximum Skill | Doses |
 |:-|:-:|:-:|:-:|
 | Lesser poison | 0 | 60 | 18 |
-| Poison | 30 | 70 | 16 |
+| Regular poison | 30 | 70 | 16 |
 | Greater poison | 60 | 100 | 14 |
 | Deadly poison | 80 | 100 | 12 |
 
