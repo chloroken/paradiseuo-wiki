@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T08:32:47.681Z
+date: 2026-11-20T11:25:00.016Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -26,6 +26,11 @@ Changes to *Paradise*, newest first.
     - At `100` Fletching, ranged weapons attack `2` tiles further
     - At `100` Fletching, the delay an archer must stand still to attack is reduced by half, from `1.0` to `0.5` seconds
     - At `100` Fletching, arrows and bolts that miss are twice as likely to drop, from `40%` to `80%`
+- Adjust [Tracking](/tracking) to benefit archers in the field:
+    - Ranged weapons gain a bonus to accuracy based on Tracking
+    - Formula: `currentAccuracy += (perfectAccuracy - currentAccuracy) / 2 * Tracking * 0.5`
+    - This effectively means that max Tracking adjusts current accuracy `50%` closer to a guaranteed hit
+    - This bonus is doubled against fleeing enemies, meaning a grandmaster Tracker never misses a fleeing target
 - Fix the [Lumberjacking](/lumberjacking) grandmaster bonus never applying, so axes now do `30%` bonus damage at `100` Lumberjacking instead of `20%`
 
 ## 2026.11.19
