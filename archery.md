@@ -2,7 +2,7 @@
 title: Archery
 description: 
 published: true
-date: 2026-11-20T03:04:50.572Z
+date: 2026-11-20T06:09:56.801Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:21:12.302Z
@@ -33,14 +33,16 @@ Arrows and bolts can be coated with poison, and are fired before clean ones. Rec
 Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Combat: Damage](/combat#damage).
 
 ## Ambush
-An archer who hides with the Hiding skill and then attacks with a bow or crossbow ambushes the target, for extra damage. Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
+An archer who hides with the [Hiding](/hiding) skill and then attacks with a bow or crossbow ambushes the target, for extra damage.
 
-- A shot that breaks Hiding without any stealthed steps does `1.5×` damage. This works while mounted.
-- Each stealthed step adds `0.05×` damage, and closes `10%` of the gap between the archer's normal hit chance and a guaranteed hit.
-- After `10` stealthed steps, the shot can't miss and does `2.0×` damage. The archer sees *You are in perfect position!* when this is reached, and *You strike with perfect advantage!* on the shot.
+- A ranged attack that breaks Hiding does `1.5×` damage. This works while mounted.
+
+Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
+
+- Each stealthed step adds `0.05×` damage, capped at a total of `0.5×`.
+- Each stealthed step also adds accuracy equal to `10%` of the accuracy missing for a guaranteed hit.
+- After `10` stealthed steps, the shot does `2.0×` damage and can't miss. The archer sees *You are in perfect position!* when this is reached, and *You strike with perfect advantage!* on the shot.
 - Below `100` Stealth, using Stealth again before the steps run out allows the count to keep going toward `10`.
-- Once a monster or animal has been ambushed, hit or miss, nobody can ambush it again for `1` minute. Trying shows *Your target is too alert to ambush!* Players can be ambushed again at any time.
-- Only the [Hiding](/hiding) skill counts. Hiding with the [Invisibility](/invisibility) spell or an [invisibility potion](/invisibility_potion) gives no ambush.
 
 | Stealthed Steps | Damage | Missing Hit Chance Closed (%) | Hit Chance from 50% (%) |
 |:-|:-:|:-:|:-:|
@@ -50,6 +52,20 @@ An archer who hides with the Hiding skill and then attacks with a bow or crossbo
 | 6 | 1.8× | 60 | 80 |
 | 8 | 1.9× | 80 | 90 |
 | 10 | 2.0× | 100 | 100 |
+
+## Restrictions
+- Only the Hiding skill counts. Hiding with the [Invisibility](/invisibility) spell or an [invisibility potion](/invisibility_potion) will not trigger ambush.
+- Must use Hiding before Stealth, or stealthed steps wont count.
+- Once a monster or animal has been damaged by an ambush, it becomes alert for `1` minute. Ambushes on alert targets causes the bonus damage and accuracy being ignored, but don't refresh the alert duration. Players do not become alert when ambushed.
+
+## Dialogue
+| Trigger | Dialogue |
+|:-|:-:|
+| Ambushing from Hiding | *You strike from hiding!* |
+| Ambushing from Stealth | *You strike from the shadows!* |
+| When maximum stealth step is reached | *You are in perfect position!* |
+| Ambushing after taking maximum stealth steps | *You strike with perfect advantage!* |
+| Target was too-recently ambushed | *Your target is too alert to ambush!* |
 
 ## Valor
 Archers with little or no Magery get the same [Valor](/combat#valor) bonuses as any other fighter. Few archers have room for Parrying, so most go without the toughness bonus. Valor and ambushes both apply to the same shot.
