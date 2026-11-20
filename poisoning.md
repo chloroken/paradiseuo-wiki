@@ -2,7 +2,7 @@
 title: Poisoning
 description: 
 published: true
-date: 2026-11-20T03:00:18.572Z
+date: 2026-11-20T03:11:50.380Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T00:56:57.736Z
@@ -12,7 +12,7 @@ dateCreated: 2026-11-20T00:56:57.736Z
 Poisoning is the skill of coating fencing weapons, arrows, bolts, and food with poison made with [Alchemy](/alchemy). A poisoned target takes damage every few seconds until the poison is cured or wears off. It is a dangerous skill to dabble in because any character, except grandmaster poisoners, can accidentally poison themselves in combat. See [Curing Poison](/healing#curing-poison).
 
 ## Applying Poison
-Use the skill, target a poison potion, then target what to poison. After `2` seconds, a skill check decides whether it works. The skill can be used again after `10` seconds. Failure with less than `80` Poisoning has a `5%` chance to poison the character instead.
+Use the skill, target a poison potion, then target what to poison. After `2` seconds, a skill check decides whether it works. The skill can be used again after `10` seconds. A failure with less than `80` Poisoning has a `5%` chance to poison the character instead.
 
 Each success lowers Karma by `20 + Karma / 100`, but never raises it: `120` at `10,000` Karma, `20` at `0`, and nothing at `-2,000` or below.
 
@@ -21,7 +21,7 @@ These can be poisoned:
 - Arrows and bolts in the backpack
 - Food
 
-Swords, knives, axes, and other weapons can't be poisoned despite these weapons originally being eligible. This is an intended design choice to make fencing weapons feel more special.
+Swords, knives, axes, and other weapons can’t be poisoned.
 
 | Potion | Minimum Skill | Maximum Skill | Doses |
 |:-|:-:|:-:|:-:|
