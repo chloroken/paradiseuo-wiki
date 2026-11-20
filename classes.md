@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2026-11-20T02:48:58.384Z
+date: 2026-11-20T03:03:49.057Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -20,7 +20,7 @@ The following is a table of ideas. Consider it a starting point.
 | Archetype | Skills | Str | Dex | Int | Premise |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Fighter<br>(Dexxer) | Anatomy<br>Archery<br>Healing<br>Parrying<br>Resisting Spells<br>Tactics<br>(a weapon skill) | 100 | 100 | 25 | The classic warrior. No magic means the full Antimage bonuses, so the fighter is very hard to kill. Uses a one-handed weapon with a shield, bandages to heal, and a bow for anything that runs. Archery can be swapped for a second weapon skill to add two-handed weapons. |
-| Paladin<br>(Med Warrior) | Anatomy<br>Healing<br>Mace Fighting<br>40 Magery<br>60 Meditation<br>Parrying<br>Resisting Spells<br>Tactics | 100 | 40 | 85 | A warrior with a little magic. Low Dexterity means slower swings, but the mace drains stamina with every hit and shield blocks cover incoming hits. 40 Magery casts up to 3rd circle reliably while retaining 60% of Antimage's bonuses. Recall and Greater heal can be cast, but might fail. 40 Dexterity means 4-second bandages on others. |
+| Paladin<br>(Med Warrior) | Anatomy<br>Healing<br>Mace Fighting<br>40 Magery<br>60 Meditation<br>Parrying<br>Resisting Spells<br>Tactics | 100 | 40 | 85 | A warrior with a little magic. Low Dexterity means slower swings, but the mace drains stamina with every hit and the shield blocks the rest. 40 Magery casts up to 2nd circle reliably which covers most blessings, and keeps 60% of the Antimage bonuses, but stronger spells will have a noticeable failure rate. 40 Dexterity means 4-second bandages on others. |
 | Assassin<br>(Stealth Archer) | Anatomy<br>Archery<br>Healing<br>Hiding<br>Stealth<br>Tactics<br>(and)<br>Resisting Spells<br>(or)<br>Lockpicking<br>(or)<br>(a weapon skill) | 100 | 100 | 25 | Hides, sneaks up, and opens with an ambush. Enough stealthed steps make the shot impossible to miss and much stronger, and a heavy crossbow hits hardest of all. No Magery means full Antimage accuracy and regeneration, but without Parrying, no toughness bonus. Lockpicking can replace Resisting Spells for robbing dungeon chests, or a weapon skill can take that slot instead to finish fights up close after the opener. |
 | Battlemage<br>(Hally Mage) | Evaluating Intelligence<br>Magery<br>Meditation<br>Resisting Spells<br>Swordsmanship<br>Tactics<br>Wrestling | 100 | 25 | 100 | Casts a spell, then follows up with a halberd. Wrestling defends while the hands are free for casting. Full Magery means no Antimage bonuses, and without Anatomy the halberd never lands a Concussion Blow, but it's still one of the strongest dueling builds. |
 | Sorcerer<br>(Pure Mage) | Anatomy<br>Evaluating Intelligence<br>Inscription<br>Magery<br>Meditation<br>Resisting Spells<br>(any skill) | 100 | 25 | 100 | Fights in cloth and is harder to kill than it looks. Anatomy and Evaluating Intelligence give 110 unarmed defense, better than 100 Wrestling, and Inscription strengthens Reactive Armor and Protection. The last skill is free for whatever suits. |
