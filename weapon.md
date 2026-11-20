@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-20T02:44:22.132Z
+date: 2026-11-20T03:06:33.842Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -14,17 +14,17 @@ Each type of weapon is trained with its own skill, and some types have special a
 ## Weapon Types
 | Type | Skill | Examples |
 |:-|:-:|:-:|
-| Swords | [Swordsmanship](/swordsmanship) | Longswords, katanas, scimitars |
+| Swords | [Swordsmanship](/swordsmanship) | Longsword, katana, scimitar |
 | Krysses | [Fencing](/fencing) | Kryss |
-| Axes | Swordsmanship | Battle axes, double axes, executioner's axes |
+| Axes | Swordsmanship | Battle axe, double axe, executioner's axe |
 | War Axe | [Mace Fighting](/mace_fighting) | War axe |
-| Polearms | Swordsmanship | Halberds, bardiches |
-| Maces | Mace Fighting | Maces, war hammers, mauls |
-| Staves | Mace Fighting | Quarter staves, gnarled staves, black staves |
-| Daggers | Fencing | Daggers |
-| Spears | Fencing | Spears, short spears, pikes |
-| Knives | Swordsmanship | Cleavers, butcher knives, skinning knives |
-| Bows | [Archery](/archery) | Bows, crossbows, heavy crossbows |
+| Polearms | Swordsmanship | Halberd, bardiche |
+| Maces | Mace Fighting | Mace, war hammer, maul |
+| Staves | Mace Fighting | Quarter staff, gnarled staff, black staff |
+| Daggers | Fencing | Dagger |
+| Spears | Fencing | Spear, short spear |
+| Knives | Swordsmanship | Cleaver, butcher knife, skinning knife |
+| Bows | [Archery](/archery) | Bow, crossbow, heavy crossbow |
 | Fists | Wrestling | Bare hands |
 
 Fighting with bare hands has its own automatic moves and unarmed defense. See [Wrestling](/wrestling).
