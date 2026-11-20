@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-19T07:50:57.827Z
+date: 2026-11-20T01:02:22.880Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
