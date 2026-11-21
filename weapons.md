@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2026-11-21T17:34:22.482Z
+date: 2026-11-21T17:49:14.493Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -10,6 +10,8 @@ dateCreated: 2026-11-18T23:29:24.473Z
 
 # Weapons
 Each type of weapon is trained with its own skill, and most types have an effect of their own, from critical strikes to poison. Hit chance, swing speed, and damage work the same way for every weapon. See [Combat](/combat).
+
+For standardization of weapon comparison for fights against monsters, damage per second is often used. See [DPS](/dps).
 
 ## Weapon Types
 | Type | Skill | Weapons | Effect |
