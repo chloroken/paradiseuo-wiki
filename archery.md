@@ -2,7 +2,7 @@
 title: Archery
 description: 
 published: true
-date: 2026-11-20T08:11:42.432Z
+date: 2026-11-21T17:43:45.755Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:21:12.302Z
@@ -32,15 +32,15 @@ Each crossbow shot fires a volley of up to `3` bolts, as many as the archer carr
 All three weapons take both hands, so an archer can't hold a shield. While holding a bow or crossbow, an archer defends with Archery. See [Hit Chance](/combat#hit-chance).
 
 ## Movement Delay
-An archer has to stand still for `1` second after their last step before they can fire. Fletching reduces this movement recovery delay, allowing experienced fletchers to resume attacking more quickly. See: [Fletching and Archery](/fletching#fletching-and-archery).
+An archer has to stand still for `1` second after their last step before they can fire. Fletching reduces this movement recovery delay, allowing experienced fletchers to resume attacking more quickly. See [Fletching and Archery](/fletching#fletching-and-archery).
 
-| Fletching | Movement-to-Attack Delay |
-| --- | --- |
-| 0 | 1.00 seconds |
-| 25 | 0.875 seconds |
-| 50 | 0.75 seconds |
-| 75 | 0.625 seconds |
-| 100 | 0.50 seconds |
+| Fletching | Movement-to-Attack Delay (s) |
+|:-|:-:|
+| 0 | 1 |
+| 25 | 0.875 |
+| 50 | 0.75 |
+| 75 | 0.625 |
+| 100 | 0.5 |
 
 ## Ammunition
 Arrows and bolts that hit a monster or animal have a `40%` chance to land in its backpack, where they can be looted back. Missed shots have a `40%` chance to drop on the ground.
