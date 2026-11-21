@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-21T15:54:19.607Z
+date: 2026-11-21T15:55:43.105Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -43,6 +43,11 @@ Changes to *Paradise*, newest first.
 - Show damage numbers over the target when hit
 - Draw arrows and bolts from chest height instead of the ground
 - Remove newbie protection from starting items and blessing from starting spellbooks, so they drop on death once a character is no longer Young
+- Rebalance monsters that hit far harder than others of their strength:
+    - Lower lich damage to `10` to `14` and give liches `50` to `60` Wrestling, so they hit less hard but more often
+    - Lower ogre lord and arctic ogre lord Strength to `351` to `450`, so they no longer hit harder than dragons
+    - Lower frost troll damage to `8` to `14`
+    - Lower cyclops damage to `7` to `17`
 
 ## 2026.11.20
 - Rename Antimage to [Valor](/combat#valor), the warrior's virtue from Ultima lore
