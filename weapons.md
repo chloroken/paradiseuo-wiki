@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2026-11-21T16:22:53.285Z
+date: 2026-11-21T16:24:06.369Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -50,7 +50,7 @@ Two-handed axes, polearms, maces, and spears each have a special attack, and sta
 | Special | Weapons | Effect |
 |:-|:-:|:-:|
 | Concussion Blow | Two-handed axes and polearms | Halves the target's Intelligence for 30 seconds. Doesn't stack. |
-| Crushing Blow | Two-handed maces and staves | The target attacks at half speed for 10 seconds. Another Crushing Blow restarts the time instead of stacking. |
+| Crushing Blow | Two-handed maces and staves | The target attacks at half speed for 10 seconds. |
 | Paralyzing Blow | Two-handed spears | Freezes the target in place for 2 seconds |
 
 Concussion Blow can only be delivered by players and human NPCs, and also lowers the target's maximum mana. Crushing Blow can only be delivered by players, and only against monsters.
