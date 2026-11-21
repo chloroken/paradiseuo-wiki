@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-21T08:18:34.431Z
+date: 2026-11-21T08:20:38.442Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -64,7 +64,7 @@ The attacker sees *\*saps vigor\** over their head when a sap starts, and everyo
 Fencing weapons and knives can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).
 
 ## Magic Weapons
-Weapons found as loot can be magic. A magic weapon can have a damage, accuracy, and durability property, each in five strengths, and weapons can additionally be [silver](#silver).
+Weapons found as loot can be magic. A magic weapon can have a damage, accuracy, and durability property, each in five strengths, and can also be [silver](#silver).
 
 ### Damage
 | Property | Base Damage Bonus |
