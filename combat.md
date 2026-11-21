@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2026-11-21T06:01:50.617Z
+date: 2026-11-21T06:19:46.835Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
@@ -36,7 +36,7 @@ Each attack compares the attacker's weapon skill to the defender's:
 
 `(Attacker's Weapon Skill + 50) / ((Defender's Weapon Skill + 50) * 2)`
 
-The defender uses the skill of whatever weapon they're holding, so a fencer defends with Fencing and an archer with Archery. An empty-handed character defends with Wrestling, or with Anatomy and Evaluating Intelligence. See [Unarmed Defense](/wrestling#unarmed-defense).
+The defender uses the skill of whatever weapon they're holding, so a fencer defends with Fencing and an archer with Archery. An unarmed character defends with Wrestling, or with Anatomy and Evaluating Intelligence. See [Unarmed Defense](/wrestling#unarmed-defense).
 
 | Attacker Skill | Defender Skill | Hit Chance (%) |
 |:-|:-:|:-:|
