@@ -14,7 +14,7 @@ Parrying is the skill of blocking attacks with a shield. Through [Valor](/combat
 An equipped shield also reduces every hit by a flat amount, whether or not it blocks. See [Armor](/armor).
 
 ## Blocking
-A character holding a shield has a chance to block each weapon attack that hits them. A blocked attack still lands, but the shield stops part of its damage. Body-worn armor then reduces what's left.
+A character holding a shield has a chance to block each weapon attack that hits them. A blocked attack still lands, but the shield stops part of its damage. Body-worn armor then reduces what's left. A player who blocks sees *\*blocks\** over their head.
 
 Without a shield, attacks are never blocked, whatever the character's Parrying.
 

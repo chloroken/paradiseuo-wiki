@@ -30,7 +30,7 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM.
   - Inflicting poison on hit is now tied to Poisoning level.
 - [Weapon Identities](/weapon#other-effects-on-hit):
   - Swords critically strike for double damage, and slower swords strike critically more often.
-  - One-handed maces weaken a monster's blows by sapping its Strength.
+  - One-handed maces weaken a monster's blows by sapping its vigor.
   - Two-handed maces and staves can slow a monster's attacks with [Crushing Blow](/weapon#special-attacks).
   - Weapon damage is rebalanced so more weapons are worth using.
 - [Carrying Capacity](/stats#carrying-capacity):

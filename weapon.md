@@ -40,9 +40,11 @@ Two-handed axes, polearms, maces, and spears each have a special attack, and sta
 
 Concussion Blow can only be delivered by players and human NPCs, and also lowers the target's maximum mana. Crushing Blow can only be delivered by players, and only against monsters.
 
+Everyone nearby sees a special land: the target shows *\*looks concussed\**, *\*looks dazed\**, or *\*looks stuck\**. A player hit by Concussion Blow or Paralyzing Blow also gets a message in their journal.
+
 ## Other Effects on Hit
 ### Critical Strikes
-Swords can land a critical strike, which doubles the hit's damage before armor. Each sword has its own chance, scaled by Swordsmanship, so `50` Swordsmanship gives half the chance shown below. Slower swords strike critically more often, so every sword does about the same damage over time, while the slowest hit in the biggest bursts. Only players can land critical strikes, and only with swords, not axes, polearms, or knives.
+Swords can land a critical strike, which doubles the hit's damage before armor. Each sword has its own chance, scaled by Swordsmanship, so `50` Swordsmanship gives half the chance shown below. Slower swords strike critically more often, so every sword does about the same damage over time, while the slowest hit in the biggest bursts. Only players can land critical strikes, and only with swords, not axes, polearms, or knives. The attacker sees *\*critical strike\** over their head.
 
 | Sword | Critical Strike Chance at 100 Swordsmanship (%) |
 |:-|:-:|
@@ -53,8 +55,10 @@ Swords can land a critical strike, which doubles the hit's damage before armor. 
 | Longsword | 26 |
 | Viking sword | 40 |
 
-### Weakening Blows
-One-handed maces weaken monsters. Each hit lowers the monster's Strength by the damage dealt, down to half its normal Strength, which makes its own melee attacks weaker. The loss wears off `30` seconds after the last one-handed mace hit from anyone. Only players can weaken monsters this way, and it never affects players. The war axe trains Mace Fighting, but has no effect on hit.
+### Sapping Vigor
+One-handed maces sap a monster's vigor. Each hit saps vigor equal to the damage dealt, and the monster's melee attacks hit as if its Strength were that much lower, down to half its normal Strength. Its health isn't affected. The sap wears off `30` seconds after the last one-handed mace hit from anyone.
+
+The attacker sees *\*saps vigor\** over their head when a sap starts, and everyone nearby sees *\*looks drained of vigor\** when the monster is fully drained. Only players can sap vigor, and only from monsters. The war axe trains Mace Fighting, but has no effect on hit.
 
 ### Poison
 Fencing weapons and knives can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).
@@ -94,4 +98,4 @@ The bonus raises the weapon's skill while it's held, which improves both hit cha
 | Indestructible | 120 |
 
 ### Silver
-A silver weapon does double damage against the undead. Silver is the only slayer found on weapons, and any magic weapon has a `5%` chance to be silver, on top of its other properties.
+A silver weapon does double damage against the undead. Silver is the only slayer found on weapons, and any magic weapon has a `5%` chance to be silver, on top of its other properties. Silver weapons have a silvery color.
