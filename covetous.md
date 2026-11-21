@@ -2,7 +2,7 @@
 title: Covetous
 description: 
 published: true
-date: 2026-11-21T10:58:47.341Z
+date: 2026-11-21T11:09:48.978Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T10:58:47.341Z
@@ -24,9 +24,7 @@ Floor 2 has the same monsters as floor 1, along with elder gazers, slimes, water
 Skeletons, bone knights, and stone harpies guard the pass between floors 2 and 3.
 
 ## Floor 3
-Floor 3 belongs to the undead: skeletons, bone knights, shades, spectres, mummies, zombies, liches, and lich lords. Its `11` liches are spread across the whole floor.
-
-Two lich lords stand near braziers, one guarding the stairs to the dragons and one in the undead prison. Lich lords are a slightly different color than liches, so the two can be told apart.
+Floor 3 belongs to the undead: skeletons, bone knights, shades, spectres, mummies, zombies, liches can be found throughout. In the back of the main area, there are stairs that lead to an undead prison, which houses magical undead. Behind the throne room, there are stairs that lead to a dragon cave. Both areas are guarded by a lich lord.
 
 The throne room holds the Lich King.
 
@@ -36,7 +34,7 @@ The Lich King is a black lich who rules from the throne room on floor 3. He is b
 The throne room raises skeletons throughout the fight, a new one every `15` to `30` seconds from each of its two spawn points, up to `10` at a time.
 
 ### Fighting the Lich King
-- He has `5,000` to `6,060` hit points.
+- He has `5,000` to `6,000` hit points.
 - He casts both Magery and Necromancy spells. Players can't learn Necromancy, so these are spells players won't see anywhere else.
 - His [Resisting Spells](/resisting_spells) is `150` to `200`, so he resists spells far more often than other monsters.
 - Poison has no effect on him.
@@ -47,7 +45,6 @@ The throne room raises skeletons throughout the fight, a new one every `15` to `
 ### Loot
 The Lich King drops:
 - a large hoard of gold and magic items
-- `10` high-level spell scrolls (unconfirmed)
-- a level `5` [treasure map](/treasure_map), every time
-- a silver weapon of a random type, every time, with no other magic properties
-- a gnarled
+- `10` high-level spell scrolls
+- a guaranteed level `5` [treasure map](/treasure_map)
+- a guaranteed silver weapon
