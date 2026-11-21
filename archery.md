@@ -15,16 +15,20 @@ Archery is the skill of fighting with bows and crossbows. Archers attack from a 
 Archers with little or no Magery get the same [Valor](/combat#valor) bonuses as any other fighter. Few archers have room for Parrying, so most go without the toughness bonus. Valor and ambushes both apply to the same shot.
 
 ## Weapons
-Archery covers bows, crossbows, and heavy crossbows. Bows fire arrows, and crossbows fire bolts, both made with [Fletching](/fletching). Every shot uses one arrow or bolt from the backpack, whether it hits or misses. Attack speed follows the same formula as every weapon, so it grows as stamina drops. See [Swing Speed](/combat#swing-speed).
+Archery covers bows, crossbows, and heavy crossbows. Bows fire arrows, and crossbows fire bolts, both made with [Fletching](/fletching). Every shot uses one arrow or bolt from the backpack, whether it hits or misses, except the crossbow, which fires a volley. Attack speed follows the same formula as every weapon, so it grows as stamina drops. See [Swing Speed](/combat#swing-speed).
 
 | Weapon | Strength Required | Damage | Speed | Delay at 100 Stamina (s) | Range (tiles) |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Bow | 20 | 9 – 41 | 20 | 3.75 | 10 |
-| Crossbow | 30 | 8 – 43 | 18 | 4.17 | 8 |
+| Crossbow | 30 | 5 – 14 per bolt | 18 | 4.17 | 8 |
 | Heavy crossbow | 40 | 11 – 56 | 10 | 7.5 | 8 |
 
-The bow does the most damage over time, while the heavy crossbow hits hardest per shot, which suits an [ambush](/archery#ambush). Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Combat: Damage](/combat#damage).
+The bow and crossbow do the most damage over time. The bow reaches furthest, and the crossbow hits most steadily and is best at spreading poison. The heavy crossbow hits hardest per shot, which suits an [ambush](/archery#ambush). Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Combat: Damage](/combat#damage).
 
+### Crossbow Volley
+Each crossbow shot fires a volley of up to `3` bolts, as many as the archer carries. Each bolt uses its own bolt from the backpack, and rolls its own hit, damage, and poison. Skill gain, self-poisoning, weapon wear, and a magic crossbow's damage bonus only count once per volley.
+
+### Defense
 All three weapons take both hands, so an archer can't hold a shield. While holding a bow or crossbow, an archer defends with Archery. See [Hit Chance](/combat#hit-chance).
 
 ## Movement Delay
@@ -47,6 +51,7 @@ Arrows and bolts can be coated with poison, and are fired before clean ones. Rec
 An archer who hides with the [Hiding](/hiding) skill and then attacks with a bow or crossbow ambushes the target, for extra damage.
 
 - A ranged attack that breaks Hiding does `1.5×` damage. This works while mounted.
+- A crossbow volley only strengthens its first bolt.
 
 Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
 

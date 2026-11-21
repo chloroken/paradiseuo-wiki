@@ -11,6 +11,18 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 
+## 2026.11.21
+- Rework weapons so more of them are worth using:
+    - Each sword has its own critical strike chance, higher for slower swords, so every sword does about the same damage over time
+    - One-handed maces lower a monster's Strength by the damage dealt, down to half, and no longer drain stamina
+    - Crushing Blow now comes from two-handed maces and staves, and makes the target attack at half speed for `10` seconds instead of doing extra damage
+    - Staves no longer drain stamina
+    - Crossbows fire up to `3` bolts per shot, each doing `5` to `14` base damage
+    - Knives can be poisoned
+    - Change base damage: katana `4` to `22`, axe, double axe, and executioner's axe `8` to `34`, battle axe, large battle axe, and two-handed axe `18` to `35`, spear `2` to `34`, short spear `4` to `29`, dagger `4` to `19`, and quarter staff `6` to `25`
+- Show damage as numbers over the target
+- Draw arrows and bolts from chest height instead of the ground
+
 ## 2026.11.20
 - Rename Antimage to [Valor](/combat#valor), the warrior's virtue from Ultima lore
 - Tune Valor so each bonus comes from a skill, not just by not having Magery:

@@ -16,7 +16,7 @@ The delay between attacks depends on the weapon's speed and the attacker's curre
 
 `15000 / ((Stamina + 100) * Weapon Speed)` seconds
 
-Every weapon has a hidden speed value, with lighter weapons faster than heavy ones. Current stamina is used, not maximum stamina, so a tired fighter swings more slowly. At `50` stamina, each swing takes a third longer than at `100`. This is why fighters want high [Dexterity](/stats#dexterity), and why maces and staves, which drain stamina on every hit, are dangerous to fight against.
+Every weapon has a hidden speed value, with lighter weapons faster than heavy ones. Current stamina is used, not maximum stamina, so a tired fighter swings more slowly. At `50` stamina, each swing takes a third longer than at `100`. This is why fighters want high [Dexterity](/stats#dexterity).
 
 ## Hit Chance
 Each attack compares the attacker's weapon skill to the defender's:
@@ -56,6 +56,8 @@ Second, these bonuses are added together, then applied to the result:
 A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` times the weapon's base damage. With an exceptional weapon, that rises to `1.5 * 1.7 = 2.55` times, and with an exceptional axe and `100` Lumberjacking, to `1.5 * 2.0 = 3` times.
 
 A worn-out weapon does less damage, down to half when it's about to break.
+
+The damage of each hit shows as a number over the target. The attacker and the target see it, as do the owners of any pets involved.
 
 Valor, shields, armor, and Arch Protection reduce the damage before it reaches the target. See [Armor](/armor).
 

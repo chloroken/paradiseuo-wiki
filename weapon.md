@@ -30,17 +30,31 @@ Each type of weapon is trained with its own skill, and some types have special a
 Fighting with bare hands has its own automatic moves and unarmed defense. See [Wrestling](/wrestling).
 
 ## Special Attacks
-Two-handed axes, polearms, maces, and spears each have a special attack. Every hit has an `Anatomy / 400` chance to trigger it, which is `25%` at `100` [Anatomy](/anatomy).
+Two-handed axes, polearms, maces, and spears each have a special attack, and staves count as two-handed maces. Every hit has an `Anatomy / 400` chance to trigger it, which is `25%` at `100` [Anatomy](/anatomy).
 
 | Special | Weapons | Effect |
 |:-|:-:|:-:|
 | Concussion Blow | Two-handed axes and polearms | Halves the target's Intelligence for 30 seconds. Doesn't stack. |
-| Crushing Blow | Two-handed maces | 1.5× base damage |
+| Crushing Blow | Two-handed maces and staves | The target attacks at half speed for 10 seconds. Another Crushing Blow restarts the time instead of stacking. |
 | Paralyzing Blow | Two-handed spears | Freezes the target in place for 2 seconds |
 
-Concussion Blow and Crushing Blow can only be delivered by players and human NPCs. Concussion Blow also lowers the target's maximum mana.
+Concussion Blow can only be delivered by players and human NPCs, and also lowers the target's maximum mana. Crushing Blow can only be delivered by players, and only against monsters.
 
 ## Other Effects on Hit
-- Swords can land a critical strike, which doubles the hit's damage before armor. The chance is `Swordsmanship / 10` percent, or `10%` at `100`. Only players with swords can land them, not with axes, polearms, or knives.
-- Maces and staves drain `3` to `5` of the target's stamina with every hit.
-- Fencing weapons can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).
+### Critical Strikes
+Swords can land a critical strike, which doubles the hit's damage before armor. Each sword has its own chance, scaled by Swordsmanship, so `50` Swordsmanship gives half the chance shown below. Slower swords strike critically more often, so every sword does about the same damage over time, while the slowest hit in the biggest bursts. Only players can land critical strikes, and only with swords, not axes, polearms, or knives.
+
+| Sword | Critical Strike Chance at 100 Swordsmanship (%) |
+|:-|:-:|
+| Katana | 12 |
+| Broadsword | 10 |
+| Cutlass | 10 |
+| Scimitar | 15 |
+| Longsword | 26 |
+| Viking sword | 40 |
+
+### Weakening Blows
+One-handed maces weaken monsters. Each hit lowers the monster's Strength by the damage dealt, down to half its normal Strength, which makes its own melee attacks weaker. The loss wears off `30` seconds after the last one-handed mace hit from anyone. Only players can weaken monsters this way, and it never affects players. The war axe trains Mace Fighting, but has no effect on hit.
+
+### Poison
+Fencing weapons and knives can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).

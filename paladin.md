@@ -9,7 +9,7 @@ dateCreated: 2026-11-20T10:03:42.517Z
 ---
 
 # Paladin
-The Paladin is a warrior who combines physical combat with defensive magic. Mace Fighting drains enemy stamina with every hit, slowing their attacks. Limited Magery preserves most of the Valor bonuses while providing access to essential healing, curing, and buff spells. Brings some Dexterity to speed up bandage use on others, and for faster mace swings.
+The Paladin is a warrior who combines physical combat with defensive magic. Mace Fighting weakens monsters' blows with one-handed maces, or slows their attacks with two-handed maces and staves. Limited Magery preserves most of the Valor bonuses while providing access to essential healing, curing, and buff spells. Brings some Dexterity to speed up bandage use on others, and for faster mace swings.
 
 ## Skills
 - 100 Mace Fighting

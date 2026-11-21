@@ -26,10 +26,13 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM.
   - Wrestling moves happen automatically, no button or macro needed.
   - Automatically chooses a move based on skill levels and target.
 - [Poisoning](/poisoning):
-  - Only fencing weapons can be poisoned.
+  - Only fencing weapons and knives can be poisoned.
   - Inflicting poison on hit is now tied to Poisoning level.
-- [Critical Strikes](/weapon#other-effects-on-hit):
-  - Swords can critically strike for double damage, more often with higher Swordsmanship.
+- [Weapon Identities](/weapon#other-effects-on-hit):
+  - Swords critically strike for double damage, and slower swords strike critically more often.
+  - One-handed maces weaken a monster's blows by sapping its Strength.
+  - Two-handed maces and staves can slow a monster's attacks with [Crushing Blow](/weapon#special-attacks).
+  - Weapon damage is rebalanced so more weapons are worth using.
 - [Carrying Capacity](/stats#carrying-capacity):
   - Dexterity adds carrying capacity, half as much per point as Strength.
 
@@ -41,6 +44,8 @@ Archers receive several enhancements that make ranged combat more effective.
 	- Arrows and bolts can be coated with poison.
 - [Fletching](/fletching#fletching-and-archery):
   - Increases range, reduces time to shoot, and saves more arrows.
+- [Crossbow Volley](/archery#crossbow-volley):
+  - Crossbows fire up to three bolts per shot.
 - [Ambush](/archery#ambush):
 	- Shots do bonus damage if they break Hiding.
   - Breaking Stealth further enhances the shot.
@@ -66,3 +71,4 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 - Houses decay if they aren't refreshed, and everything inside is destroyed rather than dropped on the ground. See [House](/house).
 - Boats sink quickly if not captained, to stop players blocking objectives and islands with boats. See [Boat](/boat).
 - Ore can be smelted straight from a pack animal's backpack. See [Crafting](/crafting).
+- Damage shows as numbers over the target. See [Combat: Damage](/combat#damage).
