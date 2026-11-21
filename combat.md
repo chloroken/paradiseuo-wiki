@@ -9,7 +9,20 @@ dateCreated: 2026-11-19T00:05:40.279Z
 ---
 
 # Combat
-Combat on *Paradise* follows T2A rules, apart from the changes listed in [Features](/features). This page covers how often attacks land, how fast they come, how much damage they do, and Valor, the warrior's virtue that strengthens characters who fight without magic. For weapon types and special attacks, see [Weapon](/weapon), and for Wrestling moves, see [Wrestling](/wrestling).
+Combat on *Paradise* follows T2A rules, apart from the changes listed in [Features](/features). This page covers how often attacks land, how fast they come, how much damage they do, and Valor, the warrior's virtue that strengthens characters who fight without magic.
+
+## Gear and Skills
+- [Weapon](/weapon): every weapon type, its skill, special attacks, and effects on hit.
+- [Armor](/armor): how armor and shields reduce damage.
+- [Archery](/archery): bows and crossbows, ammunition, and ambushes.
+- [Wrestling](/wrestling): bare-handed moves and unarmed defense.
+- [Parrying](/parrying): blocking with shields, and Valor's toughness.
+- [Tactics](/tactics): more damage with every weapon, and Valor's accuracy.
+- [Healing](/healing): bandages that heal, cure poison, and resurrect.
+- [Poisoning](/poisoning): coating weapons and ammunition. See also [Poison](/poison).
+- [Hiding](/hiding) and [Stealth](/stealth): disappearing and moving unseen before an ambush.
+- [Tracking](/tracking): finding targets, and accuracy with ranged weapons.
+- [Monsters](/monsters): what there is to fight.
 
 ## Swing Speed
 The delay between attacks depends on the weapon's speed and the attacker's current stamina:
@@ -42,7 +55,7 @@ Two things can raise hit chance beyond skill:
 ## Damage
 Every weapon rolls its base damage, which is then changed in two steps.
 
-First, [Tactics](/tactics) changes the damage by `(Tactics - 50)%`, from `-50%` at `0` to `+50%` at `100`. A character with no Tactics does half damage.
+First, Tactics changes the damage by `(Tactics - 50)%`, from `-50%` at `0` to `+50%` at `100`. A character with no Tactics does half damage.
 
 Second, these bonuses are added together, then applied to the result:
 

@@ -9,7 +9,15 @@ dateCreated: 2026-11-19T00:07:19.032Z
 ---
 
 # World
-*Paradise* uses the Felucca version of the Britannia map, including the Lost Lands. This page covers the people, quests, and points of interest found across it. See [Towns](/towns), [Dungeons](/dungeons), and [Monsters](/monsters).
+*Paradise* uses the Felucca version of the Britannia map, including the Lost Lands. This page covers the people, quests, and points of interest found across it, and links to the places, dangers, and property found there.
+
+## Exploring
+- [Towns](/towns): banks, shops, trainers, stables, and moongates.
+- [Dungeons](/dungeons): where the strongest monsters and best loot are found.
+- [Monsters](/monsters): what roams the wilds and fills the dungeons.
+- [Treasure Map](/treasure_map): maps to buried chests, decoded with Cartography and opened with Lockpicking.
+- [House](/house): placing and keeping a home.
+- [Boat](/boat): traveling by sea and river.
 
 ## NPCs
 Non-player characters, or NPCs, offer services and trade, and some can even help in combat.
