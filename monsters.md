@@ -12,7 +12,7 @@ dateCreated: 2026-11-19T00:09:38.337Z
 Monsters roam the wilds and fill the [dungeons](/dungeons). They range from rats and slimes near town to dragons and daemons in the deepest dungeons, and many of them can be tamed or turned against each other.
 
 ## T2A Monsters
-Only monsters from T2A and earlier roam the world, with the silver steed as the one exception. Creatures added by later expansions, such as plague beasts, boglings, juka, and greater dragons, have been removed, and the dungeons added after T2A are closed.
+Only monsters from T2A and earlier roam the world, with two exceptions: the silver steed, and [demibosses](#demibosses) unique to *Paradise*. Creatures added by later expansions, such as plague beasts, boglings, juka, and greater dragons, have been removed, and the dungeons added after T2A are closed.
 
 ## Behavior
 Monsters on *Paradise* behave differently from later versions of Ultima Online:
@@ -24,6 +24,13 @@ Monsters on *Paradise* behave differently from later versions of Ultima Online:
 
 ## Fighting Monsters
 Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. Characters with Parrying and little Magery take less physical damage through [Valor](/combat#valor). See [Combat](/combat).
+
+## Demibosses
+Demibosses are powerful monsters unique to *Paradise*, built for groups of players. Each one has its own lair, returns hours after it dies, and drops far more loot than an ordinary monster.
+
+| Demiboss | Location |
+|:-|:-:|
+| [Lich King](/covetous#lich-king) | Covetous, floor 3 |
 
 ## Dealing With Monsters
 - Monsters can be slain with weapons.

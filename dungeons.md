@@ -14,7 +14,7 @@ Dungeons are found across Britannia and the Lost Lands. Monsters in dungeons att
 ## Britannia
 | Name | Floors | Location | Notes |
 |:-|:-:|:-:|:-:|
-| [Covetous](/covetous) | 3 | West of Vesper | Elder gazers on floor 2, lich lords and a dragon on floor 3 |
+| [Covetous](/covetous) | 3 | West of Vesper | Elder gazers on floor 2, the Lich King, lich lords, and a dragon on floor 3 |
 | [Deceit](/deceit) | 4 | Dagger Isle | Undead monsters, lich lords on floor 4 |
 | [Despise](/despise) | 3 | North of Britain | Easy monsters, evil mages on floor 3 |
 | [Destard](/destard) | 3 | Trinsic Jungle | Dragons, drakes, and the ancient wyrm |

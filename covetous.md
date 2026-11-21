@@ -24,7 +24,7 @@ Floor 2 has the same monsters as floor 1, along with elder gazers, slimes, water
 Skeletons, bone knights, and stone harpies guard the pass between floors 2 and 3.
 
 ## Floor 3
-Floor 3 belongs to the undead: skeletons, bone knights, shades, spectres, mummies, zombies, liches can be found throughout. In the back of the main area, there are stairs that lead to an undead prison, which houses magical undead. Behind the throne room, there are stairs that lead to a dragon cave. Both areas are guarded by a lich lord.
+Floor 3 belongs to the undead. Skeletons, bone knights, shades, spectres, mummies, zombies, and liches can be found throughout. In the back of the main area, there are stairs that lead to an undead prison, which houses magical undead. Behind the throne room, there are stairs that lead to a dragon cave. Both areas are guarded by a lich lord.
 
 The throne room holds the Lich King.
 
@@ -43,8 +43,22 @@ The throne room raises skeletons throughout the fight, a new one every `15` to `
 **The Lich King takes items from corpses near him, including fallen players.** He takes one item at a time from a corpse within `2` tiles, showing *\*rummages through a corpse and takes an item\**. Taken items drop with his own loot when he dies.
 
 ### Loot
-The Lich King drops:
-- a large hoard of gold and magic items
-- `10` high-level spell scrolls
-- a guaranteed level `5` [treasure map](/treasure_map)
-- a guaranteed silver weapon
+| Drop | Amount |
+|:-|:-:|
+| Gold | 4,020 – 6,500 |
+| Magic weapons, armor, shields, and jewelry | About 9 on average |
+| 7th and 8th circle spell scrolls | 10 |
+| Level 5 [treasure map](/treasure_map) | 1 |
+| Silver weapon | 1 |
+| Gnarled staff | 1 |
+| Liche's ring | 10% chance |
+| Musical instrument | 18% chance |
+
+The silver weapon is a random type of weapon with no other magic properties.
+
+### Liche's Ring
+A liche's ring is a silver ring that turns a weapon silver. The Lich King has a `10%` chance to drop one, and every lich lord has a `0.1%` chance, wherever it's found.
+
+To use it, double-click the ring in the backpack and target a weapon in the backpack or in hand. Any weapon that isn't already silver can be converted, including bows and crossbows. The weapon becomes silver, takes on the silvery color, and loses any other slayer it had.
+
+**Using a liche's ring kills its user.** The ring crumbles to dust, *The king sends his regards.* appears, and the user dies. The new silver weapon stays on the corpse.

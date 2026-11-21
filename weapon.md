@@ -99,3 +99,5 @@ The bonus raises the weapon's skill while it's held, which improves both hit cha
 
 ### Silver
 A silver weapon does double damage against the undead. Silver is the only slayer found on weapons, and any magic weapon has a `1%` chance to be silver, on top of its other properties. Silver weapons have a silvery color.
+
+A liche's ring turns any weapon silver, but kills its user. See [Covetous: Liche's Ring](/covetous#liches-ring).

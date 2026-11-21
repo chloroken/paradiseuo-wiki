@@ -15,7 +15,14 @@ Changes to *Paradise*, newest first.
 - Add the first demiboss, the Lich King, in the throne room on floor 3 of [Covetous](/covetous):
     - Built for a group, but a strong player may be able to solo it
     - Casts necromancy spells that players can't use
-    - Drops a large haul of magic items, high-level scrolls, a level `5` treasure map, and a guaranteed silver weapon
+    - Drops a large haul of gold and magic items, `10` 7th and 8th circle scrolls, a level `5` treasure map, and a guaranteed silver weapon
+- Add the [liche's ring](/covetous#liches-ring), which turns a weapon silver but kills its user:
+    - Dropped by the Lich King `10%` of the time, and by any lich lord `0.1%` of the time
+- Refresh Covetous:
+    - Fill floor 1's dead-end hallways with harpies, headless ones, and gazers
+    - Add harpies and headless ones to the first mountain pass, and more skeletons to the second
+    - Move dread spiders to the back of floor 2's caves, reduce corpsers, and add `2` elder gazers
+    - Spread `11` liches across floor 3, and place a lich lord at the stairs to the undead prison and another at the stairs to the dragon cave
 - Change silver weapons:
     - Lower the chance of a magic weapon being silver from `5%` to `1%`
     - Make silver the only slayer found on weapons, and remove slayers from looted instruments
