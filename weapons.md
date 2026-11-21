@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2026-11-21T16:30:04.106Z
+date: 2026-11-21T17:32:20.792Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -12,18 +12,21 @@ dateCreated: 2026-11-18T23:29:24.473Z
 Each type of weapon is trained with its own skill, and most types have an effect of their own, from critical strikes to poison. Hit chance, swing speed, and damage work the same way for every weapon. See [Combat](/combat).
 
 ## Weapon Types
-| Type | Skill | Examples | Effect |
+| Type | Skill | Weapons | Effect |
 |:-|:-:|:-:|:-:|
-| Swords | [Swordsmanship](/swordsmanship) | Longsword, katana, scimitar | [Critical strikes](#critical-strikes) |
+| Swords | [Swordsmanship](/swordsmanship) | Broadsword, cutlass, katana, longsword, scimitar, viking sword | [Critical strikes](#critical-strikes) |
 | Krysses | [Fencing](/fencing) | Kryss | [Poison](#poison) |
-| Axes | Swordsmanship | Battle axe, double axe, executioner's axe | [Concussion Blow](#concussion-blow) |
+| Axes (one-handed) | Swordsmanship | Pickaxe | None |
+| Axes (two-handed) | Swordsmanship | Axe, battle axe, double axe, executioner's axe, hatchet, large battle axe, two-handed axe | [Concussion Blow](#concussion-blow) |
 | War Axe | [Mace Fighting](/mace_fighting) | War axe | None |
-| Polearms | Swordsmanship | Halberd, bardiche | Concussion Blow |
-| Maces | Mace Fighting | Mace, war hammer, maul | [Sapping vigor](#sapping-vigor) (one-handed),<br>[Crushing Blow](#crushing-blow) (two-handed) |
-| Staves | Mace Fighting | Quarter staff, gnarled staff, black staff | Crushing Blow |
+| Polearms | Swordsmanship | Bardiche, halberd | Concussion Blow |
+| Maces (one-handed) | Mace Fighting | Club, hammer pick, mace, maul, war mace | [Sapping vigor](#sapping-vigor) |
+| Maces (two-handed) | Mace Fighting | War hammer | [Crushing Blow](#crushing-blow) |
+| Staves | Mace Fighting | Black staff, gnarled staff, quarter staff, shepherd's crook | Crushing Blow |
 | Daggers | Fencing | Dagger | Poison |
-| Spears | Fencing | Spear, short spear | [Paralyzing Blow](#paralyzing-blow) (spear only), poison |
-| Knives | Swordsmanship | Cleaver, butcher knife, skinning knife | Poison |
+| Spears (one-handed) | Fencing | War fork | Poison |
+| Spears (two-handed) | Fencing | Pitchfork, short spear, spear | [Paralyzing Blow](#paralyzing-blow), poison |
+| Knives | Swordsmanship | Butcher knife, cleaver, skinning knife | Poison |
 | Bows | [Archery](/archery) | Bow, crossbow, heavy crossbow | Crossbow volley, poisoned ammunition |
 | Fists | Wrestling | Bare hands | [Disarm and Stun](#wrestling-moves) |
 
@@ -64,7 +67,7 @@ Two-handed maces and staves can land a Crushing Blow, which makes the target att
 Only players can deliver a Crushing Blow, and only against monsters. Everyone nearby sees *looks dazed* over the target.
 
 ### Paralyzing Blow
-Two-handed spears can land a Paralyzing Blow, which freezes the target in place for `2` seconds.
+Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes the target in place for `2` seconds.
 
 Everyone nearby sees *looks stuck* over the target.
 
