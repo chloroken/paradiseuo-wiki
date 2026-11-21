@@ -69,6 +69,7 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 ## Other Changes
 - The world uses Trammel rules on the Felucca map, so players can't attack or steal from each other anywhere. Duel arenas and guild wars are the only PvP, and items dropped on the ground can still be taken.
 - Houses decay if they aren't refreshed, and everything inside is destroyed rather than dropped on the ground. See [House](/house).
-- Boats sink quickly if not captained, to stop players blocking objectives and islands with boats. See [Boat](/boat).
+- Boats sink `24` hours after they were last used, to stop players blocking objectives and islands with boats. See [Boat](/boat).
 - Ore can be smelted straight from a pack animal's backpack. See [Crafting](/crafting).
+- Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. See [Monsters](/monsters#fighting-monsters).
 - Damage shows as numbers over the target. See [Combat: Damage](/combat#damage).

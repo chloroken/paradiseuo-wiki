@@ -33,7 +33,7 @@ This page lists every spell in [Magery](/magery) by circle, with the words spoke
 - [Bless](/bless): *Rel Sanct*
 - [Fireball](/fireball): *Vas Flam*
 - [Magic Lock](/magic_lock): *An Por*
-- [Poison](/poison): *In Nox*
+- [Poison](/poison#poison-spell): *In Nox*
 - [Telekinesis](/telekinesis): *Ort Por Ylem*
 - [Teleport](/teleport): *Rel Por*
 - [Unlock](/unlock): *Ex Por*

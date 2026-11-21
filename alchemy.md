@@ -69,7 +69,7 @@ A night sight potion lights up the drinker's surroundings, like the [Night Sight
 Poison potions are used with [Poisoning](/poisoning) to coat weapons, arrows, bolts, and food. See [Poison](/poison).
 
 ### Explosion
-Explosion potions are thrown at a target. They explode after a short fuse, damaging everyone within `2` tiles. A thrown potion adds `Alchemy / 10` damage (unconfirmed).
+Explosion potions are thrown at a target. They explode after a short fuse, damaging everyone within `2` tiles. A thrown potion adds `Alchemy / 10` damage, and each explosion does at most `40` damage. A potion that explodes in the thrower's backpack also damages the thrower.
 
 | Potion | Damage |
 |:-|:-:|

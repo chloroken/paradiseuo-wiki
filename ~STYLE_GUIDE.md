@@ -60,6 +60,7 @@ Italics are used for:
 - Links to a section add an anchor: `/pet#obeying-commands`.
 - Anchors must be lowercase, with spaces converted to hyphens and punctuation removed, or they won't work. "Obeying Commands" becomes `#obeying-commands`. `%20` does not work.
 - Only the first mention of a page is linked on any given page.
+- Links to pages that don't exist yet are kept. They mark planned pages and start working once the page is written.
 - Link text follows normal sentence capitalization: capitals only for proper names, such as skills, spells, and places. Ordinary words stay lowercase.
   - Examples: tamers turn animals into [pets](/pet), healed with [Veterinary](/veterinary), listed in the [patch notes](/patch_notes)
 - Cross-references are the one exception, and use the title of what they link to: the page's title for a whole page, such as See [Stable](/stable), or the section's heading for a section, such as See [Valor](/combat#valor). If the heading is too vague to stand on its own, the page title and a colon go before it, such as See [Combat: Damage](/combat#damage).

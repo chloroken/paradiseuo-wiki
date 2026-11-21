@@ -57,6 +57,8 @@ A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` t
 
 A worn-out weapon does less damage, down to half when it's about to break.
 
+Damage between players is halved. Every other hit does full damage, so monsters hit players twice as hard as on most ServUO shards.
+
 The damage of each hit shows as a number over the target. The attacker and the target see it, as do the owners of any pets involved.
 
 Valor, shields, armor, and Arch Protection reduce the damage before it reaches the target. See [Armor](/armor).

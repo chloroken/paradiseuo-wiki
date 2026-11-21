@@ -9,7 +9,7 @@ dateCreated: 2026-11-20T00:56:57.736Z
 ---
 
 # Poisoning
-Poisoning is the skill of coating fencing weapons, arrows, bolts, and food with poison made with [Alchemy](/alchemy). A poisoned target takes damage every few seconds until the poison is cured or wears off. It is a dangerous skill to dabble in because any character, except grandmaster poisoners, can accidentally poison themselves in combat. See [Curing Poison](/healing#curing-poison).
+Poisoning is the skill of coating fencing weapons, knives, arrows, bolts, and food with poison made with [Alchemy](/alchemy). A poisoned target takes damage every few seconds until the poison is cured or wears off. It is a dangerous skill to dabble in because any character, except grandmaster poisoners, can accidentally poison themselves in combat. See [Curing Poison](/healing#curing-poison).
 
 ## Applying Poison
 Use the skill, target a poison potion, then target what to poison. After `2` seconds, a skill check decides whether it works. The skill can be used again after `10` seconds. A failure with less than `80` Poisoning has a `5%` chance to poison the character instead.
@@ -57,17 +57,7 @@ Anyone can use poisoned weapons and ammunition, but every swing or shot with poi
 The risk uses base skill, so items and spells that raise Poisoning don't count.
 
 ## Poison Strength
-Each poison deals damage `10` times, then wears off, unless it's cured first. Each tick deals `1` plus a share of the target's current hit points, within a minimum and maximum. About half of the ticks repeat the previous tick's damage instead.
-
-| Poison | Share of Current Hit Points (%) | Damage per Tick | Time Between Ticks (s) |
-|:-|:-:|:-:|:-:|
-| Lesser | 2.5 | 4 – 26 | 3 |
-| Regular | 3.125 | 5 – 26 | 3 |
-| Greater | 6.25 | 6 – 26 | 3 |
-| Deadly | 12.5 | 7 – 26 | 4 |
-| Lethal | 25 | 9 – 26 | 5 |
-
-Players can't make Lethal poison. Only monsters use it.
+Each poison's damage, timing, and cures are covered on [Poison](/poison).
 
 ## Manual Training
 

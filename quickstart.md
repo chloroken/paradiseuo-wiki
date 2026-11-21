@@ -1,5 +1,5 @@
 ---
-title: Quickstart Guide
+title: Quickstart
 description: 
 published: true
 date: 2026-11-19T00:18:30.648Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-11-03T22:38:21.268Z
 ---
 
-# Quickstart Guide
+# Quickstart
 This guide explains how to join the *Paradise* private Ultima Online shard.
 
 **This server is in alpha. Players join at their own risk.**
