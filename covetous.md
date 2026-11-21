@@ -2,7 +2,7 @@
 title: Covetous
 description: 
 published: true
-date: 2026-11-21T12:06:09.354Z
+date: 2026-11-21T12:22:31.271Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T10:58:47.341Z
@@ -43,16 +43,16 @@ The throne room raises skeletons throughout the fight, a new one every `15` to `
 **The Lich King takes items from corpses near him, including fallen players.** He takes one item at a time from a corpse within `2` tiles, showing *\*rummages through a corpse and takes an item\**. Taken items drop with his own loot when he dies.
 
 ### Loot
-| Drop | Amount | Chance |
+| Drop | Amount | Chance (%) |
 |:-|:-:|:-:|
-| Gold | 5,260 average | 100% |
-| 7th and 8th circle spell scrolls | 10 | 100% |
-| Magic weapons, armor, shields, and jewelry | 9 average | 100% |
-| Level 5 [treasure map](/treasure_map) | 1 | 100% |
-| Silver weapon | 1 | 100% |
-| Liche's ring | 1 | 10% |
+| Gold | 5,260 average | 100 |
+| 7th and 8th circle spell scrolls | 10 | 100 |
+| Weapons, armor, shields, and jewelry | 9 average | 100 |
+| Level 5 [treasure map](/treasure_map) | 1 | 100 |
+| Silver weapon | 1 | 100 |
+| Liche's ring | 1 | 10 |
 
-The silver weapon is a random type of weapon with no other magic properties.
+Most of the weapons, armor, and shields are magic, but jewelry never is. The silver weapon is a random type of weapon, usually with magic properties.
 
 ### Liche's Ring
 A liche's ring is a silver ring that turns a weapon silver. The Lich King has a `10%` chance to drop one, and every lich lord has a `0.1%` chance, even those outside of Covetous.
