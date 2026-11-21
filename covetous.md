@@ -2,7 +2,7 @@
 title: Covetous
 description: 
 published: true
-date: 2026-11-21T11:09:48.978Z
+date: 2026-11-21T12:06:09.354Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T10:58:47.341Z
@@ -43,21 +43,19 @@ The throne room raises skeletons throughout the fight, a new one every `15` to `
 **The Lich King takes items from corpses near him, including fallen players.** He takes one item at a time from a corpse within `2` tiles, showing *\*rummages through a corpse and takes an item\**. Taken items drop with his own loot when he dies.
 
 ### Loot
-| Drop | Amount |
-|:-|:-:|
-| Gold | 4,020 – 6,500 |
-| Magic weapons, armor, shields, and jewelry | About 9 on average |
-| 7th and 8th circle spell scrolls | 10 |
-| Level 5 [treasure map](/treasure_map) | 1 |
-| Silver weapon | 1 |
-| Gnarled staff | 1 |
-| Liche's ring | 10% chance |
-| Musical instrument | 18% chance |
+| Drop | Amount | Chance |
+|:-|:-:|:-:|
+| Gold | 5,260 average | 100% |
+| 7th and 8th circle spell scrolls | 10 | 100% |
+| Magic weapons, armor, shields, and jewelry | 9 average | 100% |
+| Level 5 [treasure map](/treasure_map) | 1 | 100% |
+| Silver weapon | 1 | 100% |
+| Liche's ring | 1 | 10% |
 
 The silver weapon is a random type of weapon with no other magic properties.
 
 ### Liche's Ring
-A liche's ring is a silver ring that turns a weapon silver. The Lich King has a `10%` chance to drop one, and every lich lord has a `0.1%` chance, wherever it's found.
+A liche's ring is a silver ring that turns a weapon silver. The Lich King has a `10%` chance to drop one, and every lich lord has a `0.1%` chance, even those outside of Covetous.
 
 To use it, double-click the ring in the backpack and target a weapon in the backpack or in hand. Any weapon that isn't already silver can be converted, including bows and crossbows. The weapon becomes silver, takes on the silvery color, and loses any other slayer it had.
 
