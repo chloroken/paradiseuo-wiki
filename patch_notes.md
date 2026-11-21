@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-21T08:09:24.615Z
+date: 2026-11-21T08:15:16.528Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,27 +12,26 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 
 ## 2026.11.21
-- Added first demiboss: Lich King
-    - Designed for multiple players, but possibly soloable
-    - Casts special necro spells players don't have access to
-    - On death, drops tons of magic items, high-level scrolls, a level 5 treasure map, and a guaranteed silver weapon
-    - Can be found in the throne room in level 3 Covetous
-- Silver weapons:
-    - Now have drop rate of `1%` down from `5%`
-    - Now the only slayer mod found on weapons
-    - Now have a silvery color, and slayer hits no longer sparkle
+- Add the first demiboss, the Lich King, in the throne room on floor 3 of [Covetous](/covetous):
+    - Built for a group, but a strong player may be able to solo it
+    - Casts necromancy spells that players can't use
+    - Drops a large haul of magic items, high-level scrolls, a level `5` treasure map, and a guaranteed silver weapon
+- Change silver weapons:
+    - Lower the chance of a magic weapon being silver from `5%` to `1%`
+    - Make silver the only slayer found on weapons, and remove slayers from looted instruments
+    - Give silver weapons a silvery color, and remove the sparkle from slayer hits
 - Rework weapons so more of them are worth using:
-    - Change base damage of almost every single weapon
-    - Sword have critical strike chance, higher for slower swords
-    - One-handed maces sap a monster's vigor, reducing its damage dealt
-    - Crushing Blow now comes from two-handed maces and staves and reduces attack speed
-    - Staves and maces no longer drain stamina
-    - Regular crossbows fire up to `3` bolts per shot, each doing `5` to `14` base damage
-    - Non-pointy knives can be poisoned again
-- Weapon effects:
-    - Now show messages over player's head or the target when appropriate
-    - No longer play sounds
-- Damage numbers now appear over targets when hit
+    - Change the base damage of almost every weapon
+    - Give each sword its own critical strike chance, higher for slower swords
+    - Make one-handed maces sap a monster's vigor, lowering the damage of its melee hits
+    - Move Crushing Blow to two-handed maces and staves, and make it slow the target's attacks instead of doing extra damage
+    - Stop maces and staves from draining stamina
+    - Make crossbows, but not heavy crossbows, fire up to `3` bolts per shot, each doing `5` to `14` base damage
+    - Let knives (butcher knives, cleavers, and skinning knives) be poisoned again
+- Change weapon effects:
+    - Show messages over the player's head for effects they land, and over the target for effects on it
+    - Remove their sounds
+- Show damage numbers over the target when hit
 - Draw arrows and bolts from chest height instead of the ground
 
 ## 2026.11.20
