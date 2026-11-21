@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2026-11-21T16:24:06.369Z
+date: 2026-11-21T16:25:29.755Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -33,7 +33,7 @@ Fighting with bare hands has its own automatic moves and unarmed defense. See [W
 Most weapon types have an effect on hit. Only players can trigger most of them, and several only work against monsters.
 
 ### Critical Strikes
-Swords can land a critical strike, which doubles the hit's damage before armor. Each sword has its own chance, scaled by Swordsmanship, so `50` Swordsmanship gives half the chance shown below. Slower swords strike critically more often, so every sword does about the same damage over time, while the slowest hit in the biggest bursts. Only players can land critical strikes, and only with swords, not axes, polearms, or knives. The attacker sees *You land a critical strike!* in their journal.
+Swords can land a critical strike, which doubles the hit's damage before armor. Each sword has its own chance, scaled by Swordsmanship, so `50` Swordsmanship gives half the chance shown below. Slower swords strike critically more often, so every sword does about the same damage over time, while the slowest hit in the biggest bursts.
 
 | Sword | Critical Strike Chance (%)<br>at 100 Swordsmanship |
 |:-|:-:|
@@ -43,6 +43,8 @@ Swords can land a critical strike, which doubles the hit's damage before armor. 
 | Scimitar | 15 |
 | Longsword | 26 |
 | Viking sword | 40 |
+
+Only players can land critical strikes, and only with swords, not axes, polearms, or knives. The attacker sees *You land a critical strike!* in their journal.
 
 ### Special Attacks
 Two-handed axes, polearms, maces, and spears each have a special attack, and staves count as two-handed maces. Every hit has an `Anatomy / 400` chance to trigger it, which is `25%` at `100` [Anatomy](/anatomy).
