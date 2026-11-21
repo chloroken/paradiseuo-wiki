@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2026-11-21T06:26:35.814Z
+date: 2026-11-21T16:17:02.116Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
@@ -12,7 +12,7 @@ dateCreated: 2026-11-19T00:05:40.279Z
 This page covers how [often attacks land](#hit-chance), how [fast they come](#swing-speed), and how much [damage they do](#damage). It also explains [Valor](#valor), the warrior's virtue that strengthens characters who fight without [magic](/magic).
 
 ## Gear and Skills
-- [Weapon](/weapon): every weapon type, its skill, special attacks, and effects on hit.
+- [Weapons](/weapons): every weapon type, its skill, special attacks, and effects on hit.
 - [Armor](/armor): how armor and shields reduce damage.
 - [Archery](/archery): bows and crossbows, ammunition, and ambushes.
 - [Wrestling](/wrestling): bare-handed moves and unarmed defense.
