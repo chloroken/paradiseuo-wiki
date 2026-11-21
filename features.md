@@ -28,10 +28,10 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM.
 - [Poisoning](/poisoning):
   - Only fencing weapons and knives can be poisoned.
   - Inflicting poison on hit is now tied to Poisoning level.
-- [Weapon Identities](/weapon#other-effects-on-hit):
+- [Weapon Identities](/weapons#weapon-effects):
   - Swords critically strike for double damage, and slower swords strike critically more often.
   - One-handed maces weaken a monster's blows by sapping its vigor.
-  - Two-handed maces and staves can slow a monster's attacks with [Crushing Blow](/weapon#special-attacks).
+  - Two-handed maces and staves can slow a monster's attacks with [Crushing Blow](/weapons#special-attacks).
   - Weapon damage is rebalanced so more weapons are worth using.
 - [Carrying Capacity](/stats#carrying-capacity):
   - Dexterity adds carrying capacity, half as much per point as Strength.

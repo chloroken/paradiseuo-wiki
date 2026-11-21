@@ -37,7 +37,7 @@ Every item has a minimum and a maximum skill. Below the minimum it can't be made
 Every attempt, success or failure, has a chance to raise the crafting skill, as long as the crafter's skill is between the item's minimum and maximum. A failed attempt can use up some of the resources.
 
 ## Exceptional Items
-Weapons, armor, clothing, furniture, and other gear can come out exceptional. Every other crafted item is regular quality. Magic weapons only come from loot and are always regular quality, so a weapon can't be both exceptional and magic. See [Magic Weapons](/weapon#magic-weapons).
+Weapons, armor, clothing, furniture, and other gear can come out exceptional. Every other crafted item is regular quality. Magic weapons only come from loot and are always regular quality, so a weapon can't be both exceptional and magic. See [Magic Weapons](/weapons#magic-weapons).
 
 An exceptional item gets these bonuses:
 - Weapons do `20%` more damage. See [Combat: Damage](/combat#damage).

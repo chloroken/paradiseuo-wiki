@@ -2,47 +2,36 @@
 title: Weapons
 description: 
 published: true
-date: 2026-11-21T16:16:28.860Z
+date: 2026-11-21T08:20:38.442Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
 ---
 
 # Weapons
-Each type of weapon is trained with its own skill, and some types have special attacks or other effects on hit. Hit chance, swing speed, and damage work the same way for every weapon. See [Combat](/combat).
+Each type of weapon is trained with its own skill, and most types have an effect of their own, from critical strikes to poison. Hit chance, swing speed, and damage work the same way for every weapon. See [Combat](/combat).
 
 ## Weapon Types
-| Type | Skill | Examples |
-|:-|:-:|:-:|
-| Swords | [Swordsmanship](/swordsmanship) | Longsword, katana, scimitar |
-| Krysses | [Fencing](/fencing) | Kryss |
-| Axes | Swordsmanship | Battle axe, double axe, executioner's axe |
-| War Axe | [Mace Fighting](/mace_fighting) | War axe |
-| Polearms | Swordsmanship | Halberd, bardiche |
-| Maces | Mace Fighting | Mace, war hammer, maul |
-| Staves | Mace Fighting | Quarter staff, gnarled staff, black staff |
-| Daggers | Fencing | Dagger |
-| Spears | Fencing | Spear, short spear |
-| Knives | Swordsmanship | Cleaver, butcher knife, skinning knife |
-| Bows | [Archery](/archery) | Bow, crossbow, heavy crossbow |
-| Fists | Wrestling | Bare hands |
+| Type | Skill | Examples | Effect |
+|:-|:-:|:-:|:-:|
+| Swords | [Swordsmanship](/swordsmanship) | Longsword, katana, scimitar | [Critical strikes](#critical-strikes) |
+| Krysses | [Fencing](/fencing) | Kryss | [Poison](#poison) |
+| Axes | Swordsmanship | Battle axe, double axe, executioner's axe | [Concussion Blow](#special-attacks) |
+| War Axe | [Mace Fighting](/mace_fighting) | War axe | None |
+| Polearms | Swordsmanship | Halberd, bardiche | Concussion Blow |
+| Maces | Mace Fighting | Mace, war hammer, maul | [Sapping vigor](#sapping-vigor) (one-handed), Crushing Blow (two-handed) |
+| Staves | Mace Fighting | Quarter staff, gnarled staff, black staff | Crushing Blow |
+| Daggers | Fencing | Dagger | Poison |
+| Spears | Fencing | Spear, short spear | Paralyzing Blow (spear only), poison |
+| Knives | Swordsmanship | Cleaver, butcher knife, skinning knife | Poison |
+| Bows | [Archery](/archery) | Bow, crossbow, heavy crossbow | Crossbow volley, poisoned ammunition |
+| Fists | Wrestling | Bare hands | Wrestling moves |
 
-Fighting with bare hands has its own automatic moves and unarmed defense. See [Wrestling](/wrestling).
+Fighting with bare hands has its own automatic moves and unarmed defense. See [Wrestling](/wrestling). Crossbow volleys and poisoned ammunition are covered on the Archery page.
 
-## Special Attacks
-Two-handed axes, polearms, maces, and spears each have a special attack, and staves count as two-handed maces. Every hit has an `Anatomy / 400` chance to trigger it, which is `25%` at `100` [Anatomy](/anatomy).
+## Weapon Effects
+Most weapon types have an effect on hit. Only players can trigger most of them, and several only work against monsters.
 
-| Special | Weapons | Effect |
-|:-|:-:|:-:|
-| Concussion Blow | Two-handed axes and polearms | Halves the target's Intelligence for 30 seconds. Doesn't stack. |
-| Crushing Blow | Two-handed maces and staves | The target attacks at half speed for 10 seconds. Another Crushing Blow restarts the time instead of stacking. |
-| Paralyzing Blow | Two-handed spears | Freezes the target in place for 2 seconds |
-
-Concussion Blow can only be delivered by players and human NPCs, and also lowers the target's maximum mana. Crushing Blow can only be delivered by players, and only against monsters.
-
-Everyone nearby sees a special label over the target: *looks concussed* for Concussion Blow, *looks dazed* for Crushing Blow, and *looks stuck* for Paralyzing Blow.
-
-## Other Effects on Hit
 ### Critical Strikes
 Swords can land a critical strike, which doubles the hit's damage before armor. Each sword has its own chance, scaled by Swordsmanship, so `50` Swordsmanship gives half the chance shown below. Slower swords strike critically more often, so every sword does about the same damage over time, while the slowest hit in the biggest bursts. Only players can land critical strikes, and only with swords, not axes, polearms, or knives. The attacker sees *You land a critical strike!* in their journal.
 
@@ -54,6 +43,19 @@ Swords can land a critical strike, which doubles the hit's damage before armor. 
 | Scimitar | 15 |
 | Longsword | 26 |
 | Viking sword | 40 |
+
+### Special Attacks
+Two-handed axes, polearms, maces, and spears each have a special attack, and staves count as two-handed maces. Every hit has an `Anatomy / 400` chance to trigger it, which is `25%` at `100` [Anatomy](/anatomy).
+
+| Special | Weapons | Effect |
+|:-|:-:|:-:|
+| Concussion Blow | Two-handed axes and polearms | Halves the target's Intelligence for 30 seconds. Doesn't stack. |
+| Crushing Blow | Two-handed maces and staves | The target attacks at half speed for 10 seconds. Another Crushing Blow restarts the time instead of stacking. |
+| Paralyzing Blow | Two-handed spears | Freezes the target in place for 2 seconds |
+
+Concussion Blow can only be delivered by players and human NPCs, and also lowers the target's maximum mana. Crushing Blow can only be delivered by players, and only against monsters.
+
+Everyone nearby sees a special label over the target: *looks concussed* for Concussion Blow, *looks dazed* for Crushing Blow, and *looks stuck* for Paralyzing Blow.
 
 ### Sapping Vigor
 One-handed maces sap a monster's vigor. Each hit saps vigor equal to the damage dealt, and the monster's melee attacks hit as if its Strength were that much lower, down to half its normal Strength. Its health isn't affected. The sap wears off `30` seconds after the last one-handed mace hit from anyone.
