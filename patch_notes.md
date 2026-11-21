@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-21T06:14:55.533Z
+date: 2026-11-21T08:09:24.615Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,20 +12,28 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 
 ## 2026.11.21
+- Added first demiboss: Lich King
+    - Designed for multiple players, but possibly soloable
+    - Casts special necro spells players don't have access to
+    - On death, drops tons of magic items, high-level scrolls, a level 5 treasure map, and a guaranteed silver weapon
+    - Can be found in the throne room in level 3 Covetous
+- Silver weapons:
+    - Now have drop rate of `1%` down from `5%`
+    - Now the only slayer mod found on weapons
+    - Now have a silvery color, and slayer hits no longer sparkle
 - Rework weapons so more of them are worth using:
-    - Each sword has its own critical strike chance, higher for slower swords, so every sword does about the same damage over time
-    - One-handed maces sap a monster's vigor by the damage dealt, weakening its melee hits as if its Strength were up to half lower, and no longer drain stamina
-    - Crushing Blow now comes from two-handed maces and staves, and makes the target attack at half speed for `10` seconds instead of doing extra damage
-    - Staves no longer drain stamina
-    - Crossbows fire up to `3` bolts per shot, each doing `5` to `14` base damage
-    - Knives can be poisoned
-    - Change base damage: katana `4` to `22`, axe, double axe, and executioner's axe `8` to `34`, battle axe, large battle axe, and two-handed axe `18` to `35`, spear `2` to `34`, short spear `4` to `29`, dagger `4` to `19`, and quarter staff `6` to `25`
-- Show damage as numbers over the target
+    - Change base damage of almost every single weapon
+    - Sword have critical strike chance, higher for slower swords
+    - One-handed maces sap a monster's vigor, reducing its damage dealt
+    - Crushing Blow now comes from two-handed maces and staves and reduces attack speed
+    - Staves and maces no longer drain stamina
+    - Regular crossbows fire up to `3` bolts per shot, each doing `5` to `14` base damage
+    - Non-pointy knives can be poisoned again
+- Weapon effects:
+    - Now show messages over player's head or the target when appropriate
+    - No longer play sounds
+- Damage numbers now appear over targets when hit
 - Draw arrows and bolts from chest height instead of the ground
-- Silver is now the only slayer found on weapons, and looted instruments no longer have slayers
-- Silver weapons now have a silvery color, and slayer hits no longer sparkle
-- Weapon effects now show messages: effects a player lands show over their own head, and effects on a target show over the target
-- Remove the sounds from Concussion Blow, Crushing Blow, and Paralyzing Blow
 
 ## 2026.11.20
 - Rename Antimage to [Valor](/combat#valor), the warrior's virtue from Ultima lore
