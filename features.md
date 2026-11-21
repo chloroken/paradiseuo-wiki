@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-21T08:19:06.547Z
+date: 2026-11-21T16:31:40.521Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -20,7 +20,7 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM.
   - Characters who fight without magic are gripped by [the warrior's virtue](https://wiki.ultimacodex.com/wiki/Valor).
   - Valor grants fighting bonuses that diminish as Magery increases.
 - [Armor](/armor#how-armor-works):
-  - Armor reduces damage by a percentage, so it protects against hard hits as well as light ones.
+  - Armor damage reduction is percentage-based instead of flat, making it better against bigger hits.
   - Shields also reduce every hit, on top of blocking.
 - [Wrestling Moves](/wrestling#wrestling-moves):
   - Wrestling moves happen automatically, no button or macro needed.
@@ -29,9 +29,9 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM.
   - Only fencing weapons and knives can be poisoned.
   - Inflicting poison on hit is now tied to Poisoning level.
 - [Weapon Identities](/weapons#weapon-effects):
-  - Swords critically strike for double damage, and slower swords strike critically more often.
+  - Swords critically strike for double damage, and slower swords crit more often.
   - One-handed maces weaken a monster's blows by sapping its vigor.
-  - Two-handed maces and staves can slow a monster's attacks with [Crushing Blow](/weapons#special-attacks).
+  - Two-handed maces and staves can slow a monster's attacks.
   - Weapon damage is rebalanced so more weapons are worth using.
 - [Carrying Capacity](/stats#carrying-capacity):
   - Dexterity adds carrying capacity, half as much per point as Strength.
