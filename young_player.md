@@ -2,7 +2,7 @@
 title: Young Player
 description: 
 published: true
-date: 2026-11-20T03:05:14.361Z
+date: 2026-11-21T15:54:01.153Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T05:09:09.545Z
@@ -29,4 +29,4 @@ Young status ends when any of these happens:
 - A character raises a skill to `80` or higher while having at least `450` total skill points.
 - A player says `I renounce my young player status` and confirms it.
 
-Once lost, Young status can never be regained.
+Once lost, Young status can never be regained. Starting items have no protection of their own, so once Young status ends, they drop on death like any other item.
