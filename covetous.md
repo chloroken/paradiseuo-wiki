@@ -2,7 +2,7 @@
 title: Covetous
 description: 
 published: true
-date: 2026-11-21T12:22:31.271Z
+date: 2026-11-21T14:02:11.212Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T10:58:47.341Z
@@ -23,15 +23,19 @@ Floor 2 has the same monsters as floor 1, along with elder gazers, slimes, water
 ## Mountain Pass B
 Skeletons, bone knights, and stone harpies guard the pass between floors 2 and 3.
 
+Players can't [Recall](/recall) or [Gate Travel](/gate_travel) into this pass, or [Mark](/mark) runes in it. Gates can't be opened from it either, but Recall out still works.
+
 ## Floor 3
 Floor 3 belongs to the undead. Skeletons, bone knights, shades, spectres, mummies, zombies, and liches can be found throughout. In the back of the main area, there are stairs that lead to an undead prison, which houses magical undead. Behind the throne room, there are stairs that lead to a dragon cave. Both areas are guarded by a lich lord.
 
 The throne room holds the Lich King.
 
 ## Lich King
-The Lich King is a black lich who rules from the throne room on floor 3. He is built for a group of players, though a strong player may be able to defeat him alone. After he dies, he returns `12` to `24` hours later.
+The Lich King rules from the throne room on floor 3. He is built for a group of players, though a strong player may be able to defeat him alone. After he dies, he returns `12` to `24` hours later.
 
-The throne room raises skeletons throughout the fight, a new one every `15` to `30` seconds from each of its two spawn points, up to `10` at a time.
+The throne room is populated by an army of skeletons, adding additional challenge to the fight. Further complicating things, when one of these skeletons is killed or trapped afar, it will respawn in the throne room within `30` seconds.
+
+![boss_lich.png](/boss_lich.png)
 
 ### Fighting the Lich King
 - He has `5,000` to `6,000` hit points.
