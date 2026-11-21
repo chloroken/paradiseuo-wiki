@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-20T17:13:23.816Z
+date: 2026-11-21T08:19:06.547Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -40,17 +40,17 @@ Fighters are enhanced to keep pace with mages, tamers, and bards in PvM.
 Archers receive several enhancements that make ranged combat more effective.
 
 - Valor and Poison:
-	- Archers also benefit from Valor bonuses.
-	- Arrows and bolts can be coated with poison.
+  - Archers also benefit from Valor bonuses.
+  - Arrows and bolts can be coated with poison.
 - [Fletching](/fletching#fletching-and-archery):
   - Increases range, reduces time to shoot, and saves more arrows.
 - [Crossbow Volley](/archery#crossbow-volley):
   - Crossbows fire up to `3` bolts per shot.
 - [Ambush](/archery#ambush):
-	- Shots do bonus damage if they break Hiding.
+  - Shots do bonus damage if they break Hiding.
   - Breaking Stealth further enhances the shot.
 - [Tracking](/tracking#archery-accuracy):
-	- Increases accuracy with ranged weapons.
+  - Increases accuracy with ranged weapons.
   - Shots against fleeing targets never miss.
 
 ## Taming Enhancements
