@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2026-11-21T17:32:48.483Z
+date: 2026-11-21T17:33:14.708Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -14,7 +14,7 @@ Each type of weapon is trained with its own skill, and most types have an effect
 ## Weapon Types
 | Type | Skill | Weapons | Effect |
 |:-|:-:|:-:|:-:|
-| Swords | [Swordsmanship](/swordsmanship) | Broadsword, cutlass, katana, longsword, scimitar, viking sword | [Critical strikes](#critical-strikes) |
+| Swords | [Swordsmanship](/swordsmanship) | Broadsword, cutlass, katana,<br>longsword, scimitar, viking sword | [Critical strikes](#critical-strikes) |
 | Krysses | [Fencing](/fencing) | Kryss | [Poison](#poison) |
 | Axes (one-handed) | Swordsmanship | Pickaxe | None |
 | Axes (two-handed) | Swordsmanship | Axe, battle axe, double axe, executioner's axe,<br>hatchet, large battle axe, two-handed axe | [Concussion Blow](#concussion-blow) |
@@ -22,7 +22,7 @@ Each type of weapon is trained with its own skill, and most types have an effect
 | Polearms | Swordsmanship | Bardiche, halberd | Concussion Blow |
 | Maces (one-handed) | Mace Fighting | Club, hammer pick, mace, maul, war mace | [Sapping vigor](#sapping-vigor) |
 | Maces (two-handed) | Mace Fighting | War hammer | [Crushing Blow](#crushing-blow) |
-| Staves | Mace Fighting | Black staff, gnarled staff, quarter staff, shepherd's crook | Crushing Blow |
+| Staves | Mace Fighting | Black staff, gnarled staff,<br>quarter staff, shepherd's crook | Crushing Blow |
 | Daggers | Fencing | Dagger | Poison |
 | Spears (one-handed) | Fencing | War fork | Poison |
 | Spears (two-handed) | Fencing | Pitchfork, short spear, spear | [Paralyzing Blow](#paralyzing-blow), poison |
