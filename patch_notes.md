@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-20T16:51:45.818Z
+date: 2026-11-21T06:14:55.533Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -22,6 +22,7 @@ Changes to *Paradise*, newest first.
     - Change base damage: katana `4` to `22`, axe, double axe, and executioner's axe `8` to `34`, battle axe, large battle axe, and two-handed axe `18` to `35`, spear `2` to `34`, short spear `4` to `29`, dagger `4` to `19`, and quarter staff `6` to `25`
 - Show damage as numbers over the target
 - Draw arrows and bolts from chest height instead of the ground
+- Silver is now the only slayer found on weapons, and looted instruments no longer have slayers
 
 ## 2026.11.20
 - Rename Antimage to [Valor](/combat#valor), the warrior's virtue from Ultima lore
