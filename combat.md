@@ -2,14 +2,16 @@
 title: Combat
 description: 
 published: true
-date: 2026-11-21T06:20:07.265Z
+date: 2026-11-21T06:26:35.814Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
 ---
 
 # Combat
-This page covers how often attacks land, how fast they come, how much damage they do. It also explains Valor, the warrior's virtue that strengthens characters who fight without magic.
+This page covers how [often attacks land](#hit-chance), how [fast they come](#swing-speed), how much [damage they do](#damage).
+
+It also explains [Valor](#valor), the warrior's virtue that strengthens characters who fight without [magic](/magic).
 
 ## Gear and Skills
 - [Weapon](/weapon): every weapon type, its skill, special attacks, and effects on hit.
@@ -49,7 +51,7 @@ The defender uses the skill of whatever weapon they're holding, so a fencer defe
 Every attack, hit or miss, has a chance to raise the attacker's weapon skill.
 
 Two things can raise hit chance beyond skill:
-- Valor adds to the attacker's weapon skill for this roll. See [Valor](#valor).
+- Valor adds to the attacker's weapon skill for this roll.
 - Stealth archers gain accuracy for every stealthed step before an ambush, until the shot can't miss. See [Archery](/archery).
 
 ## Damage
@@ -88,7 +90,7 @@ Valor is the warrior's virtue. Characters who fight with weapons instead of magi
 - Toughness, from Parrying: physical damage taken is reduced by up to `20%`, before armor. The reduction is `20% * (Parrying / 100) * ((100 - Magery) / 100)`. It covers weapons and monsters' melee attacks, but not spells, breath, or poison. It doesn't need a shield.
 - Regeneration, from Anatomy: hit points regenerate up to `5` times as fast. The speed is `1 + 4 * (Anatomy / 100) * ((100 - Magery) / 100)` times normal.
 
-| Magery | Accuracy Bonus (points at 100 Tactics) | Damage Taken at 100 Parrying (%) | Regeneration Speed at 100 Anatomy |
+| Magery | Accuracy Bonus<br>(points at 100 Tactics) | Damage Taken at<br>100 Parrying (%) | Regeneration Speed<br>at 100 Anatomy |
 |:-|:-:|:-:|:-:|
 | 0 | 30 | 80 | 5× |
 | 25 | 22.5 | 85 | 4× |
