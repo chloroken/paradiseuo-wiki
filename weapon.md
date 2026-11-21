@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-21T06:15:28.888Z
+date: 2026-11-21T07:47:14.362Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -40,7 +40,7 @@ Two-handed axes, polearms, maces, and spears each have a special attack, and sta
 
 Concussion Blow can only be delivered by players and human NPCs, and also lowers the target's maximum mana. Crushing Blow can only be delivered by players, and only against monsters.
 
-Everyone nearby sees a special land: the target shows *\*looks concussed\**, *\*looks dazed\**, or *\*looks stuck\**. A player hit by Concussion Blow or Paralyzing Blow also gets a message in their journal.
+Everyone nearby sees a special land over the target: *looks concussed* for Concussion Blow, *looks dazed* for Crushing Blow, and *looks stuck* for Paralyzing Blow.
 
 ## Other Effects on Hit
 ### Critical Strikes
