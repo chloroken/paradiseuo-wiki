@@ -2,7 +2,7 @@
 title: Lich King
 description: 
 published: true
-date: 2026-11-21T17:19:11.241Z
+date: 2026-11-21T18:11:53.082Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T14:54:28.083Z
@@ -30,7 +30,7 @@ The Lich King fights mostly with spells, mixing Necromancy, which players can't 
 - Pain Spike: a sudden stab of pain at a single target.
 - Poison Strike: poison bursts on the target and splashes anyone beside them.
 - Wither: a wave of cold that hurts everyone around him.
-- Strangle: chokes the target, hurting more the more tired they are.
+- Strangle: chokes the target, doing damage over time that increases as stamina depletes.
 - Blood Oath: binds a fighter, so their blows against him hurt them too for a while.
 - Animate Dead: raises slain skeletons nearby to fight again.
 - Magery: he also poisons, paralyzes, and drains mana from his foes.
