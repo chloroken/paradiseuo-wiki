@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-21T08:12:06.819Z
+date: 2026-11-21T08:18:19.463Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -40,7 +40,7 @@ Two-handed axes, polearms, maces, and spears each have a special attack, and sta
 
 Concussion Blow can only be delivered by players and human NPCs, and also lowers the target's maximum mana. Crushing Blow can only be delivered by players, and only against monsters.
 
-Everyone nearby sees a special land over the target: *looks concussed* for Concussion Blow, *looks dazed* for Crushing Blow, and *looks stuck* for Paralyzing Blow.
+Everyone nearby sees a special label over the target: *looks concussed* for Concussion Blow, *looks dazed* for Crushing Blow, and *looks stuck* for Paralyzing Blow.
 
 ## Other Effects on Hit
 ### Critical Strikes
@@ -64,7 +64,7 @@ The attacker sees *\*saps vigor\** over their head when a sap starts, and everyo
 Fencing weapons and knives can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).
 
 ## Magic Weapons
-Weapons found as loot can be magic. A magic weapon can have a damage, accuracy, and durability property, each in five strengths, and some weapons are slayers instead.
+Weapons found as loot can be magic. A magic weapon can have a damage, accuracy, and durability property, each in five strengths, and weapons can additionally be silver.
 
 ### Damage
 | Property | Base Damage Bonus |
