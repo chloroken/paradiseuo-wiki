@@ -2,14 +2,14 @@
 title: Combat
 description: 
 published: true
-date: 2026-11-20T16:32:17.819Z
+date: 2026-11-21T06:01:50.617Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
 ---
 
 # Combat
-Combat on *Paradise* follows T2A rules, apart from the changes listed in [Features](/features). This page covers how often attacks land, how fast they come, how much damage they do, and Valor, the warrior's virtue that strengthens characters who fight without magic.
+This page covers how often attacks land, how fast they come, how much damage they do. It also explains Valor, the warrior's virtue that strengthens characters who fight without magic.
 
 ## Gear and Skills
 - [Weapon](/weapon): every weapon type, its skill, special attacks, and effects on hit.
