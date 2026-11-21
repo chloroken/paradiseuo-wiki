@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-21T08:15:16.528Z
+date: 2026-11-21T12:23:36.538Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -15,7 +15,7 @@ Changes to *Paradise*, newest first.
 - Add the first demiboss, the Lich King, in the throne room on floor 3 of [Covetous](/covetous):
     - Built for a group, but a strong player may be able to solo it
     - Casts necromancy spells that players can't use
-    - Drops a large haul of gold and magic items, `10` 7th and 8th circle scrolls, a level `5` treasure map, and a guaranteed silver weapon
+    - Drops a large haul of gold and magic items, `10` high-circle scrolls, a level `5` treasure map, and a guaranteed silver weapon, usually with magic properties
 - Add the [liche's ring](/covetous#liches-ring), which turns a weapon silver but kills its user:
     - Dropped by the Lich King `10%` of the time, and by any lich lord `0.1%` of the time
 - Refresh Covetous:
