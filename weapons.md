@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2026-11-21T16:19:48.285Z
+date: 2026-11-21T16:22:53.285Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -35,7 +35,7 @@ Most weapon types have an effect on hit. Only players can trigger most of them, 
 ### Critical Strikes
 Swords can land a critical strike, which doubles the hit's damage before armor. Each sword has its own chance, scaled by Swordsmanship, so `50` Swordsmanship gives half the chance shown below. Slower swords strike critically more often, so every sword does about the same damage over time, while the slowest hit in the biggest bursts. Only players can land critical strikes, and only with swords, not axes, polearms, or knives. The attacker sees *You land a critical strike!* in their journal.
 
-| Sword | Critical Strike Chance at 100 Swordsmanship (%) |
+| Sword | Critical Strike Chance (%)<br>at 100 Swordsmanship |
 |:-|:-:|
 | Katana | 12 |
 | Broadsword | 10 |
