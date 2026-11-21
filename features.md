@@ -73,4 +73,4 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 - Ore can be smelted straight from a pack animal's backpack. See [Crafting](/crafting).
 - Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. See [Monsters](/monsters#fighting-monsters).
 - Damage shows as numbers over the target. See [Combat: Damage](/combat#damage).
-- Demibosses are powerful monsters built for groups, with their own loot. The first is the Lich King. See [Covetous: Lich King](/covetous#lich-king).
+- Demibosses are powerful monsters built for groups, with their own loot. The first is the Lich King. See [Lich King](/lich_king).

@@ -44,7 +44,7 @@ Arrows and bolts recovered after a shot are always clean. Poisoned ammunition on
 Each swing or shot that hits with a poisoned weapon or ammunition has a chance to poison the target based on Poisoning level. The chance is either `50%` or `Poisoning level * 1%`, whichever is higher. A grandmaster Poisoner that successfully hits an attack has a `100%` chance to poison.
 
 ## Self-Poisoning
-Anyone can use poisoned weapons and ammunition, but every swing or shot with poison, hit or miss, risks poisoning the user with the same poison, and the user sees *You nick yourself and become poisoned!* over their head The risk falls evenly from `50%` at `0` Poisoning to `5%` at `50`, then evenly to `0%` at `100`. A crossbow volley counts as one shot.
+Anyone can use poisoned weapons and ammunition, but every swing or shot with poison, hit or miss, risks poisoning the user with the same poison, and the user sees *You nick yourself and become poisoned!* over their head. The risk falls evenly from `50%` at `0` Poisoning to `5%` at `50`, then evenly to `0%` at `100`. A crossbow volley counts as one shot.
 
 | Poisoning | Chance to Self-Poison (%) |
 |:-|:-:|

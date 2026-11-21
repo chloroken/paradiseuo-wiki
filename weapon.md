@@ -44,7 +44,7 @@ Everyone nearby sees a special label over the target: *looks concussed* for Conc
 
 ## Other Effects on Hit
 ### Critical Strikes
-Swords can land a critical strike, which doubles the hit's damage before armor. Each sword has its own chance, scaled by Swordsmanship, so `50` Swordsmanship gives half the chance shown below. Slower swords strike critically more often, so every sword does about the same damage over time, while the slowest hit in the biggest bursts. Only players can land critical strikes, and only with swords, not axes, polearms, or knives. The attacker sees *\*critical strike\** over their head.
+Swords can land a critical strike, which doubles the hit's damage before armor. Each sword has its own chance, scaled by Swordsmanship, so `50` Swordsmanship gives half the chance shown below. Slower swords strike critically more often, so every sword does about the same damage over time, while the slowest hit in the biggest bursts. Only players can land critical strikes, and only with swords, not axes, polearms, or knives. The attacker sees *You land a critical strike!* in their journal.
 
 | Sword | Critical Strike Chance at 100 Swordsmanship (%) |
 |:-|:-:|
@@ -100,4 +100,4 @@ The bonus raises the weapon's skill while it's held, which improves both hit cha
 ### Silver
 A silver weapon does double damage against the undead. Silver is the only slayer found on weapons, and any magic weapon has a `1%` chance to be silver, on top of its other properties. Silver weapons have a silvery color.
 
-A liche's ring turns any weapon silver, but kills its user. See [Covetous: Liche's Ring](/covetous#liches-ring).
+A liche's ring turns any weapon silver, but kills its user. See [Lich King: Liche's Ring](/lich_king#liches-ring).

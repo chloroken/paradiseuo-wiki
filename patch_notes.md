@@ -12,11 +12,12 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 
 ## 2026.11.21
-- Add the first demiboss, the Lich King, in the throne room on floor 3 of [Covetous](/covetous):
+- Add the first demiboss, the [Lich King](/lich_king), in the throne room on floor 3 of [Covetous](/covetous):
     - Built for a group, but a strong player may be able to solo it
     - Casts necromancy spells that players can't use
+    - Heals himself now and then in combat, and steadily when no one is in sight
     - Drops a large haul of gold and magic items, `10` high-circle scrolls, a level `5` treasure map, and a guaranteed silver weapon, usually with magic properties
-- Add the [liche's ring](/covetous#liches-ring), which turns a weapon silver but kills its user:
+- Add the [liche's ring](/lich_king#liches-ring), which turns a weapon silver but kills its user:
     - Dropped by the Lich King `10%` of the time, and by any lich lord `0.1%` of the time
 - Refresh Covetous:
     - Fill floor 1's dead-end hallways with harpies, headless ones, and gazers
@@ -38,6 +39,7 @@ Changes to *Paradise*, newest first.
 - Change weapon effects:
     - Show messages over the player's head for effects they land, and over the target for effects on it
     - Remove their sounds
+    - Show critical strikes and shield blocks in the journal instead of over the player's head
 - Show damage numbers over the target when hit
 - Draw arrows and bolts from chest height instead of the ground
 

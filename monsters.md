@@ -30,7 +30,7 @@ Demibosses are powerful monsters unique to *Paradise*, built for groups of playe
 
 | Demiboss | Location |
 |:-|:-:|
-| [Lich King](/covetous#lich-king) | Covetous, floor 3 |
+| [Lich King](/lich_king) | Covetous, floor 3 |
 
 ## Dealing With Monsters
 - Monsters can be slain with weapons.
