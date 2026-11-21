@@ -2,14 +2,14 @@
 title: Armor
 description: 
 published: true
-date: 2026-11-20T16:42:50.307Z
+date: 2026-11-21T05:49:44.278Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T03:33:34.463Z
 ---
 
 # Armor
-Armor reduces incoming physical damage. Heavy armor lowers stamina and Dexterity, and most armor prevents the use of [Meditation](/meditation).
+Armor reduces incoming physical damage. Heavy armor lowers stamina and Dexterity, and most armor slows mana regeneration, even with [Meditation](/meditation). Leather armor doesn't slow it at all, studded armor slows it half as much, and shields count too.
 
 ## How Armor Works
 When hit by an attack, the following happens in order:
