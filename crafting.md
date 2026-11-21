@@ -2,7 +2,7 @@
 title: Crafting
 description: 
 published: true
-date: 2026-11-19T08:03:56.339Z
+date: 2026-11-21T06:22:58.400Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:59.693Z
@@ -37,9 +37,16 @@ Every item has a minimum and a maximum skill. Below the minimum it can't be made
 Every attempt, success or failure, has a chance to raise the crafting skill, as long as the crafter's skill is between the item's minimum and maximum. A failed attempt can use up some of the resources.
 
 ## Exceptional Items
-Weapons, armor, clothing, furniture, and other gear can come out exceptional. The chance depends on the success chance and the crafter's skill:
+Weapons, armor, clothing, furniture, and other gear can come out exceptional. Every other crafted item is regular quality. Magic weapons only come from loot and are always regular quality, so a weapon can't be both exceptional and magic. See [Magic Weapons](/weapon#magic-weapons).
 
-| Skill | Exceptional Chance at Full Success Chance (%) |
+An exceptional item gets these bonuses:
+- Weapons do `20%` more damage. See [Combat: Damage](/combat#damage).
+- Armor gets `8` more armor rating. See [Armor](/armor).
+- Weapons and armor last `20%` longer before breaking.
+
+The chance of a crafted item becoming exceptional depends on the success chance and the crafter's skill:
+
+| Skill | Exceptional Chance at<br>Full Success Chance (%) |
 |:-|:-:|
 | Up to 95 | 40 |
 | 97 | 46 |
@@ -48,9 +55,5 @@ Weapons, armor, clothing, furniture, and other gear can come out exceptional. Th
 
 Fletching works differently: half the success chance, minus `10%`, so at most `40%`.
 
-An exceptional item gets these bonuses:
-- Weapons do `20%` more damage. See [Combat: Damage](/combat#damage).
-- Armor gets `8` more armor rating. See [Armor](/armor).
-- Weapons and armor last `20%` longer before breaking.
-
-The crafter can also choose to mark exceptional items with their name.
+### Maker's Mark
+A crafter with `100` in the skill can mark exceptional items with their name, which shows as *crafted by* when the item is single-clicked. Blacksmithing, Carpentry, Fletching, Inscription, Tailoring, and Tinkering can mark items. The `Mark Item` button in the crafting menu chooses whether to always mark, never mark, or ask each time.
