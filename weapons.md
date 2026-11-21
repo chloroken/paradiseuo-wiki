@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2026-11-21T17:32:20.792Z
+date: 2026-11-21T17:32:48.483Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -17,7 +17,7 @@ Each type of weapon is trained with its own skill, and most types have an effect
 | Swords | [Swordsmanship](/swordsmanship) | Broadsword, cutlass, katana, longsword, scimitar, viking sword | [Critical strikes](#critical-strikes) |
 | Krysses | [Fencing](/fencing) | Kryss | [Poison](#poison) |
 | Axes (one-handed) | Swordsmanship | Pickaxe | None |
-| Axes (two-handed) | Swordsmanship | Axe, battle axe, double axe, executioner's axe, hatchet, large battle axe, two-handed axe | [Concussion Blow](#concussion-blow) |
+| Axes (two-handed) | Swordsmanship | Axe, battle axe, double axe, executioner's axe,<br>hatchet, large battle axe, two-handed axe | [Concussion Blow](#concussion-blow) |
 | War Axe | [Mace Fighting](/mace_fighting) | War axe | None |
 | Polearms | Swordsmanship | Bardiche, halberd | Concussion Blow |
 | Maces (one-handed) | Mace Fighting | Club, hammer pick, mace, maul, war mace | [Sapping vigor](#sapping-vigor) |
