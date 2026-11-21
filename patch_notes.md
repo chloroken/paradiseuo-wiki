@@ -2,7 +2,7 @@
 title: Patch Notes
 description: 
 published: true
-date: 2026-11-21T12:23:36.538Z
+date: 2026-11-21T15:54:19.607Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -42,6 +42,7 @@ Changes to *Paradise*, newest first.
     - Show critical strikes and shield blocks in the journal instead of over the player's head
 - Show damage numbers over the target when hit
 - Draw arrows and bolts from chest height instead of the ground
+- Remove newbie protection from starting items and blessing from starting spellbooks, so they drop on death once a character is no longer Young
 
 ## 2026.11.20
 - Rename Antimage to [Valor](/combat#valor), the warrior's virtue from Ultima lore
