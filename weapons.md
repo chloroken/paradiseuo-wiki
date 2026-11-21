@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2026-11-21T17:33:14.708Z
+date: 2026-11-21T17:34:22.482Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -16,18 +16,18 @@ Each type of weapon is trained with its own skill, and most types have an effect
 |:-|:-:|:-:|:-:|
 | Swords | [Swordsmanship](/swordsmanship) | Broadsword, cutlass, katana,<br>longsword, scimitar, viking sword | [Critical strikes](#critical-strikes) |
 | Krysses | [Fencing](/fencing) | Kryss | [Poison](#poison) |
-| Axes (one-handed) | Swordsmanship | Pickaxe | None |
-| Axes (two-handed) | Swordsmanship | Axe, battle axe, double axe, executioner's axe,<br>hatchet, large battle axe, two-handed axe | [Concussion Blow](#concussion-blow) |
+| Axes (1H) | Swordsmanship | Pickaxe | None |
+| Axes (2H) | Swordsmanship | Axe, battle axe, double axe, executioner's axe,<br>hatchet, large battle axe, two-handed axe | [Concussion Blow](#concussion-blow) |
 | War Axe | [Mace Fighting](/mace_fighting) | War axe | None |
 | Polearms | Swordsmanship | Bardiche, halberd | Concussion Blow |
-| Maces (one-handed) | Mace Fighting | Club, hammer pick, mace, maul, war mace | [Sapping vigor](#sapping-vigor) |
-| Maces (two-handed) | Mace Fighting | War hammer | [Crushing Blow](#crushing-blow) |
+| Maces (1H) | Mace Fighting | Club, hammer pick, mace, maul, war mace | [Sapping vigor](#sapping-vigor) |
+| Maces (2H) | Mace Fighting | War hammer | [Crushing Blow](#crushing-blow) |
 | Staves | Mace Fighting | Black staff, gnarled staff,<br>quarter staff, shepherd's crook | Crushing Blow |
 | Daggers | Fencing | Dagger | Poison |
-| Spears (one-handed) | Fencing | War fork | Poison |
-| Spears (two-handed) | Fencing | Pitchfork, short spear, spear | [Paralyzing Blow](#paralyzing-blow), poison |
+| Spears (1H) | Fencing | War fork | Poison |
+| Spears (2H) | Fencing | Pitchfork, short spear, spear | [Paralyzing Blow](#paralyzing-blow), poison |
 | Knives | Swordsmanship | Butcher knife, cleaver, skinning knife | Poison |
-| Bows | [Archery](/archery) | Bow, crossbow, heavy crossbow | Crossbow volley, poisoned ammunition |
+| Bows | [Archery](/archery) | Bow, crossbow, heavy crossbow | Volley (crossbow),<br>poisoned ammunition |
 | Fists | Wrestling | Bare hands | [Disarm and Stun](#wrestling-moves) |
 
 Crossbow volleys and poisoned ammunition are covered on the Archery page.
