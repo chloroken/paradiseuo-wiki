@@ -2,7 +2,7 @@
 title: Lich King
 description: 
 published: true
-date: 2026-11-21T18:11:53.082Z
+date: 2026-11-21T18:18:06.244Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T14:54:28.083Z
