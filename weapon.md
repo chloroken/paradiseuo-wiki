@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-21T07:47:14.362Z
+date: 2026-11-21T08:12:06.819Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -98,4 +98,4 @@ The bonus raises the weapon's skill while it's held, which improves both hit cha
 | Indestructible | 120 |
 
 ### Silver
-A silver weapon does double damage against the undead. Silver is the only slayer found on weapons, and any magic weapon has a `5%` chance to be silver, on top of its other properties. Silver weapons have a silvery color.
+A silver weapon does double damage against the undead. Silver is the only slayer found on weapons, and any magic weapon has a `1%` chance to be silver, on top of its other properties. Silver weapons have a silvery color.
