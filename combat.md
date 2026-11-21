@@ -9,9 +9,7 @@ dateCreated: 2026-11-19T00:05:40.279Z
 ---
 
 # Combat
-This page covers how [often attacks land](#hit-chance), how [fast they come](#swing-speed), how much [damage they do](#damage).
-
-It also explains [Valor](#valor), the warrior's virtue that strengthens characters who fight without [magic](/magic).
+This page covers how [often attacks land](#hit-chance), how [fast they come](#swing-speed), and how much [damage they do](#damage). It also explains [Valor](#valor), the warrior's virtue that strengthens characters who fight without [magic](/magic).
 
 ## Gear and Skills
 - [Weapon](/weapon): every weapon type, its skill, special attacks, and effects on hit.

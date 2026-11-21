@@ -45,7 +45,7 @@ Archers receive several enhancements that make ranged combat more effective.
 - [Fletching](/fletching#fletching-and-archery):
   - Increases range, reduces time to shoot, and saves more arrows.
 - [Crossbow Volley](/archery#crossbow-volley):
-  - Crossbows fire up to three bolts per shot.
+  - Crossbows fire up to `3` bolts per shot.
 - [Ambush](/archery#ambush):
 	- Shots do bonus damage if they break Hiding.
   - Breaking Stealth further enhances the shot.

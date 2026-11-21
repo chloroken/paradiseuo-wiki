@@ -26,7 +26,7 @@ Archery covers bows, crossbows, and heavy crossbows. Bows fire arrows, and cross
 The bow and crossbow do the most damage over time. The bow reaches furthest, and the crossbow hits most steadily and is best at spreading poison. The heavy crossbow hits hardest per shot, which suits an [ambush](/archery#ambush). Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Combat: Damage](/combat#damage).
 
 ### Crossbow Volley
-Each crossbow shot fires a volley of up to `3` bolts, as many as the archer carries. Each bolt uses its own bolt from the backpack, and rolls its own hit, damage, and poison. Skill gain, self-poisoning, weapon wear, and a magic crossbow's damage bonus only count once per volley.
+Each crossbow shot fires a volley of up to `3` bolts, as many as the archer carries. Each one uses a bolt from the backpack, and rolls its own hit, damage, and poison. Skill gain, self-poisoning, weapon wear, and a magic crossbow's damage bonus only count once per volley.
 
 ### Defense
 All three weapons take both hands, so an archer can't hold a shield. While holding a bow or crossbow, an archer defends with Archery. See [Hit Chance](/combat#hit-chance).

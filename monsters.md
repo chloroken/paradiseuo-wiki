@@ -26,7 +26,7 @@ Monsters on *Paradise* behave differently from later versions of Ultima Online:
 Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. Characters with Parrying and little Magery take less physical damage through [Valor](/combat#valor). See [Combat](/combat).
 
 ## Dealing With Monsters
-- Monsters can be slain with weapons. See [Combat](/combat).
+- Monsters can be slain with weapons.
 - Many animals and monsters can be tamed. See [Animal Taming](/animal_taming) and [Pet](/pet).
 - Bards can turn monsters against each other with [Provocation](/provocation), or calm them with [Peacemaking](/peacemaking).
 
