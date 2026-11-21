@@ -1,14 +1,14 @@
 ---
-title: Weapon
+title: Weapons
 description: 
 published: true
-date: 2026-11-21T08:20:38.442Z
+date: 2026-11-21T16:16:28.860Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
 ---
 
-# Weapon
+# Weapons
 Each type of weapon is trained with its own skill, and some types have special attacks or other effects on hit. Hit chance, swing speed, and damage work the same way for every weapon. See [Combat](/combat).
 
 ## Weapon Types
