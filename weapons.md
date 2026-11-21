@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2026-11-21T16:25:29.755Z
+date: 2026-11-21T16:30:04.106Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -16,21 +16,23 @@ Each type of weapon is trained with its own skill, and most types have an effect
 |:-|:-:|:-:|:-:|
 | Swords | [Swordsmanship](/swordsmanship) | Longsword, katana, scimitar | [Critical strikes](#critical-strikes) |
 | Krysses | [Fencing](/fencing) | Kryss | [Poison](#poison) |
-| Axes | Swordsmanship | Battle axe, double axe, executioner's axe | [Concussion Blow](#special-attacks) |
+| Axes | Swordsmanship | Battle axe, double axe, executioner's axe | [Concussion Blow](#concussion-blow) |
 | War Axe | [Mace Fighting](/mace_fighting) | War axe | None |
 | Polearms | Swordsmanship | Halberd, bardiche | Concussion Blow |
-| Maces | Mace Fighting | Mace, war hammer, maul | [Sapping vigor](#sapping-vigor) (one-handed),<br>Crushing Blow (two-handed) |
+| Maces | Mace Fighting | Mace, war hammer, maul | [Sapping vigor](#sapping-vigor) (one-handed),<br>[Crushing Blow](#crushing-blow) (two-handed) |
 | Staves | Mace Fighting | Quarter staff, gnarled staff, black staff | Crushing Blow |
 | Daggers | Fencing | Dagger | Poison |
-| Spears | Fencing | Spear, short spear | Paralyzing Blow (spear only), poison |
+| Spears | Fencing | Spear, short spear | [Paralyzing Blow](#paralyzing-blow) (spear only), poison |
 | Knives | Swordsmanship | Cleaver, butcher knife, skinning knife | Poison |
 | Bows | [Archery](/archery) | Bow, crossbow, heavy crossbow | Crossbow volley, poisoned ammunition |
-| Fists | Wrestling | Bare hands | Wrestling moves |
+| Fists | Wrestling | Bare hands | [Disarm and Stun](#wrestling-moves) |
 
-Fighting with bare hands has its own automatic moves and unarmed defense. See [Wrestling](/wrestling). Crossbow volleys and poisoned ammunition are covered on the Archery page.
+Crossbow volleys and poisoned ammunition are covered on the Archery page.
 
 ## Weapon Effects
 Most weapon types have an effect on hit. Only players can trigger most of them, and several only work against monsters.
+
+Two-handed axes, polearms, maces, and spears each have a special attack, and staves count as two-handed maces. Every hit has an `Anatomy / 400` chance to trigger it, which is `25%` at `100` [Anatomy](/anatomy).
 
 ### Critical Strikes
 Swords can land a critical strike, which doubles the hit's damage before armor. Each sword has its own chance, scaled by Swordsmanship, so `50` Swordsmanship gives half the chance shown below. Slower swords strike critically more often, so every sword does about the same damage over time, while the slowest hit in the biggest bursts.
@@ -46,23 +48,35 @@ Swords can land a critical strike, which doubles the hit's damage before armor. 
 
 Only players can land critical strikes, and only with swords, not axes, polearms, or knives. The attacker sees *You land a critical strike!* in their journal.
 
-### Special Attacks
-Two-handed axes, polearms, maces, and spears each have a special attack, and staves count as two-handed maces. Every hit has an `Anatomy / 400` chance to trigger it, which is `25%` at `100` [Anatomy](/anatomy).
-
-| Special | Weapons | Effect |
-|:-|:-:|:-:|
-| Concussion Blow | Two-handed axes and polearms | Halves the target's Intelligence for 30 seconds. Doesn't stack. |
-| Crushing Blow | Two-handed maces and staves | The target attacks at half speed for 10 seconds. |
-| Paralyzing Blow | Two-handed spears | Freezes the target in place for 2 seconds |
-
-Concussion Blow can only be delivered by players and human NPCs, and also lowers the target's maximum mana. Crushing Blow can only be delivered by players, and only against monsters.
-
-Everyone nearby sees a special label over the target: *looks concussed* for Concussion Blow, *looks dazed* for Crushing Blow, and *looks stuck* for Paralyzing Blow.
-
 ### Sapping Vigor
 One-handed maces sap a monster's vigor. Each hit saps vigor equal to the damage dealt, and the monster's melee attacks hit as if its Strength were that much lower, down to half its normal Strength. Its health isn't affected. The sap wears off `30` seconds after the last one-handed mace hit from anyone.
 
 The attacker sees *\*saps vigor\** over their head when a sap starts, and everyone nearby sees *\*looks drained of vigor\** when the monster is fully drained. Only players can sap vigor, and only from monsters. The war axe trains Mace Fighting, but has no effect on hit.
+
+### Concussion Blow
+Two-handed axes and polearms can land a Concussion Blow, which halves the target's Intelligence and lowers its maximum mana for `30` seconds. It doesn't stack.
+
+Only players and human NPCs can deliver a Concussion Blow. Everyone nearby sees *looks concussed* over the target.
+
+### Crushing Blow
+Two-handed maces and staves can land a Crushing Blow, which makes the target attack at half speed for `10` seconds. Another Crushing Blow restarts the time instead of stacking.
+
+Only players can deliver a Crushing Blow, and only against monsters. Everyone nearby sees *looks dazed* over the target.
+
+### Paralyzing Blow
+Two-handed spears can land a Paralyzing Blow, which freezes the target in place for `2` seconds.
+
+Everyone nearby sees *looks stuck* over the target.
+
+### Wrestling Moves
+Fighting with empty hands allows two moves, Disarm and Stun. Neither needs a button: when a punch hits and the moves are off cooldown, the right one is attempted automatically.
+
+- Disarm is used against armed players and human NPCs, and knocks the target's weapon into their backpack. It needs `80` Wrestling and `80` Arms Lore, and succeeds `(Wrestling + Arms Lore) / 400` of the time.
+- Stun is used against everything else, and freezes the target in place for `4` seconds. It needs `80` Wrestling and `80` Anatomy, and succeeds `(Wrestling + Anatomy) / 400` of the time.
+- Against an armed human, a wrestler without `80` Arms Lore stuns instead.
+- After any attempt, neither move can be used again for `10` seconds.
+
+See [Wrestling](/wrestling) for fist damage and unarmed defense.
 
 ### Poison
 Fencing weapons and knives can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).
