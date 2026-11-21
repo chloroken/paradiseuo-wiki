@@ -2,7 +2,7 @@
 title: Weapon
 description: 
 published: true
-date: 2026-11-20T16:51:22.381Z
+date: 2026-11-21T06:15:28.888Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -58,3 +58,40 @@ One-handed maces weaken monsters. Each hit lowers the monster's Strength by the 
 
 ### Poison
 Fencing weapons and knives can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).
+
+## Magic Weapons
+Weapons found as loot can be magic. A magic weapon can have a damage, accuracy, and durability property, each in five strengths, and some weapons are slayers instead.
+
+### Damage
+| Property | Base Damage Bonus |
+|:-|:-:|
+| Ruin | +1 |
+| Might | +3 |
+| Force | +5 |
+| Power | +7 |
+| Vanquishing | +9 |
+
+The bonus is added to the weapon's base damage before Tactics, Strength, and Anatomy, so a fighter with `100` in all three gets `2.25` times the bonus. Fast weapons gain the most, since they hit more often. A crossbow only adds the bonus to the first bolt of each volley.
+
+### Accuracy
+| Property | Weapon Skill Bonus |
+|:-|:-:|
+| Accurate | +5 |
+| Surpassingly accurate | +10 |
+| Eminently accurate | +15 |
+| Exceedingly accurate | +20 |
+| Supremely accurate | +25 |
+
+The bonus raises the weapon's skill while it's held, which improves both hit chance and defense. See [Hit Chance](/combat#hit-chance).
+
+### Durability
+| Property | Maximum Durability Bonus (%) |
+|:-|:-:|
+| Durable | 20 |
+| Substantial | 50 |
+| Massive | 70 |
+| Fortified | 100 |
+| Indestructible | 120 |
+
+### Silver
+A silver weapon does double damage against the undead. Silver is the only slayer found on weapons, and any magic weapon has a `5%` chance to be silver, on top of its other properties.
