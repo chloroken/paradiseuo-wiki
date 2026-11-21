@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2026-11-21T08:20:38.442Z
+date: 2026-11-21T16:19:48.285Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -19,7 +19,7 @@ Each type of weapon is trained with its own skill, and most types have an effect
 | Axes | Swordsmanship | Battle axe, double axe, executioner's axe | [Concussion Blow](#special-attacks) |
 | War Axe | [Mace Fighting](/mace_fighting) | War axe | None |
 | Polearms | Swordsmanship | Halberd, bardiche | Concussion Blow |
-| Maces | Mace Fighting | Mace, war hammer, maul | [Sapping vigor](#sapping-vigor) (one-handed), Crushing Blow (two-handed) |
+| Maces | Mace Fighting | Mace, war hammer, maul | [Sapping vigor](#sapping-vigor) (one-handed),<br>Crushing Blow (two-handed) |
 | Staves | Mace Fighting | Quarter staff, gnarled staff, black staff | Crushing Blow |
 | Daggers | Fencing | Dagger | Poison |
 | Spears | Fencing | Spear, short spear | Paralyzing Blow (spear only), poison |
