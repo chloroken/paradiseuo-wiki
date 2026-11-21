@@ -2,10 +2,10 @@
 title: Lich King
 description: 
 published: true
-date: 2026-11-21T14:50:00.000Z
+date: 2026-11-21T15:02:03.267Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-21T14:50:00.000Z
+dateCreated: 2026-11-21T14:54:28.083Z
 ---
 
 # Lich King
@@ -14,7 +14,7 @@ The Lich King is the first demiboss on *Paradise*, ruling from the throne room o
 ![boss_lich.png](/boss_lich.png)
 
 ## Throne Room
-The throne room is populated by an army of skeletons, adding additional challenge to the fight. Further complicating things, a slain skeleton is replaced in the throne room within `30` seconds.
+The throne room is populated by the Lich King's personal army of skeletons. These skeletons respawn within `30` seconds, adding additional challenge to the fight.
 
 ## Fighting the Lich King
 - He has `5,000` to `6,000` hit points.
@@ -34,7 +34,7 @@ The Lich King fights mostly with spells, mixing Necromancy, which players can't 
 - Blood Oath: binds a fighter, so their blows against him hurt them too for a while.
 - Animate Dead: raises slain skeletons nearby to fight again.
 - Magery: he also poisons, paralyzes, and drains mana from his foes.
-- Healing: he heals himself now and then during the fight, and steadily whenever no one is in sight, so pulling him out of view gives him time to recover.
+- Healing: he heals himself during the fight and whenever no one is in sight.
 
 ## Loot
 | Drop | Amount | Chance (%) |
