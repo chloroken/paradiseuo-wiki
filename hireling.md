@@ -2,14 +2,31 @@
 title: Hireling
 description: Hiring, paying, and commanding hirelings
 published: true
-date: 2026-11-22T14:24:45.792Z
+date: 2026-11-22T15:04:54.744Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T14:24:45.792Z
 ---
 
 # Hireling
-Hirelings are townsfolk who fight for whoever pays them. They're found in inns, and once hired they follow their employer and take commands like a [pet](/pet). They're cheap enough for any character, which makes them useful company for players who adventure alone.
+Hirelings are townsfolk who fight for whoever pays them. They're found in taverns, and once hired they follow their employer and take commands like a [pet](/pet). They're cheap enough for any character, which makes them useful company for players who adventure alone.
+
+## Where to Find Them
+Each tavern has `2` hirelings, and the fighting pit in Jhelom has `10`. A hireling left unhired for about an hour leaves and is replaced by a random new one, so the hirelings on offer change over time. They only leave while no players are nearby.
+
+Taverns with hirelings:
+- Britain (four taverns)
+- Buccaneer's Den
+- Jhelom
+- Magincia
+- Minoc
+- Nujel'm (two taverns)
+- Ocllo
+- Serpent's Hold (two taverns)
+- Trinsic
+- Vesper
+
+In Serpent's Hold and Buccaneer's Den, hirelings refuse characters who don't meet the town's Karma requirement. See [Reputation: Karma Towns](/reputation#karma-towns).
 
 ## Hiring
 Saying `hire` near a hireling, or choosing `Hire` from its menu, makes it state its daily wage. Dropping at least one day's wage in gold on it hires it, and it says how many days the gold covers. Paying too little gets the price repeated, and the gold stays with the player.
@@ -17,8 +34,6 @@ Saying `hire` near a hireling, or choosing `Hire` from its menu, makes it state 
 Each day of work lasts `30` minutes of real time, and the hireling takes its wage from the gold it was paid at the start of each one. When the gold can't cover another day, it says *I quit.* and leaves, keeping its gear. Gold can't be added to a hireling that's already hired, so a longer contract means paying more up front.
 
 Each hireling takes `2` follower slots, so a character can have at most two at once.
-
-In Serpent's Hold and Buccaneer's Den, hirelings refuse characters who don't meet the town's Karma requirement. See [Reputation: Karma Towns](/reputation#karma-towns).
 
 ## Hirelings
 
@@ -33,7 +48,6 @@ In Serpent's Hold and Buccaneer's Den, hirelings refuse characters who don't mee
 | Sailor | Cutlass | 8 – 11 |
 | Mage | Spells | 12 – 15 |
 | Cleric | Healing spells | 4 – 5 |
-| Beggar | Bare hands | 1 |
 
 Each hireling's wage comes from its combat skills, so stronger hirelings cost more.
 
