@@ -2,7 +2,7 @@
 title: Features
 description: The major ways Paradise differs from T2A
 published: true
-date: 2026-11-22T12:08:08.151Z
+date: 2026-11-22T14:31:46.179Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -86,3 +86,5 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 - Demibosses are powerful monsters with their own loot. The first is the Lich King. See [Lich King](/lich_king).
 - Pets take double damage from demibosses. See [Pet: Pets in Combat](/pet#pets-in-combat).
 - Starting items aren't protected, so they drop on death once a character is no longer Young. See [Young Player](/young_player#losing-young-status).
+- Hirelings, when commanded to follow, ride horses.
+- Added Cleric hireling that heals its employer.
