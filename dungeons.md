@@ -2,7 +2,7 @@
 title: Dungeons
 description: Every dungeon in Britannia and the Lost Lands, and their demibosses
 published: true
-date: 2026-11-22T07:08:58.584Z
+date: 2026-11-22T07:17:14.614Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-14T20:25:42.451Z
@@ -23,15 +23,15 @@ Dungeons are found across Britannia and the Lost Lands. Monsters in dungeons att
 | [Wind](/wind) | 1 | North of Britain | A hidden mage city sealed within the mountains | |
 | [Wrong](/wrong) | 2 | Northwest of Minoc | Britannia's old prison, overrun by its inmates | |
 
-## Connectors
-The passages and other routes between Britannia and the Lost Lands are listed on [Connectors](/connectors).
-
 ## T2A Dungeons
 These dungeons in the Lost Lands have their own monsters, loot, and stories. Some of them also connect to Britannia.
 
 - [Fire](/fire_dungeon)
 - [Ice](/ice_dungeon)
 - [Terathan Keep](/terathan_keep)
+
+## Connectors
+The passages and other routes between Britannia and the Lost Lands are listed on [Connectors](/connectors).
 
 ## Points of Interest
 Pseudodungeons, graveyards, ruins, and camps are listed on [Points of Interest](/points_of_interest).
