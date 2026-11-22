@@ -2,7 +2,7 @@
 title: Features
 description: The major ways Paradise differs from T2A
 published: true
-date: 2026-11-22T11:25:57.799Z
+date: 2026-11-22T11:26:33.584Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -82,7 +82,7 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 - Boats sink `24` hours after they were last refreshed, to stop players blocking objectives and islands with boats. See [Boat](/boat).
 - Ore can be smelted straight from a pack animal's backpack. See [Crafting](/crafting).
 - Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. See [Monsters](/monsters#fighting-monsters).
-- Pets take double from demibosses. See [Pet: Pets in Combat](/pet#pets-in-combat).
 - Damage shows as numbers over the target. See [Combat: Damage](/combat#damage).
 - Demibosses are powerful monsters with their own loot. The first is the Lich King. See [Lich King](/lich_king).
+- Pets take double damage from demibosses. See [Pet: Pets in Combat](/pet#pets-in-combat).
 - Starting items aren't protected, so they drop on death once a character is no longer Young. See [Young Player](/young_player#losing-young-status).
