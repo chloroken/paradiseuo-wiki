@@ -2,10 +2,10 @@
 title: Points of Interest
 description: Pseudodungeons, graveyards, ruins, camps, and other notable places across the world
 published: true
-date: 2026-11-22T07:20:00.000Z
+date: 2026-11-22T07:21:52.511Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-22T07:20:00.000Z
+dateCreated: 2026-11-22T07:14:41.076Z
 ---
 
 # Points of Interest
@@ -20,10 +20,12 @@ Smaller places across Britannia and the Lost Lands also hold monsters and loot, 
 | Cyclops Valley | Lost Lands | Reached from Marble Island, south of Britain, or by teleporters from the south |
 | Fire Temple | Britannia | Fire Island |
 | Hedge Maze | Britannia | Southwest of Britain |
+| Hoppers Bog | Lost Lands | Southeast of Papua |
 | The Oasis | Lost Lands | In the desert |
 | Orc Cave | Britannia | Southeast of Yew, at the end of Rat Valley |
 | Terra Sanctum | Lost Lands | In the north, reachable only by boat |
 | Wyvern Islands | Lost Lands | Wyvern Isle and Wyvern Point, at sea |
+| Y'nah Teb | Lost Lands | North of Papua |
 | Yew Crypts | Britannia | East of Yew, west of the Shrine of Justice |
 
 ## Graveyards and Ruins
