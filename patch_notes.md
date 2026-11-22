@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-21T15:55:43.105Z
+date: 2026-11-22T07:46:19.426Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -10,6 +10,11 @@ dateCreated: 2026-11-04T19:38:55.944Z
 
 # Patch Notes
 Changes to *Paradise*, newest first.
+
+## 2026.11.22
+- Moved server to new VPS
+- Adjusted Cyclops Valley spawners to be more accurate to T2A
+- Added Titans, Cyclops, and Wyverns to the Lost Land's desert
 
 ## 2026.11.21
 - Add the first demiboss, the [Lich King](/lich_king), in the throne room on floor 3 of [Covetous](/covetous):
