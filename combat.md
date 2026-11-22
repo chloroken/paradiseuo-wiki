@@ -70,7 +70,9 @@ A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` t
 
 A worn-out weapon does less damage, down to half when it's about to break.
 
-Damage between players is halved. Every other hit does full damage, so monsters hit players twice as hard as on most ServUO shards.
+Damage between players is halved, and so is damage from a player's pet to another player. Every other hit between players and monsters does full damage, so monsters hit players twice as hard as on most ServUO shards.
+
+Pets' melee hits do `25%` less damage to monsters, and monsters' melee hits do `25%` more damage to pets. A [demiboss](/monsters#demibosses) does double damage to pets instead. Spells, breath, and poison aren't affected. See [Pet: Pets in Combat](/pet#pets-in-combat).
 
 The damage of each hit shows as a number over the target. The attacker and the target see it, as do the owners of any pets involved.
 

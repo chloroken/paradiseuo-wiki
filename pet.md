@@ -21,6 +21,15 @@ Pets train their skills by using them, just like players, but twice as quickly. 
 ## Healing Pets
 Pets are healed with bandages using [Veterinary](/veterinary). The range at which a pet can be bandaged grows with Veterinary skill. See [Veterinary: Range](/veterinary#range).
 
+## Pets in Combat
+Pets fight at a disadvantage against monsters:
+- A pet's melee hits do `25%` less damage to monsters.
+- Monsters' melee hits do `25%` more damage to pets.
+- A [demiboss](/monsters#demibosses) does double damage to pets instead.
+- A pet's melee hits on another player are halved, the same as a player's.
+
+Only melee hits change. Spells, breath, and poison do their normal damage. See [Combat: Damage](/combat#damage).
+
 ## Controlling Pets
 Animal tamers command pets with phrases like `all follow me` and `dragon kill`. Tamers can control powerful monsters, which makes hunting for loot much easier, provided their pets stay alive and obedient.
 

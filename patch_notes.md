@@ -12,9 +12,14 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 
 ## 2026.11.22
-- Moved server to new VPS
-- Adjusted Cyclops Valley spawners to be more accurate to T2A
-- Added Titans, Cyclops, and Wyverns to the Lost Land's desert
+- Move the server to a new VPS
+- Adjust Cyclops Valley spawners to be more accurate to T2A
+- Add titans, cyclopes, and wyverns to the Lost Lands desert
+- Rebalance [pet](/pet#pets-in-combat) combat:
+    - Pets' melee hits do `25%` less damage to monsters
+    - Monsters' melee hits do `25%` more damage to pets
+    - Demibosses' melee hits do double damage to pets
+    - A pet's melee hits on another player are halved, the same as a player's
 
 ## 2026.11.21
 - Add the first demiboss, the [Lich King](/lich_king), in the throne room on floor 3 of [Covetous](/covetous):

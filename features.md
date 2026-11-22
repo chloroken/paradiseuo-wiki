@@ -72,6 +72,7 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 - Boats sink `24` hours after they were last refreshed, to stop players blocking objectives and islands with boats. See [Boat](/boat).
 - Ore can be smelted straight from a pack animal's backpack. See [Crafting](/crafting).
 - Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. See [Monsters](/monsters#fighting-monsters).
+- Pets do `25%` less melee damage to monsters and take `25%` more, or double from a demiboss. See [Pet: Pets in Combat](/pet#pets-in-combat).
 - Damage shows as numbers over the target. See [Combat: Damage](/combat#damage).
 - Demibosses are powerful monsters with their own loot. The first is the Lich King. See [Lich King](/lich_king).
 - Starting items aren't protected, so they drop on death once a character is no longer Young. See [Young Player](/young_player#losing-young-status).
