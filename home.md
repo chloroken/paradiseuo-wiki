@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to Paradise, a T2A Ultima Online shard for solo players and small groups
 published: true
-date: 2026-11-22T07:42:31.691Z
+date: 2026-11-22T07:43:11.383Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:50:31.643Z
@@ -23,7 +23,6 @@ See [Features](/features) for the major ways *Paradise* differs from T2A. See [P
 ![a robed adventurer sits atop a nightmare outside the Papua bank](/home_papua.png)
 
 ## The Basics
-- This shard is designed for single players or cooperative groups.
 - Players can't attack each other. Duel arenas and guild wars are the only PvP.
 - Macroing is allowed, but macros that collect items or profit must be attended.
 - New players are protected by the [Young player](/young_player) system.
