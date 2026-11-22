@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-22T12:48:54.082Z
+date: 2026-11-22T13:09:25.792Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -83,6 +83,7 @@ These skills already had adventure potential:
 
 ## Fixes
 - "Disarm" as a mechanic is bad
+- Hirelings have glitches (paying before talking is cheap, wages reset on restart, some hirelings drain gold fast, gold can be eaten if thought as a gift, mage uses mageai which is different)
 
 ## Projects
 - Karma Town Trinkets to complete reputation rework
