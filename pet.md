@@ -23,15 +23,17 @@ Pets are healed with bandages using [Veterinary](/veterinary). The range at whic
 
 ## Pets in Combat
 Pets fight at a disadvantage against monsters:
-- A pet's melee hits do `25%` less damage to monsters.
-- Monsters' melee hits do `25%` more damage to pets.
+- A pet's melee hits and spells do `25%` less damage to monsters.
+- Monsters' melee hits and spells do `25%` more damage to pets.
 - A [demiboss](/monsters#demibosses) does double damage to pets instead.
 - A pet's melee hits on another player are halved, the same as a player's.
 
-Only melee hits change. Spells, breath, and poison do their normal damage. See [Combat: Damage](/combat#damage).
+A player's summoned creatures, such as blade spirits and energy vortexes, count as pets. Breath, poison, and Fire Field do their normal damage. See [Combat: Damage](/combat#damage).
 
 ## Controlling Pets
 Animal tamers command pets with phrases like `all follow me` and `dragon kill`. Tamers can control powerful monsters, which makes hunting for loot much easier, provided their pets stay alive and obedient.
+
+A pet told to follow runs to catch up when it's more than `5` tiles behind, and paths around obstacles to reach its owner, unlike wild monsters.
 
 Pets can follow their owner into houses. Untamed creatures can't enter houses.
 

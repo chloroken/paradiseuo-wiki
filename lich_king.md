@@ -17,11 +17,12 @@ The Lich King is a demiboss, ruling from the throne room on floor 3 of [Covetous
 The throne room is populated by the Lich King's personal army of skeletons. These skeletons respawn within `30` seconds, adding additional challenge to the fight.
 
 ## Fighting the Lich King
-- He has `5,000` to `6,000` hit points.
+- He has `9,000` to `11,000` hit points.
+- Unlike other monsters, he walks around obstacles to reach his target, so pillars and corners won't hold him off.
 - His [Resisting Spells](/resisting_spells) is `150` to `200`, so he resists spells far more often than other monsters.
 - Poison has no effect on him.
 - He is undead, so [silver](/weapons#silver) weapons do double damage to him.
-- As a demiboss, his melee hits do 100% extra damage to [pets](/pet#pets-in-combat) instead of 25%.
+- As a demiboss, his melee hits and most of his spells do `100%` extra damage to [pets](/pet#pets-in-combat), instead of the usual `25%`. Pain Spike and Strangle do normal damage.
 
 **The Lich King takes items from corpses near him, including fallen players.** He takes one item at a time from a corpse within `2` tiles, showing *\*rummages through a corpse and takes an item\**. Taken items drop with his own loot when he dies.
 
@@ -36,6 +37,7 @@ The Lich King fights mostly with spells, mixing Necromancy, which players can't 
 - Animate Dead: raises slain skeletons nearby to fight again.
 - Magery: he also poisons, paralyzes, and drains mana from his foes.
 - Healing: he heals himself during the fight and whenever no one is in sight.
+- Blink: every `5` to `10` seconds in combat, he vanishes and reappears up to `6` tiles away. If he has strayed more than `12` tiles from his throne, he blinks straight back to it instead.
 
 ## Loot
 | Drop | Amount | Chance (%) |

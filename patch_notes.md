@@ -16,10 +16,15 @@ Changes to *Paradise*, newest first.
 - Adjust Cyclops Valley spawners to be more accurate to T2A
 - Add titans, cyclopes, and wyverns to the Lost Lands desert
 - Rebalance [pet](/pet#pets-in-combat) combat:
-    - Pets' melee hits do `25%` less damage to monsters
-    - Monsters' melee hits do `25%` more damage to pets
-    - Demibosses' melee hits do double damage to pets
+    - Pets' melee hits and spells do `25%` less damage to monsters
+    - Monsters' melee hits and spells do `25%` more damage to pets
+    - Demibosses' melee hits and spells do double damage to pets
     - A pet's melee hits on another player are halved, the same as a player's
+    - A player's summoned creatures count as pets
+- Strengthen the [Lich King](/lich_king):
+    - Raise his hit points to `9,000` to `11,000`
+    - Make him blink to a nearby spot every `5` to `10` seconds in combat, or back to his throne if he strays more than `12` tiles
+- Let demibosses path around obstacles
 
 ## 2026.11.21
 - Add the first demiboss, the [Lich King](/lich_king), in the throne room on floor 3 of [Covetous](/covetous):

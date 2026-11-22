@@ -17,16 +17,16 @@ Only monsters from T2A and earlier roam the world, with two exceptions: the silv
 ## Behavior
 Monsters behave differently from later versions of Ultima Online:
 - They notice players from a shorter distance.
-- They don't path around obstacles, so a wall or a tree can block their approach.
+- They don't path around obstacles, so a wall or a tree can block their approach. [Demibosses](#demibosses) are the exception.
 - Monsters that flee walk away instead of running.
 - Monsters with Magery cast more often the higher their Magery, and less often the lower it is.
 - Monsters only cast Teleport when they're stuck, and never cast Invisibility.
 
 ## Fighting Monsters
-Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. Their melee hits do `25%` more damage to [pets](/pet), and pets do `25%` less damage to them. Characters with Parrying and little Magery take less physical damage through [Valor](/combat#valor). See [Combat](/combat).
+Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. Their melee hits and spells do `25%` more damage to [pets](/pet), and pets do `25%` less damage to them. Characters with Parrying and little Magery take less physical damage through [Valor](/combat#valor). See [Combat](/combat).
 
 ## Demibosses
-Demibosses are powerful monsters unique to *Paradise*, built for groups of players. Each one has its own lair, returns hours after it dies, and drops far more loot than an ordinary monster. A demiboss's melee hits do double damage to pets.
+Demibosses are powerful monsters unique to *Paradise*, built for groups of players. Each one has its own lair, returns hours after it dies, and drops far more loot than an ordinary monster. A demiboss's melee hits and spells do double damage to pets.
 
 | Demiboss | Location |
 |:-|:-:|
