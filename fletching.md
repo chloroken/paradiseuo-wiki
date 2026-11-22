@@ -2,14 +2,14 @@
 title: Fletching
 description: Crafting bows, crossbows, arrows, and bolts, and how Fletching helps archers
 published: true
-date: 2026-11-21T17:43:56.106Z
+date: 2026-11-22T06:51:57.953Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T08:06:03.003Z
 ---
 
 # Fletching
-Fletching is the skill of crafting bows, crossbows, arrows, and bolts from boards and feathers. It also helps archers in the field: higher Fletching lets them fire sooner after moving and recover more of their missed ammunition.
+Fletching is the skill of crafting bows, crossbows, arrows, and bolts from boards and feathers. It also helps archers in the field: higher Fletching lets them shoot farther, fire sooner after moving, and recover more of their missed ammunition.
 
 ## Tools and Materials
 Fletching uses fletcher's tools, which open the crafting menu. Boards come from [Lumberjacking](/lumberjacking), and feathers come from creatures that drop them.
@@ -40,7 +40,16 @@ Fletching has its own exceptional chance: half the success chance, minus `10%`, 
 The crafter can also mark exceptional items with their name. See [Crafting: Maker's Mark](/crafting#makers-mark).
 
 ## Fletching and Archery
-Higher Fletching helps archers recover from moving and recover their ammunition.
+Higher Fletching gives archers more range, a shorter delay after moving, and more recovered ammunition.
+
+### Range
+Bows and crossbows gain `1` tile of range for every `50` points of Fletching, on top of the weapon's own range. See [Archery: Weapons](/archery#weapons).
+
+| Fletching | Bonus Range (tiles) |
+|:-|:-:|
+| Below 50 | 0 |
+| 50 – 99.9 | 1 |
+| 100+ | 2 |
 
 ### Movement Recovery
 Archers normally have to stand still for `1` second after moving before they can fire. The delay shrinks evenly with Fletching, to half at `100`. It doesn't change the weapon's swing speed.
