@@ -2,14 +2,21 @@
 title: Spirit Speak
 description: How Spirit Speak strengthens a player's Magery summons
 published: true
-date: 2026-11-22T11:15:00.000Z
+date: 2026-11-22T11:16:09.529Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-22T11:15:00.000Z
+dateCreated: 2026-11-22T11:13:38.338Z
 ---
 
 # Spirit Speak
-Spirit Speak is the skill of reaching into the spirit world. It heals nothing under T2A rules, but it binds the spirits a mage summons: summons last longer, resist being dispelled, and summoned elementals hit harder.
+Spirit Speak is the skill of reaching into the spirit world. Using it lets a character understand ghosts, and it binds the spirits a mage summons: summons last longer, resist being dispelled, and summoned elementals hit harder. It heals nothing under T2A rules.
+
+## Hearing Ghosts
+Ghosts' speech normally comes through as moaning. Using the skill succeeds with a chance equal to the character's Spirit Speak, shows *You contact the neitherworld.*, and lets them understand ghosts for `Spirit Speak / 50 * 90` seconds, at least `15`: `90` seconds at `50` Spirit Speak and `3` minutes at `100`. When it ends, they see *You feel your contact with the neitherworld fading.*
+
+- A failed attempt shows *You fail to contact the neitherworld.* and ends any contact already active.
+- Using the skill reveals a hidden character.
+- The skill can be used again after `1` second.
 
 ## Summons
 Every bonus scales evenly with Spirit Speak and stops growing at `100`. Only summons cast by players benefit, not those of monsters.
