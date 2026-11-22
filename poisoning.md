@@ -2,7 +2,7 @@
 title: Poisoning
 description: Coating weapons and ammunition with poison, poison chance, and self-poisoning
 published: true
-date: 2026-11-20T04:15:24.691Z
+date: 2026-11-22T06:52:29.612Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T00:56:57.736Z
@@ -34,7 +34,7 @@ Swords, axes, and other weapons can't be poisoned.
 The chance to succeed rises evenly from the minimum skill, and never fails from the maximum. A potion gives `18 - 2 * Poison Level` doses. A weapon uses one dose per hit. On a stack of arrows or bolts, up to that many are coated, and the rest stay clean.
 
 ## Poisoned Weapons
-A poisoned weapon uses a dose on every swing or shot.
+A poisoned weapon uses a dose on every hit. Poisoned arrows and bolts are used up one per shot, hit or miss.
 
 Single-clicking a poisoned weapon, arrow, or bolt only shows that it's poisoned. A character whose Poisoning is high enough to apply that poison also sees its strength.
 
