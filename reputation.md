@@ -2,7 +2,7 @@
 title: Reputation
 description: Fame and Karma, their bonuses, the Karma towns, and character titles
 published: true
-date: 2026-11-20T02:52:27.522Z
+date: 2026-11-22T14:29:29.991Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-14T06:31:40.281Z
@@ -52,7 +52,7 @@ The people of these two towns only deal with characters of the right Karma.
 | Serpent's Hold | 5,000+ | Guard outpost north of Trinsic |
 | Buccaneer's Den | -5,000 or below | Crossroads west of Vesper |
 
-- Vendors, bankers, animal trainers, healers, trainers, and hirelings in these towns refuse to deal with characters who don't meet the requirement.
+- Vendors, bankers, animal trainers, healers, trainers, and [hirelings](/hireling) in these towns refuse to deal with characters who don't meet the requirement.
 - Neither town has a moongate. They're reached by boat, by magic, or by teleporter.
 
 ### Templars and Thugs
