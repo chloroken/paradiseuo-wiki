@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-22T12:45:24.532Z
+date: 2026-11-22T12:48:54.082Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -88,7 +88,6 @@ These skills already had adventure potential:
 - Karma Town Trinkets to complete reputation rework
 - Crafting expanded, allow for solo economy with NPCs (npcs in towns sometimes offer jobs to crafters. weighted based on town, e.g., yew more likely to offer fletchers a job.)
 - Give gems some type of meaningful purpose outside of economy, maybe as a secondary currency?
-- Maybe allow crafters to create magical items using gems, to replace the imbuing system of later eras?
 - More quests from npcs in towns, including hauling quests, boating quests, etc.
 - Fork TazUO and customize defaults for new players, strip egregious branding
 - Tinker with UO client and add lines to Cliloc.ENU to enable "profession" selection in client
