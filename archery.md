@@ -2,7 +2,7 @@
 title: Archery
 description: 
 published: true
-date: 2026-11-21T17:43:45.755Z
+date: 2026-11-22T06:32:32.859Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:21:12.302Z
@@ -63,11 +63,11 @@ Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
 | Stealthed Steps | Damage | Missing Hit Chance Closed (%) | Hit Chance from 50% (%) |
 |:-|:-:|:-:|:-:|
 | 0 | 1.5× | 0 | 50 |
-| 2 | 1.6× | 20 | 60 |
-| 4 | 1.7× | 40 | 70 |
-| 6 | 1.8× | 60 | 80 |
-| 8 | 1.9× | 80 | 90 |
-| 10 | 2.0× | 100 | 100 |
+| 2 | 1.7× | 20 | 60 |
+| 4 | 1.9× | 40 | 70 |
+| 6 | 2.1× | 60 | 80 |
+| 8 | 2.3× | 80 | 90 |
+| 10 | 2.5× | 100 | 100 |
 
 ### Restrictions
 - Only the Hiding skill counts. Hiding with the [Invisibility](/invisibility) spell or an [invisibility potion](/invisibility_potion) won't trigger an ambush.
