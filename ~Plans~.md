@@ -1,8 +1,8 @@
 ---
 title: Plans
-description: 
+description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-22T12:00:49.987Z
+date: 2026-11-22T12:07:56.757Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
