@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-22T14:28:44.935Z
+date: 2026-11-22T15:05:19.788Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -14,7 +14,7 @@ Changes to *Paradise*, newest first.
 ## 2026.11.22
 - Rework [hirelings](/hireling):
     - Add the cleric, a cheap hireling who heals its employer, their pets and hirelings, and itself, limited to one per character
-    - Move hirelings from Jhelom to inns across Britannia
+    - Place `2` hirelings in each tavern and `10` in the Jhelom fighting pit, with unhired hirelings replaced every hour
     - Make hirelings deal and take full damage against monsters, including demibosses
     - Make hirelings quit when their pay runs out, instead of vanishing with their gear
     - Give hirelings a horse while they follow their employer
