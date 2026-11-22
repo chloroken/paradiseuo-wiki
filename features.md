@@ -2,7 +2,7 @@
 title: Features
 description: The major ways Paradise differs from T2A
 published: true
-date: 2026-11-22T06:19:38.356Z
+date: 2026-11-22T11:21:32.977Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -52,9 +52,11 @@ Archers receive several enhancements that make ranged combat more effective.
 - [Tracking](/tracking#archery-accuracy):
   - Increases accuracy with ranged weapons.
   - At `100` Tracking, shots against fleeing targets never miss.
+## Pet Enhancements
+Controlling summons is a popular fantasy, so it's been enhanced in two major ways.
 
-## Taming Enhancements
-Animal tamers get several changes that make training, healing, and keeping pets easier:
+### Tamers
+Animal tamers get several changes that make training, healing, and keeping pets easier.
 
 - During alpha, Animal Taming gains skill twice as fast as normal.
 - Players can attack their own pets without becoming criminals, and their own pets appear green to them. See [Training on Pets](/pet#training-on-pets).
@@ -62,6 +64,14 @@ Animal tamers get several changes that make training, healing, and keeping pets 
 - Pets keep pace with their owner, even when the owner is mounted.
 - Saying `claim` to an animal trainer opens a list of stabled pets to choose from. See [Stable](/stable).
 - Silver steeds and nightmares have a small chance to spawn Shiny, with a rare hue. See [Mount](/mount).
+
+### Summoners
+Mages who train [Spirit Speak](/spirit_speak) bind their summons more tightly. Every bonus scales with the skill, up to `100`.
+
+- Magery summons last up to twice as long.
+- Dispel and Mass Dispel are up to `75%` less likely to remove them, unless cast by the summoner.
+- Summoned air, earth, fire, and water elementals do up to `50%` more damage, more than making up for the pet penalty.
+- At `100` Spirit Speak, the four elemental summon spells never fail.
 
 ## Reputation
 Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower, and locked Karma is unlocked with shrine mantras. See [Reputation](/reputation).
