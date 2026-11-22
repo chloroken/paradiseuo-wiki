@@ -18,7 +18,7 @@ The Druid is a tamer who combines animal companions with offensive and defensive
 - 100 Magery
 - 100 Evaluating Intelligence
 - 100 Meditation
-- 100 Resisting Spells / Wrestling
+- 100 Resisting Spells or Wrestling
 
 ## Stats
 | Stat | Amount |

@@ -18,17 +18,14 @@ With Inscription:
 - 80+ Magery
 - 100 Inscription
 - 100 Meditation
-- 4 crafting skills
-- 100 Intelligence
+- 4 other crafting skills
 
 Without Inscription:
 - 50+ Magery
 - 6 crafting skills
-- 50+ Intelligence, rest Dexterity
 
 Without Magery:
 - 7 crafting skills
-- 100 Dexterity
 
 ## Crafting Skills
 - 100 Alchemy
@@ -41,12 +38,19 @@ Without Magery:
 - 100 Tinkering
 
 ## Stats
-With Magery:
+With Inscription:
 | Stat | Amount |
 |:-|:-:|
 | Strength | 100 |
 | Dexterity | 25 |
 | Intelligence | 100 |
+
+Without Inscription:
+| Stat | Amount |
+|:-|:-:|
+| Strength | 100 |
+| Dexterity | 75 |
+| Intelligence | 50 |
 
 Without Magery:
 | Stat | Amount |

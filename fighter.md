@@ -1,5 +1,5 @@
 ---
-title: fighter
+title: Fighter
 description: 
 published: true
 date: 2026-11-20T10:02:05.840Z
@@ -13,7 +13,7 @@ The Fighter is a traditional warrior who relies on physical combat and defensive
 
 ## Skills
 - 100 Swordsmanship, Mace Fighting, or Fencing
-- 100 Archery, or a second weapon skill
+- 100 Archery or a second weapon skill
 - 100 Tactics
 - 100 Anatomy
 - 100 Parrying

@@ -47,6 +47,6 @@ Shields are made with [Blacksmithing](/blacksmithing), except the wooden shield,
 Parrying also gives Valor's toughness bonus, which reduces the physical damage a character takes from weapons and monsters' melee attacks. It needs no shield and applies before armor. The bonus grows with Parrying and shrinks as Magery rises. See [Valor](/combat#valor).
 
 ## Manual Training
-Use a shield to block hits. Maybe a swarm of rats would do the trick..?
+Use a shield to block hits. Maybe a swarm of rats would do the trick?
 
 ## Macro Training

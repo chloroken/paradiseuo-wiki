@@ -9,7 +9,7 @@ dateCreated: 2026-11-19T04:21:12.302Z
 ---
 
 # Archery
-Archery is the skill of fighting with bows and crossbows. Archers attack from a distance, and on *Paradise*, archers who hide and stealth before shooting can ambush their targets for heavy damage. 
+Archery is the skill of fighting with bows and crossbows. Archers attack from a distance, and those who hide and stealth before shooting can ambush their targets for heavy damage.
 
 ## Valor
 Archers with little or no Magery get the same [Valor](/combat#valor) bonuses as any other fighter. Few archers have room for Parrying, so most go without the toughness bonus. Valor and ambushes both apply to the same shot.
@@ -23,7 +23,7 @@ Archery covers bows, crossbows, and heavy crossbows. Bows fire arrows, and cross
 | Crossbow | 30 | 5 – 14 per bolt | 18 | 4.17 | 8 |
 | Heavy crossbow | 40 | 11 – 56 | 10 | 7.5 | 8 |
 
-The bow and crossbow do the most damage over time. The bow reaches furthest, and the crossbow hits most steadily and is best at spreading poison. The heavy crossbow hits hardest per shot, which suits an [ambush](/archery#ambush). Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Combat: Damage](/combat#damage).
+The bow and crossbow do the most damage over time. The bow reaches farthest, and the crossbow hits most steadily and is best at spreading poison. The heavy crossbow hits hardest per shot, which suits an [ambush](/archery#ambush). Tactics, Strength, Anatomy, and weapon quality raise damage the same way as for any other weapon. See [Combat: Damage](/combat#damage).
 
 ### Crossbow Volley
 Each crossbow shot fires a volley of up to `3` bolts, as many as the archer carries. Each one uses a bolt from the backpack, and rolls its own hit, damage, and poison. Skill gain, self-poisoning, weapon wear, and a magic crossbow's damage bonus only count once per volley.
@@ -43,7 +43,7 @@ An archer has to stand still for `1` second after their last step before they ca
 | 100 | 0.5 |
 
 ## Ammunition
-Arrows and bolts that hit a monster or animal have a `40%` chance to land in its backpack, where they can be looted back. Missed shots have a `40%` chance to drop on the ground.
+Arrows and bolts that hit a monster or animal have a `40%` chance to land in its backpack, where they can be looted back. Missed shots have a `40%` chance to drop on the ground, rising with Fletching. See [Ammunition Recovery](/fletching#ammunition-recovery).
 
 Arrows and bolts can be coated with poison, and are fired before clean ones. Recovered arrows and bolts are always clean. See [Poisoned Weapons](/poisoning#poisoned-weapons).
 
@@ -70,9 +70,9 @@ Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
 | 10 | 2.0× | 100 | 100 |
 
 ### Restrictions
-- Only the Hiding skill counts. Hiding with the [Invisibility](/invisibility) spell or an [invisibility potion](/invisibility_potion) will not trigger ambush.
-- Must use Hiding before Stealth, or stealthed steps wont count.
-- Once a monster or animal has been damaged by an ambush, it becomes alert for `1` minute. Ambushes on alert targets causes the bonus damage and accuracy being ignored, but don't refresh the alert duration.
+- Only the Hiding skill counts. Hiding with the [Invisibility](/invisibility) spell or an [invisibility potion](/invisibility_potion) won't trigger an ambush.
+- Hiding must be used before Stealth, or stealthed steps don't count.
+- Once a monster or animal has been damaged by an ambush, it becomes alert for `1` minute. Ambushes on an alert target get no bonus damage or accuracy, and don't refresh the alert duration.
 - Ambush is capped at `2.0×` damage to players, and players do not become alert when ambushed.
 
 ### Dialogue
@@ -80,9 +80,9 @@ Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
 |:-|:-:|
 | Ambushing from Hiding | *You strike from hiding!* |
 | Ambushing from Stealth | *You strike from the shadows!* |
-| When maximum stealth step is reached | *You are in perfect position!* |
-| Ambushing after taking maximum stealth steps | *You strike with perfect advantage!* |
-| Target was too-recently ambushed | *Your target is too alert to ambush!* |
+| Reaching the maximum stealthed steps | *You are in perfect position!* |
+| Ambushing after the maximum stealthed steps | *You strike with perfect advantage!* |
+| Target was ambushed too recently | *Your target is too alert to ambush!* |
 
 ## Manual Training
 Every shot, hit or miss, has a chance to raise Archery. Attacking one's own [pet](/pet) isn't criminal, so a tamed animal makes a safe training partner, as long as there are arrows or bolts to spare.

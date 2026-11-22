@@ -9,9 +9,9 @@ dateCreated: 2026-11-21T14:54:28.083Z
 ---
 
 # Lich King
-The Lich King is a demiboss, ruling from the throne room on floor 3 of [Covetous](/covetous). Being laden with blackrock, he is highly-resistant to magic. He is built for a group of players, though a strong player may be able to defeat him alone. After he dies, he returns `12` to `24` hours later.
+The Lich King is a demiboss, ruling from the throne room on floor 3 of [Covetous](/covetous). Being laden with blackrock, he is highly resistant to magic. He is built for a group of players, though a strong player may be able to defeat him alone. After he dies, he returns `12` to `24` hours later.
 
-![boss_lich.png](/boss_lich.png)
+![the Lich King in his throne room, surrounded by skeletons](/boss_lich.png)
 
 ## Throne Room
 The throne room is populated by the Lich King's personal army of skeletons. These skeletons respawn within `30` seconds, adding additional challenge to the fight.

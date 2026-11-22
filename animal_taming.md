@@ -17,7 +17,7 @@ Taming a creature reduces its [skills](/skills), such as Magery, by `10%`. If it
 The penalty applies again every time a creature is tamed by a new owner, so a pet that has been released and re-tamed several times keeps less of its original skill each time.
 
 ## Manual Training
-Animal Taming is one of the slowest skills to train. Train [Animal Lore](/animal_lore) alongside it, since it helps tamed animals obey commands. See [Obeying Commands](/pet#obeying-commands).
+Animal Taming is one of the slowest skills to train, though it gains twice as fast during alpha. Train [Animal Lore](/animal_lore) alongside it, since it helps tamed animals obey commands. See [Obeying Commands](/pet#obeying-commands).
 
 To follow an animal automatically, use `Alt + Click` on it.
 
@@ -27,14 +27,14 @@ Tamers move from animal to animal, taming and then releasing or culling each one
 
 The following table lists the best animals to tame and where to find them. A new animal gives gains easily, since it will rarely be tamed successfully and failures give skill gains. As skill rises, taming succeeds more often, so each animal gives fewer gains, particularly near grandmaster.
 
-| Source | Minimum | Maximum | Location |
+| Source | Train From | Train To | Location |
 |:-|:-:|:-:|:-:|
 | Animal trainer | 0 | 30 | Most towns |
 | Hinds, timber wolves | 30 | 35.1 | Moonglow |
-| Walruses, polar bears | 35.1 | 53.1 | Dagger Island |
-| Snow panthers | 53.1 | 59.1 | Dagger Island |
+| Walruses, polar bears | 35.1 | 53.1 | Dagger Isle |
+| Snow leopards | 53.1 | 59.1 | Dagger Isle |
 | Great harts, grizzly bears | 59.1 | 65.1 | Moonglow |
-| White wolves | 65.1 | 71.1 | Dagger Island |
+| White wolves | 65.1 | 71.1 | Dagger Isle |
 | Bulls | 71.1 | 77.1 | Delucia Pastures |
 | Giant toads | 77.1 | 85.5 | Hopper's Bog |
 | Frenzied ostards | 85.5 | 100 | Tortoise Lagoon |

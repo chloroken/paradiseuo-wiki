@@ -20,7 +20,7 @@ It's worth noting that spellcasters will generally prioritize curing poison befo
 - 100 Poisoning
 - 100 Hiding
 - 100 Stealth
-- 100 Resisting Spells / Healing
+- 100 Resisting Spells or Healing
 
 ## Stats
 | Stat | Amount |

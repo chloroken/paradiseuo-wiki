@@ -9,7 +9,7 @@ dateCreated: 2026-11-20T05:14:48.220Z
 ---
 
 # Alchemy
-Alchemy is the skill of brewing potions from reagents. Alchemists heal, cure, strengthen, and poison, and their explosion potions are one of the few ways to do damage without Magery.
+Alchemy is the skill of brewing potions from reagents. Alchemists heal, cure, strengthen, and poison, and their explosion potions are one of the few ways to damage a whole group without Magery.
 
 ## Brewing
 Double-click a mortar and pestle to open the crafting menu. Every potion needs reagents and an empty bottle. A failed attempt loses the reagents but returns the bottle.

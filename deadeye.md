@@ -9,7 +9,7 @@ dateCreated: 2026-11-20T10:05:02.933Z
 ---
 
 # Deadeye
-The Deadeye is a traditional archer who specializes in ranged combat. Fletching improves shooting performance and range, while Tracking helps ensure that arrows find their targets. With no Magery, the Deadeye receives the full Valor accuracy and regeneration bonuses. Prefers a bow for its range and lighter use of ammunition, or a crossbow for spreading poison.
+The Deadeye is a traditional archer who specializes in ranged combat. Fletching improves shooting performance and range, while Tracking helps ensure that arrows find their targets. With no Magery, the Deadeye receives the full Valor accuracy and regeneration bonuses. The Deadeye prefers a bow for its range and lighter use of ammunition, or a crossbow for spreading poison.
 
 ## Skills
 - 100 Archery

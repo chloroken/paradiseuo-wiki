@@ -9,7 +9,7 @@ dateCreated: 2026-11-10T01:43:55.190Z
 ---
 
 # Items
-These items have their own articles.
+These items have their own pages.
 
 ## Equipment
 - [Armor](/armor)

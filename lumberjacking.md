@@ -49,6 +49,6 @@ In TazUO, make three macros:
     - `Wait For Target`
     - `Last Target`
 1. `chop.move`, with the journal trigger `not enough`:
-    - `Whisper` — `Out of wood!`
+    - `Whisper` with the text `Out of wood!`
 
 Press the `chop.start` key and target a tree. `chop.continue` then keeps chopping that tree until it runs out of wood, and `chop.move` announces that it's time to find a new tree.

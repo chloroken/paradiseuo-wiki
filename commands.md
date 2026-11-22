@@ -12,7 +12,7 @@ dateCreated: 2026-11-19T00:06:15.205Z
 Commands are typed into the chat line. Most are phrases spoken to NPCs, pets, and objects, and a few are server commands that start with `[`.
 
 ## Speech Commands
-Many actions on *Paradise* use speech: phrases said aloud to the right NPC, pet, or object. Commands for an NPC only work from nearby, and some need its name first, such as `Alice train`. Speech starting with an exclamation point and a space, like `! bank`, is converted into a yell, which carries further than normal speech.
+Many actions on *Paradise* use speech: phrases said aloud to the right NPC, pet, or object. Commands for an NPC only work from nearby, and some need its name first, such as `Alice train`. Speech starting with an exclamation point and a space, like `! bank`, is converted into a yell, which carries farther than normal speech.
 
 ### Anywhere
 | Phrase | Effect |
@@ -70,7 +70,7 @@ Other speech commands are listed on their own pages:
 - Pet commands, such as `all follow me`. See [Pet](/pet).
 - Stable commands, such as `stable` and `claim`. See [Stable](/stable).
 - House commands, such as `I wish to lock this down`. See [House](/house).
-- Tillerman commands, such as `forward` and `stop`.
+- Tillerman commands, such as `forward` and `stop`. See [Boat](/boat).
 
 ## Server Commands
 Players can type commands in the chat line starting with `[` to check or change account and server details.

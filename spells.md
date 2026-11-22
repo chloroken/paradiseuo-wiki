@@ -12,13 +12,13 @@ dateCreated: 2026-11-07T03:32:16.076Z
 This page lists every spell in [Magery](/magery) by circle, with the words spoken to cast it. Spells can be cast from [scrolls](/scroll) or a [spellbook](/spellbook).
 
 ## First Circle
-- [Reactive Armor](/reactive_armor): *Flam Sanct*
 - [Clumsy](/clumsy): *Uus Jux*
 - [Create Food](/create_food): *In Mani Ylem*
 - [Feeblemind](/feeblemind): *Rel Wis*
 - [Heal](/heal): *In Mani*
 - [Magic Arrow](/magic_arrow): *In Por Ylem*
 - [Night Sight](/night_sight): *In Lor*
+- [Reactive Armor](/reactive_armor): *Flam Sanct*
 - [Weaken](/weaken): *Des Mani*
 ## Second Circle
 - [Agility](/agility): *Ex Uus*

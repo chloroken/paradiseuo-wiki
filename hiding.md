@@ -9,7 +9,7 @@ dateCreated: 2026-11-19T07:33:58.907Z
 ---
 
 # Hiding
-Hiding is the skill of disappearing from sight. A hidden character can't be seen by players or monsters until something reveals them, and on *Paradise*, hiding is the first step of an archer's ambush.
+Hiding is the skill of disappearing from sight. A hidden character can't be seen by players or monsters until something reveals them, and hiding is the first step of an archer's ambush.
 
 ## Going Hidden
 Use the skill to try to hide. The chance to succeed is the character's Hiding skill as a percentage.

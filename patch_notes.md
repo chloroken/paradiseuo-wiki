@@ -53,20 +53,20 @@ Changes to *Paradise*, newest first.
 - Rename Antimage to [Valor](/combat#valor), the warrior's virtue from Ultima lore
 - Tune Valor so each bonus comes from a skill, not just by not having Magery:
     - Tactics still passively adds up to `30` points of weapon skill
-    - Parrying passively reduces physical damage taken by up to `20%`, happens before armor reductions
+    - Parrying passively reduces physical damage taken by up to `20%`, before armor reductions
     - Anatomy passively increases hit point regeneration by up to `5×`
     - Each bonus is full at `100` in its skill and `0` Magery, so `50` in the skill with `50` Magery gives a quarter of it
-- Poisoning can now coat all fencing weapons, arrows, and bolts, but no longer swords or knives:
+- Let Poisoning coat all fencing weapons, arrows, and bolts, but no longer swords or knives:
     - Anyone can use poisoned weapons and ammunition, but every swing or shot risks poisoning the user, from `50%` at `0` Poisoning, to `5%` at `50`, and `0%` at `100`
     - Poisoned arrows and bolts are fired before clean ones, strongest poison first, and recovered ammunition is always clean
     - Poisoners with enough skill can see the strength of poison on weapons, arrows, and bolts by single-clicking them
 - Adjust [Fletching](/fletching) to benefit archers in the field:
-    - At `100` Fletching, ranged weapons attack `2` tiles further
+    - At `100` Fletching, ranged weapons attack `2` tiles farther
     - At `100` Fletching, the delay an archer must stand still to attack is reduced by half, from `1.0` to `0.5` seconds
     - At `100` Fletching, arrows and bolts that miss are twice as likely to drop, from `40%` to `80%`
 - Adjust [Tracking](/tracking) to benefit archers in the field:
     - Ranged weapons gain a bonus to accuracy based on Tracking
-    - Formula: `currentAccuracy += (perfectAccuracy - currentAccuracy) / 2 * Tracking * 0.5`
+    - Formula: `Hit Chance + (100% - Hit Chance) * Tracking / 200`
     - This effectively means that max Tracking adjusts current accuracy `50%` closer to a guaranteed hit
     - This bonus is doubled against fleeing enemies, meaning a grandmaster Tracker never misses a fleeing target
 - Fix the [Lumberjacking](/lumberjacking) grandmaster bonus never applying, so axes now do `30%` bonus damage at `100` Lumberjacking instead of `20%`
@@ -74,9 +74,9 @@ Changes to *Paradise*, newest first.
 - Prevent monsters from casting necro spells
 - Edit treasure map description to make it T2A
 - Reduce potion weight
-- Armor now reduces damage by a percentage instead of a flat amount, so it protects against hard hits as well as light ones
-- Shields now also reduce every hit by a small amount, on top of blocking
-- Swords can now critically strike for double damage, with a `10%` chance at `100` Swordsmanship
+- Make armor reduce damage by a percentage instead of a flat amount, so it protects against hard hits as well as light ones
+- Make shields also reduce every hit by a small amount, on top of blocking
+- Let swords critically strike for double damage, with a `10%` chance at `100` Swordsmanship
 
 ## 2026.11.19
 - Add the Antimage rework, so characters with less Magery fight better:
@@ -86,14 +86,14 @@ Changes to *Paradise*, newest first.
     - All three bonuses are full at `0` Magery and shrink to nothing at `100`
     - Only players get the bonuses
 - Fix [Young players](/young_player) being unable to Recall, Gate Travel, or use moongates
-- Wrestling moves are now automatic:
+- Make wrestling moves automatic:
     - Armed players and human NPCs are disarmed, and everything else is stunned
     - Moves are only attempted when a punch hits, and need free hands
     - Moves no longer cost stamina
     - Any attempt starts a `10` second cooldown
     - The stun and disarm buttons now only explain that the moves are automatic
-- Dexterity now adds `1.75` stones of carrying capacity per point, half as much as Strength
-- Thrown weapons can no longer be equipped
+- Make Dexterity add `1.75` stones of carrying capacity per point, half as much as Strength
+- Stop thrown weapons from being equipped
 - Fix Mana Drain and Mana Vampire being resisted almost every time
 - Remove monsters added after T2A from the world, including plague beasts, boglings, bog things, toxic elementals, juka, golems, greater dragons, and shadow wyrms
 - Close the dungeons added after T2A: Sanctuary, Prism of Light, Blighted Grove, Painted Caves, and Khaldun
@@ -109,37 +109,37 @@ Changes to *Paradise*, newest first.
     - Add thugs and templars at their towns' teleporters for Karma farming
     - Item donations to NPCs no longer give Fame
     - Speak a shrine's mantra beside its ankh to unlock locked Karma
-- Attacking one's own [pet](/pet) is no longer criminal, so pets can be used to train weapon skills
-- Pets now appear as allies to their owners
+- Make attacking one's own [pet](/pet) non-criminal, so pets can be used to train weapon skills
+- Show pets as allies to their owners
 - Add more strongbox and trash barrel commands
 - Fix the spyglass showing Trammel's moon phase
-- Fighting one's own pets no longer blocks Recall and Gate Travel
-- Saying `claim` at a stable now opens the list of stabled pets
-- The stealth archer's *You are in perfect position!* message now only appears once
+- Stop fighting one's own pets from blocking Recall and Gate Travel
+- Make saying `claim` at a stable open the list of stabled pets
+- Show the stealth archer's *You are in perfect position!* message only once
 
 ## 2026.11.17
-- [Veterinary](/veterinary) adds `Veterinary / 25` extra tiles to pet bandage range
-- Bandage weight halved
-- Runebook use range set to `3`, from `2`
-- Runebook use cooldown set to `3` seconds, from `7`
+- Add `Veterinary / 25` extra tiles to pet bandage range with [Veterinary](/veterinary)
+- Halve bandage weight
+- Raise runebook use range from `2` to `3`
+- Lower runebook use cooldown from `7` seconds to `3`
 - Remove non-T2A items from the Carpentry crafting menu
 - Set house decay to `90` days
-- House decay no longer drops items; they're deleted instead
-- Meditation, potions, and Wrestling ignore equippable lights
+- Delete items in decayed houses instead of dropping them
+- Make Meditation, potions, and Wrestling ignore equippable lights
 
 ## 2026.11.16
 - Adjust nightmare spawn time to `1` to `2` hours
 - Adjust silver steed spawn time to `0.5` to `1` hours
 
 ## 2026.11.15
-- Fix MvM damage (it was halved while adjusting MvP damage)
+- Fix monster-vs-monster damage (it was halved while adjusting monster-vs-player damage)
 - Move the server's daily restart to a scheduled cron job
 - Adjust various Lockpicking requirements
 - Halve the weight of gold and reagents
-- Marked recall runes now show a custom description
+- Show a custom description on marked recall runes
 - Fix a bug with Magic Reflection sometimes failing
-- Potions are now stackable
-- Gold now splits automatically when a stack reaches its maximum size
+- Make potions stackable
+- Split gold automatically when a stack reaches its maximum size
 - Allow casting with equippable lights, such as candles
 
 ## 2026.11.14
@@ -158,7 +158,7 @@ Changes to *Paradise*, newest first.
 - Enable town, seeker, and prisoner escort quests
 - Adjust Lost Lands spawners, particularly frenzied ostards
 - Remove seed drop sources
-- Rebalance MageAI: creatures with higher Magery now cast spells more often, and those with lower Magery cast less often
+- Rebalance monster spellcasting: creatures with higher Magery now cast spells more often, and those with lower Magery cast less often
 
 ## 2026.11.12
 - Add the [Shiny](/mount) mechanic to silver steeds and nightmares
@@ -169,7 +169,7 @@ Changes to *Paradise*, newest first.
 ## 2026.11.11
 - Remove fire horn drop sources
 - Refactor treasure map loot, and allow cascading
-- Pets now respond to their custom names properly (for example, `a` won't trigger `aa`)
+- Fix pets responding to partial custom names (for example, `a` no longer triggers `aa`)
 - Disable Virtue Dungeon Armor rewards
 - Disable seasonal events
 - Reduce the blood elemental spawn count in Shame
@@ -177,12 +177,12 @@ Changes to *Paradise*, newest first.
 - Disable all quests except Grizelda's quest
 
 ## 2026.11.10
-- All pets now take up `1` follower slot (each character has `5` in total)
+- Make all pets take up `1` follower slot (each character has `5` in total)
 
 ## 2026.11.09
-- Pets given the `follow` command now properly ignore enemies
-- Peacemaking now has a `10` second cooldown on success and `5` seconds on failure
-- The server now restarts automatically once a day at `12:00` GMT
+- Fix pets given the `follow` command not ignoring enemies
+- Set Peacemaking's cooldown to `10` seconds on success and `5` seconds on failure
+- Restart the server automatically once a day at `12:00` GMT
 - Remove both NPCs in the Bard's Guild that started mastery quests
 
 ## 2026.11.08
@@ -199,11 +199,11 @@ Changes to *Paradise*, newest first.
     - Increase duration from `30` seconds to `60`
     - Remove the random chance for provoked monsters to break free
 - Double Animal Taming skill gain speed
-- Locked-down runebooks can now be used by anyone
+- Let anyone use locked-down runebooks
 - Add teleporters to reach Cyclops Valley from the south
 
 ## 2026.11.06
-- Player corpses now correctly turn to bones at `50%` of their duration
+- Fix player corpses not turning to bones at `50%` of their duration
 - Adjust player corpse decay to `60` minutes in total
 - Monsters with Magery:
     - Now only cast Teleport when stuck
@@ -214,50 +214,50 @@ Changes to *Paradise*, newest first.
     - Remove tattered wall maps and the wall map of Eodon
     - Move the star chart from last to first
 - Allow smelting ore directly from a pack animal's inventory
-- Pet follow speed now correctly matches player speed
+- Fix pet follow speed to match player speed
 - Remove crafting resource and special scroll drops from treasure maps
-- Fleeing monsters now walk instead of running
+- Make fleeing monsters walk instead of run
 
 ## 2026.11.05a
 - Fix random scroll drops all being low level
 - Remove special resource drops from treasure maps
-- Magic Reflection, Reactive Armor, and Protection should properly stack
+- Fix Magic Reflection, Reactive Armor, and Protection not stacking
 
 ## 2026.11.04
 - Remove necromancer scroll drops from `15` additional monsters
 - Disable random necromancer reagent drops from all monsters
-- Change the `[password` command to work without a GM present
+- Change the `[Password` command to work without a GM present
 - Allow Protection, Reactive Armor, and Magic Reflection to work at the same time
 - Add the map level to the name of completed treasure maps
 
 ## 2026.11.03
 These are the changes to ServUO's base, and the server's starting point.
-- ServUO's era set to T2A, which disables a lot of content not listed here
-- Stat cap set to `100`
-- Champions disabled
-- Factions disabled
-- Duel arenas enabled
-- Guild PvP enabled
-- Map geography set to Felucca only
-- Map PvP and shove rules set to Trammel
-- New Haven disabled as a starting city
-- Moongates changed to Felucca only
-- Creature bonding disabled
-- Swing cycle changed to be more like T2A
-- Provocation failure cooldown changed to `5` seconds
-- Provocation can target the bard who used it
-- Moonglow Zoo spawns changed to avoid guard aggro
-- Council of Mages moved to its proper location
-- Recall enabled to and from T2A
-- Necromancer scroll random drops disabled
-- Necromancer scroll drops from imps disabled (others exist)
-- Instruments no longer drop with modifiers
-- Boats can be dry-docked by clicking the tillerman
-- Monster mage AI toned down
-- Mounts no longer tire when damage is taken
-- Magic Reflection changed to its old form
-- Followers move faster
-- Reagent vendors have larger stocks
-- Mage vendors sell Recall and Mark scrolls
-- Boat decay is `1` day
-- House decay is `7` years
+- Set ServUO's era to T2A, which disables a lot of content not listed here
+- Set the stat cap to `100`
+- Disable champions
+- Disable factions
+- Enable duel arenas
+- Enable guild PvP
+- Set map geography to Felucca only
+- Set map PvP and shove rules to Trammel
+- Disable New Haven as a starting city
+- Change moongates to Felucca only
+- Disable creature bonding
+- Change the swing cycle to be more like T2A
+- Change the Provocation failure cooldown to `5` seconds
+- Let Provocation target the bard who used it
+- Change Moonglow Zoo spawns to avoid guard aggro
+- Move the Council of Mages to its proper location
+- Enable Recall to and from T2A
+- Disable random necromancer scroll drops
+- Disable necromancer scroll drops from imps (others exist)
+- Stop instruments from dropping with modifiers
+- Let boats be dry-docked by clicking the tillerman
+- Tone down monster mage AI
+- Stop mounts from tiring when damage is taken
+- Change Magic Reflection to its old form
+- Make followers move faster
+- Give reagent vendors larger stocks
+- Make mage vendors sell Recall and Mark scrolls
+- Set boat decay to `1` day
+- Set house decay to `7` years

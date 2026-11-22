@@ -11,7 +11,7 @@ dateCreated: 2026-11-12T18:21:51.910Z
 # Mount
 Mounts are [pets](/pet) that speed up travel. Mounts don't get hungry or lose Loyalty while being ridden.
 
-Only the horse can be bought; other mounts must be tamed. [Animal tamers](/animal_taming) can transfer pets to non-tamers, but only pets the new owner could control. That means horses, ostards, and other pets that need `29.1` or less to tame. Those pets always obey their owner, whatever the owner's skills.
+Only the horse can be bought; other mounts must be tamed. [Animal tamers](/animal_taming) can transfer pets to non-tamers, but only pets the new owner could control. That means horses, forest and desert ostards, and other pets that need `29.1` or less to tame. Those pets always obey their owner, whatever the owner's skills.
 
 ## Horse
 Horses can be bought from any [animal trainer](/stable) for `550` gold.

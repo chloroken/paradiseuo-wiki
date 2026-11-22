@@ -22,7 +22,7 @@ Veterinary heals creatures the same way Healing heals people, using Veterinary i
 Creatures also heal an extra `1` hit point for every `100` maximum hit points they have.
 
 ## Range
-On *Paradise*, veterinarians can bandage from further away. For every `25` points of Veterinary, bandages gain `1` more tile of range when used on creatures.
+Veterinarians can bandage creatures from a distance. For every `25` points of Veterinary, bandages gain `1` more tile of range when used on creatures.
 
 | Veterinary | Range (tiles) |
 |:-|:-:|

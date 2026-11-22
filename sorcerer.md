@@ -18,7 +18,7 @@ The Sorcerer is a dedicated mage who relies on powerful spells, summoning ritual
 - 100 Anatomy
 - 100 Inscription
 - 100 Resisting Spells
-- 100 flex points
+- 100 in any other skill
 
 ## Stats
 | Stat | Amount |

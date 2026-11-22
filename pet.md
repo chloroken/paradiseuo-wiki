@@ -11,7 +11,7 @@ dateCreated: 2026-11-16T07:24:49.945Z
 # Pet
 Pets are a type of follower, and [mounts](/mount) are pets too. [Animal tamers](/animal_taming) specialize in capturing and using pets.
 
-Most pets take up `1` follower slot, but strong pets, such as drakes, take `2` slots, and the most powerful pets, such as dragons, take `3` slots. Pets can be left with an animal trainer while their owner is offline. See [Stable](/stable).
+Each character has `5` follower slots. Most pets take up `1` slot, strong pets such as drakes take `2`, and the most powerful pets such as dragons take `3`. Pets can be left with an animal trainer while their owner is offline. See [Stable](/stable).
 
 **Pet death is permanent. GMs cannot resurrect pets.**
 
@@ -36,7 +36,7 @@ An unfed pet at full Loyalty goes wild after about `10` hours.
 ## Feeding
 Drop food on a pet to feed it. Only its favorite food works, which Animal Lore reveals. Each piece of food in the stack has a `50%` chance to add `10` Loyalty, up to the maximum of `100`. If any of it worked, the pet *looks happier*.
 
-Feeding a stack is more reliable than feeding one piece. A stack of `20` almost always fills a pet back to full. There's no limit to how much a pet will eat, so don't drop more than needed, or the rest is wasted.
+Feeding a stack is more reliable than feeding one piece, and a stack of `20` almost always fills a pet back to full. A pet eats the whole stack even after its Loyalty is full, so extra food is wasted.
 
 Food also restores `15 * Pieces - 50` stamina, so a stack of `4` or more is needed to restore any.
 

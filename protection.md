@@ -15,7 +15,7 @@ Protection keeps the caster's spells from being disrupted. While it's active, ea
 |:-|:-:|
 | Circle | 2 |
 | Mana | 6 |
-| Chance Not to Be Disrupted (%) | (Evaluating Intelligence + Meditation + Inscription) / 4, up to `75` |
+| Chance Not to Be Disrupted (%) | (Evaluating Intelligence + Meditation + Inscription) / 4, up to 75 |
 | Casting Delay (s) | +0.5 |
 | Minimum Duration (s) | 15 |
 | Maximum Duration (s) | Magery * 2 |

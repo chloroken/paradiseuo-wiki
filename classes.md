@@ -9,7 +9,7 @@ dateCreated: 2026-11-08T22:35:49.369Z
 ---
 
 # Classes
-Ultima Online doesn't have discrete classes. Instead, players choose [stats](/stats) and [skills](/skills) to create a build. For example, to play a Warrior one would spend stat points on Strength and Dexterity, and skill points on weapon, defensive, and healing skills.
+Ultima Online doesn't have discrete classes. Instead, players choose [stats](/stats) and [skills](/skills) to create a build. For example, to play a fighter, one would spend stat points on Strength and Dexterity, and skill points on weapon, defensive, and healing skills.
 
 During character creation there is a profession screen, but it should be ignored and `Advanced` should always be selected because *Paradise* targets an era that predates that screen. The following classes are just ideas, many of them rooted in classic T2A gameplay.
 

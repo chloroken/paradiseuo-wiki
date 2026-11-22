@@ -9,7 +9,7 @@ dateCreated: 2026-11-19T00:05:59.693Z
 ---
 
 # Crafting
-Crafters turn gathered resources into weapons, armor, clothing, furniture, potions, scrolls, and more. Each crafting skill needs its own tool, which opens a menu of everything that skill can make. Items with their own articles are listed on [Items](/items).
+Crafters turn gathered resources into weapons, armor, clothing, furniture, potions, scrolls, and more. Each crafting skill needs its own tool, which opens a menu of everything that skill can make. Items with their own pages are listed on [Items](/items).
 
 ## Crafting Skills
 | Skill | Tool | Main Resources | Makes |

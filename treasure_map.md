@@ -22,9 +22,9 @@ Double-click a treasure map to try decoding it.
 |:-|:-:|:-:|:-:|
 | 1 | 0 | 0 | 30 |
 | 2 | 50 | 60 | 90 |
-| 3 | 65 | 75 | Never |
-| 4 | 80 | 90 | Never |
-| 5 | 90 | 100 | Never |
+| 3 | 65 | 75 | None |
+| 4 | 80 | 90 | None |
+| 5 | 90 | 100 | None |
 
 ## Opening the Chest
 A lockpicker can use a [lockpick](/lockpick) on a treasure chest to try opening it. Its trap can be disarmed from range with [Telekinesis](/telekinesis), avoiding the explosion and its damage. Without Magery, the only options are Remove Trap or taking the trap damage.
@@ -32,12 +32,14 @@ A lockpicker can use a [lockpick](/lockpick) on a treasure chest to try opening 
 ## Loot
 A treasure chest's loot depends on its map level. Treasure maps found inside are one level lower, but never below level `1`.
 
-| Chance (%) | Drop | Amount |
+| Drop | Amount | Chance (%) |
 |:-|:-:|:-:|
-| 100 | Gold | 5,000 * Level |
-| 100 | Reagents | (40 to 60) * (Level + 1) |
-| 100 | Gems | 3 * Level + 1 |
-| 100 | Magic equipment | 6 * Level |
-| 100 | Scrolls | 5 * Level |
-| 50 | Treasure map | 1 |
-| Map Level | [Skeleton key](/skeleton_key) | 1 |
+| Gold | 5,000 * Level | 100 |
+| Reagents | (40 to 60) * (Level + 1) | 100 |
+| Gems | 3 * Level + 1 | 100 |
+| Magic equipment | 6 * Level | 100 |
+| Scrolls | 5 * Level | 100 |
+| Treasure map | 1 | 50 |
+| [Skeleton key](/skeleton_key) | 1 | Level |
+
+A skeleton key's chance in percent equals the map's level, so a level `5` chest has a `5%` chance.

@@ -33,7 +33,7 @@ A poisoned character can only be poisoned again by a stronger poison, which repl
 Fencing weapons, knives, arrows, and bolts coated with [Poisoning](/poisoning) can poison their target on a hit. The chance is the attacker's Poisoning skill as a percentage, but never below `50%`. See [Poisoned Weapons](/poisoning#poisoned-weapons).
 
 ## Poisoning Spellcasters
-A poisoned spellcaster can't heal until the poison is cured, so monsters with Magery cast Cure before anything else. Every time a poisoner poisons them again, they spend another spell curing it instead of attacking or healing. Against mages, poison wears them down and keeps their spells off the poisoner.
+Monsters with Magery cast Cure on themselves before anything else. Every time a poisoner poisons them again, they spend another spell curing it instead of attacking, so poison wears mages down and keeps their spells off the poisoner.
 
 ### Poison Spell
 The Poison spell's strength depends on the caster's combined Magery and Poisoning. The total drops by `10` for every tile beyond `3` between the caster and the target.
@@ -43,7 +43,7 @@ The Poison spell's strength depends on the caster's combined Magery and Poisonin
 | 130 or below | Lesser |
 | Above 130 | Regular |
 | Above 170 | Greater |
-| 200 | Greater, with a `10%` chance of Deadly |
+| 200 | Greater, with a 10% chance of Deadly |
 
 [Poison Field](/poison_field) always applies Regular poison.
 

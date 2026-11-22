@@ -16,12 +16,12 @@ Town chests are scattered through buildings in towns. A chest's difficulty is ti
 
 | Chest Level | Minimum Skill | Maximum Skill | Buildings |
 |:-|:-:|:-:|:-:|
-| 1 | 0 | 30 | Alchemist, Baker, Bard, Butcher, Carpenter, Clothier, Cobbler, Docks, Farm, Healer, Herbalist, Inn, Library, Merchant, Mill, Mine, Observatory, Painter, Stables, Tavern, Thieves' Guild, Tinker, Veterinarian |
-| 2 | 30 | 60 | Armorer, Blacksmith, Bowyer, Jeweler, Mage, Ranger, Tanner, Weaponsmith, Provisioner |
-| 3 | 60 | 90 | Fighters' Guild, Guards |
+| 1 | 0 | 30 | Alchemist, baker, bard, butcher, carpenter, clothier, cobbler, docks, farm, healer, herbalist, inn, library, merchant, mill, mine, observatory, painter, stables, tavern, Thieves' Guild, tinker, veterinarian |
+| 2 | 30 | 60 | Armorer, blacksmith, bowyer, jeweler, mage, provisioner, ranger, tanner, weaponsmith |
+| 3 | 60 | 90 | Fighters' Guild, guards |
 
 ## Dungeon Chests
-Dungeon chests are found in dungeons and hold traditional dungeon loot. They range from level 1 (graveyards and orc camps), to levels 2 and 3 (dungeons), to level 4 (deep, difficult dungeons).
+Dungeon chests are found in dungeons and hold traditional dungeon loot. They range from level 1 (graveyards and orc camps) to levels 2 and 3 (dungeons), to level 4 (deep, difficult dungeons).
 
 | Chest Level | Minimum Skill | Maximum Skill |
 |:-|:-:|:-:|

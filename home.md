@@ -15,7 +15,7 @@ The main design goal is build diversity: fighters are rebalanced to keep pace wi
 
 See [Features](/features) for the major ways *Paradise* differs from T2A. See [Patch Notes](/patch_notes) for smaller and ongoing changes.
 
-![a robed adventurer sits atop a nightmare outside the papua bank](/home_papua.png)
+![a robed adventurer sits atop a nightmare outside the Papua bank](/home_papua.png)
 
 ## The Basics
 - This shard is designed for single players or cooperative groups.

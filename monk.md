@@ -9,7 +9,7 @@ dateCreated: 2026-11-20T10:16:58.374Z
 ---
 
 # Monk
-The Monk combines unarmed combat, stuns, leather armor, and offensive magic. Leather is the strongest armor that doesn't slow mana regeneration. Evaluating Intelligence makes spells hit hard, Tactics increases unarmed damage, high Wrestling and Anatomy give its punches a chance to stun opponents. See [Wrestling Moves](/wrestling#wrestling-moves).
+The Monk combines unarmed combat, stuns, leather armor, and offensive magic. Leather is the strongest armor that doesn't slow mana regeneration. Evaluating Intelligence makes spells hit hard, and Tactics increases unarmed damage. High Wrestling and Anatomy give its punches a chance to stun opponents. See [Wrestling Moves](/wrestling#wrestling-moves).
 
 ## Skills
 - 100 Magery

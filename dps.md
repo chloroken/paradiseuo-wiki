@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2026-11-21T17:43:32.186Z
 ---
 
-## Damage Per Second
+# Damage Per Second
 Every weapon's base damage, speed, and damage per second (DPS) for a fighter with `100` Tactics, Strength, Anatomy, and Stamina, using a regular-quality, non-magic weapon. DPS assumes every swing hits and ignores armor. Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for swords, `100` [Lumberjacking](/lumberjacking) for axes, and all `3` bolts of a crossbow volley landing.
 
-### Swords
+## Swords
 | Weapon | Damage | Speed | Critical Strike<br>Chance (%) | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | Broadsword | 5 – 29 | 45 | 10 | 1.67 | 22.9 | 25.2 |
@@ -21,7 +21,7 @@ Every weapon's base damage, speed, and damage per second (DPS) for a fighter wit
 | Scimitar | 4 – 30 | 43 | 15 | 1.74 | 21.9 | 25.2 |
 | Viking sword | 6 – 34 | 30 | 40 | 2.5 | 18.0 | 25.2 |
 
-### Fencing
+## Fencing
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Kryss | 3 – 28 | 53 | 1.42 | 24.6 |  |
@@ -31,7 +31,7 @@ Every weapon's base damage, speed, and damage per second (DPS) for a fighter wit
 | Spear | 2 – 34 | 46 | 1.63 | 24.8 |  |
 | War fork | 4 – 32 | 45 | 1.67 | 24.3 |  |
 
-### Axes
+## Axes
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Axe | 8 – 34 | 37 | 2.03 | 23.3 | 28.0 |
@@ -43,13 +43,13 @@ Every weapon's base damage, speed, and damage per second (DPS) for a fighter wit
 | Pickaxe | 1 – 15 | 35 | 2.14 | 8.4 | 10.1 |
 | Two-handed axe | 18 – 35 | 30 | 2.5 | 23.9 | 28.6 |
 
-### Polearms
+## Polearms
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Bardiche | 5 – 43 | 26 | 2.88 | 18.7 |  |
 | Halberd | 5 – 49 | 25 | 3 | 20.2 |  |
 
-### Maces
+## Maces
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Club | 8 – 24 | 40 | 1.88 | 19.2 |  |
@@ -60,7 +60,7 @@ Every weapon's base damage, speed, and damage per second (DPS) for a fighter wit
 | War hammer | 8 – 36 | 31 | 2.42 | 20.5 |  |
 | War mace | 10 – 30 | 32 | 2.34 | 19.2 |  |
 
-### Staves
+## Staves
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Black staff | 8 – 33 | 35 | 2.14 | 21.5 |  |
@@ -68,14 +68,14 @@ Every weapon's base damage, speed, and damage per second (DPS) for a fighter wit
 | Quarter staff | 6 – 25 | 48 | 1.56 | 22.3 |  |
 | Shepherd's crook | 3 – 12 | 30 | 2.5 | 6.8 |  |
 
-### Knives
+## Knives
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Butcher knife | 2 – 14 | 40 | 1.88 | 9.6 |  |
 | Cleaver | 2 – 13 | 40 | 1.88 | 9.0 |  |
 | Skinning knife | 1 – 10 | 40 | 1.88 | 6.6 |  |
 
-### Bows
+## Bows
 | Weapon | Damage | Speed | Range (tiles) | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | Bow | 9 – 41 | 20 | 10 | 3.75 | 15.0 |  |
