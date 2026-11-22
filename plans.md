@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-22T14:34:15.251Z
+date: 2026-11-22T15:32:27.380Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -80,6 +80,7 @@ These skills already had adventure potential:
 - Have page written for every skill
 - Use template to make page for every spell
 - Add pages with incoming links that are missing
+- Need to restructure pets -> followers for it to make sense
 
 ## Fixes
 - "Disarm" as a mechanic is bad
