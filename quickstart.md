@@ -2,7 +2,7 @@
 title: Quickstart
 description: 
 published: true
-date: 2026-11-19T00:18:30.648Z
+date: 2026-11-22T06:04:04.223Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:38:21.268Z
@@ -30,7 +30,7 @@ TazUO is the launcher used to play the game.
 1. In the launcher, click `Select a profile`, then `[ Edit Profiles ]`.
 1. Fill out the profile. Anything not listed here can be ignored:
     - Set `Profile Name` to something like `Main`.
-    - Set `Connection` to `165.245.194.178` and `2593`.
+    - Set `Connection` to `[request access]` and `2593`.
     - Set `UO Directory` to the Classic Client's folder from step 1.
     - Click `Save` and close the `Profile Editor` window.
     - Select the new profile and click `Play`.
