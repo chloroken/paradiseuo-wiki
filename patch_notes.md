@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-22T07:46:19.426Z
+date: 2026-11-22T10:10:21.077Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -25,6 +25,7 @@ Changes to *Paradise*, newest first.
     - Raise his hit points to `9,000` to `11,000`
     - Make him blink to a nearby spot every `5` to `10` seconds in combat, or back to his throne if he strays more than `12` tiles
 - Let demibosses path around obstacles
+- Stop a second bandage on the same target from restarting one already in progress, so no time or bandages are lost (switching targets still cancels it)
 
 ## 2026.11.21
 - Add the first demiboss, the [Lich King](/lich_king), in the throne room on floor 3 of [Covetous](/covetous):
