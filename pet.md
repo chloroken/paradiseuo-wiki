@@ -28,7 +28,7 @@ Pets fight at a disadvantage against monsters:
 - A [demiboss](/monsters#demibosses) does double damage to pets instead.
 - A pet's melee hits on another player are halved, the same as a player's.
 
-A player's summoned creatures, such as blade spirits and energy vortexes, count as pets. Breath, poison, and Fire Field do their normal damage. See [Combat: Damage](/combat#damage).
+A player's summoned creatures, such as blade spirits and energy vortexes, count as pets. [Spirit Speak](/spirit_speak) strengthens them. Breath, poison, and Fire Field do their normal damage. See [Combat: Damage](/combat#damage).
 
 ## Controlling Pets
 Animal tamers command pets with phrases like `all follow me` and `dragon kill`. Tamers can control powerful monsters, which makes hunting for loot much easier, provided their pets stay alive and obedient.

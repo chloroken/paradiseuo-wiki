@@ -9,7 +9,7 @@ dateCreated: 2026-11-20T10:13:21.616Z
 ---
 
 # Sorcerer
-The Sorcerer is a dedicated mage who relies on powerful spells, summoning rituals, and defensive magic. Anatomy and Evaluating Intelligence combine to offer even more melee defense than Wrestling, and Inscription empowers Reactive Armor and Protection, making the Sorcerer surprisingly resilient for a caster.
+The Sorcerer is a dedicated mage who relies on powerful spells, summoning rituals, and defensive magic. Anatomy and Evaluating Intelligence combine to offer even more melee defense than Wrestling, and Inscription empowers Reactive Armor and Protection, making the Sorcerer surprisingly resilient for a caster. [Spirit Speak](/spirit_speak) doubles how long summons last, shields them from Dispel, and makes summoned elementals hit harder and never fail to cast.
 
 ## Skills
 - 100 Magery
@@ -18,7 +18,7 @@ The Sorcerer is a dedicated mage who relies on powerful spells, summoning ritual
 - 100 Anatomy
 - 100 Inscription
 - 100 Resisting Spells
-- 100 in any other skill
+- 100 Spirit Speak
 
 ## Stats
 | Stat | Amount |

@@ -37,6 +37,7 @@ Casting from a scroll counts as two circles lower, so a scroll of an 8th circle 
 - [Meditation](/meditation) regenerates mana faster.
 - [Inscription](/inscription) makes scrolls, and strengthens [Reactive Armor](/reactive_armor) and [Protection](/protection).
 - [Resisting Spells](/resisting_spells) protects against spells, and a caster's Magery makes their spells harder to resist.
+- [Spirit Speak](/spirit_speak) makes summons last longer, resist Dispel, and, for elementals, hit harder and never fail to cast.
 
 ## Travel
 Recall, Mark, and Gate Travel are the fastest ways to cross the world, but none of them work in dungeons or the Lost Lands.

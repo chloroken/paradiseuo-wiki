@@ -28,6 +28,12 @@ Changes to *Paradise*, newest first.
     - Make him speak a phrase when casting each necromancy spell, even without a target
 - Let demibosses path around obstacles
 - Stop a second bandage on the same target from restarting one already in progress, so no time or bandages are lost (switching targets still cancels it)
+- Fix Blood Oath never reflecting damage under T2A rules
+- Give [Spirit Speak](/spirit_speak) power over a player's summons, scaling up to `100` Spirit Speak:
+    - Summons last up to twice as long
+    - Dispel and Mass Dispel are up to `75%` less likely to remove them, except when used by the summoner
+    - Summoned air, earth, fire, and water elementals do up to `50%` more damage
+    - At `100` Spirit Speak, the four elemental summon spells never fail
 
 ## 2026.11.21
 - Add the first demiboss, the [Lich King](/lich_king), in the throne room on floor 3 of [Covetous](/covetous):
