@@ -2,7 +2,7 @@
 title: Lich King
 description: The demiboss of Covetous, how he fights, and what he drops
 published: true
-date: 2026-11-22T10:22:44.619Z
+date: 2026-11-22T10:35:50.963Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T14:54:28.083Z
@@ -29,19 +29,19 @@ The throne room is populated by the Lich King's personal army of skeletons. Thes
 ## Abilities
 The Lich King fights mostly with spells, mixing Necromancy, which players can't learn, with Magery.
 
-| Ability | Looks Like | Effect |
-|:-|:-:|:-:|
-| Pain Spike | "Die!" | Single-target damage |
-| Poison Strike | "Boils upon you!" | Area poison damage around the target |
-| Wither | "Freeze, mortal!" | Area damage around him |
-| Strangle | "Shh.." | Damage over time, growing as the target's stamina drops |
-| Blood Oath | "Heh heh heh.." | A fighter's blows against him hurt them too, for a while |
-| Animate Dead | "Rise!" | Raises a slain undead nearby as the same creature |
-| Magery | Standard spell effects | Poisons, paralyzes, and drains mana |
-| Healing | Standard spell effects | Heals himself in combat and whenever no one is in sight |
-| Blink | Teleport flash | Vanishes and reappears nearby |
+| Ability | Says | Looks Like | Effect |
+|:-|:-:|:-:|:-:|
+| Pain Spike | *Die!* | Red starburst | Single-target damage |
+| Poison Strike | *Boils upon you!* | Green cloud | Area poison damage around the target |
+| Wither | *Freeze, mortal!* | Blue tornado | Area damage around him |
+| Strangle | *Shh..* | Green orbs | Damage over time, growing as the target's stamina drops |
+| Blood Oath | *Heh heh heh..* | Smoke cloud | A fighter's blows against him hurt them too, for a while |
+| Animate Dead | *Rise!* | | Raises a bone knight beside him |
+| Magery | | Standard spell effects | Poisons, paralyzes, and drains mana |
+| Healing | | Standard spell effects | Heals himself in combat and whenever no one is in sight |
+| Blink | | Teleport flash | Vanishes and reappears nearby |
 
-He keeps up to `3` raised undead at a time, and each one loses `2` hit points every `2` seconds until it falls. A raised creature can't be raised again.
+He needs no corpse to raise a bone knight. He keeps up to `3` at a time, and each one loses `2` hit points every `2` seconds until it falls.
 
 He blinks every `5` to `10` seconds in combat, reappearing up to `6` tiles away. If he has strayed more than `12` tiles from his throne, he blinks straight back to it instead.
 
