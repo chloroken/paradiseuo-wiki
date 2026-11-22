@@ -2,7 +2,7 @@
 title: Features
 description: 
 published: true
-date: 2026-11-21T16:33:53.152Z
+date: 2026-11-22T06:19:38.356Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -14,7 +14,7 @@ dateCreated: 2026-11-18T23:04:02.833Z
 Smaller tweaks are listed in the [patch notes](/patch_notes).
 
 ## Fighter Rework
-Fighters are enhanced to keep pace with mages, tamers, and bards in PvM.
+Those who use weapons to do damage are enhanced to keep pace with mages, tamers, and bards in PvM.
 
 - [Valor](/combat#valor):
   - Characters who fight without magic are gripped by [the warrior's virtue](https://wiki.ultimacodex.com/wiki/Valor).
