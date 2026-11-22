@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-22T12:40:55.801Z
+date: 2026-11-22T12:42:55.663Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -85,7 +85,8 @@ These skills already had adventure potential:
 - "Disarm" as a mechanic is bad
 
 ## Projects
-- Karma Town Trinket rework
+- Give gems some type of meaningful purpose outside of economy
+- Karma Town Trinkets to complete reputation rework
 - Crafting expanded, allow for solo economy with NPCs (npcs in towns sometimes offer jobs to crafters. weighted based on town, e.g., yew more likely to offer fletchers a job.)
 - More quests from npcs in towns, including hauling quests, boating quests, etc.
 - Fork TazUO and customize defaults for new players, strip egregious branding
