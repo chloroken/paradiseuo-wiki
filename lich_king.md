@@ -2,7 +2,7 @@
 title: Lich King
 description: The demiboss of Covetous, how he fights, and what he drops
 published: true
-date: 2026-11-22T10:35:50.963Z
+date: 2026-11-22T11:00:56.040Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T14:54:28.083Z
@@ -32,14 +32,18 @@ The Lich King fights mostly with spells, mixing Necromancy, which players can't 
 | Ability | Says | Looks Like | Effect |
 |:-|:-:|:-:|:-:|
 | Pain Spike | *Die!* | Red starburst | Single-target damage |
-| Poison Strike | *Boils upon you!* | Green cloud | Area poison damage around the target |
+| Poison Strike | *Boils upon you!* | Green cloud | Area damage around the target |
 | Wither | *Freeze, mortal!* | Blue tornado | Area damage around him |
 | Strangle | *Shh..* | Green orbs | Damage over time, growing as the target's stamina drops |
-| Blood Oath | *Heh heh heh..* | Smoke cloud | A fighter's blows against him hurt them too, for a while |
+| Blood Oath | *Heh heh heh..* | Smoke cloud | Binds a target, whose hits on him come back to them in full |
 | Animate Dead | *Rise!* | | Raises a bone knight beside him |
 | Magery | | Standard spell effects | Poisons, paralyzes, and drains mana |
 | Healing | | Standard spell effects | Heals himself in combat and whenever no one is in sight |
 | Blink | | Teleport flash | Vanishes and reappears nearby |
+
+Strangle damages its target `8` to `10` times over about `30` to `35` seconds. The first tick lands `5` seconds after the cast, and the rest come faster and faster. Each tick does damage that gets higher based on missing stamina. Cures don't end it.
+
+While Blood Oath lasts, every hit the cursed target lands on him does `20%` more damage to him, and the target takes the original damage back. It lasts from `7` to `22` seconds, shorter the higher the target's Resisting Spells. He can only hold one Blood Oath at a time; if he casts it again while a bond is active, nothing happens.
 
 He needs no corpse to raise a bone knight. He keeps up to `3` at a time, and each one loses `2` hit points every `2` seconds until it falls.
 
