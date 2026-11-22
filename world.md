@@ -2,7 +2,7 @@
 title: World
 description: NPCs, quests, and points of interest across Britannia and the Lost Lands
 published: true
-date: 2026-11-19T08:01:48.158Z
+date: 2026-11-22T07:06:36.871Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:07:19.032Z
@@ -37,8 +37,5 @@ Two towns only serve characters of the right Karma: Serpent's Hold for the good,
 - Witch's Apprentice: started by double-clicking Grizelda
 
 ## Points of Interest
-- Cyclops Valley: home of titans and nightmares
-- The Oasis: home of the silver steed
 - Shrines: eight of them, scattered across Britannia
 - Moonglow Zoo: creatures of all kinds, with a `24`-hour respawn
-- Tortoise Lagoon: home of frenzied ostards
