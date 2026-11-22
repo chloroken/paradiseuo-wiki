@@ -9,7 +9,7 @@ dateCreated: 2026-11-19T05:45:52.782Z
 ---
 
 # Towns
-Towns are where players bank, buy and sell, train skills, and stable their pets. Many of them have a moongate, and the towns of the Lost Lands can only be reached on foot, by teleporter, or by boat.
+Towns are where players bank, buy and sell, train skills, and stable their pets. Many of them have a moongate, and the towns of the Lost Lands can only be reached on foot, by teleporter, or by boat. See [Connectors](/connectors).
 
 ## Britannia
 | Town | Moongate | Notes |

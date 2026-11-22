@@ -21,7 +21,7 @@ Town chests are scattered through buildings in towns. A chest's difficulty is ti
 | 3 | 60 | 90 | Fighters' Guild, guards |
 
 ## Dungeon Chests
-Dungeon chests are found in dungeons and hold traditional dungeon loot. They range from level 1 (graveyards and orc camps) to levels 2 and 3 (dungeons), to level 4 (deep, difficult dungeons).
+Dungeon chests are found in dungeons and hold traditional dungeon loot. They range from level 1 (graveyards and camps) to levels 2 and 3 (dungeons), to level 4 (deep, difficult dungeons). Camps also have a locked level 3 chest. See [Points of Interest: Camps](/points_of_interest#camps).
 
 | Chest Level | Minimum Skill | Maximum Skill |
 |:-|:-:|:-:|
