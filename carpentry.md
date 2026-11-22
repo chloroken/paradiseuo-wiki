@@ -1,6 +1,6 @@
 ---
 title: Carpentry
-description: 
+description: Turning boards into furniture, containers, weapons, instruments, and house add-ons
 published: true
 date: 2026-11-19T11:19:53.462Z
 tags: 
@@ -119,8 +119,8 @@ A chest, box, or crate made by a carpenter can come with a lock and a key, depen
 | Pickpocket dip | 73.6 | 98.6 | 65 boards, 60 cloth | Tailoring 50 – 55 |
 
 ## Manual Training
-To train Carpentry, collect boards and spare tools for when they break, then craft the highest-level items possible. The `Properties` button beside each item in the crafting menu shows the chance of success.
+Carpentry trains by crafting the highest-level items possible, with plenty of boards and spare tools for when they break. The `Properties` button beside each item in the crafting menu shows the chance of success.
 
-Expect to use many thousands of boards to reach grandmaster.
+Reaching grandmaster takes many thousands of boards.
 
 ## Macro Training

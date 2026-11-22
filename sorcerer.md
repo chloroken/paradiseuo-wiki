@@ -1,6 +1,6 @@
 ---
 title: Sorcerer
-description: 
+description: A pure mage class with strong defensive magic
 published: true
 date: 2026-11-20T10:13:21.616Z
 tags: 

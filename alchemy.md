@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-description: 
+description: Brewing potions from reagents, every potion's recipe, and what each one does
 published: true
 date: 2026-11-20T05:14:48.220Z
 tags: 
@@ -12,7 +12,7 @@ dateCreated: 2026-11-20T05:14:48.220Z
 Alchemy is the skill of brewing potions from reagents. Alchemists heal, cure, strengthen, and poison, and their explosion potions are one of the few ways to damage a whole group without Magery.
 
 ## Brewing
-Double-click a mortar and pestle to open the crafting menu. Every potion needs reagents and an empty bottle. A failed attempt loses the reagents but returns the bottle.
+Double-clicking a mortar and pestle opens the crafting menu. Every potion needs reagents and an empty bottle. A failed attempt loses the reagents but returns the bottle.
 
 The chance to succeed rises evenly from `0%` at a potion's minimum skill to `100%` at its maximum. Some potions have a minimum below `0`, so even a character with no Alchemy can sometimes brew them. See [Crafting](/crafting).
 

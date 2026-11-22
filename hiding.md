@@ -1,6 +1,6 @@
 ---
 title: Hiding
-description: 
+description: Disappearing from sight, staying hidden, and setting up an ambush
 published: true
 date: 2026-11-19T07:44:18.423Z
 tags: 
@@ -12,7 +12,7 @@ dateCreated: 2026-11-19T07:33:58.907Z
 Hiding is the skill of disappearing from sight. A hidden character can't be seen by players or monsters until something reveals them, and hiding is the first step of an archer's ambush.
 
 ## Going Hidden
-Use the skill to try to hide. The chance to succeed is the character's Hiding skill as a percentage.
+Using the skill attempts to hide. The chance to succeed is the character's Hiding skill as a percentage.
 
 - Inside a house where the character is an owner, co-owner, or friend, hiding always succeeds.
 - Standing right next to a house adds `50%` to the chance.

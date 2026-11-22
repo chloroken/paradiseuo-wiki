@@ -1,6 +1,6 @@
 ---
 title: Minstrel
-description: 
+description: A bard class that controls fights with music and finishes enemies with a bow
 published: true
 date: 2026-11-20T11:01:48.112Z
 tags: 

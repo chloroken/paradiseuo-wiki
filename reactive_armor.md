@@ -1,6 +1,6 @@
 ---
 title: Reactive Armor
-description: 
+description: The spell that absorbs melee damage and reflects part of it back
 published: true
 date: 2026-11-18T22:49:25.535Z
 tags: 

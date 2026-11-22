@@ -1,6 +1,6 @@
 ---
 title: Paladin
-description: 
+description: A mace-wielding warrior class with light defensive magic
 published: true
 date: 2026-11-20T10:03:42.517Z
 tags: 

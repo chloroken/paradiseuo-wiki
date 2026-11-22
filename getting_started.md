@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-description: 
+description: Where new players start, from installing the game to learning the commands
 published: true
 date: 2026-11-21T06:00:00.000Z
 tags: 

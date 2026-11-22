@@ -1,6 +1,6 @@
 ---
 title: World
-description: 
+description: NPCs, quests, and points of interest across Britannia and the Lost Lands
 published: true
 date: 2026-11-19T08:01:48.158Z
 tags: 
@@ -31,10 +31,10 @@ Two towns only serve characters of the right Karma: Serpent's Hold for the good,
 ## Quests
 *Paradise* has the following quests:
 
-- Escort NPCs: double-click the NPC.
-- Seekers of Adventure: double-click the NPC.
-- Prison Camps (escort or seeker): say `destination`, then say `i will take thee`.
-- Witch's Apprentice: double-click Grizelda.
+- Escort NPCs: started by double-clicking the NPC
+- Seekers of Adventure: started by double-clicking the NPC
+- Prison Camps (escort or seeker): started by saying `destination`, then `i will take thee`
+- Witch's Apprentice: started by double-clicking Grizelda
 
 ## Points of Interest
 - Cyclops Valley: home of titans and nightmares

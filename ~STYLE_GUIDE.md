@@ -1,6 +1,6 @@
 ---
 title: ~Style Guide~
-description: 
+description: How every page on the Paradise wiki is written and formatted
 published: true
 date: 2026-11-20T05:14:56.554Z
 tags: 
@@ -102,6 +102,7 @@ Formulas use full skill and stat names, never abbreviations.
   - Correct: Fists do `1` to `8` damage before bonuses and swing quickly.
   - Incorrect: Fists do `1` to `8` damage before bonuses, and swing quickly.
 - Third person, present tense: players, a tamer. Not "you".
+- Instructions are third person too, never commands to the reader: "Double-clicking a treasure map decodes it," not "Double-click a treasure map." Patch notes are the one exception, and are written as commands, such as "Add the Lich King".
 - No emoji.
 - No superscript. Notes go in plain text, usually in parentheses or as their own sentence.
 

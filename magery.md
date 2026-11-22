@@ -1,6 +1,6 @@
 ---
 title: Magery
-description: 
+description: Casting spells, casting chances by circle, and travel magic
 published: true
 date: 2026-11-19T08:06:08.513Z
 tags: 

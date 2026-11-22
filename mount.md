@@ -1,6 +1,6 @@
 ---
 title: Mount
-description: 
+description: Every mount, where to find it, and the Shiny variants
 published: true
 date: 2026-11-19T05:34:31.652Z
 tags: 
@@ -17,7 +17,7 @@ Only the horse can be bought; other mounts must be tamed. [Animal tamers](/anima
 Horses can be bought from any [animal trainer](/stable) for `550` gold.
 
 ## Ridable Llama
-Ridable llamas are found in the Lost Lands. Look for a llama whose name says *ridable*.
+Ridable llamas are found in the Lost Lands. A ridable llama has *ridable* in its name.
 
 ## Forest and Desert Ostards
 Forest and desert ostards are found in the Lost Lands, in their matching biomes. Forest ostards come in reds, blues, and greens, and desert ostards in beige and brown.

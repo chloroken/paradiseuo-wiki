@@ -1,6 +1,6 @@
 ---
 title: Beastmaster
-description: 
+description: A bard class that leads a pack of pets and controls fights with music
 published: true
 date: 2026-11-20T11:00:18.804Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Shadow
-description: 
+description: A stealthy archer class built around the ambush
 published: true
 date: 2026-11-20T14:02:44.457Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Deadeye
-description: 
+description: A pure archer class that relies on Fletching and Tracking
 published: true
 date: 2026-11-20T13:52:00.548Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Peacemaking
-description: 
+description: Calming a target with music so it stops attacking
 published: true
 date: 2026-11-19T05:36:33.033Z
 tags: 

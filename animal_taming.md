@@ -1,6 +1,6 @@
 ---
 title: Animal Taming
-description: 
+description: Turning animals and monsters into pets, the taming penalty, and where to train
 published: true
 date: 2026-11-20T03:10:17.999Z
 tags: 
@@ -17,13 +17,13 @@ Taming a creature reduces its [skills](/skills), such as Magery, by `10%`. If it
 The penalty applies again every time a creature is tamed by a new owner, so a pet that has been released and re-tamed several times keeps less of its original skill each time.
 
 ## Manual Training
-Animal Taming is one of the slowest skills to train, though it gains twice as fast during alpha. Train [Animal Lore](/animal_lore) alongside it, since it helps tamed animals obey commands. See [Obeying Commands](/pet#obeying-commands).
+Animal Taming is one of the slowest skills to train, though it gains twice as fast during alpha. Tamers train [Animal Lore](/animal_lore) alongside it, since it helps tamed animals obey commands. See [Obeying Commands](/pet#obeying-commands).
 
-To follow an animal automatically, use `Alt + Click` on it.
+Using `Alt + Click` on an animal follows it automatically.
 
 Training Animal Taming means taming animals. Animals wander off, and an animal stops giving skill gains to a player after the first time that player tames it. An animal that has had too many owners can't be tamed at all.
 
-Tamers move from animal to animal, taming and then releasing or culling each one. If an area gives no gains, other tamers have trained there without culling, so cull the animals or move on.
+Tamers move from animal to animal, taming and then releasing or culling each one. If an area gives no gains, other tamers have trained there without culling, so the tamer should cull the animals or move on.
 
 The following table lists the best animals to tame and where to find them. A new animal gives gains easily, since it will rarely be tamed successfully and failures give skill gains. As skill rises, taming succeeds more often, so each animal gives fewer gains, particularly near grandmaster.
 

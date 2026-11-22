@@ -1,6 +1,6 @@
 ---
 title: Weapons
-description: 
+description: Every weapon type, its skill, its weapon effect, and magic weapons
 published: true
 date: 2026-11-21T17:49:14.493Z
 tags: 

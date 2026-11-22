@@ -1,6 +1,6 @@
 ---
 title: Reputation
-description: 
+description: Fame and Karma, their bonuses, the Karma towns, and character titles
 published: true
 date: 2026-11-20T02:52:27.522Z
 tags: 
@@ -53,7 +53,7 @@ The people of these two towns only deal with characters of the right Karma.
 | Buccaneer's Den | -5,000 or below | Crossroads west of Vesper |
 
 - Vendors, bankers, animal trainers, healers, trainers, and hirelings in these towns refuse to deal with characters who don't meet the requirement.
-- Neither town has a moongate. Travel there by boat, by magic, or by teleporter.
+- Neither town has a moongate. They're reached by boat, by magic, or by teleporter.
 
 ### Templars and Thugs
 Templars are good NPCs and thugs are evil ones, found outside the teleporters to their Karma towns.
@@ -67,7 +67,7 @@ Templars are good NPCs and thugs are evil ones, found outside the teleporters to
 ### Karma Lock
 - If Karma drops from positive to below `0`, it becomes locked.
 - Locked Karma can't be increased by any means, but it can still decrease.
-- To unlock it, stand beside the ankh at any shrine and speak that shrine's mantra.
+- Speaking a shrine's mantra while standing beside its ankh unlocks it.
 
 | Shrine | Mantra |
 |:-|:-:|

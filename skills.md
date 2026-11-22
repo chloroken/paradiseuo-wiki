@@ -1,6 +1,6 @@
 ---
 title: Skills
-description: 
+description: Every enabled and disabled skill, and the most popular ones
 published: true
 date: 2026-11-21T18:21:06.287Z
 tags: 

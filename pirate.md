@@ -1,6 +1,6 @@
 ---
 title: Pirate
-description: 
+description: A bard class that hunts treasure maps alone
 published: true
 date: 2026-11-20T10:21:27.957Z
 tags: 

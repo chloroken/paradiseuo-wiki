@@ -1,6 +1,6 @@
 ---
 title: Lockpicking
-description: 
+description: Picking town, dungeon, treasure, and crafted chests
 published: true
 date: 2026-11-20T02:55:34.549Z
 tags: 
@@ -59,10 +59,10 @@ The carpenter's Tinkering then sets how hard the lock is to pick:
 Higher Tinkering keeps making the lock harder to pick, and raises the Lockpicking needed to try it. No crafted lock stops a lockpicker with `95` or more.
 
 ## Manual Training
-Pick chests in towns and dungeons, and pick the hardest crafted container available in between.
+Lockpicking trains by picking chests in towns and dungeons, and the hardest crafted container available in between.
 
 ## Macro Training
-Get three locked boxes: one made with 50 Tinkering, one made with 75, and one made with 100. Then run this TazUO Legion script, resetting for each new box tier, until grandmaster.
+The macro needs three locked boxes: one made with 50 Tinkering, one made with 75, and one made with 100. This TazUO Legion script runs on one box at a time, restarted for each harder box, until grandmaster:
 ```
 pick = API.FindType(0x14FC, API.Backpack)
 API.SysMsg("Target the box")

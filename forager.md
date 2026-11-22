@@ -1,6 +1,6 @@
 ---
 title: Forager
-description: 
+description: A gathering class built around Mining, Lumberjacking, and Fishing
 published: true
 date: 2026-11-20T10:38:32.168Z
 tags: 

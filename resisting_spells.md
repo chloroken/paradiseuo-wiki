@@ -1,6 +1,6 @@
 ---
 title: Resisting Spells
-description: 
+description: Resist chance against hostile spells, and which spells train it
 published: true
 date: 2026-11-20T07:28:14.837Z
 tags: 

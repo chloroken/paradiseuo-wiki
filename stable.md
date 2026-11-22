@@ -1,6 +1,6 @@
 ---
 title: Stable
-description: 
+description: Keeping pets in the stables, stable commands, and stable slots
 published: true
 date: 2026-11-19T05:34:55.553Z
 tags: 
@@ -13,10 +13,10 @@ Animal trainers offer stables to keep pets safe while their owners are offline. 
 
 | Command | Effect |
 |:-|:-:|
-| `stable` | Stable a pet for 30 gold, taken from the backpack or bank |
-| `claim` | Choose a pet to claim from the stables |
-| `claim <name>` | Quick-claim a pet by name |
-| `stablecount` | Show how many stable slots are used and available |
+| `stable` | Stables a pet for 30 gold, taken from the backpack or bank |
+| `claim` | Opens a list of stabled pets to claim |
+| `claim <name>` | Quick-claims a pet by name |
+| `stablecount` | Shows how many stable slots are used and available |
 
 - Stabled pets can be claimed from any animal trainer.
 - Pack animals must be unloaded before they can be stabled.

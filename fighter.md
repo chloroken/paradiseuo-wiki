@@ -1,6 +1,6 @@
 ---
 title: Fighter
-description: 
+description: A pure warrior class that gets the full Valor bonuses
 published: true
 date: 2026-11-20T10:02:05.840Z
 tags: 

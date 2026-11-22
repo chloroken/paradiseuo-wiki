@@ -1,6 +1,6 @@
 ---
 title: Pet
-description: 
+description: Training, healing, controlling, and feeding pets, plus Loyalty and Pack Instinct
 published: true
 date: 2026-11-20T04:27:23.390Z
 tags: 
@@ -34,7 +34,7 @@ Once an hour, every pet in the world loses `10` Loyalty. Stabled pets and pets b
 An unfed pet at full Loyalty goes wild after about `10` hours.
 
 ## Feeding
-Drop food on a pet to feed it. Only its favorite food works, which Animal Lore reveals. Each piece of food in the stack has a `50%` chance to add `10` Loyalty, up to the maximum of `100`. If any of it worked, the pet *looks happier*.
+Pets are fed by dropping food on them. Only its favorite food works, which Animal Lore reveals. Each piece of food in the stack has a `50%` chance to add `10` Loyalty, up to the maximum of `100`. If any of it worked, the pet *looks happier*.
 
 Feeding a stack is more reliable than feeding one piece, and a stack of `20` almost always fills a pet back to full. A pet eats the whole stack even after its Loyalty is full, so extra food is wasted.
 

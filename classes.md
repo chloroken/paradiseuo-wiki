@@ -1,6 +1,6 @@
 ---
 title: Classes
-description: 
+description: Proven character builds for fighters, archers, mages, bards, and toilers
 published: true
 date: 2026-11-20T17:17:19.024Z
 tags: 

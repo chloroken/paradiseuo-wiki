@@ -1,6 +1,6 @@
 ---
 title: Patch Notes
-description: 
+description: Every change to Paradise, newest first
 published: true
 date: 2026-11-21T15:55:43.105Z
 tags: 
@@ -85,6 +85,9 @@ Changes to *Paradise*, newest first.
     - Hit points regenerate up to `5×` faster
     - All three bonuses are full at `0` Magery and shrink to nothing at `100`
     - Only players get the bonuses
+- Strengthen the stealth archer ambush:
+    - Raise the damage from each stealthed step to `0.1×`, for a total of `2.5×` after all `10` steps
+    - Cap ambush damage against players at `2.0×`
 - Fix [Young players](/young_player) being unable to Recall, Gate Travel, or use moongates
 - Make wrestling moves automatic:
     - Armed players and human NPCs are disarmed, and everything else is stunned

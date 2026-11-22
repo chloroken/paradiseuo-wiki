@@ -1,6 +1,6 @@
 ---
 title: Poison
-description: 
+description: Poison strengths, how characters get poisoned, and how to cure it
 published: true
 date: 2026-11-20T04:21:01.590Z
 tags: 

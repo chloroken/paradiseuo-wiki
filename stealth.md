@@ -1,6 +1,6 @@
 ---
 title: Stealth
-description: 
+description: Moving while hidden, its requirements, and its role in an ambush
 published: true
 date: 2026-11-19T07:43:39.875Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Veterinary
-description: 
+description: Healing creatures with bandages, bandage range, and stable slots
 published: true
 date: 2026-11-19T08:00:20.548Z
 tags: 
@@ -11,7 +11,7 @@ dateCreated: 2026-11-18T08:02:09.296Z
 # Veterinary
 Veterinary is the skill of healing creatures with [bandages](/bandage). It's the [animal tamer's](/animal_taming) version of Healing.
 
-To heal a creature, usually a pet, use a bandage on it and stay in range until it finishes.
+To heal a creature, usually a pet, the veterinarian uses a bandage on it and stays in range until it finishes.
 
 ## Stable Slots
 Veterinary counts toward a character's stable slots, alongside Animal Taming and Animal Lore. See [Stable Slots](/stable#stable-slots).
@@ -36,7 +36,7 @@ Veterinarians can bandage creatures from a distance. For every `25` points of Ve
 Players can attack their own pets to train weapon skills, then bandage them to train Veterinary. See [Training on Pets](/pet#training-on-pets).
 
 ## Macro Training
-Get a hearty pet and several thousand bandages, then create a TazUO Assistant macro. Bind it to a key, set its `Journal Trigger` to `*pet*`, and add the following actions:
+The macro needs a hearty pet and several thousand bandages. It's a TazUO Assistant macro bound to a key, with its `Journal Trigger` set to `*pet*` and these actions:
 
 | Action | Value |
 |:-|:-:|
@@ -46,4 +46,4 @@ Get a hearty pet and several thousand bandages, then create a TazUO Assistant ma
 | `Say` | `*pet*` |
 | `Attack Last` | |
 
-Attack the pet and type `*pet*` to start the macro, and press the keybind to stop it. Adjust the delay to match the character's bandage speed. See [Bandage Speed](/healing#bandage-speed).
+Attacking the pet and typing `*pet*` starts the macro, and pressing the keybind stops it. The delay should match the character's bandage speed. See [Bandage Speed](/healing#bandage-speed).

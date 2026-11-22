@@ -1,6 +1,6 @@
 ---
 title: Cartography
-description: 
+description: Crafting maps and sea charts, and decoding treasure maps
 published: true
 date: 2026-11-20T02:35:34.202Z
 tags: 
@@ -12,7 +12,7 @@ dateCreated: 2026-11-05T21:09:30.643Z
 Cartographers craft maps and charts, which tillermen use to sail [boats](/boat) automatically. Cartographers can also decode [treasure maps](/treasure_map).
 
 ## Crafting Maps
-Double-click a mapmaker's pen to open the crafting menu.
+Double-clicking a mapmaker's pen opens the crafting menu.
 
 | Map Type | Minimum Cartography | Gain Limit |
 |:-|:-:|:-:|
@@ -23,11 +23,10 @@ Double-click a mapmaker's pen to open the crafting menu.
 | World map | 39.5 | 99.5 |
 
 ## Manual Training
-1. Buy mapmaker's pens from a mapmaker near a dock.
-1. Buy blank scrolls from a scribe in a library.
-1. Make the highest-level map possible.
-1. Sell the map back to the vendor or throw it away.
-1. Repeat until `99.5`.
-1. For the last `0.5`, decode level `3` or higher treasure maps.
+1. Mapmakers near the docks sell mapmaker's pens and blank maps, and scribes in libraries sell blank scrolls. Either blank maps or blank scrolls work.
+1. The cartographer makes the highest-level map possible.
+1. The map can be sold back to the vendor or thrown away.
+1. This repeats until `99.5`.
+1. The last `0.5` comes from decoding level `3` or higher treasure maps.
 
 ## Macro Training

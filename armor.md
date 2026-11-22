@@ -1,6 +1,6 @@
 ---
 title: Armor
-description: 
+description: How armor and shields reduce damage, which body slots get hit, and durability
 published: true
 date: 2026-11-21T05:49:44.278Z
 tags: 

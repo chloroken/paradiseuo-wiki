@@ -1,6 +1,6 @@
 ---
 title: Magic
-description: 
+description: Spellcasting, protective spells, and the bard skills
 published: true
 date: 2026-11-21T06:00:00.000Z
 tags: 

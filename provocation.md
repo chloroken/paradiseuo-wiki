@@ -1,6 +1,6 @@
 ---
 title: Provocation
-description: 
+description: Turning monsters against each other with music
 published: true
 date: 2026-11-19T05:36:44.916Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Damage Per Second
-description: 
+description: Damage per second for every weapon, with and without its weapon effect
 published: true
 date: 2026-11-21T17:44:34.729Z
 tags: 

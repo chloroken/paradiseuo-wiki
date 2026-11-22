@@ -1,6 +1,6 @@
 ---
 title: Community
-description: 
+description: Where to find other players and reach staff
 published: true
 date: 2026-11-19T01:58:52.454Z
 tags: 

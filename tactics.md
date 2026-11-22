@@ -1,6 +1,6 @@
 ---
 title: Tactics
-description: 
+description: Bonus damage with every weapon, and Valor's accuracy bonus
 published: true
 date: 2026-11-19T08:04:15.956Z
 tags: 

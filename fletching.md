@@ -1,6 +1,6 @@
 ---
 title: Fletching
-description: 
+description: Crafting bows, crossbows, arrows, and bolts, and how Fletching helps archers
 published: true
 date: 2026-11-21T17:43:56.106Z
 tags: 

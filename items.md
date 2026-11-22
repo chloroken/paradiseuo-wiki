@@ -1,6 +1,6 @@
 ---
 title: Items
-description: 
+description: Items with their own pages
 published: true
 date: 2026-11-20T02:39:39.619Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Lockpick
-description: 
+description: The tool used to pick locks
 published: true
 date: 2026-11-19T00:20:36.235Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Crafting
-description: 
+description: Every crafting skill, its tools and resources, success chances, and exceptional items
 published: true
 date: 2026-11-21T06:22:58.400Z
 tags: 
@@ -17,7 +17,7 @@ Crafters turn gathered resources into weapons, armor, clothing, furniture, potio
 | [Alchemy](/alchemy) | Mortar and pestle | Reagents, empty bottles | Potions |
 | [Blacksmithing](/blacksmithing) | Smith's hammer or tongs | Ingots | Metal weapons and armor |
 | [Carpentry](/carpentry) | Saw and other woodworking tools | Boards, logs | Furniture, containers, wooden weapons |
-| [Cartography](/cartography) | Mapmaker's pen | Blank maps | Maps |
+| [Cartography](/cartography) | Mapmaker's pen | Blank maps or blank scrolls | Maps |
 | [Cooking](/cooking) | Skillet, rolling pin, and others | Food ingredients | Food |
 | [Fletching](/fletching) | Fletcher's tools | Boards, feathers | Bows, crossbows, arrows, bolts |
 | [Inscription](/inscription) | Scribe's pen | Blank scrolls, reagents | Spell scrolls |

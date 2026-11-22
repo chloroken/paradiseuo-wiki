@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-description: 
+description: A key that makes locks easier to pick, and where to find one
 published: true
 date: 2026-11-19T11:36:46.641Z
 tags: 

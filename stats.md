@@ -1,6 +1,6 @@
 ---
 title: Stats
-description: 
+description: Strength, Dexterity, and Intelligence, carrying capacity, and gaining stats
 published: true
 date: 2026-11-19T09:30:24.860Z
 tags: 

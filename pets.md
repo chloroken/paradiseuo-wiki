@@ -1,6 +1,6 @@
 ---
 title: Pets
-description: 
+description: Taming, caring for, and riding pets
 published: true
 date: 2026-11-21T06:00:00.000Z
 tags: 

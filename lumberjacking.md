@@ -1,6 +1,6 @@
 ---
 title: Lumberjacking
-description: 
+description: Chopping trees for logs, wood supply, and bonus damage with axes
 published: true
 date: 2026-11-20T03:10:40.357Z
 tags: 
@@ -12,7 +12,7 @@ dateCreated: 2026-11-18T23:14:13.025Z
 Lumberjacking is the skill of chopping trees for logs, which [carpenters](/carpentry) and [fletchers](/fletching) turn into goods. It also makes axes hit harder.
 
 ## Chopping Trees
-Double-click an axe, then target a tree within `2` tiles. The character chops a few times, then either gets logs or fails. Any axe works, including hatchets, battle axes, and war axes.
+Double-clicking an axe and targeting a tree within `2` tiles starts chopping. The character chops a few times, then either gets logs or fails. Any axe works, including hatchets, battle axes, and war axes.
 
 - The chance to get logs is the character's Lumberjacking skill as a percentage: `50%` at `50` skill, and every attempt succeeds at `100`.
 - Each success puts `20` logs in the backpack, or `10` when the trees are nearly out of wood. If the backpack is full, the logs can't be taken.
@@ -37,10 +37,10 @@ Lumberjacking adds bonus damage to attacks made with axes. The bonus is `(Lumber
 The bonus only applies to axes that use Swordsmanship. War axes can chop trees, but they use Mace Fighting and get no damage bonus. Swords, maces, fencing weapons, and bows get nothing from Lumberjacking.
 
 ## Manual Training
-Chop trees with an axe.
+Chopping trees with an axe trains Lumberjacking.
 
 ## Macro Training
-In TazUO, make three macros:
+Lumberjacking can be macroed with three TazUO macros:
 
 1. `chop.start`, bound to a key:
     - `Use Item In Hand`
@@ -51,4 +51,4 @@ In TazUO, make three macros:
 1. `chop.move`, with the journal trigger `not enough`:
     - `Whisper` with the text `Out of wood!`
 
-Press the `chop.start` key and target a tree. `chop.continue` then keeps chopping that tree until it runs out of wood, and `chop.move` announces that it's time to find a new tree.
+Pressing the `chop.start` key and targeting a tree starts the loop. `chop.continue` then keeps chopping that tree until it runs out of wood, and `chop.move` announces that it's time to find a new tree.

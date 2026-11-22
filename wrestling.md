@@ -1,6 +1,6 @@
 ---
 title: Wrestling
-description: 
+description: Fighting unarmed, the automatic Disarm and Stun moves, and unarmed defense
 published: true
 date: 2026-11-19T08:04:30.856Z
 tags: 

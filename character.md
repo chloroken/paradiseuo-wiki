@@ -1,6 +1,6 @@
 ---
 title: Character
-description: 
+description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
 date: 2026-11-21T06:00:00.000Z
 tags: 

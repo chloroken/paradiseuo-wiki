@@ -1,6 +1,6 @@
 ---
 title: Tracking
-description: 
+description: Finding nearby creatures and players, and bonus accuracy with ranged weapons
 published: true
 date: 2026-11-20T09:26:48.733Z
 tags: 
@@ -12,7 +12,7 @@ dateCreated: 2026-11-20T09:26:48.733Z
 Tracking is the skill of locating nearby animals, monsters, NPCs, and players. Trackers can select a target and follow its movements with a tracking arrow. Tracking also improves ranged accuracy, making it a valuable combat skill for archers.
 
 ## Finding Targets
-Use the Tracking skill to search the surrounding area. The tracker can choose between four categories:
+Using the Tracking skill searches the surrounding area. The tracker can choose between four categories:
 
 - Animals
 - Monsters

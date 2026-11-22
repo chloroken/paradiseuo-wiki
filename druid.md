@@ -1,6 +1,6 @@
 ---
 title: Druid
-description: 
+description: A mage class that fights alongside tamed pets
 published: true
 date: 2026-11-20T10:18:35.351Z
 tags: 

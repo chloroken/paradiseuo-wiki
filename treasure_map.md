@@ -1,6 +1,6 @@
 ---
 title: Treasure Map
-description: 
+description: Decoding treasure maps, opening treasure chests, and what they hold
 published: true
 date: 2026-11-18T22:50:41.720Z
 tags: 
@@ -16,7 +16,7 @@ A map must be decoded with [Cartography](/cartography) before the location it sh
 Monsters keep spawning while the chest is looted. The type of monsters that spawn depends on the chest's level.
 
 ## Decoding
-Double-click a treasure map to try decoding it.
+Double-clicking a treasure map attempts to decode it.
 
 | Map Level | Minimum Cartography | Guaranteed Cartography | Gain Limit |
 |:-|:-:|:-:|:-:|

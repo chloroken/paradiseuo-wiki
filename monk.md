@@ -1,6 +1,6 @@
 ---
 title: Monk
-description: 
+description: A mage class that fights with fists and stuns in leather armor
 published: true
 date: 2026-11-20T10:16:58.374Z
 tags: 

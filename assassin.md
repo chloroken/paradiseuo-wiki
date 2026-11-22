@@ -1,6 +1,6 @@
 ---
 title: Assassin
-description: 
+description: A fencing class that poisons its targets and strikes from hiding
 published: true
 date: 2026-11-20T17:20:57.872Z
 tags: 

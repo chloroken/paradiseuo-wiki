@@ -1,6 +1,6 @@
 ---
 title: Spells
-description: 
+description: Every Magery spell by circle, with its words of power
 published: true
 date: 2026-11-19T00:17:26.210Z
 tags: 

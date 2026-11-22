@@ -1,6 +1,6 @@
 ---
 title: Magic Reflection
-description: 
+description: The spell that bounces the next offensive spell back at its caster
 published: true
 date: 2026-11-18T22:47:35.828Z
 tags: 

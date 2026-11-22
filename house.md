@@ -1,6 +1,6 @@
 ---
 title: House
-description: 
+description: Placing and keeping a house, house commands, and every house type
 published: true
 date: 2026-11-19T05:38:52.424Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Poisoning
-description: 
+description: Coating weapons and ammunition with poison, poison chance, and self-poisoning
 published: true
 date: 2026-11-20T04:15:24.691Z
 tags: 
@@ -12,7 +12,7 @@ dateCreated: 2026-11-20T00:56:57.736Z
 Poisoning is the skill of coating fencing weapons, knives, arrows, bolts, and food with poison made with [Alchemy](/alchemy). A poisoned target takes damage every few seconds until the poison is cured or wears off. It is a dangerous skill to dabble in because any character, except grandmaster poisoners, can accidentally poison themselves in combat. See [Curing Poison](/healing#curing-poison).
 
 ## Applying Poison
-Use the skill, target a poison potion, then target what to poison. After `2` seconds, a skill check decides whether it works. The skill can be used again after `10` seconds. A failure with less than `80` Poisoning has a `5%` chance to poison the character instead.
+The poisoner uses the skill, targets a poison potion, then targets what to poison. After `2` seconds, a skill check decides whether it works. The skill can be used again after `10` seconds. A failure with less than `80` Poisoning has a `5%` chance to poison the character instead.
 
 Each success lowers Karma by `20 + Karma / 100`, but never raises it: `120` at `10,000` Karma, `20` at `0`, and nothing at `-2,000` or below.
 

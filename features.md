@@ -1,6 +1,6 @@
 ---
 title: Features
-description: 
+description: The major ways Paradise differs from T2A
 published: true
 date: 2026-11-22T06:19:38.356Z
 tags: 

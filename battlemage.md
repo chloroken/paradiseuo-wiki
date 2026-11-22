@@ -1,6 +1,6 @@
 ---
 title: Battlemage
-description: 
+description: A mage class that follows spells with heavy halberd hits
 published: true
 date: 2026-11-20T10:08:02.748Z
 tags: 

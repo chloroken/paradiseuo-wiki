@@ -1,6 +1,6 @@
 ---
 title: Young Player
-description: 
+description: The protections new players get, and how Young status ends
 published: true
 date: 2026-11-21T15:54:01.153Z
 tags: 

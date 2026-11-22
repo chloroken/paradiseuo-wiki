@@ -1,6 +1,6 @@
 ---
 title: Towns
-description: 
+description: Every town in Britannia and the Lost Lands, and which have moongates
 published: true
 date: 2026-11-19T08:01:26.492Z
 tags: 

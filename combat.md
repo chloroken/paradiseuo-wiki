@@ -1,6 +1,6 @@
 ---
 title: Combat
-description: 
+description: Hit chance, swing speed, damage, and Valor, the warrior's virtue
 published: true
 date: 2026-11-21T06:26:35.814Z
 tags: 

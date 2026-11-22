@@ -1,8 +1,8 @@
 ---
 title: Archery
-description: 
+description: Bows and crossbows, crossbow volleys, ammunition, and the stealth archer's ambush
 published: true
-date: 2026-11-22T06:32:32.859Z
+date: 2026-11-21T17:43:45.755Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:21:12.302Z

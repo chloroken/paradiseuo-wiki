@@ -1,6 +1,6 @@
 ---
 title: Artisan
-description: 
+description: A crafting class that supplies equipment and goods for other players
 published: true
 date: 2026-11-20T10:35:27.193Z
 tags: 

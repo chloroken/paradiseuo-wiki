@@ -1,6 +1,6 @@
 ---
 title: Protection
-description: 
+description: The spell that keeps a caster's spells from being disrupted
 published: true
 date: 2026-11-20T16:27:51.219Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-description: 
+description: What roams the world, how monsters behave, and the demibosses
 published: true
 date: 2026-11-20T04:26:47.790Z
 tags: 

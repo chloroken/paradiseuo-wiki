@@ -1,6 +1,6 @@
 ---
 title: Commands
-description: 
+description: Speech commands for NPCs, pets, and places, and the server commands players can use
 published: true
 date: 2026-11-19T07:49:07.476Z
 tags: 

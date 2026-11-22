@@ -1,6 +1,6 @@
 ---
 title: Discordance
-description: 
+description: Weakening an enemy's stats and skills with music
 published: true
 date: 2026-11-19T05:36:56.084Z
 tags: 
