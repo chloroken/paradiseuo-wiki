@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-22T10:10:21.077Z
+date: 2026-11-22T10:24:00.046Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -24,6 +24,8 @@ Changes to *Paradise*, newest first.
 - Strengthen the [Lich King](/lich_king):
     - Raise his hit points to `9,000` to `11,000`
     - Make him blink to a nearby spot every `5` to `10` seconds in combat, or back to his throne if he strays more than `12` tiles
+    - Let him raise slain undead with Animate Dead, as the same creature they were
+    - Now says phrases when casting necro spells
 - Let demibosses path around obstacles
 - Stop a second bandage on the same target from restarting one already in progress, so no time or bandages are lost (switching targets still cancels it)
 
