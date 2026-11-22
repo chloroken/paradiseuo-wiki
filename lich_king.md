@@ -2,7 +2,7 @@
 title: Lich King
 description: The demiboss of Covetous, how he fights, and what he drops
 published: true
-date: 2026-11-22T08:41:11.835Z
+date: 2026-11-22T10:12:10.712Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T14:54:28.083Z
@@ -29,15 +29,21 @@ The throne room is populated by the Lich King's personal army of skeletons. Thes
 ## Abilities
 The Lich King fights mostly with spells, mixing Necromancy, which players can't learn, with Magery.
 
-- Pain Spike: a sudden stab of pain at a single target.
-- Poison Strike: poison bursts on the target and splashes anyone beside them.
-- Wither: a wave of cold that hurts everyone around him.
-- Strangle: chokes the target, doing damage over time that increases as stamina depletes.
-- Blood Oath: binds a fighter, so their blows against him hurt them too for a while.
-- Animate Dead: raises slain skeletons nearby to fight again.
-- Magery: he also poisons, paralyzes, and drains mana from his foes.
-- Healing: he heals himself during the fight and whenever no one is in sight.
-- Blink: every `5` to `10` seconds in combat, he vanishes and reappears up to `6` tiles away. If he has strayed more than `12` tiles from his throne, he blinks straight back to it instead.
+| Ability | Looks Like | Effect |
+|:-|:-:|:-:|
+| Pain Spike | Red starburst | Single-target damage |
+| Poison Strike | Green cloud | Area poison damage around the target |
+| Wither | Blue tornado | Area damage around him |
+| Strangle | Green orbs | Damage over time, growing as the target's stamina drops |
+| Blood Oath | Smoke cloud | A fighter's blows against him hurt them too, for a while |
+| Animate Dead | | Raises a slain undead nearby as the same creature |
+| Magery | Standard spell effects | Poisons, paralyzes, and drains mana |
+| Healing | Standard spell effects | Heals himself in combat and whenever no one is in sight |
+| Blink | Teleport flash | Vanishes and reappears nearby |
+
+He keeps up to `3` raised undead at a time, and each one loses `2` hit points every `2` seconds until it falls. A raised creature can't be raised again.
+
+He blinks every `5` to `10` seconds in combat, reappearing up to `6` tiles away. If he has strayed more than `12` tiles from his throne, he blinks straight back to it instead.
 
 ## Loot
 | Drop | Amount | Chance (%) |
