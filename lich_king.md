@@ -2,7 +2,7 @@
 title: Lich King
 description: The demiboss of Covetous, how he fights, and what he drops
 published: true
-date: 2026-11-22T10:12:10.712Z
+date: 2026-11-22T10:22:44.619Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T14:54:28.083Z
@@ -31,12 +31,12 @@ The Lich King fights mostly with spells, mixing Necromancy, which players can't 
 
 | Ability | Looks Like | Effect |
 |:-|:-:|:-:|
-| Pain Spike | Red starburst | Single-target damage |
-| Poison Strike | Green cloud | Area poison damage around the target |
-| Wither | Blue tornado | Area damage around him |
-| Strangle | Green orbs | Damage over time, growing as the target's stamina drops |
-| Blood Oath | Smoke cloud | A fighter's blows against him hurt them too, for a while |
-| Animate Dead | | Raises a slain undead nearby as the same creature |
+| Pain Spike | "Die!" | Single-target damage |
+| Poison Strike | "Boils upon you!" | Area poison damage around the target |
+| Wither | "Freeze, mortal!" | Area damage around him |
+| Strangle | "Shh.." | Damage over time, growing as the target's stamina drops |
+| Blood Oath | "Heh heh heh.." | A fighter's blows against him hurt them too, for a while |
+| Animate Dead | "Rise!" | Raises a slain undead nearby as the same creature |
 | Magery | Standard spell effects | Poisons, paralyzes, and drains mana |
 | Healing | Standard spell effects | Heals himself in combat and whenever no one is in sight |
 | Blink | Teleport flash | Vanishes and reappears nearby |
