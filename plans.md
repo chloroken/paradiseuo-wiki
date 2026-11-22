@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-22T12:07:56.757Z
+date: 2026-11-22T12:40:55.801Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -80,6 +80,9 @@ These skills already had adventure potential:
 - Have page written for every skill
 - Use template to make page for every spell
 - Add pages with incoming links that are missing
+
+## Fixes
+- "Disarm" as a mechanic is bad
 
 ## Projects
 - Karma Town Trinket rework
