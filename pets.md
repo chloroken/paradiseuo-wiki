@@ -2,10 +2,10 @@
 title: Pets
 description: Taming, caring for, and riding pets
 published: true
-date: 2026-11-21T06:00:00.000Z
+date: 2026-11-22T14:30:34.301Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-21T06:00:00.000Z
+dateCreated: 2026-11-21T05:59:16.537Z
 ---
 
 # Pets
@@ -21,3 +21,6 @@ Pets fight, carry, and travel alongside their owners. These pages cover how to t
 
 ## Riding
 - [Mount](/mount): pets that speed up travel.
+
+## Hirelings
+- [Hireling](/hireling): paid townsfolk who fight or heal alongside a character.
