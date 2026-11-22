@@ -2,7 +2,7 @@
 title: Features
 description: The major ways Paradise differs from T2A
 published: true
-date: 2026-11-22T12:01:44.358Z
+date: 2026-11-22T12:07:21.804Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -53,7 +53,7 @@ Archers receive several enhancements that make ranged combat more effective.
   - Increases accuracy with ranged weapons.
   - At `100` Tracking, shots against fleeing targets never miss.
 ## Pet Enhancements
-Controlling summons is a popular fantasy, so it's been enhanced in two major ways.
+Controlling pets is a popular fantasy, so it's been enhanced in two major ways.
 
 ### Tamers
 Animal tamers get several changes that make training, healing, and keeping pets easier.
@@ -70,7 +70,7 @@ Mages who train [Spirit Speak](/spirit_speak) bind their summons more tightly. E
 
 - Magery summons last up to twice as long.
 - Dispel and Mass Dispel are up to `75%` less likely to remove them, unless cast by the summoner.
-- Summoned air, earth, fire, and water elementals do up to `50%` more damage, more than making up for the pet penalty.
+- Summoned air, earth, fire, and water elementals do up to `50%` more damage.
 - At `100` Spirit Speak, the four elemental summon spells never fail.
 
 ## Reputation
