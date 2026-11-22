@@ -2,7 +2,7 @@
 title: Features
 description: The major ways Paradise differs from T2A
 published: true
-date: 2026-11-22T11:26:33.584Z
+date: 2026-11-22T12:01:44.358Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -11,7 +11,7 @@ dateCreated: 2026-11-18T23:04:02.833Z
 # Features
 *Paradise* uses The Second Age (T2A) era as its baseline. This page lists the significant ways that *Paradise* deliberately differs from T2A.
 
-Smaller tweaks are listed in the [patch notes](/patch_notes).
+Smaller tweaks are listed in the [patch notes](/patch_notes). Development is ongoing during alpha. See [Plans](/~Plans~).
 
 ## Fighter Rework
 Characters who fight with weapons are enhanced to keep pace with mages, tamers, and bards in PvM.
