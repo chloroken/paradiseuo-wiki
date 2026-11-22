@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to Paradise, a T2A Ultima Online shard for solo players and small groups
 published: true
-date: 2026-11-22T07:44:37.240Z
+date: 2026-11-22T10:11:10.810Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:50:31.643Z
@@ -12,8 +12,8 @@ dateCreated: 2026-11-03T21:50:31.643Z
 *Paradise* is an [Ultima Online](https://uo.com/) shard based on [T2A](https://en.wikipedia.org/wiki/Ultima_Online:_The_Second_Age). It keeps the classic base design and old-school feel, adds clever reworks that open up more avenues of play, and makes quality-of-life changes where they help. It's intended for solo players and small groups, and PvP is consensual only.
 
 The main design goals are:
-- Build diversity, weapon users are just as valuable as mages, tamers, and bards
-- Manually-tuned spawns that stay true to T2A's monster placement and selection
+- Build diversity, with weapon users just as valuable as mages, tamers, and bards
+- Manually tuned spawns that stay true to T2A's monster placement and selection
 - Custom quests and demibosses that don't wreck balance, drawn from real Ultima lore
 - Reworks of stale systems, such as reputation, that deepen immersion
 - A wiki that documents the shard's actual code, not just an interpretation of it
