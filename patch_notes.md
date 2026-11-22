@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-22T12:14:53.183Z
+date: 2026-11-22T14:28:44.935Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,6 +12,16 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 
 ## 2026.11.22
+- Rework [hirelings](/hireling):
+    - Add the cleric, a cheap hireling who heals its employer, their pets and hirelings, and itself, limited to one per character
+    - Move hirelings from Jhelom to inns across Britannia
+    - Make hirelings deal and take full damage against monsters, including demibosses
+    - Make hirelings quit when their pay runs out, instead of vanishing with their gear
+    - Give hirelings a horse while they follow their employer
+    - Fix wages being `1` gold for anyone who paid before asking the price
+    - Fix wages resetting, and pay draining twice as fast, after a restart
+    - Fix unhired hirelings vanishing a few hours after a restart
+    - Fix gold being lost when paying too little or paying a hireling that's already hired
 - Give [Spirit Speak](/spirit_speak) power over a player's summons, scaling up to `100` Spirit Speak:
     - Summons last up to twice as long
     - Dispel and Mass Dispel are up to `75%` less likely to remove them, except when used by the summoner
