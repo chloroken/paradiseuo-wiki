@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-22T10:36:27.815Z
+date: 2026-11-22T12:14:53.183Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,9 +12,11 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 
 ## 2026.11.22
-- Move the server to a new VPS
-- Adjust Cyclops Valley spawners to be more accurate to T2A
-- Add titans, cyclopes, and wyverns to the Lost Lands desert
+- Give [Spirit Speak](/spirit_speak) power over a player's summons, scaling up to `100` Spirit Speak:
+    - Summons last up to twice as long
+    - Dispel and Mass Dispel are up to `75%` less likely to remove them, except when used by the summoner
+    - Summoned air, earth, fire, and water elementals do up to `50%` more damage
+    - At `100` Spirit Speak, the four elemental summon spells never fail
 - Rebalance [pet](/pet#pets-in-combat) combat:
     - Pets' melee hits and spells do `25%` less damage to monsters
     - Monsters' melee hits and spells do `25%` more damage to pets
@@ -26,14 +28,12 @@ Changes to *Paradise*, newest first.
     - Make him blink to a nearby spot every `5` to `10` seconds in combat, or back to his throne if he strays more than `12` tiles
     - Make his Animate Dead raise a bone knight beside him, with no corpse needed
     - Make him speak a phrase when casting each necromancy spell, even without a target
-- Let demibosses path around obstacles
+    - Fix Blood Oath never reflecting damage under T2A rules
+    - Let demibosses path around obstacles
 - Stop a second bandage on the same target from restarting one already in progress, so no time or bandages are lost (switching targets still cancels it)
-- Fix Blood Oath never reflecting damage under T2A rules
-- Give [Spirit Speak](/spirit_speak) power over a player's summons, scaling up to `100` Spirit Speak:
-    - Summons last up to twice as long
-    - Dispel and Mass Dispel are up to `75%` less likely to remove them, except when used by the summoner
-    - Summoned air, earth, fire, and water elementals do up to `50%` more damage
-    - At `100` Spirit Speak, the four elemental summon spells never fail
+- Adjust Cyclops Valley spawners to be more accurate to T2A
+- Add titans, cyclopes, and wyverns to the Lost Lands desert
+- Move the server to a new VPS
 
 ## 2026.11.21
 - Add the first demiboss, the [Lich King](/lich_king), in the throne room on floor 3 of [Covetous](/covetous):
