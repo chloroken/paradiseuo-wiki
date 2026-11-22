@@ -2,7 +2,7 @@
 title: Spirit Speak
 description: How Spirit Speak strengthens a player's Magery summons
 published: true
-date: 2026-11-22T11:16:09.529Z
+date: 2026-11-22T12:09:27.228Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T11:13:38.338Z
@@ -33,8 +33,6 @@ Every bonus scales evenly with Spirit Speak and stops growing at `100`. Only sum
 - Dispel resistance: Dispel and Mass Dispel are less likely to remove the summon, multiplied by `1 - 0.75 * Spirit Speak / 100`. A summoner dispelling their own summons is never resisted.
 - Elemental damage: summoned air, earth, fire, and water elementals do up to `50%` more damage with melee and spells.
 - At `100` Spirit Speak, the four elemental summon spells never fail to cast. Other summon spells can still fail.
-
-Summons count as [pets](/pet#pets-in-combat), so they do `25%` less damage to monsters. Spirit Speak makes up for that on elementals: at `100`, they do `0.75 * 1.5 = 1.125` times normal damage to monsters.
 
 ## Manual Training
 
