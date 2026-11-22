@@ -2,7 +2,7 @@
 title: Healing
 description: Healing, curing poison, and resurrecting with bandages
 published: true
-date: 2026-11-19T09:30:04.711Z
+date: 2026-11-22T10:10:53.224Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T07:34:36.283Z
@@ -46,6 +46,8 @@ Bandaging oneself is much slower: `9.4 + 0.6 * (120 - Dexterity) / 10` seconds.
 | 40 | 14.2 |
 | 65 | 12.7 |
 | 100 | 10.6 |
+
+A bandage in progress can't be restarted on the same target. Trying again shows *You are already applying a bandage.* and uses no bandage, so the first one still finishes. Starting a bandage on a different target cancels the current one.
 
 ## Curing Poison
 Bandaging a poisoned target always tries to cure the poison instead of healing, so a poisoned target can't be healed with bandages until the poison is gone. The cure always fails unless the healer's Healing and Anatomy are both `60` or higher. The chance to cure is:
