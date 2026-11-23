@@ -2,7 +2,7 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-23T22:52:07.003Z
+date: 2026-11-23T22:54:29.244Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
@@ -36,9 +36,9 @@ A fortress is embedded in the mountain, separating floors 3 and 4. Teleporters m
 ## Floor 4
 On floor 4, the mountains carve into a lagoon where krakens and sea serpents swim. Air, earth, fire, water, and poison elementals cover the entire floor. Two gazer nests survive, consisting of gazers, gazer larvae, and elder gazers. Giant spiders and scorpions take refuge in the corners of the caves.
 
-A single tower stands on floor 4, home to skeletons and bone magi. The bone magi were likely evil mages before something killed them. In the back of the floor is a cave branch full of blood elementals, the result of wicked experimentation.
+A single tower stands on floor 4, home to skeletons and bone magi. The bone magi were likely evil mages before something killed them. In the back of the floor is a cave branch where the mages did their experimenting, now full of blood elementals.
 
-A series of ropes, starting at a pair of red braziers on the shore, carries adventurers to most of the islands in the lagoon. At the center of the lagoon drifts the Greater Elemental. Could it be the source of the mages' failures?
+A series of ropes, starting at a pair of red braziers on the shore, carries adventurers to most of the islands in the lagoon. At the center of the water drifts the Greater Elemental, surrounded by water elementals and krakens. Could it be the source of the mages' failures?
 
 ## Treasure
 Dungeon chests spawn on every floor of Shame except the fortress. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
