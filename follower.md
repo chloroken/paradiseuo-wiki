@@ -29,16 +29,11 @@ Each character has `5` follower slots. A character can't take on a follower that
 | Strong pets, such as drakes | 2 |
 | The most powerful pets, such as dragons | 3 |
 | Hireling | 2 |
-| Blade spirit | 1 |
-| Energy vortex | 1 |
-| Summon Creature's animal | 2 |
-| Air elemental | 2 |
-| Earth elemental | 2 |
-| Water elemental | 3 |
-| Fire elemental | 4 |
-| Daemon | 5 |
+| Blade spirit, energy vortex, or daemon | 4 |
+| Summon Creature's animal | 1 – 2 |
+| Air, earth, fire, or water elemental | 1 – 4 |
 
-An animal from Summon Creature always takes `2` slots, even one that takes `1` as a pet. A summoned daemon takes every slot a character has. See [Pet: Notable Pets](/pet#notable-pets) for the slots of individual pets.
+Summoned animals and elementals take fewer slots as their caster's Spirit Speak rises. See [Summon: Follower Slots](/summon#follower-slots). See [Pet: Notable Pets](/pet#notable-pets) for the slots of individual pets.
 
 ## Commands
 Followers are commanded by speech, with phrases like `all follow me`, `all guard me`, and `dragon kill`. See [Commands](/commands).

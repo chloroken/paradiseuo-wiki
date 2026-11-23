@@ -31,7 +31,7 @@ During character creation there is a profession screen, but it should be ignored
 |:-|:-:|:-:|
 | [Battlemage](/battlemage) | Offensive magic, polearm specialist | Hally Mage |
 | [Monk](/monk) | Offensive magic, unarmed specialist | Tank Mage |
-| [Sorcerer](/sorcerer) | Offensive magic, special defenses | Pure Mage |
+| [Summoner](/summoner) | Summons, special defenses | Pure Mage |
 | [Druid](/druid) | Offensive magic, pet army | Tamer Mage |
 
 ## Bards

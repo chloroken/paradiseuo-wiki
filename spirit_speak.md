@@ -9,7 +9,7 @@ dateCreated: 2026-11-22T11:13:38.338Z
 ---
 
 # Spirit Speak
-Spirit Speak is the skill of reaching into the spirit world. Using it lets a character understand ghosts, and it binds the spirits a mage summons: [summons](/summon) last longer, resist being dispelled, and summoned elementals hit harder. It heals nothing under T2A rules.
+Spirit Speak is the skill of reaching into the spirit world. Using it lets a character understand ghosts, and it binds the spirits a mage summons: [summons](/summon) last longer, resist being dispelled, and take fewer follower slots, and summoned elementals hit harder. It heals nothing under T2A rules.
 
 ## Hearing Ghosts
 Ghosts' speech normally comes through as moaning. Using the skill succeeds with a chance equal to the character's Spirit Speak, shows *You contact the neitherworld.*, and lets them understand ghosts for `Spirit Speak / 50 * 90` seconds, at least `15`: `90` seconds at `50` Spirit Speak and `3` minutes at `100`. When it ends, they see *You feel your contact with the neitherworld fading.*
@@ -19,7 +19,7 @@ Ghosts' speech normally comes through as moaning. Using the skill succeeds with 
 - The skill can be used again after `1` second.
 
 ## Summons
-Every bonus scales evenly with Spirit Speak and stops growing at `100`. Only summons cast by players benefit, not those of monsters.
+The bonuses in the table scale evenly with Spirit Speak and stop growing at `100`. Only summons cast by players benefit, not those of monsters.
 
 | Spirit Speak | Summon Duration | Dispel Chance Reduced (%) | Elemental Damage Bonus (%) |
 |:-|:-:|:-:|:-:|
@@ -32,7 +32,8 @@ Every bonus scales evenly with Spirit Speak and stops growing at `100`. Only sum
 - Duration: every [Magery](/magery) summon lasts `1 + Spirit Speak / 100` times as long.
 - Dispel resistance: Dispel and Mass Dispel are less likely to remove the summon, multiplied by `1 - 0.75 * Spirit Speak / 100`. A summoner dispelling their own summons is never resisted.
 - Elemental damage: summoned air, earth, fire, and water elementals do up to `50%` more damage with melee and spells.
-- At `100` Spirit Speak, the four elemental summon spells never fail to cast. Other summon spells can still fail.
+- Follower slots: summoned animals take `1` slot instead of `2` from `50` Spirit Speak, and summoned elementals take `4` slots, falling to `3` at `30`, `2` at `60`, and `1` at `90`. See [Summon: Follower Slots](/summon#follower-slots).
+- At `100` Spirit Speak, every summon spell never fails to cast.
 
 ## Manual Training
 

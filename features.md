@@ -65,12 +65,14 @@ Animal tamers get several changes that make training, healing, and keeping pets 
 - Silver steeds and nightmares have a small chance to spawn Shiny, with a rare hue. See [Mount](/mount).
 
 ### Summoners
-Mages who train [Spirit Speak](/spirit_speak) bind their summons more tightly. Every bonus scales with the skill, up to `100`.
+Mages who train [Spirit Speak](/spirit_speak), such as the [Summoner](/summoner), bind their summons more tightly. The bonuses grow with the skill, up to `100`.
 
 - Magery summons last up to twice as long.
 - Dispel and Mass Dispel are up to `75%` less likely to remove them, unless cast by the summoner.
 - Summoned air, earth, fire, and water elementals do up to `50%` more damage.
-- At `100` Spirit Speak, the four elemental summon spells never fail.
+- Summoned animals and elementals take fewer follower slots, down to `1` each, and a summoner can have one elemental of each kind at once. See [Summon: Follower Slots](/summon#follower-slots).
+- At `100` Spirit Speak, every summon spell never fails.
+- Elementals in Shame and daemons anywhere drop summon scrolls. See [Summon: Summon Scrolls](/summon#summon-scrolls).
 
 ### Hirelings
 [Hirelings](/hireling) are paid followers found in taverns, cheap enough for any character.

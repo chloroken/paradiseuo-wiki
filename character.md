@@ -19,7 +19,7 @@ Every character is built from three stats and up to `700` skill points. These pa
 ## Classes
 - Fighters: [Warrior](/warrior), [Paladin](/paladin), and [Assassin](/assassin)
 - Archers: [Deadeye](/deadeye) and [Shadow](/shadow)
-- Mages: [Battlemage](/battlemage), [Monk](/monk), [Sorcerer](/sorcerer), and [Druid](/druid)
+- Mages: [Battlemage](/battlemage), [Monk](/monk), [Summoner](/summoner), and [Druid](/druid)
 - Bards: [Pirate](/pirate), [Minstrel](/minstrel), and [Beastmaster](/beastmaster)
 - Toilers: [Artisan](/artisan) and [Forager](/forager)
 
