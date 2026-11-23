@@ -2,7 +2,7 @@
 title: Weapons
 description: Every weapon type, its skill, its weapon effect, and magic weapons
 published: true
-date: 2026-11-23T01:21:14.946Z
+date: 2026-11-23T06:45:25.343Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -59,7 +59,7 @@ One-handed maces sap a monster's vigor. Each hit saps vigor equal to the damage 
 The attacker sees *\*saps vigor\** over their head when a sap starts, and everyone nearby sees *\*looks drained of vigor\** when the monster is fully drained. Only players can sap vigor, and only from monsters. The war axe trains Mace Fighting, but has no effect on hit.
 
 ### Concussion Blow
-Two-handed axes and polearms can land a Concussion Blow, which halves the target's Intelligence and lowers its maximum mana for `30` seconds. It doesn't stack.
+Two-handed axes and polearms can land a Concussion Blow, which halves the target's Intelligence and lowers its maximum mana for `30` seconds. It doesn't stack. Each hit has a chance of `Anatomy / 400` to land one, so `25%` at `100` Anatomy, and a character without Anatomy never lands one.
 
 Only players and human NPCs can deliver a Concussion Blow. Everyone nearby sees *looks concussed* over the target.
 
