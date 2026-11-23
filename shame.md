@@ -2,7 +2,7 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-23T22:51:25.515Z
+date: 2026-11-23T22:52:07.003Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
@@ -30,7 +30,7 @@ A variety of creatures fill the nooks and crannies of floor 3: air, fire, water,
 ### Towers
 Two towers flank the entrance to floor 3. Deranged evil mages, evil mage lords, and slimes guard them. A magical teleporter joins the towers, guarded by poison elementals.
 
-## Fortress
+### Fortress
 A fortress is embedded in the mountain, separating floors 3 and 4. Teleporters marked by silver moongates lead in and out, and gazers guard the entrance. In the fortress cells are elder gazers and skeletons.
 
 ## Floor 4
