@@ -2,7 +2,7 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-23T09:08:13.454Z
+date: 2026-11-23T09:09:06.318Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
@@ -21,7 +21,7 @@ Floor 1 is filled with scorpions, earth elementals, and the skeletons of miners 
 Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors.
 
 ## Floor 3
-Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors. Skeletons are all that remain of those who tried to stay.
+Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors.
 
 ### Towers
 Two towers flank the entrance to floor 3. Deranged evil mages, evil mage lords, and slimes guard them. A magical teleporter joins the towers, guarded by poison elementals.
