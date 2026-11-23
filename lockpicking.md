@@ -2,7 +2,7 @@
 title: Lockpicking
 description: Picking town, dungeon, treasure, and crafted chests
 published: true
-date: 2026-11-23T07:03:17.254Z
+date: 2026-11-23T07:04:24.775Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T21:00:26.779Z
