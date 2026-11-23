@@ -2,7 +2,7 @@
 title: Classes
 description: Proven character builds for fighters, archers, mages, bards, and toilers
 published: true
-date: 2026-11-23T01:50:54.173Z
+date: 2026-11-23T01:52:01.458Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T22:35:49.369Z
@@ -17,7 +17,7 @@ During character creation there is a profession screen, but it should be ignored
 | Class | Concept | Classic Name |
 |:-|:-:|:-:|
 | [Warrior](/warrior) | Weapons specialist | Dexxer |
-| [Paladin](/paladin) | Tank with light magic | Med Warrior |
+| [Paladin](/paladin) | Tank with light magic | Med Dexxer |
 | [Assassin](/assassin) | Poisons, fencing specialist | Assassin |
 
 ## Archers
