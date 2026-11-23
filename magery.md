@@ -2,14 +2,14 @@
 title: Magery
 description: Casting spells, casting chances by circle, and travel magic
 published: true
-date: 2026-11-19T08:06:08.513Z
+date: 2026-11-23T01:52:48.921Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:10:03.878Z
 ---
 
 # Magery
-Magery is the skill of casting spells. It offers damage, healing, utility, and the best ways to travel, which is why most characters take it. Every point of Magery also weakens [Valor](/combat#valor), the warrior's virtue that strengthens fighters. A fighter has to choose between spells and Valor.
+Magery is the skill of casting spells. It offers damage, healing, utility, and the best ways to travel, which is why most characters take it. Every point of Magery also weakens [Valor](/combat#valor), the virtue that strengthens fighters. A fighter has to choose between spells and Valor.
 
 ## Spells
 Magery has `64` spells, split evenly across `8` circles. Each spell needs reagents and mana, and is cast from a spellbook or a scroll. See [Spells](/spells).
