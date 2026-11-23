@@ -2,7 +2,7 @@
 title: World
 description: NPCs, quests, and every kind of place across Britannia and the Lost Lands
 published: true
-date: 2026-11-22T07:06:36.871Z
+date: 2026-11-23T07:09:29.588Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:07:19.032Z
@@ -17,7 +17,7 @@ dateCreated: 2026-11-19T00:07:19.032Z
 - [Connectors](/connectors): passages and routes between Britannia and the Lost Lands.
 - [Points of Interest](/points_of_interest): pseudodungeons, graveyards, ruins, camps, and shrines.
 - [Monsters](/monsters): what roams the wilds and fills the dungeons.
-- [Treasure Map](/treasure_map): maps to buried chests, decoded with Cartography and opened with Lockpicking.
+- [Treasure Map](/treasure_map): maps to buried chests, decoded with Cartography and opened with Lockpicking or Unlock.
 - [House](/house): placing and keeping a home.
 - [Boat](/boat): traveling by sea and river.
 
