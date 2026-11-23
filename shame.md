@@ -2,17 +2,19 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-23T11:39:15.933Z
+date: 2026-11-23T12:44:35.906Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
 ---
 
 # Shame
-Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors. It is the home of elementals: earth, air, water, fire, poison, and the exclusive blood elemental. Elementals in Shame have a chance to drop a summon scroll on top of their normal loot, unless they were summoned themselves. See [Summon: Summon Scrolls](/summon#summon-scrolls).
+Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors. It is the a hotbed of elemental activity: earth, air, water, fire, deadly poison elementals, the exclusive blood elemental, and their ostensible leader: the [Greater Elemental](/greater_elemental).
+
+Elementals in Shame have a chance to drop a summon scroll on top of their normal loot, unless they were summoned themselves. See [Summon: Summon Scrolls](/summon#summon-scrolls).
 
 ## History
-Shame lies in the western mountains of Britannia, and it is bound to the virtue of [Honor](https://wiki.ultimacodex.com/wiki/Honor). It began as a mine, abandoned when gremlins overran it, and the Avatar later braved its depths for the [Purple Stone of Honor](https://wiki.ultimacodex.com/wiki/Virtue_Stones). In time, miners returned to dig again, and some never came back up. Mages followed them down in search of power, binding elementals to guard their towers. Now the mages have gone mad, and those stationed near the dungeon's lagoon have turned undead. Did the elementals turn on their masters, or did the mages dig too deep?
+Shame lies in the western mountains of Britannia, and it is bound to the virtue of [Honor](https://wiki.ultimacodex.com/wiki/Honor). It began as a mine, abandoned when gremlins overran it, and the Avatar later braved its depths for the [Purple Stone of Honor](https://wiki.ultimacodex.com/wiki/Virtue_Stones). In time, miners returned to dig again, and some never came back up. Mages followed them down in search of power, binding elementals to guard their towers. Now the mages have gone, and those stationed near the dungeon's lagoon have turned undead. All that remains is painted by a faint glow emanating from the lagoon.
 
 ## Floor 1
 Floor 1 is filled with scorpions, earth elementals, and the skeletons of miners still haunting their forgotten campsites.
@@ -34,7 +36,7 @@ On floor 4, the mountains carve into a lagoon where krakens and sea serpents swi
 
 A single tower stands on floor 4, home to skeletons and bone magi. The bone magi were likely evil mages before something killed them. In the back of the floor is a cave branch full of blood elementals, the result of wicked experimentation.
 
-A series of ropes, starting at a pair of red braziers on the shore, carries adventurers to most of the islands in the lagoon. At the center of the lagoon drifts the [Greater Elemental](/greater_elemental). Could it be the source of the mages' failures?
+A series of ropes, starting at a pair of red braziers on the shore, carries adventurers to most of the islands in the lagoon. At the center of the lagoon drifts the Greater Elemental. Could it be the source of the mages' failures?
 
 ## Treasure
 Dungeon chests spawn on every floor of Shame except the fortress. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
