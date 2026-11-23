@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-23T13:35:28.666Z
+date: 2026-11-23T13:35:46.300Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -16,7 +16,7 @@ Changes to *Paradise*, newest first.
     - Add bone magi to represent dead mages
     - Increase monster count on floors 3 and 4
     - Fill dungeon out with spawners in empty areas
-    - Remove non-T2A monsters like dull copper elementals
+    - Remove non-T2A monsters
     - Add teleporters between towers on floor 3, islands on floor 4
     - Write lore and add context decorations (glyphs)
     - Add demiboss to floor 4
