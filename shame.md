@@ -2,7 +2,7 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-23T09:22:49.618Z
+date: 2026-11-23T11:16:28.454Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
@@ -30,7 +30,7 @@ Two towers flank the entrance to floor 3. Deranged evil mages, evil mage lords, 
 A fortress is embedded in the mountain, separating floors 3 and 4. Teleporters marked by silver moongates lead in and out, and gazers guard the entrance. In the fortress cells are elder gazers and skeletons.
 
 ## Floor 4
-On floor 4, the mountains carve into a lagoon where krakens and sea serpents swim. Air, earth, fire, water, and poison elementals cover the entire floor. Two gazer nests survive, consisting of gazers, gazer larvae, and elder gazers. Giant spiders and scorpions take refuge in the corners of the caves.
+On floor 4, the mountains carve into a lagoon where krakens and sea serpents swim. Air, earth, fire, water, and poison elementals cover the entire floor. Two gazer nests survive, consisting of gazers, gazer larvae, and elder gazers. Giant spiders and scorpions take refuge in the corners of the caves. At the center of the lagoon drifts the [Greater Elemental](/greater_elemental), the source of the mages' corruption.
 
 A single tower stands on floor 4, home to skeletons and bone magi. The bone magi were likely evil mages before something killed them. In the back of the floor is a cave branch full of blood elementals, the result of wicked experimentation. Islands in the lagoon hold treasure, guarded by more skeletons and bone magi.
 
