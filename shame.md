@@ -2,14 +2,14 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-23T09:20:15.351Z
+date: 2026-11-23T09:22:49.618Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
 ---
 
 # Shame
-Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors. It is the home of elementals, including the blood elemental not found elsewhere. Elementals in Shame have a chance to drop a summon scroll on top of their normal loot. See [Summon: Summon Scrolls](/summon#summon-scrolls).
+Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors. It is the home of elementals: earth, air, water, fire, poison, and the exclusive blood elemental. All elementals in Shame have a chance to drop a summon scroll on top of their normal loot. See [Summon: Summon Scrolls](/summon#summon-scrolls).
 
 ## History
 Shame lies in the western mountains of Britannia, and it is bound to the virtue of [Honor](https://wiki.ultimacodex.com/wiki/Honor). It began as a mine, abandoned when gremlins overran it, and the Avatar later braved its depths for the [Purple Stone of Honor](https://wiki.ultimacodex.com/wiki/Virtue_Stones). In time, miners returned to dig again, and some never came back up. Mages followed them down in search of power, binding elementals to guard their towers. Now the mages have gone mad, and those stationed near the dungeon's lagoon have turned undead. Did the elementals turn on their masters, or did the mages dig too deep?
