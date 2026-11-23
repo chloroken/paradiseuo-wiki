@@ -17,7 +17,7 @@ New players start here: how to join *Paradise*, what protects new characters, an
 
 ## First Steps
 - [Young Player](/young_player): the protections new players have while they learn the game.
-- [Commands](/commands): phrases spoken to NPCs, pets, and objects, and the server commands.
+- [Commands](/commands): phrases spoken to NPCs, followers, and objects, and the server commands.
 
 ## Keeping Up
 - [Features](/features): every major way *Paradise* differs from T2A.

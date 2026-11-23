@@ -22,7 +22,7 @@ The throne room is populated by the Lich King's personal army of skeletons. Thes
 - His [Resisting Spells](/resisting_spells) is `150` to `200`, so he resists spells far more often than other monsters.
 - Poison has no effect on him.
 - He is undead, so [silver](/weapons#silver) weapons do double damage to him.
-- As a demiboss, his melee hits and most of his spells do `100%` extra damage to [pets](/pet#pets-in-combat), instead of the usual `25%`. Pain Spike and Strangle do normal damage.
+- As a demiboss, his melee hits and most of his spells do `100%` extra damage to [pets and summons](/follower#followers-in-combat), instead of the usual `25%`. Pain Spike and Strangle do normal damage.
 
 **The Lich King takes items from corpses near him, including fallen players.** He takes one item at a time from a corpse within `2` tiles, showing *\*rummages through a corpse and takes an item\**. Taken items drop with his own loot when he dies.
 

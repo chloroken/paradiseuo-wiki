@@ -70,11 +70,11 @@ A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` t
 
 A worn-out weapon does less damage, down to half when it's about to break.
 
-Melee damage between players is halved, and so is melee damage from a player's pet to another player. Every other hit between players and monsters does full damage, so monsters hit players twice as hard as on most ServUO shards.
+Melee damage between players is halved, and so is melee damage from a player's [follower](/follower) to another player. Every other hit between players and monsters does full damage, so monsters hit players twice as hard as on most ServUO shards.
 
-Pets' melee hits and spells do `25%` less damage to monsters, and monsters' melee hits and spells do `25%` more damage to pets. A [demiboss](/monsters#demibosses) does double damage to pets instead. Breath, poison, and Fire Field aren't affected. See [Pet: Pets in Combat](/pet#pets-in-combat).
+The melee hits and spells of pets and summons do `25%` less damage to monsters, and monsters' melee hits and spells do `25%` more damage to pets and summons. A [demiboss](/monsters#demibosses) does double damage to pets and summons instead. Hirelings deal and take full damage. Breath, poison, and Fire Field aren't affected. See [Follower: Followers in Combat](/follower#followers-in-combat).
 
-The damage of each hit shows as a number over the target. The attacker and the target see it, as do the owners of any pets involved.
+The damage of each hit shows as a number over the target. The attacker and the target see it, as do the owners of any followers involved.
 
 Valor, shields, armor, and Arch Protection reduce the damage before it reaches the target. See [Armor](/armor).
 
@@ -84,7 +84,7 @@ Valor, shields, armor, and Arch Protection reduce the damage before it reaches t
 - Paralyzed characters have the same limits, but taking damage breaks the paralysis. The Paralyze spell and paralyze fields paralyze their target.
 
 ## Valor
-Valor is the warrior's virtue. Characters who fight with weapons instead of magic are gripped by it and get three bonuses in combat. The further a character turns toward magic, the weaker Valor's hold on them. Valor has nothing to do with the virtue system from later versions of Ultima Online, which *Paradise* doesn't use. Each bonus comes from its own skill and is at its full size with `100` in that skill and `0` Magery. The skill and Magery scales multiply, so a character with `50` in the skill and `50` Magery gets a quarter of the bonus. Only players get these bonuses, not monsters or pets.
+Valor is the warrior's virtue. Characters who fight with weapons instead of magic are gripped by it and get three bonuses in combat. The further a character turns toward magic, the weaker Valor's hold on them. Valor has nothing to do with the virtue system from later versions of Ultima Online, which *Paradise* doesn't use. Each bonus comes from its own skill and is at its full size with `100` in that skill and `0` Magery. The skill and Magery scales multiply, so a character with `50` in the skill and `50` Magery gets a quarter of the bonus. Only players get these bonuses, not monsters or followers.
 
 - Accuracy, from Tactics: up to `30` points added to the attacker's weapon skill when rolling to hit, for every kind of weapon, including bows and bare hands. The bonus is `30 * (Tactics / 100) * ((100 - Magery) / 100)` points.
 - Toughness, from Parrying: physical damage taken is reduced by up to `20%`, before armor. The reduction is `20% * (Parrying / 100) * ((100 - Magery) / 100)`. It covers weapons and monsters' melee attacks, but not spells, breath, or poison. It doesn't need a shield.

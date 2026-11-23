@@ -52,16 +52,15 @@ Archers receive several enhancements that make ranged combat more effective.
 - [Tracking](/tracking#archery-accuracy):
   - Increases accuracy with ranged weapons.
   - At `100` Tracking, shots against fleeing targets never miss.
-## Pet Enhancements
-Controlling pets is a popular fantasy, so it's been enhanced in two major ways.
+## Follower Enhancements
+Controlling [followers](/follower) is a popular fantasy, so it's been enhanced in three major ways. Followers keep pace with their owner, even when the owner is mounted, and players can attack their own followers without becoming criminals. See [Training on Followers](/follower#training-on-followers).
 
 ### Tamers
 Animal tamers get several changes that make training, healing, and keeping pets easier.
 
 - During alpha, Animal Taming gains skill twice as fast as normal.
-- Players can attack their own pets without becoming criminals, and their own pets appear green to them. See [Training on Pets](/pet#training-on-pets).
+- A player's own pets appear green to them.
 - Animal tamers can bandage pets from farther away as their Veterinary skill rises. See [Veterinary: Range](/veterinary#range).
-- Pets keep pace with their owner, even when the owner is mounted.
 - Saying `claim` to an animal trainer opens a list of stabled pets to choose from. See [Stable](/stable).
 - Silver steeds and nightmares have a small chance to spawn Shiny, with a rare hue. See [Mount](/mount).
 
@@ -72,6 +71,14 @@ Mages who train [Spirit Speak](/spirit_speak) bind their summons more tightly. E
 - Dispel and Mass Dispel are up to `75%` less likely to remove them, unless cast by the summoner.
 - Summoned air, earth, fire, and water elementals do up to `50%` more damage.
 - At `100` Spirit Speak, the four elemental summon spells never fail.
+
+### Hirelings
+[Hirelings](/hireling) are paid followers found in taverns, cheap enough for any character.
+
+- Each tavern has `2` hirelings and the Jhelom fighting pit has `10`, and unhired ones are replaced every hour.
+- Hirelings deal and take full damage against monsters, unlike pets and summons.
+- Hirelings ride horses when commanded to follow.
+- The cleric hireling heals its employer, their pets and hirelings, and itself.
 
 ## Reputation
 Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower, and locked Karma is unlocked with shrine mantras. See [Reputation](/reputation).
@@ -84,7 +91,5 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 - Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. See [Monsters](/monsters#fighting-monsters).
 - Damage shows as numbers over the target. See [Combat: Damage](/combat#damage).
 - Demibosses are powerful monsters with their own loot. The first is the Lich King. See [Lich King](/lich_king).
-- Pets take double damage from demibosses. See [Pet: Pets in Combat](/pet#pets-in-combat).
+- Pets and summons take double damage from demibosses. See [Follower: Followers in Combat](/follower#followers-in-combat).
 - Starting items aren't protected, so they drop on death once a character is no longer Young. See [Young Player](/young_player#losing-young-status).
-- Hirelings, when commanded to follow, ride horses.
-- Added Cleric hireling that heals its employer.

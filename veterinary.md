@@ -33,7 +33,7 @@ Veterinarians can bandage creatures from a distance. For every `25` points of Ve
 | 100+ | 5 |
 
 ## Manual Training
-Players can attack their own pets to train weapon skills, then bandage them to train Veterinary. See [Training on Pets](/pet#training-on-pets).
+Players can attack their own pets to train weapon skills, then bandage them to train Veterinary. See [Follower: Training on Followers](/follower#training-on-followers).
 
 ## Macro Training
 The macro needs a hearty pet and several thousand bandages. It's a TazUO Assistant macro bound to a key, with its `Journal Trigger` set to `*pet*` and these actions:

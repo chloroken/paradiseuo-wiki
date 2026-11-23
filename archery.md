@@ -85,6 +85,6 @@ Moving with [Stealth](/stealth) before the shot makes the ambush stronger.
 | Target was ambushed too recently | *Your target is too alert to ambush!* |
 
 ## Manual Training
-Every shot, hit or miss, has a chance to raise Archery. Attacking one's own [pet](/pet) isn't criminal, so a tamed animal makes a safe training partner, as long as there are arrows or bolts to spare.
+Every shot, hit or miss, has a chance to raise Archery. Attacking one's own [follower](/follower) isn't criminal, so a tamed animal makes a safe training partner, as long as there are arrows or bolts to spare.
 
 ## Macro Training

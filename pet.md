@@ -1,6 +1,6 @@
 ---
 title: Pet
-description: Training, healing, controlling, and feeding pets, plus Loyalty and Pack Instinct
+description: Training, healing, and commanding pets, plus Pack Instinct and notable pets
 published: true
 date: 2026-11-20T04:27:23.390Z
 tags: 
@@ -9,9 +9,9 @@ dateCreated: 2026-11-16T07:24:49.945Z
 ---
 
 # Pet
-Pets are a type of follower, and [mounts](/mount) are pets too. [Animal tamers](/animal_taming) specialize in capturing and using pets.
+Pets are tamed [followers](/follower), and [mounts](/mount) are pets too. [Animal tamers](/animal_taming) specialize in capturing and using pets. Tamers can control powerful monsters, which makes hunting for loot much easier, provided their pets stay alive and obedient. Loyalty, feeding, and the rules all followers share are on [Follower](/follower).
 
-Each character has `5` follower slots. Most pets take up `1` slot, strong pets such as drakes take `2`, and the most powerful pets such as dragons take `3`. Pets can be left with an animal trainer while their owner is offline. See [Stable](/stable).
+Most pets take up `1` follower slot, strong pets such as drakes take `2`, and the most powerful pets such as dragons take `3`. See [Follower: Follower Slots](/follower#follower-slots). Pets can be left with an animal trainer while their owner is offline. See [Stable](/stable).
 
 **Pet death is permanent. GMs cannot resurrect pets.**
 
@@ -19,40 +19,13 @@ Each character has `5` follower slots. Most pets take up `1` slot, strong pets s
 Pets train their skills by using them, just like players, but twice as quickly. Even if a pet was paralyzed while being tamed and took the skill penalty, its skills can recover and keep training to their maximum. Pets can train each of their [stats](/stats) up to `100`, the same cap as players. A pet that already starts above `100` in a stat, such as a dragon's Strength, can't raise that stat any further. Animal Lore reveals a creature's stats and skills.
 
 ## Healing Pets
-Pets are healed with bandages using [Veterinary](/veterinary). The range at which a pet can be bandaged grows with Veterinary skill. See [Veterinary: Range](/veterinary#range).
+Pets are healed with bandages using [Veterinary](/veterinary). The range at which a pet can be bandaged grows with Veterinary skill. See [Veterinary: Range](/veterinary#range). Players can also attack their own pets and bandage them to train Veterinary. See [Follower: Training on Followers](/follower#training-on-followers).
 
 ## Pets in Combat
-Pets fight at a disadvantage against monsters:
-- A pet's melee hits and spells do `25%` less damage to monsters.
-- Monsters' melee hits and spells do `25%` more damage to pets.
-- A [demiboss](/monsters#demibosses) does double damage to pets instead.
-- A pet's melee hits on another player are halved, the same as a player's.
-
-A player's summoned creatures, such as blade spirits and energy vortexes, count as pets. [Spirit Speak](/spirit_speak) strengthens them. Breath, poison, and Fire Field do their normal damage. See [Combat: Damage](/combat#damage).
-
-## Controlling Pets
-Animal tamers command pets with phrases like `all follow me` and `dragon kill`. Tamers can control powerful monsters, which makes hunting for loot much easier, provided their pets stay alive and obedient.
-
-A pet told to follow runs to catch up when it's more than `5` tiles behind, and paths around obstacles to reach its owner, unlike wild monsters.
-
-Pets can follow their owner into houses. Untamed creatures can't enter houses.
-
-## Loyalty
-Every pet has a hidden Loyalty value from `0` to `100`. A newly tamed pet starts at `100`, and Animal Lore shows how happy a pet is.
-
-Once an hour, every pet in the world loses `10` Loyalty. Stabled pets and pets being ridden don't lose Loyalty. A pet that reaches `0` *looks around desperately*, then decides it is better off without a master and goes wild.
-
-An unfed pet at full Loyalty goes wild after about `10` hours.
-
-## Feeding
-Pets are fed by dropping food on them. Only its favorite food works, which Animal Lore reveals. Each piece of food in the stack has a `50%` chance to add `10` Loyalty, up to the maximum of `100`. If any of it worked, the pet *looks happier*.
-
-Feeding a stack is more reliable than feeding one piece, and a stack of `20` almost always fills a pet back to full. A pet eats the whole stack even after its Loyalty is full, so extra food is wasted.
-
-Food also restores `15 * Pieces - 50` stamina, so a stack of `4` or more is needed to restore any.
+Pets do `25%` less damage to monsters and take `25%` more from them, and a [demiboss](/monsters#demibosses) does double damage to them. Summons share these penalties, but hirelings don't. See [Follower: Followers in Combat](/follower#followers-in-combat).
 
 ## Obeying Commands
-Pets don't always obey. Every command has a chance to fail, based on the owner's skills, the pet's difficulty, and its Loyalty. Animal Taming matters four times as much as Animal Lore, and the two combine into a weighted skill:
+Pets are commanded with phrases like `all follow me` and `dragon kill`, the same as every follower. See [Follower: Commands](/follower#commands). Unlike hirelings and summons, pets don't always obey. Every command has a chance to fail, based on the owner's skills, the pet's difficulty, and its Loyalty. Animal Taming matters four times as much as Animal Lore, and the two combine into a weighted skill:
 
 `Weighted Skill = (4 * Animal Taming + Animal Lore) / 5`
 
@@ -64,20 +37,20 @@ This is compared to the pet's minimum taming skill, the skill needed to tame it:
 | Equal to Minimum Taming | 70 |
 | Below Minimum Taming - 5 | 0 |
 
-Pets that need `29.1` or less to tame, such as horses and ostards, always obey, regardless of their owner's skill or Loyalty. Summoned creatures always obey as well.
+Pets that need `29.1` or less to tame, such as horses and ostards, always obey, regardless of their owner's skill or Loyalty.
 
 For example, with a pet that needs `90` to tame:
 - `100` Animal Taming and `100` Animal Lore give a weighted skill of `100`, for a `99%` chance.
 - `90` Animal Taming and `100` Animal Lore give a weighted skill of `92`, for an `82%` chance.
 - `90` Animal Taming and `50` Animal Lore give a weighted skill of `82`, and the pet will never obey.
 
-Every point of Loyalty below `100` subtracts `1%` from the chance to obey, so an unfed pet obeys less and less. See [Loyalty](#loyalty).
+Every point of Loyalty below `100` subtracts `1%` from the chance to obey, so an unfed pet obeys less and less. See [Follower: Loyalty](/follower#loyalty).
 
 ## Pack Instinct
 Some pets have a Pack Instinct. When an owner controls several pets with the same instinct, they get a damage bonus: `25%` with two pets, `50%` with three, `75%` with four, and `100%` with five. The bonus only affects physical damage, not spells.
 
 - Only pets with the same owner count toward a pack.
-- Summoned creatures with the same instinct count.
+- Summoned creatures with the same instinct count, but hirelings never do.
 - Pack members must be attacking the same target and standing within `1` tile of it.
 
 | Pack | Members |
@@ -88,12 +61,6 @@ Some pets have a Pack Instinct. When an owner controls several pets with the sam
 | Daemon | Fiend, imp |
 | Feline | Cat, cougar, hellcat, panther, snow leopard |
 | Ostard | Desert ostard, forest ostard, frenzied ostard |
-
-## Training on Pets
-Players can attack their own pets to train combat skills, and heal them to train Veterinary.
-- A player's own pets appear green to them, and attacking them is never a criminal act.
-- Pets don't fight back when attacked.
-- Players and their pets can't attack other players' pets.
 
 ## Notable Pets
 These are some of the most useful creatures to tame.

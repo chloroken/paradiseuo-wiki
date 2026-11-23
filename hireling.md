@@ -9,7 +9,7 @@ dateCreated: 2026-11-22T14:24:45.792Z
 ---
 
 # Hireling
-Hirelings are townsfolk who fight for whoever pays them. They're found in taverns, and once hired they follow their employer and take commands like a [pet](/pet). They're cheap enough for any character, which makes them useful company for players who adventure alone.
+Hirelings are townsfolk who fight for whoever pays them. They're found in taverns, and once hired they follow their employer and take commands like any other [follower](/follower). They're cheap enough for any character, which makes them useful company for players who adventure alone.
 
 ## Where to Find Them
 Each tavern has `2` hirelings, and the fighting pit in Jhelom has `10`. A hireling left unhired for about an hour leaves and is replaced by a random new one, so the hirelings on offer change over time. They only leave while no players are nearby.
@@ -62,16 +62,16 @@ The cleric heals instead of fighting. It casts Heal, Greater Heal, and Cure on i
 The cleric keeps up with light damage, but not with strong monsters or large groups.
 
 ## Commands
-Hirelings take the same commands as pets, such as `all follow me`, `all guard me`, and `all kill`. They always obey. See [Pet: Controlling Pets](/pet#controlling-pets).
+Hirelings take the same commands as other followers, such as `all follow me`, `all guard me`, and `all kill`. They always obey. See [Follower: Commands](/follower#commands).
 
 A hireling rides a horse while following its employer and goes on foot for any other command. The horse is only for show, and doesn't make the hireling faster.
 
 Saying `name release` from a hireling's menu ends its contract, and any unused pay is lost. A hireling that quits or is dismissed can be hired again by anyone, and leaves for good after `3` days if no one does.
 
 ## Hirelings in Combat
-Hirelings deal and take full damage against monsters, including demibosses, unlike pets. Their melee hits on other players are halved, the same as a player's.
+Hirelings deal and take full damage against monsters, including demibosses, unlike [pets](/pet) and [summons](/summon). Their melee hits on other players are halved, the same as a player's.
 
 **Hireling death is permanent.** Hirelings can't be bonded or stabled. A dead hireling's corpse holds only its gold, and its gear is lost.
 
 ## Loyalty
-Hirelings lose Loyalty like pets, `10` every hour. Unless fed meat, a hireling walks off after about `10` hours, even if its pay hasn't run out. See [Pet: Loyalty](/pet#loyalty).
+Hirelings lose Loyalty like pets, `10` every hour. Unless fed meat, a hireling walks off after about `10` hours, even if its pay hasn't run out. See [Follower: Loyalty](/follower#loyalty).

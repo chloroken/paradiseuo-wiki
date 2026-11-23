@@ -28,7 +28,7 @@ Below `50`, Tactics lowers damage, so a character who fights with no Tactics doe
 Through Valor, Tactics also improves accuracy. The bonus grows with Tactics and shrinks as Magery rises. See [Valor](/combat#valor).
 
 ## Manual Training
-Every hit with any weapon, including bare hands, has a chance to raise Tactics. Attacking one's own [pet](/pet) isn't criminal, so a tamed animal makes a safe training partner.
+Every hit with any weapon, including bare hands, has a chance to raise Tactics. Attacking one's own [follower](/follower) isn't criminal, so a tamed animal makes a safe training partner.
 
 ## Macro Training
 Tactics has no active use, so it can't be macroed on its own. It only rises through fighting.

@@ -80,7 +80,6 @@ These skills already had adventure potential:
 - Have page written for every skill
 - Use template to make page for every spell
 - Add pages with incoming links that are missing
-- Need to restructure pets -> followers for it to make sense
 
 ## Fixes
 - "Disarm" as a mechanic is bad

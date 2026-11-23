@@ -9,7 +9,7 @@ dateCreated: 2026-11-22T11:13:38.338Z
 ---
 
 # Spirit Speak
-Spirit Speak is the skill of reaching into the spirit world. Using it lets a character understand ghosts, and it binds the spirits a mage summons: summons last longer, resist being dispelled, and summoned elementals hit harder. It heals nothing under T2A rules.
+Spirit Speak is the skill of reaching into the spirit world. Using it lets a character understand ghosts, and it binds the spirits a mage summons: [summons](/summon) last longer, resist being dispelled, and summoned elementals hit harder. It heals nothing under T2A rules.
 
 ## Hearing Ghosts
 Ghosts' speech normally comes through as moaning. Using the skill succeeds with a chance equal to the character's Spirit Speak, shows *You contact the neitherworld.*, and lets them understand ghosts for `Spirit Speak / 50 * 90` seconds, at least `15`: `90` seconds at `50` Spirit Speak and `3` minutes at `100`. When it ends, they see *You feel your contact with the neitherworld fading.*

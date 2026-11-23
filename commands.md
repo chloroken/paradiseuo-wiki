@@ -1,6 +1,6 @@
 ---
 title: Commands
-description: Speech commands for NPCs, pets, and places, and the server commands players can use
+description: Speech commands for NPCs, followers, and places, and the server commands players can use
 published: true
 date: 2026-11-19T07:49:07.476Z
 tags: 
@@ -9,10 +9,10 @@ dateCreated: 2026-11-19T00:06:15.205Z
 ---
 
 # Commands
-Commands are typed into the chat line. Most are phrases spoken to NPCs, pets, and objects, and a few are server commands that start with `[`.
+Commands are typed into the chat line. Most are phrases spoken to NPCs, followers, and objects, and a few are server commands that start with `[`.
 
 ## Speech Commands
-Many actions on *Paradise* use speech: phrases said aloud to the right NPC, pet, or object. Commands for an NPC only work from nearby, and some need its name first, such as `Alice train`. Speech starting with an exclamation point and a space, like `! bank`, is converted into a yell, which carries farther than normal speech.
+Many actions on *Paradise* use speech: phrases said aloud to the right NPC, follower, or object. Commands for an NPC only work from nearby, and some need its name first, such as `Alice train`. Speech starting with an exclamation point and a space, like `! bank`, is converted into a yell, which carries farther than normal speech.
 
 ### Anywhere
 | Phrase | Effect |
@@ -67,7 +67,7 @@ The teleporters work within a few tiles. The serpent pillars only work from a bo
 Escort quest commands, such as `destination`, are listed with the quests. See [Quests](/world#quests).
 
 Other speech commands are listed on their own pages:
-- Pet commands, such as `all follow me`. See [Pet](/pet).
+- Follower commands, such as `all follow me`. See [Follower](/follower).
 - Stable commands, such as `stable` and `claim`. See [Stable](/stable).
 - House commands, such as `I wish to lock this down`. See [House](/house).
 - Tillerman commands, such as `forward` and `stop`. See [Boat](/boat).
