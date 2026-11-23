@@ -2,21 +2,23 @@
 title: Greater Elemental
 description: The demiboss of Shame
 published: true
-date: 2026-11-23T12:05:29.099Z
+date: 2026-11-23T12:53:17.463Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T11:15:12.185Z
 ---
 
 # Greater Elemental
-The Greater Elemental is a demiboss that drifts in the lagoon on floor 4 of [Shame](/shame). Although nobody knows for certain where it came from, rumor has it that the mages themselves accidentally summoned it while experimenting with blood elementals. It hits softly, but it has an enormous health pool and fights beside an endless tide of lesser elementals. It is built for a group of players. After it dies, it returns `12` to `24` hours later.
+The Greater Elemental is a demiboss that drifts in the lagoon on floor 4 of [Shame](/shame). Although nobody knows for certain where it came from, rumor has it that the mages themselves accidentally summoned it while experimenting with blood elementals. Perhaps a study of the mage's runes could confirm or deny this.
+
+It hits softly, but it has an enormous health pool and fights beside an endless tide of lesser elementals. It is built for a group of players. After it dies, it returns `12` to `24` hours later.
 
 ![the Greater Elemental in Shame's lagoon, beside a water elemental](/boss_greater_elemental.png)
 
 ## Fighting the Greater Elemental
 - It has `20,000` to `30,000` hit points.
-- It swims as well as walks, so it can follow players across the lagoon and onto its islands.
-- If it strays more than `10` tiles from the center of the lagoon, it teleports straight back.
+- It can swim and walk, so it can follow players across the lagoon and onto its islands.
+- If it strays more than `10` tiles from the central rune, it teleports straight back.
 - Unlike other monsters, it walks around obstacles to reach its target.
 - Its [Resisting Spells](/resisting_spells) is `100` to `110`.
 - It never flees, however low its health.
