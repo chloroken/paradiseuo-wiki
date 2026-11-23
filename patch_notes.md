@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-23T13:33:07.259Z
+date: 2026-11-23T13:35:28.666Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,6 +12,9 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 ## 2026.11.23
 - Refresh [Shame](/shame):
+    - Add skeletons to represent dead miners 
+    - Add bone magi to represent dead mages
+    - Increase monster count on floors 3 and 4
     - Fill dungeon out with spawners in empty areas
     - Remove non-T2A monsters like dull copper elementals
     - Add teleporters between towers on floor 3, islands on floor 4
