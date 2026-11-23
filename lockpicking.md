@@ -2,7 +2,7 @@
 title: Lockpicking
 description: Picking town, dungeon, treasure, and crafted chests
 published: true
-date: 2026-11-23T07:02:06.208Z
+date: 2026-11-23T07:03:17.254Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T21:00:26.779Z
@@ -57,21 +57,6 @@ The carpenter's Tinkering then sets how hard the lock is to pick:
 | 100 | 76 | 48 | 95 |
 
 Higher Tinkering keeps making the lock harder to pick, and raises the Lockpicking needed to try it. No crafted lock stops a lockpicker with `95` or more.
-
-## Unlock Spell
-The Unlock spell opens a locked container without Lockpicking. Its strength is `0.8 * Magery - 4`, and the lock opens if that strength reaches the lock's difficulty. Otherwise the caster sees *My spell does not seem to have an effect on that lock.* Unlock doesn't disarm traps, train Lockpicking, or work on secure containers in a house.
-
-| Container | Magery Needed |
-|:-|:-:|
-| Town chest, level 1 | 5 |
-| Town chest, level 2 | 42.5 |
-| Town chest, level 3 | 80 |
-| Dungeon chest, level 1 | 70 |
-| Dungeon chest, level 2 | 95 |
-| Dungeon chest, level 3 or 4 | Never |
-| Crafted container | The carpenter's Tinkering |
-
-On treasure chests, Unlock only works on levels 1 and 2.
 
 ## Manual Training
 Lockpicking trains by picking chests in towns and dungeons, and the hardest crafted container available in between.
