@@ -2,7 +2,7 @@
 title: Dungeons
 description: Every dungeon in Britannia and the Lost Lands, and their demibosses
 published: true
-date: 2026-11-22T07:17:14.614Z
+date: 2026-11-23T09:20:24.416Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-14T20:25:42.451Z
@@ -19,7 +19,7 @@ Dungeons are found across Britannia and the Lost Lands. Monsters in dungeons att
 | [Despise](/despise) | 3 | North of Britain | Forest caverns hiding a den of evil mages | |
 | [Destard](/destard) | 3 | Trinsic Jungle | A scorched lair ruled by dragons | Ancient wyrm (not developed yet) |
 | [Hythloth](/hythloth) | 4 | Fire Island | A fiery descent into the realm of daemons | |
-| [Shame](/shame) | 5 | South of Yew | Elemental depths that grow wilder with every floor | |
+| [Shame](/shame) | 4 | South of Yew | Elemental depths that grow wilder with every floor | |
 | [Wind](/wind) | 1 | North of Britain | A hidden mage city sealed within the mountains | |
 | [Wrong](/wrong) | 2 | Northwest of Minoc | Britannia's old prison, overrun by its inmates | |
 
