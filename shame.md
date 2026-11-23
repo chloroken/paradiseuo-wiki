@@ -2,7 +2,7 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-23T13:42:49.487Z
+date: 2026-11-23T13:49:10.173Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
@@ -14,7 +14,9 @@ Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors. It is a
 Elementals in Shame have a chance to drop a summon scroll on top of their normal loot, unless they were summoned themselves. See [Summon: Summon Scrolls](/summon#summon-scrolls).
 
 ## History
-Shame lies in the western mountains of Britannia, and it is bound to the virtue of [Honor](https://wiki.ultimacodex.com/wiki/Honor). It began as a mine, abandoned when gremlins overran it, and the Avatar later braved its depths for the [Purple Stone of Honor](https://wiki.ultimacodex.com/wiki/Virtue_Stones). In time, miners returned to dig again, most never came back up. Mages followed them down in search of power, binding elementals to guard their towers to facilitate their foul experimentations. But they were not prepared to reap what they sowed.
+Shame lies in the western mountains of Britannia, and it is bound to the virtue of [Honor](https://wiki.ultimacodex.com/wiki/Honor). It began as a mine, but was abandoned when overran by gremlins. In time, miners returned to dig again, but most never came back up. some say those miners still patrol their old camps.
+
+But it wasn't just miners interested in Shame. A band of evil mages, outcast from society, traveled down in search of power, binding elementals to guard their towers to sow their foul experimentations in safety. Or so they thought.
 
 ## Floor 1
 Floor 1 is filled with scorpions, earth elementals, and the skeletons of miners still haunting their forgotten campsites.
