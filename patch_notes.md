@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-23T12:06:35.626Z
+date: 2026-11-23T13:32:28.136Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,7 +11,12 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 ## 2026.11.23
-- Refresh [Shame](/shame) spawns and add lore
+- Refresh [Shame](/shame):
+    - Fill dungeon out with spawners in empty areas
+    - Remove non-T2A monsters like dull copper elementals
+    - Add teleporters between towers on floor 3, islands on floor 4
+    - Write lore and add context decorations (glyphs)
+    - Add demiboss to lagoon
 - Add the [Greater Elemental](/greater_elemental), a demiboss on floor 4 of Shame:
     - Built for a group, with `20,000` to `30,000` hit points and a weak attack
     - Teleports around the lagoon, summoning lesser elementals that give no loot or skill gains
