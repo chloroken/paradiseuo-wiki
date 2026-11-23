@@ -2,7 +2,7 @@
 title: Features
 description: The major ways Paradise differs from T2A
 published: true
-date: 2026-11-23T13:52:04.636Z
+date: 2026-11-23T13:52:10.958Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -26,7 +26,7 @@ Characters who fight with weapons are enhanced to keep pace with mages, tamers, 
   - Wrestling moves happen automatically, no button or macro needed.
   - Automatically chooses a move based on skill levels and target.
 - [Poisoning](/poisoning):
-  - Inflicting poison is now tied to Poisoning level, giving it a use in the field
+  - Inflicting poison is now tied to Poisoning level, giving it a use in the field.
 - [Weapon Identities](/weapons#weapon-effects):
   - Swords critically strike for double damage, and slower swords crit more often.
   - One-handed maces weaken a monster's blows by sapping its vigor.
