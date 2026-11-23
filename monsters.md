@@ -2,7 +2,7 @@
 title: Monsters
 description: What roams the world, how monsters behave, and the demibosses
 published: true
-date: 2026-11-20T04:26:47.790Z
+date: 2026-11-23T11:15:38.650Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:09:38.337Z
@@ -31,6 +31,7 @@ Demibosses are powerful monsters unique to *Paradise*, built for groups of playe
 | Demiboss | Location |
 |:-|:-:|
 | [Lich King](/lich_king) | Covetous, floor 3 |
+| [Greater Elemental](/greater_elemental) | Shame, floor 4 |
 
 ## Dealing with Monsters
 - Monsters can be slain with weapons.
