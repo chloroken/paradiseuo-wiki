@@ -2,14 +2,14 @@
 title: Greater Elemental
 description: The demiboss of Shame
 published: true
-date: 2026-11-23T11:52:45.889Z
+date: 2026-11-23T11:56:34.434Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T11:15:12.185Z
 ---
 
 # Greater Elemental
-The Greater Elemental is a demiboss that drifts in the lagoon on floor 4 of [Shame](/shame). It corrupted and overthrew the mages who once bound Shame's elementals, though where it came from, nobody knows. It hits softly, but it has an enormous health pool and fights beside an endless tide of lesser elementals. It is built for a group of players. After it dies, it returns `12` to `24` hours later.
+The Greater Elemental is a demiboss that drifts in the lagoon on floor 4 of [Shame](/shame). Although nobody knows for sure where it came from, rumor has it that the mages themselves accidentally created it. It hits softly, but it has an enormous health pool and fights beside an endless tide of lesser elementals. It is built for a group of players. After it dies, it returns `12` to `24` hours later.
 
 ![the Greater Elemental in Shame's lagoon, beside a water elemental](/boss_greater_elemental.png)
 
@@ -42,13 +42,12 @@ Its elementals are bound to it, so they leave no corpse and give no loot, fame, 
 | Reagents | 1,000 | 100 |
 | Level 5 [treasure map](/treasure_map) | 1 | 100 |
 | Primal amulet | 1 | 50 |
-| [Summon scroll](/summon#summon-scrolls) | 1 | 25 |
 
-Most of the weapons, armor, and shields are magic, but jewelry never is. The gems are a random mix of every kind. The reagents come in `10` stacks of `100`, each a random Magery reagent. The summon scroll is one of the four elemental summons.
+Most of the weapons, armor, and shields are magic, but jewelry never is. The gems are a random mix of every kind. The Magery reagents are randomly chosen and come in `10` stacks of `100`. Because the Greater Elemental is an elemental in shame, it also has a chance to drop summon scrolls not pictured in the drop table.
 
 ## Primal Amulet
 A primal amulet is a gold necklace bound to one element: fire, air, earth, or water. The Greater Elemental drops one of a random element half the time.
 
 While a primal amulet is worn, its element's summon spell costs no mana and no reagents, once every `10` seconds. A primal amulet of fire, for example, makes [Summon Fire Elemental](/summon_fire_elemental) free. The cooldown belongs to the wearer, so swapping amulets doesn't reset it. Putting on a primal amulet stops its wearer from putting on any primal amulet, including the same one, for `1` minute.
 
-**A primal amulet may lose its power when its owner dies.** Every primal amulet a player carries, worn or in a bag, has a `50%` chance to become an ordinary gold necklace when they die, and its owner sees *The primal forces rescind their courtesy.* Primal amulets can be looted like any other item.
+**A primal amulet may lose its power when its owner dies.** Every primal amulet a player carries, worn or in a bag, has a `50%` chance to become an ordinary gold necklace when they die, and its owner sees *The primal forces rescind their courtesy.*
