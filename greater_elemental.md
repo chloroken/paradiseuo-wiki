@@ -2,7 +2,7 @@
 title: Greater Elemental
 description: The demiboss of Shame
 published: true
-date: 2026-11-23T12:02:02.172Z
+date: 2026-11-23T12:04:45.963Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T11:15:12.185Z
@@ -43,7 +43,7 @@ Its elementals are bound to it, so they leave no corpse and give no loot, fame, 
 | Level 5 [treasure map](/treasure_map) | 1 | 100 |
 | Primal amulet | 1 | 50 |
 
-Most of the weapons, armor, and shields are magic, but jewelry never is. The gems are a random mix of every kind. The Magery reagents are randomly chosen and come in `10` stacks of `100`. Because the Greater Elemental is an elemental in shame, it also has a chance to drop summon scrolls not pictured in the drop table.
+Most of the weapons, armor, and shields are magic, but jewelry never is. The gems are a random mix of every kind. The Magery reagents are randomly chosen and come in `10` stacks of `100`. As an elemental in Shame, the Greater Elemental also has a `25%` chance to drop one of the four elemental summon scrolls.
 
 ## Primal Amulet
 A primal amulet is a gold necklace bound to one element: fire, air, earth, or water. The Greater Elemental drops one of a random element half the time.
