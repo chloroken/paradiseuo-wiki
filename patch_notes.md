@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-23T04:06:45.504Z
+date: 2026-11-23T06:30:56.881Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,6 +12,15 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 ## 2026.11.23
 - Change Liche's ring drop sources and rates
+- Rename the Sorcerer class to [Summoner](/summoner)
+- Rework [summons](/summon):
+    - Make blade spirits, energy vortexes, and daemons take `4` follower slots
+    - Make summoned animals and elementals take fewer follower slots as [Spirit Speak](/spirit_speak) rises, down to `1` each
+    - Limit each character to one summoned elemental of each kind
+    - Stop Summon Creature from conjuring a kind of animal the caster already has summoned
+    - Make every summon spell never fail at `100` Spirit Speak
+    - Make elementals in Shame drop summon scrolls, and daemons drop Summon Daemon scrolls
+    - Show a summon's follower slot cost when there aren't enough free
 
 ## 2026.11.22
 - Rework [hirelings](/hireling):
