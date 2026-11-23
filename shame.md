@@ -2,34 +2,37 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-23T08:59:36.129Z
+date: 2026-11-23T09:08:13.454Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
 ---
 
 # Shame
-Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors and an elder gazer fortress between floors 3 and 4. It is the home of elementals, from the earth elementals of floor 1 to the blood elementals of floor 4. Every elemental in Shame can drop a summon scroll. See [Summon: Summon Scrolls](/summon#summon-scrolls).
+Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors. It is the home of elementals, including the blood elemental not found elsewhere. Elementals in Shame have a chance to drop a summon scroll on top of their normal loot. See [Summon: Summon Scrolls](/summon#summon-scrolls).
+
+## History
+Shame lies in the western mountains of Britannia, and it is bound to the virtue of [Honor](https://wiki.ultimacodex.com/wiki/Honor). It began as a mine, abandoned when gremlins overran it, and the Avatar later braved its depths for the [Purple Stone of Honor](https://wiki.ultimacodex.com/wiki/Virtue_Stones). In time, miners returned to dig again, and some never came back up. Mages followed them down in search of power, binding elementals to guard their towers. Now the mages have gone mad, and those stationed near the dungeon's lagoon have turned undead. Did the elementals turn on their masters, or did the mages dig too deep?
 
 ## Floor 1
-Floor 1 is an abandoned mine filled with scorpions, earth elementals, and the skeletons of miners still haunting their forgotten campsites.
+Floor 1 is filled with scorpions, earth elementals, and the skeletons of miners still haunting their forgotten campsites.
 
 ## Floor 2
 Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors.
 
 ## Floor 3
-A variety of creatures fill the nooks and crannies of floor 3: air, fire, water, and earth elementals, giant spiders, scorpions, sea serpents, and skeletons.
+Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors. Skeletons are all that remain of those who tried to stay.
 
 ### Towers
-Two towers flank the entrance to floor 3. Deranged evil mages, evil mage lords and slimes guard them. A magical teleporter joins the towers, guarded by poison elementals.
+Two towers flank the entrance to floor 3. Deranged evil mages, evil mage lords, and slimes guard them. A magical teleporter joins the towers, guarded by poison elementals.
 
 ## Fortress
-A fortress is embedded in the mountain, separating floors 3 and 4. Entrance in and out is controlled by teleporters marked by silver moongates. In the fortress cells are elder gazers and skeletons.
+A fortress is embedded in the mountain, separating floors 3 and 4. Teleporters marked by silver moongates lead in and out. In the fortress cells are elder gazers and skeletons.
 
 ## Floor 4
-On floor 4, the mountains carve into a lagoon where krakens and sea serpents swim. Air, earth, fire, water, and poison elementals cover the entire floor. Two gazer nests survive, consisting of gazers, gazer larvae, and elder gazers. Giant spiders, scorpions take refuge in the corners of the caves.
+On floor 4, the mountains carve into a lagoon where krakens and sea serpents swim. Air, earth, fire, water, and poison elementals cover the entire floor. Two gazer nests survive, consisting of gazers, gazer larvae, and elder gazers. Giant spiders and scorpions take refuge in the corners of the caves.
 
-A single tower stands on floor 4, home to bone magi which were ostensibly evil mages before something killed them. In the back of the floor is a cave branch full of blood elementals, the result of wicked experimentation. Islands in the lagoon hold treasure only accessible with a boat.
+A single tower stands on floor 4, home to skeletons and bone magi. The bone magi were likely evil mages before something killed them. In the back of the floor is a cave branch full of blood elementals, the result of wicked experimentation. Islands in the lagoon hold treasure.
 
 ## Treasure
 Dungeon chests spawn on every floor of Shame except the fortress. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
