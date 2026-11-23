@@ -2,7 +2,7 @@
 title: Greater Elemental
 description: The demiboss of Shame
 published: true
-date: 2026-11-23T11:15:12.185Z
+date: 2026-11-23T11:41:06.031Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T11:15:12.185Z
@@ -10,6 +10,8 @@ dateCreated: 2026-11-23T11:15:12.185Z
 
 # Greater Elemental
 The Greater Elemental is a demiboss that drifts in the lagoon on floor 4 of [Shame](/shame). It corrupted and overthrew the mages who once bound Shame's elementals, though where it came from, nobody knows. It hits softly, but it has an enormous health pool and fights beside an endless tide of lesser elementals. It is built for a group of players. After it dies, it returns `12` to `24` hours later.
+
+![boss_elemental.png](/boss_elemental.png)
 
 ## Fighting the Greater Elemental
 - It has `20,000` to `30,000` hit points.
