@@ -2,14 +2,14 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-23T13:36:24.258Z
+date: 2026-11-23T13:36:45.256Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
 ---
 
 # Shame
-Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors. It is a hotbed of elemental activity: earth, air, water, fire, deadly poison elementals, the exclusive blood elemental, and their ostensible leader: the [Greater Elemental](/greater_elemental).
+Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors. It is a hotbed of elemental activity: earth, air, water, fire, deadly poison elementals, the exclusive blood elementals, and their ostensible leader: the [Greater Elemental](/greater_elemental).
 
 Elementals in Shame have a chance to drop a summon scroll on top of their normal loot, unless they were summoned themselves. See [Summon: Summon Scrolls](/summon#summon-scrolls).
 
