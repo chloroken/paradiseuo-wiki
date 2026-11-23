@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-23T06:30:56.881Z
+date: 2026-11-23T11:18:27.036Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,8 +11,14 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 ## 2026.11.23
-- Change Liche's ring drop sources and rates
-- Rename the Sorcerer class to [Summoner](/summoner)
+- Refresh [Shame](/shame) spawns and add lore
+- Add the [Greater Elemental](/greater_elemental), a demiboss in the lagoon on floor 4 of Shame:
+    - Built for a group, with `20,000` to `30,000` hit points and a weak attack
+    - Teleports around the lagoon, summoning lesser elementals that give no loot or skill gains
+    - Adds poison and blood elementals to its summons below half health
+    - Drops a large haul of gold and magic items, `100` gems, `1,000` reagents, and a level `5` treasure map
+- Add the [primal amulet](/greater_elemental#primal-amulet), which makes one elemental summon spell free every `10` seconds:
+    - Dropped by the Greater Elemental `50%` of the time
 - Rework [summons](/summon):
     - Make blade spirits, energy vortexes, and daemons take `4` follower slots
     - Make summoned animals and elementals take fewer follower slots as [Spirit Speak](/spirit_speak) rises, down to `1` each
@@ -21,6 +27,8 @@ Changes to *Paradise*, newest first.
     - Make every summon spell never fail at `100` Spirit Speak
     - Make elementals in Shame drop summon scrolls, and daemons drop Summon Daemon scrolls
     - Show a summon's follower slot cost when there aren't enough free
+- Change Liche's ring drop sources and rates
+- Rename the Sorcerer class to [Summoner](/summoner)
 
 ## 2026.11.22
 - Rework [hirelings](/hireling):
