@@ -2,10 +2,10 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-21T06:00:00.000Z
+date: 2026-11-23T01:50:14.346Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-21T06:00:00.000Z
+dateCreated: 2026-11-21T05:59:08.295Z
 ---
 
 # Character
@@ -17,7 +17,7 @@ Every character is built from three stats and up to `700` skill points. These pa
 - [Classes](/classes): proven builds that combine stats and skills.
 
 ## Classes
-- Fighters: [Fighter](/fighter), [Paladin](/paladin), and [Assassin](/assassin)
+- Fighters: [Warrior](/warrior), [Paladin](/paladin), and [Assassin](/assassin)
 - Archers: [Deadeye](/deadeye) and [Shadow](/shadow)
 - Mages: [Battlemage](/battlemage), [Monk](/monk), [Sorcerer](/sorcerer), and [Druid](/druid)
 - Bards: [Pirate](/pirate), [Minstrel](/minstrel), and [Beastmaster](/beastmaster)
