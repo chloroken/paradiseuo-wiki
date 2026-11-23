@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-22T15:05:19.788Z
+date: 2026-11-23T04:06:45.504Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -10,6 +10,8 @@ dateCreated: 2026-11-04T19:38:55.944Z
 
 # Patch Notes
 Changes to *Paradise*, newest first.
+## 2026.11.23
+- Change Liche's ring drop sources and rates
 
 ## 2026.11.22
 - Rework [hirelings](/hireling):
