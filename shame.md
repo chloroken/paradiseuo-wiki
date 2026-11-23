@@ -2,7 +2,7 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-23T08:37:47.031Z
+date: 2026-11-23T08:54:19.591Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
@@ -12,16 +12,16 @@ dateCreated: 2026-11-23T08:37:47.031Z
 Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors and an elder gazer fortress between floors 3 and 4. It is the home of elementals, from the earth elementals of floor 1 to the blood elementals of floor 4. Every elemental in Shame can drop a summon scroll. See [Summon: Summon Scrolls](/summon#summon-scrolls).
 
 ## Floor 1
-Floor 1 has scorpions and earth elementals. The only other things on floor 1 are the skeletons of miners, still haunting their forgotten campsites.
+Floor 1 has scorpions, earth elementals, and the skeletons of miners still haunting their forgotten campsites.
 
 ## Floor 2
-Elementals have overrun floor 2. Air and water elementals roam it alongside skeletons, and the only living things brave enough to stay are the sea serpents.
+Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors.
 
 ## Floor 3
-A variety of creatures fill the nooks and crannies of floor 3: air, earth, fire, and water elementals, giant spiders, scorpions, slimes, sea serpents, and skeletons.
+A variety of creatures fill the nooks and crannies of floor 3: air, earth, fire, and water elementals, giant spiders, scorpions, sea serpents, and skeletons.
 
 ### Towers
-Two towers flank the entrance to floor 3. Deranged evil mages and evil mage lords guard them, along with poison elementals. A teleporter joins the towers' second floors, guarded by more poison elementals.
+Two towers flank the entrance to floor 3. Deranged evil mages, evil mage lords and slimes guard them. A magical teleporter joins the towers, guarded by poison elementals.
 
 ## Floor 3.5
 Between floors 3 and 4, a fortress is embedded in the mountain. Skeletons guard it, and elder gazers lurk in its inner area. A one-way teleporter leads into the fortress from floor 3, and another leads back out.
