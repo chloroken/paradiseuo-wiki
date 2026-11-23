@@ -2,7 +2,7 @@
 title: Weapons
 description: Every weapon type, its skill, its weapon effect, and magic weapons
 published: true
-date: 2026-11-21T17:49:14.493Z
+date: 2026-11-23T01:21:14.946Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -66,12 +66,12 @@ Only players and human NPCs can deliver a Concussion Blow. Everyone nearby sees 
 ### Crushing Blow
 Two-handed maces and staves can land a Crushing Blow, which makes the target attack at half speed for `10` seconds. Another Crushing Blow restarts the time instead of stacking.
 
-Only players can deliver a Crushing Blow, and only against monsters. Everyone nearby sees *looks dazed* over the target.
+Only players can deliver a Crushing Blow, and only against monsters. Everyone nearby sees *\*looks dazed*\* over the target.
 
 ### Paralyzing Blow
 Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes the target in place for `2` seconds.
 
-Everyone nearby sees *looks stuck* over the target.
+Everyone nearby sees *\*looks stuck*\* over the target.
 
 ### Wrestling Moves
 Fighting with empty hands allows two moves, Disarm and Stun. Neither needs a button: when a punch hits and the moves are off cooldown, the right one is attempted automatically.
@@ -121,6 +121,4 @@ The bonus raises the weapon's skill while it's held, which improves both hit cha
 | Indestructible | 120 |
 
 ### Silver
-A silver weapon does double damage against the undead. Silver is the only slayer found on weapons, and any magic weapon has a `1%` chance to be silver, on top of its other properties. Silver weapons have a silvery color.
-
-A liche's ring turns any weapon silver, but kills its user. See [Lich King: Liche's Ring](/lich_king#liches-ring).
+A silver weapon does double damage against the undead. Silver is the only slayer found on weapons, and any magic weapon has a `1%` chance to be silver, on top of its other properties. Silver weapons have a silvery hue override.
