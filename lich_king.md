@@ -2,7 +2,7 @@
 title: Lich King
 description: The demiboss of Covetous, how he fights, and what he drops
 published: true
-date: 2026-11-23T03:54:18.004Z
+date: 2026-11-23T03:55:05.887Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T14:54:28.083Z
@@ -69,6 +69,6 @@ A liche's ring is a silver ring that can turn a weapon silver. It can drop from 
 | Lich Lord<br>(elsewhere) | 0.1% |
 | Lich | 0.01% |
 
-Double-clicking the ring in the backpack and targeting a weapon in the backpack or in hand consumes it, converting a non-silver weapon to silver and modifying its hue.
+Double-clicking the ring in the backpack and targeting a weapon in the backpack or in hand consumes it, converting a non-silver weapon to silver and modifying its hue. **Using a liche's ring kills its user.** The silver weapon will lootable from the user's corpse.
 
-**Using a liche's ring kills its user.** *The king sends his regards.*
+*The king sends his regards.*
