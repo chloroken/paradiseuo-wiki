@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-23T11:18:27.036Z
+date: 2026-11-23T12:06:35.626Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,7 +12,7 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 ## 2026.11.23
 - Refresh [Shame](/shame) spawns and add lore
-- Add the [Greater Elemental](/greater_elemental), a demiboss in the lagoon on floor 4 of Shame:
+- Add the [Greater Elemental](/greater_elemental), a demiboss on floor 4 of Shame:
     - Built for a group, with `20,000` to `30,000` hit points and a weak attack
     - Teleports around the lagoon, summoning lesser elementals that give no loot or skill gains
     - Adds poison and blood elementals to its summons below half health
