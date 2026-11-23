@@ -2,7 +2,7 @@
 title: Treasure Map
 description: Decoding treasure maps, opening treasure chests, and what they hold
 published: true
-date: 2026-11-23T07:08:57.807Z
+date: 2026-11-23T07:09:02.751Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-10T01:23:58.121Z
@@ -27,7 +27,7 @@ Double-clicking a treasure map attempts to decode it.
 | 5 | 90 | 100 | None |
 
 ## Opening the Chest
-A lockpicker can use a [lockpick](/lockpick) on a treasure chest to try opening it. Its trap can be disarmed from range with [Telekinesis](/telekinesis), avoiding the explosion and its damage. Without Magery, the only options are Remove Trap or taking the trap damage.
+A lockpicker can use a [lockpick](/lockpick) on a treasure chest to try opening it. A mage can open a level `1` chest with Unlock from `17.5` Magery, or a level `2` chest from `67.5`. Its trap can be disarmed from range with [Telekinesis](/telekinesis), avoiding the explosion and its damage. Without Magery, the only options are Remove Trap or taking the trap damage.
 
 ## Loot
 A treasure chest's loot depends on its map level. Treasure maps found inside are one level lower, but never below level `1`.
