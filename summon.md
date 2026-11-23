@@ -2,26 +2,32 @@
 title: Summon
 description: Magery's summon spells, how long summons last, and how they fight
 published: true
-date: 2026-11-23T01:50:00.000Z
+date: 2026-11-23T03:02:52.636Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-23T01:50:00.000Z
+dateCreated: 2026-11-23T01:45:13.712Z
 ---
 
 # Summon
 Summons are [followers](/follower) conjured with [Magery](/magery). They serve their caster for a limited time, then vanish. [Spirit Speak](/spirit_speak) makes them last longer, resist being dispelled, and, for elementals, hit harder.
 
 ## Summon Spells
-| Spell | Circle | Summons | Duration (s) |
-|:-|:-:|:-:|:-:|
-| [Blade Spirits](/blade_spirits) | 5th | Blade spirit | 80 – 119 |
-| [Summon Creature](/summon_creature) | 5th | A random animal | 4 * Magery |
-| [Energy Vortex](/energy_vortex) | 8th | Energy vortex | 80 – 119 |
-| [Summon Air Elemental](/summon_air_elemental) | 8th | Air elemental | 4 * Magery |
-| [Summon Daemon](/summon_daemon) | 8th | Daemon | 4 * Magery |
-| [Summon Earth Elemental](/summon_earth_elemental) | 8th | Earth elemental | 4 * Magery |
-| [Summon Fire Elemental](/summon_fire_elemental) | 8th | Fire elemental | 4 * Magery |
-| [Summon Water Elemental](/summon_water_elemental) | 8th | Water elemental | 4 * Magery |
+| Spell | Circle | Follower slots | Hit points | DPS | Spellcasting |
+|:-|:-:|:-:|:-:|:-:|:-:|
+| [Blade Spirits](/blade_spirits) | 5th | 1 | 80 | 8.4 | None |
+| [Summon Creature](/summon_creature) | 5th | 2 | Varies | Varies | None |
+| [Summon Air Elemental](/summon_air_elemental) | 8th | 2 | 84.5 | 5 | Magery 60 – 75 |
+| [Summon Earth Elemental](/summon_earth_elemental) | 8th | 2 | 84.5 | 4.4 | None |
+| [Summon Water Elemental](/summon_water_elemental) | 8th | 3 | 84.5 | 2.8 | Magery 60 – 75 |
+| [Summon Fire Elemental](/summon_fire_elemental) | 8th | 4 | 84.5 | 4.4 | Magery 60 – 75 |
+| [Summon Daemon](/summon_daemon) | 8th | 5 | 294.5 | 3.9 | Magery 70 – 80 |
+| [Energy Vortex](/energy_vortex) | 8th | 1 | 70 | 10.9 | None |
+
+Hit points are averages. DPS is the base melee value at average damage and Dexterity, before Tactics, Strength, and the follower damage levers. It counts every swing as a hit and leaves out spells.
+
+Blade spirits and energy vortexes last `80` to `119` seconds. Every other summon lasts `4` seconds per point of Magery, so `400` seconds at `100` Magery. Spirit Speak multiplies every duration by up to `2`, so a `400` second summon lasts `800` seconds at `100` Spirit Speak. See [Spirit Speak: Summons](/spirit_speak#summons).
+
+Damage and DPS are base melee values, before Tactics, Strength, and the follower damage levers. DPS uses the average damage and the attack speed at average Dexterity, counts every swing as a hit, and leaves out spells. Blade spirits and energy vortexes always attack at the same speed.
 
 At `100` Magery, a summon whose duration scales with Magery lasts `400` seconds. Spirit Speak multiplies every duration by up to `2`, so the same summon lasts `800` seconds at `100` Spirit Speak. See [Spirit Speak: Summons](/spirit_speak#summons).
 
@@ -36,6 +42,8 @@ A summoned animal with a Pack Instinct counts toward its owner's pack. See [Pet:
 
 ## Blade Spirits and Energy Vortexes
 Blade spirits and energy vortexes appear at a targeted spot and can't be commanded. They fight on their own until they die or their time runs out.
+
+Each takes `1` follower slot, so a caster can have several out at once, up to `5` with no other followers, in any mix of the two.
 
 ## Commanding Summons
 Every other summon follows its caster and takes the same commands as any follower. Summons always obey. See [Follower: Commands](/follower#commands).
