@@ -2,7 +2,7 @@
 title: Features
 description: The major ways Paradise differs from T2A
 published: true
-date: 2026-11-23T13:52:10.958Z
+date: 2026-11-24T00:28:06.475Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -52,7 +52,7 @@ Archers receive several enhancements that make ranged combat more effective.
   - Increases accuracy with ranged weapons.
   - At `100` Tracking, shots against fleeing targets never miss.
 ## Follower Enhancements
-Controlling [followers](/follower) is a popular fantasy, so it's been enhanced in three major ways. Followers keep pace with their owner, even when the owner is mounted, and players can attack their own followers without becoming criminals. See [Training on Followers](/follower#training-on-followers).
+Controlling [followers](/follower) is a popular fantasy, so it's been enhanced in three major ways. Followers keep pace with their owner, even when the owner is mounted (hirelings will mount their own horse), and players can attack their own followers without becoming criminals to hone their skills. See [Training on Followers](/follower#training-on-followers).
 
 ### Tamers
 Animal tamers get several changes that make training, healing, and keeping pets easier.
@@ -64,33 +64,32 @@ Animal tamers get several changes that make training, healing, and keeping pets 
 - Silver steeds and nightmares have a small chance to spawn Shiny, with a rare hue. See [Mount](/mount).
 
 ### Summoners
-Mages who train [Spirit Speak](/spirit_speak), such as the [Summoner](/summoner), bind their summons more tightly. The bonuses grow with the skill, up to `100`.
+Mages who train [Spirit Speak](/spirit_speak), such as the [Summoner](/summoner), have enhanced summons. See [Summon](/summon).
 
-- Magery summons last up to twice as long.
-- Dispel and Mass Dispel are up to `75%` less likely to remove them, unless cast by the summoner.
-- Summoned air, earth, fire, and water elementals do up to `50%` more damage.
-- Summoned animals and elementals take fewer follower slots, down to `1` each, and a summoner can have one elemental of each kind at once. See [Summon: Follower Slots](/summon#follower-slots).
-- At `100` Spirit Speak, every summon spell never fails.
+Spirit Speak:
+- makes summons last longer.
+- makes summons become more resistant to dispels.
+- makes summoned air, earth, fire, and water elementals do more damage.
+- makes summoned animals and elementals take fewer follower slots.  See [Summon: Follower Slots](/summon#follower-slots).
+- makes summon spells less likely to fail, never failing at `100` Spirit Speak
+
+Related Changes:
+- A player can have only one elemental of each kind at once.
 - Elementals in Shame and daemons anywhere drop summon scrolls. See [Summon: Summon Scrolls](/summon#summon-scrolls).
 
 ### Hirelings
-[Hirelings](/hireling) are paid followers found in taverns, cheap enough for any character.
+Paid followers found in taverns, cheap enough for any character. *Paradise* adds the Cleric hireling. See [Hireling](/hireling).
 
-- Each tavern has `2` hirelings and the Jhelom fighting pit has `10`, and unhired ones are replaced every hour.
-- Hirelings deal and take full damage against monsters, unlike pets and summons.
+- Each tavern has `2` random hirelings and the Jhelom fighting pit has `10`.
+- Unhired hirelings are replaced with new ones every hour.
+- Hirelings deal and take full damage against monsters.
 - Hirelings ride horses when commanded to follow.
-- The cleric hireling heals its employer, their pets and hirelings, and itself.
+- The cleric hireling heals its employer, their pets and hirelings, and itself, but has limited mana.
 
 ## Reputation
 Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower, and locked Karma is unlocked with shrine mantras. See [Reputation](/reputation).
 
 ## Other Changes
-- The world uses Trammel rules on the Felucca map, so players can't attack or steal from each other anywhere. Duel arenas and guild wars are the only PvP, and items dropped on the ground can still be taken.
-- Houses decay if they aren't refreshed, and everything inside is destroyed rather than dropped on the ground. See [House](/house).
-- Boats sink `24` hours after they were last refreshed, to stop players blocking objectives and islands with boats. See [Boat](/boat).
-- Ore can be smelted straight from a pack animal's backpack. See [Crafting](/crafting).
-- Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. See [Monsters](/monsters#fighting-monsters).
-- Damage shows as numbers over the target. See [Combat: Damage](/combat#damage).
-- Demibosses are powerful monsters with their own lairs and loot. See [Monsters: Demibosses](/monsters#demibosses).
+- Monsters hit players with attacks much harder than other shards.
 - Pets and summons take double damage from demibosses. See [Follower: Followers in Combat](/follower#followers-in-combat).
 - Starting items aren't protected, so they drop on death once a character is no longer Young. See [Young Player](/young_player#losing-young-status).
