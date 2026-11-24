@@ -2,20 +2,10 @@
 title: valor
 description: 
 published: true
-date: 2026-11-24T03:50:47.752Z
+date: 2026-11-24T03:51:32.408Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:56.754Z
----
-
----
-title: Valor
-description: The warrior's virtue: accuracy, toughness, and regeneration for characters who fight without magic
-published: true
-date: 2026-11-24T03:30:00.000Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-24T03:30:00.000Z
 ---
 
 # Valor
