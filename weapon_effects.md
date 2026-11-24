@@ -2,10 +2,10 @@
 title: Weapon Effects
 description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
 published: true
-date: 2026-11-24T03:30:00.000Z
+date: 2026-11-24T11:43:46.207Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-24T03:30:00.000Z
+dateCreated: 2026-11-24T03:38:58.666Z
 ---
 
 # Weapon Effects
@@ -13,15 +13,16 @@ Most weapon types have a weapon effect, which can trigger when a hit lands. Weap
 
 Unless noted, each weapon effect is controlled by [Arms Lore](/arms_lore), from nothing at `0` to full strength at `100`. A character without Arms Lore can use any weapon, but never lands its effect. Which weapons have which effect is listed on [Weapons](/weapons#weapon-types).
 
-| Effect | Weapons | Trigger | Works Against |
-|:-|:-:|:-:|:-:|
-| [Critical strikes](#critical-strikes) | Swords | Each sword's own chance, scaled by Arms Lore | Anything |
-| [Sapping vigor](#sapping-vigor) | One-handed maces | Every hit, amount scaled by Arms Lore | Monsters |
-| [Concussion Blow](#concussion-blow) | Polearms | Anatomy / 400, no Arms Lore needed | Anything |
-| [Crushing Blow](#crushing-blow) | Two-handed maces (war axe, war hammer), staves except the shepherd's crook | Arms Lore / 400 | Monsters |
-| [Paralyzing Blow](#paralyzing-blow) | Pitchforks, short spears, spears | Arms Lore / 400 | Anything |
-| [Shillelagh](#shillelagh) | Shepherd's crook | First hit after a 9 second cooldown, no Arms Lore needed | Anything |
-| [Stun](#stun) | Fists | (Wrestling + Anatomy) / 400, no Arms Lore needed | Anything |
+| Name | Effect |Weapons | Trigger | Works Against |
+|:-|:-:|:-:|:-:|:-:|
+| [Critical strikes](#critical-strikes) | 2x damage | Swords | Each sword's own chance, scaled by Arms Lore | Anything |
+| [Sapping vigor](#sapping-vigor) | Reduces enemy damage | One-handed maces | Every hit, amount scaled by Arms Lore | Monsters |
+| [Concussion Blow](#concussion-blow) | Reduces enemy Intelligence | Polearms | Anatomy / 400, no Arms Lore needed | Anything |
+| [Crushing Blow](#crushing-blow) | Reduce enemy attack speed | Two-handed maces, staves | Arms Lore / 400 | Monsters |
+| Crushing Blow (additional effect) | Splash damage hits everything within a tile | Two-handed maces | Blacksmithing / 100 | Monsters |
+| [Paralyzing Blow](#paralyzing-blow) | Freezes enemy | Pitchforks, short spears, spears | Arms Lore / 400 | Anything |
+| [Shillelagh](#shillelagh) | 10x damage, 9s cooldown | Shepherd's crook | First hit after a 9 second cooldown, no Arms Lore needed | Anything |
+| [Stun](#stun) | Freezes enemy | Fists | (Wrestling + Anatomy) / 400, no Arms Lore needed | Anything |
 
 Crushing Blow and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Three effects don't use Arms Lore: Concussion Blow uses [Anatomy](/anatomy), the shillelagh scales with [Herding](/herding), and stun needs Wrestling and Anatomy. [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
 
