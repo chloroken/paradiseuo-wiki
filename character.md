@@ -2,14 +2,14 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T03:49:20.218Z
+date: 2026-11-24T04:10:23.401Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
 ---
 
 # Character
-Every character is built from three stats and up to `700` skill points. These pages cover how to build one, the proven builds to start from, and the reputation a character earns along the way. See [Reputation](/reputation).
+Every character is built from three stats and up to `700` skill points. These pages cover how to build one, some class ideas to start with, and the reputation a character earns along the way. See [Reputation](/reputation).
 
 ## Building a Character
 - [Stats](/stats): Strength, Dexterity, and Intelligence, and what each one does.
