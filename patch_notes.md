@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-23T13:35:46.300Z
+date: 2026-11-24T02:45:49.229Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,6 +11,8 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 ## 2026.11.23
+- Change Liche's ring drop sources and rates
+- Rename the Sorcerer class to [Summoner](/summoner)
 - Refresh [Shame](/shame):
     - Add skeletons to represent dead miners 
     - Add bone magi to represent dead mages
@@ -35,8 +37,26 @@ Changes to *Paradise*, newest first.
     - Make every summon spell never fail at `100` Spirit Speak
     - Make elementals in Shame drop summon scrolls, and daemons drop Summon Daemon scrolls
     - Show a summon's follower slot cost when there aren't enough free
-- Change Liche's ring drop sources and rates
-- Rename the Sorcerer class to [Summoner](/summoner)
+- Add [scaling skills](/weapons#scaling-skills) that make weapons hit harder, for players only:
+    - [Blacksmithing](/blacksmithing) adds up to `40%` damage to one-handed maces
+    - [Carpentry](/carpentry) adds up to `15%` damage to black, gnarled, and quarter staves
+    - [Mining](/mining) adds up to `100%` damage to the pickaxe, which no longer gets the [Lumberjacking](/lumberjacking) bonus
+    - Each bonus builds to two thirds by `99.9`, with the last third at grandmaster, like Lumberjacking
+    - Make the Lumberjacking bonus players only
+    - Make the wooden shield gain up to `15` armor from its wearer's Carpentry, matching a heater shield at `100`
+- Add the [shillelagh](/weapons#shillelagh), which turns the shepherd's crook into a weapon for herders:
+    - The first crook hit after a `9` second cooldown bonks for `1` to `10` times the crook's damage roll, rising with [Herding](/herding)
+    - At `100` Herding, bonks never miss
+    - Remove Crushing Blow from the shepherd's crook
+- Rebalance [weapons](/dps):
+    - Give the double axe, executioner's axe, two-handed axe, and large battle axe their own speed and damage
+    - Make the cutlass slower and harder hitting, with a `17%` critical strike chance
+    - Make the maul slower and harder hitting
+    - Raise the pickaxe's damage
+    - Double the damage of knives
+- Make every [weapon effect](/weapons#weapon-effects) players only, so NPCs no longer land Concussion Blow or Paralyzing Blow
+- Remove Disarm from [wrestling](/wrestling#wrestling-moves), so every move is a stun
+
 
 ## 2026.11.22
 - Rework [hirelings](/hireling):
