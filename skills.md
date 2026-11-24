@@ -2,14 +2,14 @@
 title: Skills
 description: Every enabled and disabled skill, and the most popular ones
 published: true
-date: 2026-11-21T18:21:06.287Z
+date: 2026-11-24T03:49:52.467Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
 ---
 
 # Skills
-A character can have up to `700` skill points. Common [class builds](/classes) aim for powerful synergies. Some skills are disabled, and others are almost useless.
+A character can have up to `700` skill points. Common [class builds](/character#classes) aim for powerful synergies. Some skills are disabled, and others are almost useless.
 
 Every page is written specifically for *Paradise*, and checked against the server's code wherever possible. As alpha testing continues and the code behind each skill is better understood, more pages will be written and expanded.
 
