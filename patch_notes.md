@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-24T03:46:28.177Z
+date: 2026-11-24T03:46:49.735Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -43,7 +43,7 @@ Changes to *Paradise*, newest first.
     - Each bonus builds to two thirds by `99.9`, with the last third at grandmaster, like Lumberjacking
     - Make the Lumberjacking bonus players only
     - Make the wooden shield gain up to `15` armor from its wearer's Carpentry, matching a heater shield at `100`
-- Add the [shillelagh](/weapon_effects#shillelagh), which turns the shepherd's crook into a weapon for herders:
+- Add the [shillelagh](/weapon_effects#shillelagh) weapon effect, which turns the shepherd's crook into a weapon for herders:
     - The first crook hit after a `9` second cooldown bonks for `1` to `10` times the crook's damage roll, rising with [Herding](/herding)
     - At `100` Herding, bonks never miss
     - Remove Crushing Blow from the shepherd's crook
