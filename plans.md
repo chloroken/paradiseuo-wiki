@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-24T08:16:16.939Z
+date: 2026-11-24T12:27:47.385Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -12,7 +12,6 @@ dateCreated: 2026-11-22T12:00:49.987Z
 *Paradise* is in alpha, and thus receives constant development. This page serves as a way of keeping track of the bigger picture: getting the game suitable for beta.
 
 ## Classes
-- Battlemage (needs polearm identity)
 - Thief (noncombat, uses stealing/snooping in dungeons)
   - Begging
   - Snooping
