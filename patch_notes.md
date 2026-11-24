@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-24T03:46:49.735Z
+date: 2026-11-24T05:54:02.706Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,7 +11,7 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 ## 2026.11.23
-- Rename the Sorcerer class to [Summoner](/summoner)
+- Rename the Sorcerer class to Summoner
 - Refresh [Shame](/shame):
     - Add skeletons to represent dead miners
     - Add bone magi to represent dead mages
