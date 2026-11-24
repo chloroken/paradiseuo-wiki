@@ -25,7 +25,7 @@ Trees share their wood with nearby trees, in patches of `4` by `3` tiles. Each p
 A log weighs `2` stones, so a full load adds up quickly. Using an axe on logs cuts them into boards, which most carpentry and fletching recipes use. A pack animal can carry the extra weight, and Dexterity adds carrying capacity. See [Carrying Capacity](/stats#carrying-capacity).
 
 ## Axe Damage
-Lumberjacking adds bonus damage to attacks made with axes. The bonus is `(Lumberjacking / 5)%`, plus `10%` at grandmaster, for `30%` at `100`.
+Lumberjacking adds bonus damage to attacks made with axes, for players only. The bonus is `(Lumberjacking / 5)%`, plus `10%` at grandmaster, for `30%` at `100`.
 
 | Lumberjacking | Axe Damage Bonus (%) |
 |:-|:-:|
@@ -34,7 +34,7 @@ Lumberjacking adds bonus damage to attacks made with axes. The bonus is `(Lumber
 | 75 | 15 |
 | 100 | 30 |
 
-The bonus only applies to axes that use Swordsmanship. War axes can chop trees, but they use Mace Fighting and get no damage bonus. Swords, maces, fencing weapons, and bows get nothing from Lumberjacking.
+The bonus only applies to axes that use Swordsmanship, except the pickaxe, which gets its bonus from [Mining](/mining) instead. Hits with those axes can also train Lumberjacking. War axes can chop trees, but they use Mace Fighting and get no damage bonus. Swords, maces, fencing weapons, and bows get nothing from Lumberjacking.
 
 ## Manual Training
 Chopping trees with an axe trains Lumberjacking.

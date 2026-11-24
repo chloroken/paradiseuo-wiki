@@ -23,15 +23,20 @@ Characters who fight with weapons are enhanced to keep pace with mages, tamers, 
   - Armor damage reduction is percentage-based instead of flat, making it better against bigger hits.
   - Shields also reduce every hit, on top of blocking.
 - [Wrestling Moves](/wrestling#wrestling-moves):
-  - Wrestling moves happen automatically, no button or macro needed.
-  - Automatically chooses a move based on skill levels and target.
+  - Wrestling's stun happens automatically, no button or macro needed.
+  - Disarm is removed, so every move is a stun.
 - [Poisoning](/poisoning):
   - Inflicting poison is now tied to Poisoning level, giving it a use in the field.
 - [Weapon Identities](/weapons#weapon-effects):
   - Swords critically strike for double damage, and slower swords crit more often.
   - One-handed maces weaken a monster's blows by sapping its vigor.
   - Two-handed maces and staves can slow a monster's attacks.
+  - Herding turns the shepherd's crook into a shillelagh that bonks for up to `10` times damage.
+  - Weapon effects are for players only.
   - Weapon damage is rebalanced so more weapons are worth using.
+- [Scaling Skills](/weapons#scaling-skills):
+  - Lumberjacking, Blacksmithing, Carpentry, and Mining make their own weapons hit harder.
+  - Carpentry makes the wooden shield as sturdy as a heater shield.
 - [Carrying Capacity](/stats#carrying-capacity):
   - Dexterity adds carrying capacity, half as much per point as Strength.
 

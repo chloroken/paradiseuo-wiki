@@ -9,13 +9,13 @@ dateCreated: 2026-11-21T17:43:32.186Z
 ---
 
 # Damage Per Second
-Every weapon's base damage, speed, and damage per second (DPS) for a fighter with `100` Tactics, Strength, Anatomy, and Stamina, using a regular-quality, non-magic weapon. DPS assumes every swing hits and ignores armor. Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for swords, `100` [Lumberjacking](/lumberjacking) for axes, and all `3` bolts of a crossbow volley landing.
+Every weapon's base damage, speed, and damage per second (DPS) for a fighter with `100` Tactics, Strength, Anatomy, and Stamina, using a regular-quality, non-magic weapon. DPS assumes every swing hits and ignores armor. Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for swords, a [shillelagh](/weapons#shillelagh) bonk every fourth swing at `100` [Herding](/herding) for the shepherd's crook, and all `3` bolts of a crossbow volley landing. For axes, one-handed maces, the black, gnarled, and quarter staves, and the pickaxe, it adds `100` in their [scaling skill](/weapons#scaling-skills): [Lumberjacking](/lumberjacking), [Blacksmithing](/blacksmithing), [Carpentry](/carpentry), and [Mining](/mining) respectively.
 
 ## Swords
 | Weapon | Damage | Speed | Critical Strike<br>Chance (%) | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | Broadsword | 5 – 29 | 45 | 10 | 1.67 | 22.9 | 25.2 |
-| Cutlass | 6 – 28 | 45 | 10 | 1.67 | 22.9 | 25.2 |
+| Cutlass | 6 – 30 | 40 | 17 | 1.88 | 21.6 | 25.3 |
 | Katana | 4 – 22 | 58 | 12 | 1.29 | 22.6 | 25.3 |
 | Longsword | 5 – 33 | 35 | 26 | 2.14 | 19.9 | 25.1 |
 | Scimitar | 4 – 30 | 43 | 15 | 1.74 | 21.9 | 25.2 |
@@ -36,12 +36,12 @@ Every weapon's base damage, speed, and damage per second (DPS) for a fighter wit
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Axe | 8 – 34 | 37 | 2.03 | 23.3 | 28.0 |
 | Battle axe | 18 – 35 | 30 | 2.5 | 23.9 | 28.6 |
-| Double axe | 8 – 34 | 37 | 2.03 | 23.3 | 28.0 |
-| Executioner's axe | 8 – 34 | 37 | 2.03 | 23.3 | 28.0 |
+| Double axe | 7 – 31 | 41 | 1.83 | 23.4 | 28.0 |
+| Executioner's axe | 10 – 37 | 33 | 2.27 | 23.3 | 27.9 |
 | Hatchet | 2 – 17 | 40 | 1.88 | 11.4 | 13.7 |
-| Large battle axe | 18 – 35 | 30 | 2.5 | 23.9 | 28.6 |
-| Pickaxe | 1 – 15 | 35 | 2.14 | 8.4 | 10.1 |
-| Two-handed axe | 18 – 35 | 30 | 2.5 | 23.9 | 28.6 |
+| Large battle axe | 20 – 38 | 27 | 2.78 | 23.5 | 28.2 |
+| Pickaxe | 4 – 24 | 35 | 2.14 | 14.7 | 24.5 |
+| Two-handed axe | 15 – 31 | 34 | 2.21 | 23.5 | 28.2 |
 
 ## Polearms
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
@@ -52,28 +52,28 @@ Every weapon's base damage, speed, and damage per second (DPS) for a fighter wit
 ## Maces
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|
-| Club | 8 – 24 | 40 | 1.88 | 19.2 |  |
-| Hammer pick | 6 – 33 | 30 | 2.5 | 17.6 |  |
-| Mace | 8 – 32 | 30 | 2.5 | 18.0 |  |
-| Maul | 10 – 30 | 30 | 2.5 | 18.0 |  |
+| Club | 8 – 24 | 40 | 1.88 | 19.2 | 24.3 |
+| Hammer pick | 6 – 33 | 30 | 2.5 | 17.6 | 22.2 |
+| Mace | 8 – 32 | 30 | 2.5 | 18.0 | 22.8 |
+| Maul | 11 – 33 | 27 | 2.78 | 17.8 | 22.6 |
 | War axe | 9 – 27 | 40 | 1.88 | 21.6 |  |
 | War hammer | 8 – 36 | 31 | 2.42 | 20.5 |  |
-| War mace | 10 – 30 | 32 | 2.34 | 19.2 |  |
+| War mace | 10 – 30 | 32 | 2.34 | 19.2 | 24.3 |
 
 ## Staves
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|
-| Black staff | 8 – 33 | 35 | 2.14 | 21.5 |  |
-| Gnarled staff | 10 – 30 | 33 | 2.27 | 19.8 |  |
-| Quarter staff | 6 – 25 | 48 | 1.56 | 22.3 |  |
-| Shepherd's crook | 3 – 12 | 30 | 2.5 | 6.8 |  |
+| Black staff | 8 – 33 | 35 | 2.14 | 21.5 | 23.7 |
+| Gnarled staff | 10 – 30 | 33 | 2.27 | 19.8 | 21.8 |
+| Quarter staff | 6 – 25 | 48 | 1.56 | 22.3 | 24.6 |
+| Shepherd's crook | 3 – 12 | 30 | 2.5 | 6.8 | 21.9 |
 
 ## Knives
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|
-| Butcher knife | 2 – 14 | 40 | 1.88 | 9.6 |  |
-| Cleaver | 2 – 13 | 40 | 1.88 | 9.0 |  |
-| Skinning knife | 1 – 10 | 40 | 1.88 | 6.6 |  |
+| Butcher knife | 4 – 28 | 40 | 1.88 | 19.2 |  |
+| Cleaver | 4 – 26 | 40 | 1.88 | 18.0 |  |
+| Skinning knife | 2 – 20 | 40 | 1.88 | 13.2 |  |
 
 ## Bows
 | Weapon | Damage | Speed | Range (tiles) | Swing Delay (s) | DPS | EDPS |
