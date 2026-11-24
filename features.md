@@ -2,7 +2,7 @@
 title: Features
 description: The major ways Paradise differs from T2A
 published: true
-date: 2026-11-24T03:55:25.718Z
+date: 2026-11-24T04:11:05.792Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -10,8 +10,6 @@ dateCreated: 2026-11-18T23:04:02.833Z
 
 # Features
 *Paradise* is an [Ultima Online](https://uo.com/) shard. It keeps the classic base design and old-school feel of [T2A](https://en.wikipedia.org/wiki/Ultima_Online:_The_Second_Age), adds clever reworks that open up more avenues of play, and makes quality-of-life changes where they help. It's intended for solo players and small groups, and PvP is consensual only.
-
-![a robed adventurer sits atop a nightmare outside the Papua bank](/home_papua.png)
 
 The main design goals are:
 - Build diversity, with weapon users just as valuable as mages, tamers, and bards
