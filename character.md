@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T05:10:38.107Z
+date: 2026-11-24T05:12:44.174Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -37,7 +37,7 @@ Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate
 | Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | The highest damage of all classes, and it can chop wood, but otherwise lacks utility. |
 
 ### Mages
-Mages with [Anatomy](/anatomy) and [Evaluating Intelligence](evaluating_intelligence) defend with empty hands as if they had up to `110` [Wrestling](/wrestling), without training it. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense).
+Mages with [Anatomy](/anatomy) and [Evaluating Intelligence](/evaluating_intelligence) defend with empty hands as if they had up to `110` [Wrestling](/wrestling), without training it. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense).
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
@@ -46,7 +46,7 @@ Mages with [Anatomy](/anatomy) and [Evaluating Intelligence](evaluating_intellig
 | Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbooks | Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. |
 
 ### Tamers
-Tamers can convert certain animals and monsters to permanent followers known as [pets](/pet).
+Tamers can turn certain animals and monsters into followers known as [pets](/pet).
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
@@ -54,7 +54,7 @@ Tamers can convert certain animals and monsters to permanent followers known as 
 | Druid | 100<br>40<br>85 | Animal Taming<br>Animal Lore<br>Veterinary<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Spellbooks | A tamer who collects a pet army, moves it around with Gate Travel, and heals pets from range with bandages, sped up by its 40 Dexterity. |
 
 ### Bards
-Bards use [Musicianship](/musicianship) to force enemies to attack each other, reduce their skills, or make them stop attacking.
+Bards force things to attack with [Provocation](/provocation), reduce skills with [Discordance](/discordance), or stop attacks with [Peacemaking](/peacemaking).
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
@@ -62,7 +62,7 @@ Bards use [Musicianship](/musicianship) to force enemies to attack each other, r
 | Pirate | 100<br>25<br>100 | Magery<br>Meditation<br>Musicianship<br>Provocation<br>Cartography<br>Lockpicking<br>Hiding | Instruments<br>Spellbooks | A solo treasure mapper that hunts for maps, travels quickly to the chest, provokes the guardians, and opens it. |
 
 ### Crafters
-Crafters specialize in creating and collecting goods for others. An important part of any community.
+Crafters create and gather goods for others, an important part of any community.
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
