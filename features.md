@@ -2,14 +2,14 @@
 title: Features
 description: The major ways Paradise differs from T2A
 published: true
-date: 2026-11-24T00:28:06.475Z
+date: 2026-11-24T00:28:23.929Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
 ---
 
 # Features
-*Paradise* uses The Second Age (T2A) era as its baseline. This page lists the significant ways that *Paradise* deliberately differs from T2A.
+This page lists the significant ways that *Paradise* deliberately differs from its T2A base.
 
 Smaller tweaks are listed in the [patch notes](/patch_notes). Development is ongoing during alpha. See [Plans](/plans).
 
