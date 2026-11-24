@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T05:00:57.393Z
+date: 2026-11-24T05:10:38.107Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -21,6 +21,8 @@ Ultima Online doesn't have discrete classes. Instead, players choose stats and s
 The following classes are just ideas, many of them rooted in classic T2A gameplay.
 
 ### Fighters
+Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate incoming damage.
+
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Archer | 100<br>100<br>25 | Archery<br>Tactics<br>Anatomy<br>Tracking<br>Fletching<br>Healing<br>Resisting Spells | Bows | The longest range and fastest shots after moving, and shots against fleeing targets never miss. |
@@ -35,25 +37,33 @@ The following classes are just ideas, many of them rooted in classic T2A gamepla
 | Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | The highest damage of all classes, and it can chop wood, but otherwise lacks utility. |
 
 ### Mages
+Mages with [Anatomy](/anatomy) and [Evaluating Intelligence](evaluating_intelligence) defend with empty hands as if they had up to `110` [Wrestling](/wrestling), without training it. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense).
+
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
-| Battlemage | 100<br>25<br>100 | Swordsmanship<br>Tactics<br>Anatomy<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Halberds | The biggest burst in the game, lining up spells like Explosion and Energy Bolt with a halberd swing, while Concussion Blow drains enemy casters' mana. |
-| Monk | 100<br>25<br>100 | Magery<br>Evaluating Intelligence<br>Meditation<br>Wrestling<br>Anatomy<br>Tactics<br>Resisting Spells | Fists | Fights unarmed in leather with no mana penalty, and its punches stun targets in place, controlling the fight. |
+| Battlemage | 100<br>25<br>100 | Swordsmanship<br>Tactics<br>Anatomy<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Polearms | The biggest burst in the game, lining up spells like Explosion and Energy Bolt with a polearm swing, while Concussion Blow drains enemy casters' mana. While holding the polearm, defends with Swordsmanship. |
+| Monk | 100<br>25<br>100 | Magery<br>Evaluating Intelligence<br>Meditation<br>Wrestling<br>Anatomy<br>Tactics<br>Resisting Spells | Fists | Fights with fists and magic, wearing leather armor so its mana regeneration isn't slowed. Its punches stun targets in place to control the fight. |
 | Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbooks | Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. |
 
 ### Tamers
+Tamers can convert certain animals and monsters to permanent followers known as [pets](/pet).
+
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Beastmaster | 100<br>100<br>25 | Animal Taming<br>Animal Lore<br>Veterinary<br>Musicianship<br>Peacemaking<br>Provocation<br>Hiding | Instruments | One of the strongest hunters, with both pets and provoked monsters fighting for it, backed by the fastest bandages from maximum Dexterity, but it has no Magery and gets no benefits from Valor. |
 | Druid | 100<br>40<br>85 | Animal Taming<br>Animal Lore<br>Veterinary<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Spellbooks | A tamer who collects a pet army, moves it around with Gate Travel, and heals pets from range with bandages, sped up by its 40 Dexterity. |
 
 ### Bards
+Bards use [Musicianship](/musicianship) to force enemies to attack each other, reduce their skills, or make them stop attacking.
+
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Minstrel | 100<br>100<br>25 | Musicianship<br>Peacemaking<br>Provocation<br>Discordance<br>Archery<br>Tactics<br>Healing | Bows<br>Instruments | Controls the battlefield with all three bard skills, then finishes enemies off with a bow from afar. |
 | Pirate | 100<br>25<br>100 | Magery<br>Meditation<br>Musicianship<br>Provocation<br>Cartography<br>Lockpicking<br>Hiding | Instruments<br>Spellbooks | A solo treasure mapper that hunts for maps, travels quickly to the chest, provokes the guardians, and opens it. |
 
 ### Crafters
+Crafters specialize in creating and collecting goods for others. An important part of any community.
+
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Artisan | 100<br>25<br>100 | Alchemy<br>Blacksmithing<br>Carpentry<br>Inscription<br>Magery<br>Tailoring<br>Tinkering | Spellbooks | Makes gear, potions, and scrolls for everyone else, and Recalls between workshops. |
