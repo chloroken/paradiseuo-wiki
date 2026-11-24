@@ -2,26 +2,41 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-23T01:50:42.084Z
+date: 2026-11-24T03:49:20.218Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
 ---
 
 # Character
-Every character is built from three stats and up to `700` skill points. These pages cover how to build one, the proven builds to start from, and the reputation a character earns along the way.
+Every character is built from three stats and up to `700` skill points. These pages cover how to build one, the proven builds to start from, and the reputation a character earns along the way. See [Reputation](/reputation).
 
 ## Building a Character
 - [Stats](/stats): Strength, Dexterity, and Intelligence, and what each one does.
 - [Skills](/skills): every skill, including the ones that are disabled.
-- [Classes](/classes): proven builds that combine stats and skills.
 
 ## Classes
-- Fighters: [Warrior](/warrior), [Paladin](/paladin), and [Assassin](/assassin)
-- Archers: [Deadeye](/deadeye) and [Shadow](/shadow)
-- Mages: [Battlemage](/battlemage), [Monk](/monk), [Summoner](/summoner), and [Druid](/druid)
-- Bards: [Pirate](/pirate), [Minstrel](/minstrel), and [Beastmaster](/beastmaster)
-- Toilers: [Artisan](/artisan) and [Forager](/forager)
+Ultima Online doesn't have discrete classes. Instead, players choose stats and skills to create a build. For example, to play a fighter, one would spend stat points on Strength and Dexterity, and skill points on weapon, defensive, and healing skills.
 
-## Reputation
-- [Reputation](/reputation): Fame and Karma, the titles they give, and the Karma towns.
+During character creation there is a profession screen, but it should be ignored and `Advanced` should always be selected because *Paradise* targets an era that predates that screen. The following classes are just ideas, many of them rooted in classic T2A gameplay.
+
+### Fighters
+| Class | Concept | Classic Name |
+|:-|:-:|:-:|
+| [Warrior](/warrior) | Weapons specialist | Dexxer |
+| [Paladin](/paladin) | Tank with light magic | Med Dexxer |
+| [Assassin](/assassin) | Poisons, fencing specialist | Assassin |
+
+### Archers
+| Class | Concept | Classic Name |
+|:-|:-:|:-:|
+| [Deadeye](/deadeye) | Bow specialist | Pure Archer |
+| [Shadow](/shadow) | Stealthy crossbow specialist | n/a |
+
+### Mages
+| Class | Concept | Classic Name |
+|:-|:-:|:-:|
+| [Battlemage](/battlemage) | Offensive magic, polearm specialist | Hally Mage |
+| [Monk](/monk) | Offensive magic, unarmed specialist | Tank Mage |
+| [Summoner](/summoner) | Summons, special defenses | Pure Mage |
+| [Druid](/druid) | Offensive magic, pet army | Tamer Mage |
