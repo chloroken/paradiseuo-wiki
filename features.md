@@ -2,16 +2,43 @@
 title: Features
 description: The major ways Paradise differs from T2A
 published: true
-date: 2026-11-24T00:28:23.929Z
+date: 2026-11-24T03:55:25.718Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
 ---
 
 # Features
-This page lists the significant ways that *Paradise* deliberately differs from its T2A base.
+*Paradise* is an [Ultima Online](https://uo.com/) shard. It keeps the classic base design and old-school feel of [T2A](https://en.wikipedia.org/wiki/Ultima_Online:_The_Second_Age), adds clever reworks that open up more avenues of play, and makes quality-of-life changes where they help. It's intended for solo players and small groups, and PvP is consensual only.
 
-Smaller tweaks are listed in the [patch notes](/patch_notes). Development is ongoing during alpha. See [Plans](/plans).
+![a robed adventurer sits atop a nightmare outside the Papua bank](/home_papua.png)
+
+The main design goals are:
+- Build diversity, with weapon users just as valuable as mages, tamers, and bards
+- Manually tuned spawns that stay true to T2A's monster placement and selection
+- Custom quests and demibosses that don't wreck balance, drawn from real Ultima lore
+- Reworks of stale systems, such as reputation, that deepen immersion
+- A wiki that documents the shard's actual code, not just an interpretation of it
+
+This page covers the shard's rules, then the significant ways that *Paradise* deliberately differs from its T2A base. Smaller tweaks are listed in the [patch notes](/patch_notes). Development is ongoing during alpha. See [Plans](/plans).
+
+## Rules
+### The Basics
+- Players can't attack each other. Duel arenas and guild wars are the only PvP.
+- Macroing is allowed, but macros that collect items or profit must be attended.
+- New players are protected by the [Young player](/young_player) system.
+
+### Accounts
+- A maximum of `2` accounts are allowed per person.
+- Each account can have `5` characters and `1` [house](/house).
+
+### Decay
+- Houses decay after `90` days without a refresh, and everything inside is destroyed.
+- [Boats](/boat) sink `24` hours after their last refresh.
+
+### Conduct
+- There is zero tolerance for bigotry and disruptive behavior.
+- PvM etiquette is enforced and bullying isn't tolerated.
 
 ## Fighter Rework
 Characters who fight with weapons are enhanced to keep pace with mages, tamers, and bards in PvM.
