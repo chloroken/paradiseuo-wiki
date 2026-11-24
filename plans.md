@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-24T02:44:16.539Z
+date: 2026-11-24T08:01:11.839Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -10,6 +10,9 @@ dateCreated: 2026-11-22T12:00:49.987Z
 
 # Plans
 *Paradise* is in alpha, and thus receives constant development. This page serves as a way of keeping track of the bigger picture: getting the game suitable for beta.
+
+## Classes
+- Battlemage (needs polearm identity)
 
 ## Skills
 Skills should have adventure potential, or some aspect that makes them not feel "useless" to take on a main character suitable for dungeon diving.
@@ -48,7 +51,7 @@ These skills already had adventure potential:
 - Animal Lore (Pets obey more reliably; counts toward stable slots)
 - Animal Taming (Pets that fight for the tamer)
 - Archery (Bows and crossbows, and defense while holding one)
-- Arms Lore (Wrestling's Disarm)
+- Arms Lore (Weapone effect trigger chance)
 - Cartography (treasure mapper
 - Discordance (Lowers a target's stats and skills by up to 20%)
 - Evaluating Intelligence (Spell damage; unarmed defense with Anatomy)
@@ -80,9 +83,6 @@ These skills already had adventure potential:
 - Have page written for every skill
 - Use template to make page for every spell
 - Add pages with incoming links that are missing
-
-## Fixes
-- "Disarm" as a mechanic is bad
 
 ## Projects
 - Karma Town Trinkets to complete reputation rework
