@@ -2,7 +2,7 @@
 title: Weapons
 description: Every weapon type, its skill, its weapon effect, and magic weapons
 published: true
-date: 2026-11-24T12:28:27.729Z
+date: 2026-11-24T12:52:18.356Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -12,6 +12,9 @@ dateCreated: 2026-11-18T23:29:24.473Z
 Each type of weapon is trained with its own skill, and most types have an effect of their own. Hit chance, swing speed, and damage work the same way for every weapon. See [Combat](/combat).
 
 Damage per second is the standard way to compare weapons against monsters. See [Damage Per Second](/dps).
+
+## Weapon Effects
+Most weapon types have a weapon effect that can trigger on a hit, from a sword's critical strike to the shepherd's crook's bonk. Weapon effects are for players only. Most of them are controlled by [Arms Lore](/arms_lore), so a fighter can skip them and spend those skill points elsewhere. See [Weapon Effects](/weapon_effects).
 
 ## Weapon Types
 | Type | Skill | Weapons | Effect | Scaling Skill |
@@ -48,9 +51,6 @@ Some gathering and crafting skills make their own weapons hit harder. Each bonus
 - Blacksmithing adds no damage. Instead, it lets a two-handed mace's Crushing Blow splash onto every creature around the target. See [Weapon Effects: Crushing Blow](/weapon_effects#crushing-blow).
 - Hits with axes, except the pickaxe, can train Lumberjacking. Hits never train Blacksmithing, Carpentry, Herding, or Mining.
 - Carpentry also strengthens the wooden shield. See [Parrying: Shields](/parrying#shields).
-
-## Weapon Effects
-Most weapon types have a weapon effect that can trigger on a hit, from a sword's critical strike to the shepherd's crook's bonk. Weapon effects are for players only. Most of them are controlled by [Arms Lore](/arms_lore), so a fighter can skip them and spend those skill points elsewhere. See [Weapon Effects](/weapon_effects).
 
 ## Poison
 Fencing weapons and knives can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).
