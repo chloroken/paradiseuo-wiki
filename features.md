@@ -2,7 +2,7 @@
 title: Features
 description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-24T04:16:32.751Z
+date: 2026-11-24T05:53:50.875Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -95,7 +95,7 @@ Animal tamers get several changes that make training, healing, and keeping pets 
 - Silver steeds and nightmares have a small chance to spawn Shiny, with a rare hue. See [Mount](/mount).
 
 ### Summoners
-Mages who train [Spirit Speak](/spirit_speak), such as the [Summoner](/summoner), have enhanced summons. See [Summon](/summon).
+Mages who train [Spirit Speak](/spirit_speak) have enhanced summoning spells. See [Summon](/summon).
 
 Spirit Speak:
 - makes summons last longer.
