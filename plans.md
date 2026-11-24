@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-22T15:32:27.380Z
+date: 2026-11-24T02:44:16.539Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -16,11 +16,7 @@ Skills should have adventure potential, or some aspect that makes them not feel 
 
 These skills have an obvious way to add adventure potential:
 - Alchemy (more healing from potions)
-- Blacksmithing (more 1h mace dmg)
-- Carpentry (more staff dmg)
 - Cooking (food buff)
-- Herding (makes crook dmg competitive)
-- Mining (makes pickaxe dmg competitive)
 - Tailoring (cloth gives small absorb based on inscription)
 - Tinkering (spider drone toy?)
 
@@ -36,8 +32,12 @@ These skills don't have an obvious way to add adventure potential:
 - Stealing
 
 These skills had adventure potential added or enhanced:
+- Blacksmithing (more 1h mace dmg)
+- Carpentry (more staff dmg, more wood shield armor)
 - Fletching (Up to +2 range, half the delay before shooting after moving, more ammunition recovered)
+- Herding (shillelagh bonk mechanic)
 - Hiding (Ambush, for 1.5× damage)
+- Mining (makes pickaxe dmg competitive)
 - Poisoning (Poison chance on hit tied to level)
 - Spirit Speak (Longer summons, resistance to Dispel, stronger elementals that never fail to cast at 100)
 - Stealth (Ambush up to 2.5× damage, with extra accuracy)
