@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T10:43:14.112Z
+date: 2026-11-24T10:49:40.245Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -42,8 +42,8 @@ Mages embrace [spellcasting](/spells), sacrificing some or all of Valor's benefi
 |:-|:-:|:-:|:-:|:-:|
 | Battlemage | 100<br>25<br>100 | Swordsmanship<br>Tactics<br>Anatomy<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Polearms,<br>Spellbook | A classic T2A halberd mage. It opens with a heavy polearm hit, often landing a Concussion Blow through Anatomy to halve a caster's mana, then follows with spells. Casting moves the polearm to the backpack, so it re-equips between swings, and with 25 Dexterity it swings slowly, trading steady damage for burst. |
 | Monk | 100<br>25<br>100 | Magery<br>Evaluating Intelligence<br>Meditation<br>Wrestling<br>Anatomy<br>Tactics<br>Resisting Spells | Fists,<br>Spellbook | Fights with fists and magic, wearing leather armor so its mana regeneration isn't slowed. Its punches try to stun the target in place every 10 seconds, succeeding half the time at grandmaster, and a stunned caster can't start a spell, so it interrupts enemy mages as well as controlling the fight. It defends at 110 with Anatomy and Evaluating Intelligence, so Wrestling only powers its stuns. |
-| Paladin | 100<br>40<br>85 | Mace Fighting<br>Arms Lore<br>Healing<br>Parrying<br>Tactics<br>Resisting Spells<br>Magery 40<br>Anatomy 60 | One-handed maces,<br>Shields,<br>Spellbook | A hybrid fighter-mage-tank that uses maces to weaken monsters' hits, with Magery for Heal, Cure, and buffs while keeping most of Valor's benefits. Its Anatomy lets its bandages cure poison. Casting a spell moves its mace and shield to the backpack, so it re-equips them after each cast. |
-| Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbook | Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. Uses [Anatomy](/anatomy) with [Evaluating Intelligence](/evaluating_intelligence) instead of [Wrestling](/wrestling) to defend. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense). |
+| Paladin | 100<br>40<br>85 | Mace Fighting<br>Arms Lore<br>Healing<br>Parrying<br>Tactics<br>Resisting Spells<br>Magery 40<br>Anatomy 60 | One-handed maces,<br>Shields,<br>Spellbook | A hybrid fighter-mage-tank that uses maces to weaken monsters' hits and Magery for Heal, Cure, and buffs while keeping most of Valor's benefits. Its Anatomy lets its bandages cure poison. Casting a spell moves its mace and shield to the backpack, so it must time its magicks wisely. |
+| Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbook | A pure caster. Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. Uses [Anatomy](/anatomy) with [Evaluating Intelligence](/evaluating_intelligence) instead of [Wrestling](/wrestling) to defend. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense). |
 
 ### Tamers
 Tamers can tame certain animals and monsters into followers known as [pets](/pet) to fight for them. See [Animal Taming](/animal_taming).
