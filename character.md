@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T04:35:15.240Z
+date: 2026-11-24T04:35:32.647Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -25,7 +25,7 @@ The following classes are just ideas, many of them rooted in classic T2A gamepla
 |:-|:-:|:-:|:-:|
 | Assassin | Fencing weapons | Fencing<br>Tactics<br>Anatomy<br>Poisoning<br>Hiding<br>Stealth<br>Resisting Spells | The melee ambusher: a poisoned opener from stealth for up to 2.5× damage, then steady poison that keeps casters busy curing. |
 | Deadeye | Bows | Archery<br>Tactics<br>Anatomy<br>Tracking<br>Fletching<br>Healing<br>Resisting Spells | The longest range and fastest shots after moving, and shots against fleeing targets never miss. |
-| Paladin | One-handed maces<br>Shields | Mace Fighting<br>Anatomy<br>Healing<br>Parrying<br>Tactics<br>Resisting Spells<br>Magery 40<br>Meditation 60 | A mace tank that saps monsters' vigor that gives up some of Vigor's benefits in exchange for access to spot healing and buff spells. |
+| Paladin | One-handed maces<br>Shields | Mace Fighting<br>Anatomy<br>Healing<br>Parrying<br>Tactics<br>Resisting Spells<br>Magery 40<br>Meditation 60 | A mace tank that saps monsters' vigor that gives up a portion of Valor benefits in exchange for access to spot healing and buff spells. |
 | Prospector | Pickaxes<br>Shields | Mining<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | The only fighter that pairs top-tier damage with a heater shield, thanks to the one-handed pickaxe and Mining's 100% bonus. |
 | Rogue | Knives<br>Swords | Swordsmanship<br>Tactics<br>Anatomy<br>Hiding<br>Stealth<br>Poisoning<br>Lockpicking | Opens with a poisoned knife ambush, switches to a sword for crits, and picks dungeon chests along the way. |
 | Shadow | Heavy crossbows<br>Bows | Archery<br>Tactics<br>Anatomy<br>Hiding<br>Stealth<br>Healing<br>Resisting Spells | The ranged ambusher: a heavy crossbow shot from stealth for 2.5× that can't miss, then a bow for steady damage. |
