@@ -2,26 +2,25 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T07:57:16.190Z
+date: 2026-11-24T08:57:24.177Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
 ---
 
 # Character
-Every character is built from three stats and up to `700` skill points. These pages cover how to build one, some class ideas to start with, and the reputation a character earns along the way. See [Reputation](/reputation).
+A character's build is determined by its stats, skills, and reputation. A build can be thought of as a class.
 
-## Building a Character
+## Building Blocks
 - [Stats](/stats): Strength, Dexterity, and Intelligence, and what each one does.
 - [Skills](/skills): every skill, including the ones that are disabled.
+- [Reputation](/reputation): builds up passively while interacting with the world.
 
 ## Classes
-Ultima Online doesn't have discrete classes. Instead, players choose stats and skills to create a build. For example, to play a fighter, one would spend stat points on Strength and Dexterity, and skill points on weapon, defensive, and healing skills.
-
-The following classes are just ideas, many of them rooted in classic T2A gameplay.
+Ultima Online doesn't have discrete classes. To play something like a Warrior, one would spend stat points on Strength and Dexterity, and skill points on weapon, defensive, and healing skills. The following classes are just ideas, many of them rooted in classic T2A gameplay.
 
 ### Fighters
-Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate incoming damage. Most weapon effects need [Arms Lore](/arms_lore), so some fighters take it and others skip it for another skill.
+Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate incoming damage, leveraging [Valor](/valor) benefits to get ahead.
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
@@ -38,7 +37,7 @@ Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate
 | Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | The highest damage of all classes, and it can chop wood. Its axes have no weapon effect, so it needs no Arms Lore, but it lacks utility. |
 
 ### Mages
-Mages get access to spellcasting but give up Valor's benefits.
+Mages get access to [spells](/spells) and all that entails, but give up most or all of Valor's benefits.
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
@@ -47,12 +46,12 @@ Mages get access to spellcasting but give up Valor's benefits.
 | Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbooks | Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. Uses [Anatomy](/anatomy) with [Evaluating Intelligence](/evaluating_intelligence) instead of [Wrestling](/wrestling) to defend. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense). |
 
 ### Tamers
-Tamers can turn certain animals and monsters into followers known as [pets](/pet).
+Tamers can tame certain animals and monsters into followers known as [pets](/pet). See: [Animal Taming](/animal_taming).
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Beastmaster | 100<br>100<br>25 | Animal Taming<br>Animal Lore<br>Veterinary<br>Musicianship<br>Peacemaking<br>Provocation<br>Hiding | Instruments | One of the strongest hunters, with both pets and provoked monsters fighting for it, backed by the fastest bandages from maximum Dexterity. However, it has no Magery, which limits its utility. It also gets no benefits from Valor, which makes it very fragile. |
-| Druid | 100<br>40<br>85 | Animal Taming<br>Animal Lore<br>Veterinary<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Spellbooks | A tamer who collects a pet army, moves it around with Gate Travel, and heals pets from range with bandages, sped up by its 40 Dexterity. |
+| Druid | 100<br>40<br>85 | Animal Taming<br>Animal Lore<br>Veterinary<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Spellbooks | A tamer who collects a pet army, moves it around with Gate Travel, and heals pets from range with Greater Heal and bandages sped up by its 40 Dexterity. |
 
 ### Bards
 Bards turn monsters against each other with [Provocation](/provocation), weaken them with [Discordance](/discordance), or calm them with [Peacemaking](/peacemaking).
@@ -63,7 +62,7 @@ Bards turn monsters against each other with [Provocation](/provocation), weaken 
 | Pirate | 100<br>25<br>100 | Magery<br>Meditation<br>Musicianship<br>Provocation<br>Cartography<br>Lockpicking<br>Hiding | Instruments<br>Spellbooks | A solo treasure mapper that hunts for maps, travels quickly to the chest, provokes the guardians, and opens it. |
 
 ### Crafters
-Crafters create and gather goods for others, an important part of any community.
+Crafters create and gather goods for others, an important part of any community. See: [Crafting](/crafting).
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
