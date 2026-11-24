@@ -2,7 +2,7 @@
 title: Weapons
 description: Every weapon type, its skill, its weapon effect, and magic weapons
 published: true
-date: 2026-11-23T06:45:25.343Z
+date: 2026-11-24T03:40:07.080Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
