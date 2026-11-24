@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-24T05:54:02.706Z
+date: 2026-11-24T05:55:18.050Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -10,6 +10,11 @@ dateCreated: 2026-11-04T19:38:55.944Z
 
 # Patch Notes
 Changes to *Paradise*, newest first.
+## 2026.11.24
+- Give two-handed maces a [Blacksmithing](/blacksmithing) splash: each Crushing Blow has a chance, up to `100%` at grandmaster, to hit every monster around the target for the same damage
+- Remove the Blacksmithing damage bonus from one-handed maces
+- Make the war axe a two-handed mace, with Crushing Blow and the splash
+- Rework the [classes](/character#classes), adding classes built around scaling skills, the shillelagh, and melee ambushes
 ## 2026.11.23
 - Rename the Sorcerer class to Summoner
 - Refresh [Shame](/shame):
