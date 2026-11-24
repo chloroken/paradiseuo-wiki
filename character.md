@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T11:05:21.020Z
+date: 2026-11-24T11:18:55.599Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -17,15 +17,17 @@ A character's build is determined by its stats, skills, and reputation. A build 
 - [Reputation](/reputation): builds up passively while interacting with the world.
 
 ## Classes
-Ultima Online doesn't have discrete classes. To play something like a Warrior, one would spend stat points on Strength and Dexterity, and skill points on weapon, defensive, and healing skills. The following classes are just ideas, many of them rooted in classic T2A gameplay.
+Ultima Online doesn't have discrete classes. To play something like an Evil Warrior, one would spend stat points on Strength and Dexterity, skill points on weapon, defensive, and healing skills, and do a bunch of bad deeds to lower karma.
 
 - [Fighters](#fighters) decry [Magery](/magery), instead opting to specialize in [weapons](/weapons) and [armor](/armor), leveraging [Valor](/valor) benefits to get ahead.
-- Mages embrace [spellcasting](/spells), sacrificing some or all of Valor's benefits to unlock a trove of utility and damage spells.
-- Tamers can tame certain animals and monsters into followers known as [pets](/pet) to fight for them. See [Animal Taming](/animal_taming).
-- Bards turn monsters against each other with [Provocation](/provocation), weaken them with [Discordance](/discordance), or calm them with [Peacemaking](/peacemaking).
-- Crafters create and gather goods for others, an important part of any community. See [Crafting](/crafting).
+- [Mages](#mages) embrace [spellcasting](/spells), sacrificing some or all of Valor's benefits to unlock a trove of utility and damage spells.
+- [Tamers](#tamers) convert wild animals and monsters into followers known as [pets](/pet) to fight for them. See [Animal Taming](/animal_taming).
+- [Bards](#bards) make monsters infight with [Provocation](/provocation), weaken them with [Discordance](/discordance), and/or pacify them with [Peacemaking](/peacemaking).
+- [Crafters](#crafters) create goods and gather resources for others, an important part of any society. See [Crafting](/crafting).
 
-### Fighters
+The following table lists stats in this order: Strength, Dexterity, Intelligence.
+
+## Fighters
 
 | Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
@@ -40,30 +42,30 @@ Ultima Online doesn't have discrete classes. To play something like a Warrior, o
 | Warrior | 100<br>100<br>25 | Fencing<br>Archery<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Krysses,<br>War forks,<br>Shields,<br>Bows | The most well-rounded fighter, with full Valor benefits and no need for Arms Lore. It fights with a kryss or war fork and a shield, the strongest one-handed weapons without a weapon effect, and a bow for anything out of reach. |
 | Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | The highest damage of all classes, and it can chop wood. Its axes have no weapon effect, so it needs no Arms Lore, but it lacks utility. Its axes take both hands, so Parrying only gives Valor's toughness. |
 
-### Mages
+## Mages
 
 | Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
-| Battlemage | 100<br>25<br>100 | Swordsmanship<br>Tactics<br>Anatomy<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Polearms,<br>Spellbook | A classic T2A halberd mage. It opens with a heavy polearm hit, often landing a Concussion Blow through Anatomy to halve a caster's mana, then follows with spells. Casting moves the polearm to the backpack, so it re-equips between swings, and with 25 Dexterity it swings slowly, trading steady damage for burst. |
-| Monk | 100<br>25<br>100 | Magery<br>Evaluating Intelligence<br>Meditation<br>Wrestling<br>Anatomy<br>Tactics<br>Resisting Spells | Fists,<br>Spellbook | Fights with fists and magic, wearing leather armor so its mana regeneration isn't slowed. Its punches try to stun the target in place every 10 seconds, succeeding half the time at grandmaster, and a stunned caster can't start a spell, so it interrupts enemy mages as well as controlling the fight. It defends at 110 with Anatomy and Evaluating Intelligence, so Wrestling only powers its stuns. |
+| Battlemage | 100<br>25<br>100 | Swordsmanship<br>Tactics<br>Anatomy<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Polearms,<br>Spellbook | A classic T2A halberd mage. Combining damage spells and polearm hits allows for massive burst, and Concussion Blows can devastate other mages. Casting spells unequips the polearm, but since it has such a long cooldown on its swing timer, there is plenty of time to cast. Since it takes Anatomy to trigger Concussion blows and Evaluating Intelligence for offensive magic, it doesn't need to take any other skills to properly defend against attacks. |
+| Monk | 100<br>25<br>100 | Magery<br>Evaluating Intelligence<br>Meditation<br>Wrestling<br>Anatomy<br>Tactics<br>Resisting Spells | Fists,<br>Spellbook | Fights with fists and magic, wearing leather armor so its mana regeneration isn't slowed. Its punches try to stun the target in place every 10 seconds, succeeding half the time at grandmaster, and since a stunned caster can't start a spell the Monk has a high level of control against mages. As it defends with Anatomy and Evaluating intelligence, it only uses Wrestling for offense. |
 | Paladin | 100<br>40<br>85 | Mace Fighting<br>Arms Lore<br>Healing<br>Parrying<br>Tactics<br>Resisting Spells<br>Magery 40<br>Anatomy 60 | One-handed maces,<br>Shields,<br>Spellbook | A hybrid fighter-mage-tank that uses maces to weaken monsters' hits and Magery for Heal, Cure, and buffs while keeping most of Valor's benefits. Its Anatomy lets its bandages cure poison. Casting a spell moves its mace and shield to the backpack, so it must time its magicks wisely. |
-| Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbook | A pure caster. Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. Uses [Anatomy](/anatomy) with [Evaluating Intelligence](/evaluating_intelligence) instead of [Wrestling](/wrestling) to defend. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense). |
+| Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbook | A pure caster. Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. Because it takes Evaluating Intelligence for offensive magic, taking Anatomy offers better defense against attacks than Wrestling. |
 
-### Tamers
+## Tamers
 
 | Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Beastmaster | 100<br>100<br>25 | Animal Taming<br>Animal Lore<br>Veterinary<br>Musicianship<br>Peacemaking<br>Provocation<br>Hiding | None | One of the strongest hunters, with both pets and provoked monsters fighting for it, backed by the fastest bandages from maximum Dexterity. However, it has no Magery, which limits its utility. It also gets no benefits from Valor, which makes it very fragile. |
 | Druid | 100<br>40<br>85 | Animal Taming<br>Animal Lore<br>Veterinary<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Spellbook | A tamer who collects a pet army, moves it around with Gate Travel, and heals pets from range with Greater Heal and bandages sped up by its 40 Dexterity. |
 
-### Bards
+## Bards
 
 | Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Minstrel | 100<br>100<br>25 | Musicianship<br>Peacemaking<br>Provocation<br>Discordance<br>Archery<br>Tactics<br>Healing | Bows,<br>Crossbows | Controls the battlefield with all three bard skills, then finishes enemies off with a bow or crossbow from afar. Without Anatomy or Magery it can't cure poison, so it carries cure potions. |
 | Pirate | 100<br>25<br>100 | Magery<br>Meditation<br>Musicianship<br>Provocation<br>Cartography<br>Lockpicking<br>Hiding | Spellbook | A solo treasure mapper that hunts for maps, travels quickly to the chest, provokes the guardians, and opens it. |
 
-### Crafters
+## Crafters
 
 | Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
