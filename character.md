@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T11:35:07.208Z
+date: 2026-11-24T11:36:00.928Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -70,4 +70,4 @@ The following table lists stats in this order: Strength, Dexterity, Intelligence
 | Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Artisan | 100<br>25<br>100 | Alchemy<br>Blacksmithing<br>Carpentry<br>Inscription<br>Magery<br>Tailoring<br>Tinkering | Spellbooks | Makes gear, potions, and scrolls for everyone else, and Recalls between workshops. |
-| Forager | 100<br>100<br>25 | Mining<br>Lumberjacking<br>Fishing<br>Swordsmanship<br>Tactics<br>Magery<br>Hiding | Axes<br>Pickaxes | Gathers every raw material, defends itself with the boosted axe or pickaxe it already carries, hides from what it can't fight, and marks its own runes to Recall home with the load. |
+| Forager | 100<br>100<br>25 | Mining<br>Lumberjacking<br>Fishing<br>Swordsmanship<br>Tactics<br>Magery<br>Hiding | Axes<br>Pickaxes | Gathers raw materials, defends itself with the boosted axe or pickaxe it already carries, hides from what it can't fight, and marks its own runes to Recall home with the load. |
