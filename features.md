@@ -2,7 +2,7 @@
 title: Features
 description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-24T09:45:22.670Z
+date: 2026-11-24T12:19:49.611Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -19,24 +19,6 @@ The main design goals are:
 - A wiki that documents the shard's actual code, not just an interpretation of it
 
 This page covers the shard's rules, then the significant ways that *Paradise* deliberately differs from its T2A base. Smaller tweaks are listed in the [patch notes](/patch_notes). Development is ongoing during alpha. See [Plans](/plans).
-
-## Rules
-### The Basics
-- Players can't attack each other. Duel arenas and guild wars are the only PvP.
-- Macroing is allowed, but macros that collect items or profit must be attended.
-- New players are protected by the [Young player](/young_player) system.
-
-### Accounts
-- A maximum of `2` accounts are allowed per person.
-- Each account can have `5` characters and `1` [house](/house).
-
-### Decay
-- Houses decay after `90` days without a refresh, and everything inside is destroyed.
-- [Boats](/boat) sink `24` hours after their last refresh.
-
-### Conduct
-- There is zero tolerance for bigotry and disruptive behavior.
-- PvM etiquette is enforced and bullying isn't tolerated.
 
 ## Fighter Rework
 Characters who fight with weapons are enhanced to keep pace with mages, tamers, and bards in PvM.
@@ -129,3 +111,21 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 - Monsters hit players with attacks much harder than other shards.
 - Pets and summons take double damage from demibosses. See [Follower: Followers in Combat](/follower#followers-in-combat).
 - Starting items aren't protected, so they drop on death once a character is no longer Young. See [Young Player](/young_player#losing-young-status).
+
+## Rules
+### The Basics
+- Players can't attack each other. Duel arenas and guild wars are the only PvP.
+- Macroing is allowed, but macros that collect items or profit must be attended.
+- New players are protected by the [Young player](/young_player) system.
+
+### Accounts
+- A maximum of `2` accounts are allowed per person.
+- Each account can have `5` characters and `1` [house](/house).
+
+### Decay
+- Houses decay after `90` days without a refresh, and everything inside is destroyed.
+- [Boats](/boat) sink `24` hours after their last refresh.
+
+### Conduct
+- There is zero tolerance for bigotry and disruptive behavior.
+- PvM etiquette is enforced and bullying isn't tolerated.
