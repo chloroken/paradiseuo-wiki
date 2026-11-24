@@ -2,7 +2,7 @@
 title: Weapons
 description: Every weapon type, its skill, its weapon effect, and magic weapons
 published: true
-date: 2026-11-24T03:40:07.080Z
+date: 2026-11-24T10:01:17.494Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -18,8 +18,8 @@ Damage per second is the standard way to compare weapons against monsters. See [
 |:-|:-:|:-:|:-:|:-:|
 | Swords | [Swordsmanship](/swordsmanship) | Broadsword, cutlass, katana,<br>longsword, scimitar, viking sword | [Critical strikes](/weapon_effects#critical-strikes) | |
 | Krysses | [Fencing](/fencing) | Kryss | [Poison](#poison) | |
-| Axes (1H) | Swordsmanship | Pickaxe | None | [Mining](/mining) |
-| Axes (2H) | Swordsmanship | Axe, battle axe, double axe, executioner's axe,<br>hatchet, large battle axe, two-handed axe | None | [Lumberjacking](/lumberjacking) |
+| Axes (1H) | Swordsmanship | Pickaxe | | [Mining](/mining) |
+| Axes (2H) | Swordsmanship | Axe, battle axe, double axe, executioner's axe,<br>hatchet, large battle axe, two-handed axe | | [Lumberjacking](/lumberjacking) |
 | Polearms | Swordsmanship | Bardiche, halberd | [Concussion Blow](/weapon_effects#concussion-blow) | |
 | Maces (1H) | [Mace Fighting](/mace_fighting) | Club, hammer pick, mace, maul, war mace | [Sapping vigor](/weapon_effects#sapping-vigor) | |
 | Maces (2H) | Mace Fighting | War axe, war hammer | [Crushing Blow](/weapon_effects#crushing-blow) | [Blacksmithing](/blacksmithing) |
