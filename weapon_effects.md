@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
 published: true
-date: 2026-11-24T11:43:46.207Z
+date: 2026-11-24T11:44:53.589Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:58.666Z
@@ -19,12 +19,12 @@ Unless noted, each weapon effect is controlled by [Arms Lore](/arms_lore), from 
 | [Sapping vigor](#sapping-vigor) | Reduces enemy damage | One-handed maces | Every hit, amount scaled by Arms Lore | Monsters |
 | [Concussion Blow](#concussion-blow) | Reduces enemy Intelligence | Polearms | Anatomy / 400, no Arms Lore needed | Anything |
 | [Crushing Blow](#crushing-blow) | Reduce enemy attack speed | Two-handed maces, staves | Arms Lore / 400 | Monsters |
-| Crushing Blow (additional effect) | Splash damage hits everything within a tile | Two-handed maces | Blacksmithing / 100 | Monsters |
+| Crushing Blow (secondary effect) | Splash damage hits everything within a tile | Two-handed maces | Blacksmithing / 100 | Monsters |
 | [Paralyzing Blow](#paralyzing-blow) | Freezes enemy | Pitchforks, short spears, spears | Arms Lore / 400 | Anything |
 | [Shillelagh](#shillelagh) | 10x damage, 9s cooldown | Shepherd's crook | First hit after a 9 second cooldown, no Arms Lore needed | Anything |
 | [Stun](#stun) | Freezes enemy | Fists | (Wrestling + Anatomy) / 400, no Arms Lore needed | Anything |
 
-Crushing Blow and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Three effects don't use Arms Lore: Concussion Blow uses [Anatomy](/anatomy), the shillelagh scales with [Herding](/herding), and stun needs Wrestling and Anatomy. [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
+Crushing Blow and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Four effects don't use Arms Lore: Concussion Blow uses [Anatomy](/anatomy), Crushing Blow's secondary effect uses [Blacksmithing](/blacksmithing), the shillelagh scales with [Herding](/herding), and stun needs Wrestling and Anatomy. [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
 
 ## Critical Strikes
 Swords can land a critical strike, which doubles the hit's damage before armor, including a magic weapon's damage bonus. Each sword has its own chance, scaled by Arms Lore, so `50` Arms Lore gives half the chance shown below. The chances are set so every sword does about the same damage over time, and the slowest swords hit in the biggest bursts.
