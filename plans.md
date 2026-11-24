@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-24T20:15:52.761Z
+date: 2026-11-24T20:34:15.863Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -13,7 +13,7 @@ dateCreated: 2026-11-22T12:00:49.987Z
 
 ## Fixes
 - Bard discordance should work on bosses to give them a solid use in bossing
-- No shovel / crook vendor?
+- No shovel vendor?
 
 ## Classes
 - Thief (noncombat, uses stealing/snooping in dungeons)
