@@ -2,14 +2,16 @@
 title: Combat
 description: Hit chance, swing speed, damage, and Valor, the warrior's virtue
 published: true
-date: 2026-11-23T01:52:33.908Z
+date: 2026-11-24T13:05:02.021Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
 ---
 
 # Combat
-This page covers how [often attacks land](#hit-chance), how [fast they come](#swing-speed), and how much [damage they do](#damage). It also explains [Valor](#valor), the virtue that strengthens characters who fight without [magic](/magic).
+This page covers how [often attacks land](#hit-chance), how [fast they come](#swing-speed), and how much [damage they do](#damage).
+
+Valor is the warrior's virtue. Characters who fight without magic gain accuracy from Tactics, toughness from Parrying, and regeneration from Anatomy, and every bonus shrinks as Magery rises. See [Valor](/valor).
 
 ## Gear and Skills
 - [Weapons](/weapons): every weapon type, its skill, and its scaling skill.
@@ -91,6 +93,3 @@ Valor, shields, armor, and Arch Protection reduce the damage before it reaches t
 - Any damage, however small, makes a bandage slip. See [Healing: Slips](/healing#slips).
 - Frozen characters can't move or begin casting a spell, but can still attack anything in reach. Wrestling stuns and Paralyzing Blow freeze their target, and the freeze lasts its full time, even through damage.
 - Paralyzed characters have the same limits, but taking damage breaks the paralysis. The Paralyze spell and paralyze fields paralyze their target.
-
-## Valor
-Valor is the warrior's virtue. Characters who fight without magic gain accuracy from Tactics, toughness from Parrying, and regeneration from Anatomy, and every bonus shrinks as Magery rises. See [Valor](/valor).
