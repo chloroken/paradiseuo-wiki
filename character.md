@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T10:49:40.245Z
+date: 2026-11-24T11:05:21.020Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -19,10 +19,15 @@ A character's build is determined by its stats, skills, and reputation. A build 
 ## Classes
 Ultima Online doesn't have discrete classes. To play something like a Warrior, one would spend stat points on Strength and Dexterity, and skill points on weapon, defensive, and healing skills. The following classes are just ideas, many of them rooted in classic T2A gameplay.
 
-### Fighters
-Fighters decry [Magery](/magery), instead opting to specialize in [weapons](/weapons) and [armor](/armor), leveraging [Valor](/valor) benefits to get ahead.
+- [Fighters](#fighters) decry [Magery](/magery), instead opting to specialize in [weapons](/weapons) and [armor](/armor), leveraging [Valor](/valor) benefits to get ahead.
+- Mages embrace [spellcasting](/spells), sacrificing some or all of Valor's benefits to unlock a trove of utility and damage spells.
+- Tamers can tame certain animals and monsters into followers known as [pets](/pet) to fight for them. See [Animal Taming](/animal_taming).
+- Bards turn monsters against each other with [Provocation](/provocation), weaken them with [Discordance](/discordance), or calm them with [Peacemaking](/peacemaking).
+- Crafters create and gather goods for others, an important part of any community. See [Crafting](/crafting).
 
-| Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
+### Fighters
+
+| Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Armsmaster | 100<br>100<br>25 | Swordsmanship<br>Mace Fighting<br>Arms Lore<br>Tactics<br>Anatomy<br>Healing<br>Resisting Spells | Swords,<br>Polearms,<br>Maces,<br>War hammers | Carries different weapons and switches between them to land multiple weapon effects on a target. Always brings the right tool for the job. |
 | Blacksmith | 100<br>100<br>25 | Blacksmithing<br>Mace Fighting<br>Tactics<br>Arms Lore<br>Parrying<br>Healing<br>Resisting Spells | One-handed maces,<br>Shields,<br>War hammers,<br>War axes | A blacksmith that can make and repair its own gear. Uses a one-handed mace and shield to tank with, and switches to a bigger mace to do area attacks thanks to Blacksmithing's interaction with two-handed maces. Without Anatomy, the Smith misses out on Valor's regeneration bonus, and its bandages heal less and can't cure poison. |
@@ -36,9 +41,8 @@ Fighters decry [Magery](/magery), instead opting to specialize in [weapons](/wea
 | Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | The highest damage of all classes, and it can chop wood. Its axes have no weapon effect, so it needs no Arms Lore, but it lacks utility. Its axes take both hands, so Parrying only gives Valor's toughness. |
 
 ### Mages
-Mages embrace [spellcasting](/spells), sacrificing some or all of Valor's benefits to unlock a trove of utility and damage spells.
 
-| Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
+| Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Battlemage | 100<br>25<br>100 | Swordsmanship<br>Tactics<br>Anatomy<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Polearms,<br>Spellbook | A classic T2A halberd mage. It opens with a heavy polearm hit, often landing a Concussion Blow through Anatomy to halve a caster's mana, then follows with spells. Casting moves the polearm to the backpack, so it re-equips between swings, and with 25 Dexterity it swings slowly, trading steady damage for burst. |
 | Monk | 100<br>25<br>100 | Magery<br>Evaluating Intelligence<br>Meditation<br>Wrestling<br>Anatomy<br>Tactics<br>Resisting Spells | Fists,<br>Spellbook | Fights with fists and magic, wearing leather armor so its mana regeneration isn't slowed. Its punches try to stun the target in place every 10 seconds, succeeding half the time at grandmaster, and a stunned caster can't start a spell, so it interrupts enemy mages as well as controlling the fight. It defends at 110 with Anatomy and Evaluating Intelligence, so Wrestling only powers its stuns. |
@@ -46,25 +50,22 @@ Mages embrace [spellcasting](/spells), sacrificing some or all of Valor's benefi
 | Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbook | A pure caster. Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. Uses [Anatomy](/anatomy) with [Evaluating Intelligence](/evaluating_intelligence) instead of [Wrestling](/wrestling) to defend. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense). |
 
 ### Tamers
-Tamers can tame certain animals and monsters into followers known as [pets](/pet) to fight for them. See [Animal Taming](/animal_taming).
 
-| Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
+| Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Beastmaster | 100<br>100<br>25 | Animal Taming<br>Animal Lore<br>Veterinary<br>Musicianship<br>Peacemaking<br>Provocation<br>Hiding | None | One of the strongest hunters, with both pets and provoked monsters fighting for it, backed by the fastest bandages from maximum Dexterity. However, it has no Magery, which limits its utility. It also gets no benefits from Valor, which makes it very fragile. |
 | Druid | 100<br>40<br>85 | Animal Taming<br>Animal Lore<br>Veterinary<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Spellbook | A tamer who collects a pet army, moves it around with Gate Travel, and heals pets from range with Greater Heal and bandages sped up by its 40 Dexterity. |
 
 ### Bards
-Bards turn monsters against each other with [Provocation](/provocation), weaken them with [Discordance](/discordance), or calm them with [Peacemaking](/peacemaking).
 
-| Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
+| Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Minstrel | 100<br>100<br>25 | Musicianship<br>Peacemaking<br>Provocation<br>Discordance<br>Archery<br>Tactics<br>Healing | Bows,<br>Crossbows | Controls the battlefield with all three bard skills, then finishes enemies off with a bow or crossbow from afar. Without Anatomy or Magery it can't cure poison, so it carries cure potions. |
 | Pirate | 100<br>25<br>100 | Magery<br>Meditation<br>Musicianship<br>Provocation<br>Cartography<br>Lockpicking<br>Hiding | Spellbook | A solo treasure mapper that hunts for maps, travels quickly to the chest, provokes the guardians, and opens it. |
 
 ### Crafters
-Crafters create and gather goods for others, an important part of any community. See [Crafting](/crafting).
 
-| Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
+| Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Artisan | 100<br>25<br>100 | Alchemy<br>Blacksmithing<br>Carpentry<br>Inscription<br>Magery<br>Tailoring<br>Tinkering | Spellbooks | Makes gear, potions, and scrolls for everyone else, and Recalls between workshops. |
 | Forager | 100<br>100<br>25 | Mining<br>Lumberjacking<br>Fishing<br>Swordsmanship<br>Tactics<br>Magery<br>Hiding | Axes<br>Pickaxes | Gathers every raw material, defends itself with the boosted axe or pickaxe it already carries, hides from what it can't fight, and marks its own runes to Recall home with the load. |
