@@ -20,7 +20,7 @@ The throne room is populated by the Lich King's personal army of skeletons. Thes
 - He has `9,000` to `11,000` hit points.
 - Unlike other monsters, he walks around obstacles to reach his target, so pillars and corners won't hold him off.
 - His [Resisting Spells](/resisting_spells) is `150` to `200`, so he resists spells far more often than other monsters.
-- He is undead, so [silver](/weapons#silver) weapons do double damage to him, and [poison](/poison) has no effect on him.
+- He is undead, so [silver](/magic_weapons#silver) weapons do double damage to him, and [poison](/poison) has no effect on him.
 - As a demiboss, his melee hits and most of his spells do `100%` extra damage to [pets and summons](/follower#followers-in-combat), instead of the usual `25%`. Pain Spike and Strangle do normal damage.
 
 **The Lich King takes items from corpses near him, including fallen players.** He takes one item at a time from a corpse within `2` tiles, showing *\*rummages through a corpse and takes an item\**. Players that die during an attempt may find some of their loot missing, effectively donating it to the next person who kills the Lich King. Rummaged items drop with his own loot when he dies.
@@ -61,13 +61,13 @@ Most of the weapons, armor, and shields are magic, but jewelry never is. The sil
 ## Liche's Ring
 A liche's ring is a silver ring that can turn a weapon silver. It can drop from any Lich.
 
-| Source | Drop Chance |
+| Source | Drop Chance (%) |
 |:-|:-:|
-| Lich King | 10% |
-| Lich Lord<br>(in Covetous) | 1% |
-| Lich Lord<br>(elsewhere) | 0.1% |
-| Lich | 0.01% |
+| Lich King | 10 |
+| Lich Lord<br>(in Covetous) | 1 |
+| Lich Lord<br>(elsewhere) | 0.1 |
+| Lich | 0.01 |
 
-Double-clicking the ring in the backpack and targeting a weapon in the backpack or in hand consumes it, converting a non-silver weapon to silver and modifying its hue. **Using a liche's ring kills its user.** The silver weapon will lootable from the user's corpse.
+Double-clicking the ring in the backpack and targeting a weapon in the backpack or in hand consumes it, converting a non-silver weapon to silver and modifying its hue. **Using a liche's ring kills its user.** The silver weapon will be lootable from the user's corpse.
 
 *The king sends his regards.*

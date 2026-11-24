@@ -31,7 +31,7 @@ Tracking range increases with skill. The search range starts at `10` tiles and i
 | 75 | 17 |
 | 100 | 20 |
 
-Tracking requires a successful skill check to find evidence of nearby targets. Higher Tracking allows the tracker to search farther away.
+Tracking requires a successful skill check to find evidence of nearby targets.
 
 ## Archery Accuracy
 Tracking improves the accuracy of bows and crossbows. The skill helps an archer anticipate a target's movements and place shots more accurately.

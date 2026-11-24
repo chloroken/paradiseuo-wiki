@@ -61,7 +61,7 @@ A ship can follow a course plotted on a map.
 | `start` | Sails the whole course from the first pin |
 | `continue` | Resumes the course from where it stopped |
 | `goto #` | Sails the course to pin # |
-| `single #` | Sails straight to pin # and stop |
+| `single #` | Sails straight to pin # and stops |
 | `nav` | Asks which pin the ship is heading to |
 
 The ship sails each leg at full speed and turns on its own. If land or another obstacle is in the way, it stops. Pins work best over open water, and saying `continue` resumes the course after steering around a blockage by hand. Courses only work on the Felucca map.

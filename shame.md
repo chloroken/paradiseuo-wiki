@@ -14,7 +14,7 @@ Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors. It is a
 Elementals in Shame have a chance to drop a summon scroll on top of their normal loot, unless they were summoned themselves. See [Summon: Summon Scrolls](/summon#summon-scrolls).
 
 ## History
-Shame lies in the western mountains of Britannia, and it is bound to the virtue of [Honor](https://wiki.ultimacodex.com/wiki/Honor). It began as a mine, but was abandoned when overran by gremlins. In time, miners returned to dig again, but most never came back up. some say those miners still patrol their old camps.
+Shame lies in the western mountains of Britannia, and it is bound to the virtue of [Honor](https://wiki.ultimacodex.com/wiki/Honor). It began as a mine, but was abandoned when overrun by gremlins. In time, miners returned to dig again, but most never came back up. Some say those miners still patrol their old camps.
 
 But it wasn't just miners interested in Shame. A band of evil mages, outcast from society, traveled down in search of power, binding elementals to guard their towers to sow their foul experimentations in safety. But the elementals had their own ideas.
 

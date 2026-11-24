@@ -14,6 +14,7 @@ These items have their own pages.
 ## Equipment
 - [Armor](/armor)
 - [Weapons](/weapons)
+- [Magic Weapons](/magic_weapons)
 
 ## Other Items
 - [Treasure Map](/treasure_map)

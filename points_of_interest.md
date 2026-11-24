@@ -20,7 +20,7 @@ Smaller places across Britannia and the Lost Lands also hold monsters and loot, 
 | Cyclops Valley | Lost Lands | Reached from Marble Island, south of Britain, or by teleporters from the south |
 | Fire Temple | Britannia | Fire Island |
 | Hedge Maze | Britannia | Southwest of Britain |
-| Hoppers Bog | Lost Lands | Southeast of Papua |
+| Hopper's Bog | Lost Lands | Southeast of Papua |
 | The Oasis | Lost Lands | In the desert |
 | Orc Cave | Britannia | Southeast of Yew, at the end of Rat Valley |
 | Terra Sanctum | Lost Lands | In the north, reachable only by boat |
@@ -40,4 +40,4 @@ A camp lasts until both chests are emptied or the prisoner is freed or killed, t
 
 ## Other Places
 - Shrines: eight of them, scattered across Britannia
-- Moonglow Zoo: creatures of all kinds, with a `24`-hour respawn
+- Moonglow Zoo: creatures of all kinds, with a `24`-hour respawn, which can't be [provoked](/provocation) onto each other, only onto the bard

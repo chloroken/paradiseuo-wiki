@@ -1,0 +1,85 @@
+---
+title: Weapon Effects
+description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
+published: true
+date: 2026-11-24T03:30:00.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-24T03:30:00.000Z
+---
+
+# Weapon Effects
+Most weapon types have a weapon effect, which can trigger when a hit lands. Weapon effects are for players only. Monsters, hirelings, and other NPCs never trigger them, even with the same weapons. Some effects also only work against monsters. Which weapons have which effect is listed on [Weapons](/weapons#weapon-types).
+
+| Effect | Weapons | Trigger | Works Against |
+|:-|:-:|:-:|:-:|
+| [Critical strikes](#critical-strikes) | Swords | Each sword's own chance | Anything |
+| [Sapping vigor](#sapping-vigor) | One-handed maces | Every hit | Monsters |
+| [Concussion Blow](#concussion-blow) | Two-handed axes, polearms | Anatomy / 400 | Anything |
+| [Crushing Blow](#crushing-blow) | Two-handed maces, staves except the shepherd's crook | Anatomy / 400 | Monsters |
+| [Paralyzing Blow](#paralyzing-blow) | Pitchforks, short spears, spears | Anatomy / 400 | Anything |
+| [Shillelagh](#shillelagh) | Shepherd's crook | First hit after a 9 second cooldown | Anything |
+| [Stun](#stun) | Fists | (Wrestling + Anatomy) / 400 | Anything |
+
+Concussion Blow, Crushing Blow, and Paralyzing Blow are triggered by [Anatomy](/anatomy). Every hit with the right weapon has an `Anatomy / 400` chance to land one, which is `25%` at `100` Anatomy, and a character without Anatomy never lands one.
+
+## Critical Strikes
+Swords can land a critical strike, which doubles the hit's damage before armor, including a magic weapon's damage bonus. Each sword has its own chance, scaled by [Swordsmanship](/swordsmanship), so `50` Swordsmanship gives half the chance shown below. The chances are set so every sword does about the same damage over time, and the slowest swords hit in the biggest bursts.
+
+| Sword | Critical Strike Chance (%)<br>at 100 Swordsmanship |
+|:-|:-:|
+| Katana | 12 |
+| Broadsword | 10 |
+| Scimitar | 15 |
+| Cutlass | 17 |
+| Longsword | 26 |
+| Viking sword | 40 |
+
+Only swords land critical strikes, not axes, polearms, or knives. The attacker sees *You land a critical strike!* in their journal.
+
+## Sapping Vigor
+One-handed maces sap a monster's vigor. Each hit saps vigor equal to the damage dealt, and the monster's melee attacks hit as if its Strength were that much lower, down to half its normal Strength. Its health isn't affected. The sap wears off `30` seconds after the last one-handed mace hit from anyone.
+
+The attacker sees *\*saps vigor\** over their head when a sap starts, and everyone nearby sees *\*looks drained of vigor\** when the monster is fully drained. Vigor can only be sapped from monsters. The war axe trains [Mace Fighting](/mace_fighting), but has no effect on hit.
+
+## Concussion Blow
+Two-handed axes and polearms can land a Concussion Blow, which halves the target's Intelligence and lowers its maximum mana for `30` seconds. It doesn't stack.
+
+Everyone nearby sees *\*looks concussed\** over the target.
+
+## Crushing Blow
+Two-handed maces and staves can land a Crushing Blow, which makes the target attack at half speed for `10` seconds. Another Crushing Blow restarts the time instead of stacking. The shepherd's crook is the exception and never lands one.
+
+Crushing Blow only works against monsters. Everyone nearby sees *\*looks dazed\** over the target.
+
+## Paralyzing Blow
+Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes the target in place for `2` seconds.
+
+Everyone nearby sees *\*looks stuck\** over the target.
+
+## Shillelagh
+In the hands of a herder, a shepherd's crook becomes a shillelagh. The first crook hit that lands after a `9` second cooldown is a bonk, which multiplies the crook's damage roll by an amount set by [Herding](/herding). Everyone nearby sees *\*bonk\** over the target. When the cooldown ends, the attacker sees *Your crook hums.* in their journal.
+
+| Herding | Bonk Damage |
+|:-|:-:|
+| 0 | No bonk |
+| 0.1 – 9.9 | 1× |
+| 10 – 19.9 | 2× |
+| 20 – 29.9 | 3× |
+| 30 – 39.9 | 4× |
+| 40 – 49.9 | 5× |
+| 50 – 59.9 | 6× |
+| 60 – 69.9 | 7× |
+| 70 – 79.9 | 8× |
+| 80 – 89.9 | 9× |
+| 90 – 100 | 10× |
+
+- At `100` Herding, a bonk never misses.
+- Below `100`, a bonk can miss. A miss shows nothing and doesn't use the bonk, so the next hit that lands bonks instead.
+- The multiplier applies to the crook's damage roll, before Tactics, Strength, and Anatomy. A [magic](/magic_weapons) crook's damage bonus is added once and not multiplied, unlike with a critical strike.
+- Otherwise a bonk is a normal hit. Armor and shields reduce it, and it's halved against players like all melee between players.
+- The cooldown belongs to the player, so switching crooks doesn't reset it.
+- Herding adds no damage to the crook's other hits, and the crook never lands a Crushing Blow.
+
+## Stun
+Fighting with empty hands allows one move, Stun, which freezes the target in place for `4` seconds. It's attempted automatically when a punch hits, and needs `80` Wrestling and `80` Anatomy. See [Wrestling: Wrestling Moves](/wrestling#wrestling-moves).

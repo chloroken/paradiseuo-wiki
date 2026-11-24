@@ -22,10 +22,10 @@ Tactics changes weapon damage by `(Tactics - 50)%`. It applies to every weapon, 
 | 75 | +25 |
 | 100 | +50 |
 
-Below `50`, Tactics lowers damage, so a character who fights with no Tactics does half damage. Tactics is applied first, and the bonuses from Strength, Anatomy, and Lumberjacking multiply the result, so Tactics makes every other damage bonus worth more. See [Combat: Damage](/combat#damage).
+Below `50`, Tactics lowers damage, so a character who fights with no Tactics does half damage. Tactics is applied first, and the bonuses from Strength, [Anatomy](/anatomy), and [scaling skills](/weapons#scaling-skills) multiply the result, so Tactics makes every other damage bonus worth more. See [Combat: Damage](/combat#damage).
 
 ## Accuracy
-Through Valor, Tactics also improves accuracy. The bonus grows with Tactics and shrinks as Magery rises. See [Valor](/combat#valor).
+Through Valor, Tactics also improves accuracy. The bonus grows with Tactics and shrinks as Magery rises. See [Valor](/valor).
 
 ## Manual Training
 Every hit with any weapon, including bare hands, has a chance to raise Tactics. Attacking one's own [follower](/follower) isn't criminal, so a tamed animal makes a safe training partner.

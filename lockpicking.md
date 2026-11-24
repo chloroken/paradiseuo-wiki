@@ -23,23 +23,27 @@ Town chests are scattered through buildings in towns. A chest's difficulty is ti
 ## Dungeon Chests
 Dungeon chests are found in dungeons and hold traditional dungeon loot. They range from level 1 (graveyards and camps) to levels 2 and 3 (dungeons), to level 4 (deep, difficult dungeons). Camps also have a locked level 3 chest. See [Points of Interest: Camps](/points_of_interest#camps).
 
-| Chest Level | Minimum Skill | Maximum Skill |
-|:-|:-:|:-:|
-| 1 | 43 | 52 |
-| 2 | 68 | 72 |
-| 3 | 76 | 84 |
-| 4 | 82 | 92 |
+| Chest Level | Lockpicking Needed |
+|:-|:-:|
+| 1 | 52, or 56 for some chests |
+| 2 | 72 |
+| 3 | 84 |
+| 4 | 92 |
+
+A lockpicker needs the chest's skill to try, and from there the lock never fails. Because it never fails, a dungeon chest only trains Lockpicking when picked with a skeleton key, which lets a lockpicker try with `10` less skill.
 
 ## Treasure Chests
 [Treasure maps](/treasure_map) spawn a treasure chest of level 1 to 5.
 
-| Chest Level | Minimum Skill | Maximum Skill | Gain Limit |
+| Chest Level | Lockpicking to Try | Never Fails At | Chance at 100 (%) |
 |:-|:-:|:-:|:-:|
-| 1 | 0 | 10 | 50 |
-| 2 | 40 | 50 | 90 |
-| 3 | 60 | 70 | 100 |
-| 4 | 75 | 85 | 100 |
-| 5 | 90 | 100 | 100 |
+| 1 | 10 | 50 | 100 |
+| 2 | 50 | 90 | 100 |
+| 3 | 70 | 110 | 80 |
+| 4 | 85 | 125 | 50 |
+| 5 | 100 | 140 | 20 |
+
+A lockpicker needs the chest's skill to try, with a `20%` chance at that skill. The chance rises evenly until the lock never fails, `40` points higher, and picking trains Lockpicking until then.
 
 ## Crafted Containers
 A chest, box, or crate made with [Carpentry](/carpentry) gets a lock and key if the carpenter passes a Tinkering check. The chance is `(Tinkering + 5) / 20`, so it's `25%` with no Tinkering and certain from `15` Tinkering.
@@ -59,7 +63,7 @@ The carpenter's Tinkering then sets how hard the lock is to pick:
 Higher Tinkering keeps making the lock harder to pick, and raises the Lockpicking needed to try it. No crafted lock stops a lockpicker with `95` or more.
 
 ## Manual Training
-Lockpicking trains by picking chests in towns and dungeons, and the hardest crafted container available in between.
+Lockpicking trains by picking town chests and treasure chests, and the hardest crafted container available in between.
 
 ## Macro Training
 The macro needs three locked boxes: one made with 50 Tinkering, one made with 75, and one made with 100. This TazUO Legion script runs on one box at a time, restarted for each harder box, until grandmaster:

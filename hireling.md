@@ -66,7 +66,7 @@ Hirelings take the same commands as other followers, such as `all follow me`, `a
 
 A hireling rides a horse while following its employer and goes on foot for any other command. The horse is only for show, and doesn't make the hireling faster.
 
-Saying `name release` from a hireling's menu ends its contract, and any unused pay is lost. A hireling that quits or is dismissed can be hired again by anyone, and leaves for good after `3` days if no one does.
+Saying `name release` ends a hireling's contract, and any unused pay is lost. A hireling that quits or is dismissed can be hired again by anyone, and leaves for good after `3` days if no one does.
 
 ## Hirelings in Combat
 Hirelings deal and take full damage against monsters, including demibosses, unlike [pets](/pet) and [summons](/summon). Their melee hits on other players are halved, the same as a player's.

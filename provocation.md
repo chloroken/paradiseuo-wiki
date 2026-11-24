@@ -18,6 +18,5 @@ Provocation has a `10` second cooldown on success and a `5` second cooldown on f
 After `60` seconds, provocation ends if a provoked target loses sight of the bard or its target. Fleeing monsters walk away instead of fighting, even when provoked.
 
 ## Manual Training
-Monsters in the Moonglow Zoo can't be provoked onto each other, only onto the bard.
 
 ## Macro Training

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-11-03T21:50:31.643Z
 ---
 
-# Welcome
+# Home
 *Paradise* is an [Ultima Online](https://uo.com/) shard. It keeps the classic base design and old-school feel of [T2A](https://en.wikipedia.org/wiki/Ultima_Online:_The_Second_Age), adds clever reworks that open up more avenues of play, and makes quality-of-life changes where they help. It's intended for solo players and small groups, and PvP is consensual only.
 
 The main design goals are:

@@ -13,7 +13,7 @@ Armor reduces incoming physical damage. Heavy armor lowers stamina and Dexterity
 
 ## How Armor Works
 When hit by an attack, the following happens in order:
-1. Characters with Parrying who fight without magic reduce incoming damage through [Valor](/combat#valor).
+1. Characters with Parrying who fight without magic reduce incoming damage through [Valor](/valor).
 1. The defender tries to block with a shield. A successful block reduces the damage. See [Parrying](/parrying).
 1. A random piece of the defender's armor is hit (see the table below), and it reduces the damage by a percentage.
 1. Arch Protection and an equipped shield reduce the damage by a further flat amount. See below.

@@ -9,7 +9,7 @@ dateCreated: 2026-11-19T07:33:58.907Z
 ---
 
 # Hiding
-Hiding is the skill of disappearing from sight. A hidden character can't be seen by players or monsters until something reveals them, and hiding is the first step of an archer's ambush.
+Hiding is the skill of disappearing from sight. A hidden character can't be seen by players or monsters until something reveals them, and hiding is the first step of an [ambush](/ambush).
 
 ## Going Hidden
 Using the skill attempts to hide. The chance to succeed is the character's Hiding skill as a percentage.
@@ -28,7 +28,7 @@ A hidden character is revealed by:
 - Another player using Detecting Hidden nearby, or a monster using Detecting Hidden or casting Reveal.
 
 ## Ambush
-Only a hide made with the Hiding skill allows an ambush with a bow or crossbow. The Invisibility spell and invisibility potions don't count. See [Archery](/archery).
+Only a hide made with the Hiding skill allows an ambush, with a bow, crossbow, fencing weapon, or knife. The Invisibility spell and invisibility potions don't count. See [Ambush](/ambush).
 
 ## Manual Training
 

@@ -16,7 +16,7 @@ Smaller tweaks are listed in the [patch notes](/patch_notes). Development is ong
 ## Fighter Rework
 Characters who fight with weapons are enhanced to keep pace with mages, tamers, and bards in PvM.
 
-- [Valor](/combat#valor):
+- [Valor](/valor):
   - Characters who fight without magic are gripped by [the warrior's virtue](https://wiki.ultimacodex.com/wiki/Valor).
   - Valor grants fighting bonuses that diminish as Magery increases.
 - [Armor](/armor#how-armor-works):
@@ -27,7 +27,7 @@ Characters who fight with weapons are enhanced to keep pace with mages, tamers, 
   - Disarm is removed, so every move is a stun.
 - [Poisoning](/poisoning):
   - Inflicting poison is now tied to Poisoning level, giving it a use in the field.
-- [Weapon Identities](/weapons#weapon-effects):
+- [Weapon Identities](/weapon_effects):
   - Swords critically strike for double damage, and slower swords crit more often.
   - One-handed maces weaken a monster's blows by sapping its vigor.
   - Two-handed maces and staves can slow a monster's attacks.
@@ -50,9 +50,9 @@ Archers receive several enhancements that make ranged combat more effective.
   - Increases range, reduces time to shoot, and saves more arrows.
 - [Crossbow Volley](/archery#crossbow-volley):
   - Crossbows fire up to `3` bolts per shot.
-- [Ambush](/archery#ambush):
-  - Shots do bonus damage if they break Hiding.
-  - Breaking Stealth further enhances the shot.
+- [Ambush](/ambush):
+  - Attacks with bows, crossbows, fencing weapons, and knives do bonus damage if they break Hiding.
+  - Breaking Stealth further enhances the attack.
 - [Tracking](/tracking#archery-accuracy):
   - Increases accuracy with ranged weapons.
   - At `100` Tracking, shots against fleeing targets never miss.
@@ -75,7 +75,7 @@ Spirit Speak:
 - makes summons last longer.
 - makes summons become more resistant to dispels.
 - makes summoned air, earth, fire, and water elementals do more damage.
-- makes summoned animals and elementals take fewer follower slots.  See [Summon: Follower Slots](/summon#follower-slots).
+- makes summoned animals and elementals take fewer follower slots. See [Summon: Follower Slots](/summon#follower-slots).
 - makes summon spells less likely to fail, never failing at `100` Spirit Speak
 
 Related Changes:

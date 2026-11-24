@@ -12,12 +12,16 @@ dateCreated: 2026-11-19T00:05:40.279Z
 This page covers how [often attacks land](#hit-chance), how [fast they come](#swing-speed), and how much [damage they do](#damage). It also explains [Valor](#valor), the virtue that strengthens characters who fight without [magic](/magic).
 
 ## Gear and Skills
-- [Weapons](/weapons): every weapon type, its skill, and its effects.
+- [Weapons](/weapons): every weapon type, its skill, and its scaling skill.
+- [Weapon Effects](/weapon_effects): critical strikes, blows, the shillelagh, and other effects on hit.
+- [Magic Weapons](/magic_weapons): damage, accuracy, durability, and silver properties.
 - [Armor](/armor): how armor and shields reduce damage.
-- [Archery](/archery): bows and crossbows, ammunition, and ambushes.
+- [Archery](/archery): bows and crossbows, and ammunition.
+- [Ambush](/ambush): extra damage when attacking from Hiding and Stealth.
 - [Wrestling](/wrestling): bare-handed moves and unarmed defense.
 - [Parrying](/parrying): blocking with shields, and Valor's toughness.
 - [Tactics](/tactics): more damage with every weapon, and Valor's accuracy.
+- [Anatomy](/anatomy): more damage, weapon effects, better bandages, and Valor's regeneration.
 - [Healing](/healing): bandages that heal, cure poison, and resurrect.
 - [Poisoning](/poisoning): coating weapons and ammunition. See also [Poison](/poison).
 - [Hiding](/hiding) and [Stealth](/stealth): disappearing and moving unseen before an ambush.
@@ -62,7 +66,7 @@ Second, these bonuses are added together, then applied to the result:
 | Source | Bonus | At 100 (%) |
 |:-|:-:|:-:|
 | Strength | 1% per 5 Strength | 20 |
-| [Anatomy](/anatomy) | 1% per 5 Anatomy, plus 10% at grandmaster | 30 |
+| Anatomy | 1% per 5 Anatomy, plus 10% at grandmaster | 30 |
 | [Lumberjacking](/lumberjacking) | 1% per 5 Lumberjacking, plus 10% at grandmaster, axes except the pickaxe | 30 |
 | [Blacksmithing](/blacksmithing) | Up to 26.7%, plus 13.3% at grandmaster, one-handed maces only | 40 |
 | [Carpentry](/carpentry) | Up to 10%, plus 5% at grandmaster, black, gnarled, and quarter staves only | 15 |
@@ -89,20 +93,4 @@ Valor, shields, armor, and Arch Protection reduce the damage before it reaches t
 - Paralyzed characters have the same limits, but taking damage breaks the paralysis. The Paralyze spell and paralyze fields paralyze their target.
 
 ## Valor
-Valor is the warrior's virtue. Characters who fight with weapons instead of magic are gripped by it and get three bonuses in combat. The further a character turns toward magic, the weaker Valor's hold on them. Valor has nothing to do with the virtue system from later versions of Ultima Online, which *Paradise* doesn't use. Each bonus comes from its own skill and is at its full size with `100` in that skill and `0` Magery. The skill and Magery scales multiply, so a character with `50` in the skill and `50` Magery gets a quarter of the bonus. Only players get these bonuses, not monsters or followers.
-
-- Accuracy, from Tactics: up to `30` points added to the attacker's weapon skill when rolling to hit, for every kind of weapon, including bows and bare hands. The bonus is `30 * (Tactics / 100) * ((100 - Magery) / 100)` points.
-- Toughness, from Parrying: physical damage taken is reduced by up to `20%`, before armor. The reduction is `20% * (Parrying / 100) * ((100 - Magery) / 100)`. It covers weapons and monsters' melee attacks, but not spells, breath, or poison. It doesn't need a shield.
-- Regeneration, from Anatomy: hit points regenerate up to `5` times as fast. The speed is `1 + 4 * (Anatomy / 100) * ((100 - Magery) / 100)` times normal.
-
-| Magery | Accuracy Bonus<br>(points at 100 Tactics) | Damage Taken at<br>100 Parrying (%) | Regeneration Speed<br>at 100 Anatomy |
-|:-|:-:|:-:|:-:|
-| 0 | 30 | 80 | 5× |
-| 25 | 22.5 | 85 | 4× |
-| 50 | 15 | 90 | 3× |
-| 75 | 7.5 | 95 | 2× |
-| 100 | 0 | 100 | 1× |
-
-With `100` Tactics, `100` weapon skill, and no Magery, a fighter hits a defender with `100` skill `60%` of the time instead of `50%`, and hits a monster with `80` Wrestling `69%` of the time instead of `58%`.
-
-The bonuses use base skill, so items and spells that raise a skill don't count. They check the character's skills and Magery at all times, so changing any of them changes the bonuses immediately. These numbers are being tested during alpha and may change.
+Valor is the warrior's virtue. Characters who fight without magic gain accuracy from Tactics, toughness from Parrying, and regeneration from Anatomy, and every bonus shrinks as Magery rises. See [Valor](/valor).
