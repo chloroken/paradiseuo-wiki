@@ -2,7 +2,7 @@
 title: Dungeons
 description: Every dungeon in Britannia and the Lost Lands, and their demibosses
 published: true
-date: 2026-11-23T11:19:42.172Z
+date: 2026-11-24T08:34:14.438Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-14T20:25:42.451Z
@@ -12,16 +12,19 @@ dateCreated: 2026-11-14T20:25:42.451Z
 Dungeons are found across Britannia and the Lost Lands. Monsters in dungeons attack [Young players](/young_player) like anyone else.
 
 ## Britannia
-| Name | Floors | Location | Description | Demiboss |
-|:-|:-:|:-:|:-:|:-:|
-| [Covetous](/covetous) | 3 | West of Vesper | Mountain tunnels lead to an undead fortress | Lich King |
-| [Deceit](/deceit) | 4 | Dagger Isle | Frozen halls where the restless dead keep watch | |
-| [Despise](/despise) | 3 | North of Britain | Forest caverns hiding a den of evil mages | |
-| [Destard](/destard) | 3 | Trinsic Jungle | A scorched lair ruled by dragons | |
-| [Hythloth](/hythloth) | 4 | Fire Island | A fiery descent into the realm of daemons | |
-| [Shame](/shame) | 4 | South of Yew | Elemental depths that grow wilder with every floor | Greater Elemental |
-| [Wind](/wind) | 1 | North of Britain | A hidden mage city sealed within the mountains | |
-| [Wrong](/wrong) | 2 | Northwest of Minoc | Britannia's old prison, overrun by its inmates | |
+The dungeons in Britannia each represent an [anti-virtue](https://www.uoguide.com/Anti-Virtues) opposite one of Ultima's [virtues](https://www.uoguide.com/Virtues).
+
+| Name | Virtue | Floors | Location | Description | Demiboss |
+|:-|:-:|:-:|:-:|:-:|:-:|
+| [Covetous](/covetous)<br>(Selfishness) | Sacrifice | 3 | West of Vesper | Mountain tunnels lead to an undead fortress | Lich King |
+| [Deceit](/deceit)<br>(Deceit) | Honesty | 4 | Dagger Isle | Frozen halls where the restless dead keep watch | |
+| [Despise](/despise)<br>(Hatred) | Compassion | 3 | North of Britain | Forest caverns hiding a den of evil mages | |
+| [Destard](/destard)<br>(Cowardice) | Valor | 3 | Trinsic Jungle | A scorched lair ruled by dragons | |
+| [Hythloth](/hythloth)<br>(Sloth) | Spirituality | 4 | Fire Island | A fiery descent into the realm of daemons | |
+| [Shame](/shame)<br>(Dishonor) | Honor | 4 | South of Yew | Elemental depths that grow wilder with every floor | Greater Elemental |
+| [Wrong](/wrong)<br>(Injustice) | Justice | 2 | Northwest of Minoc | Britannia's old prison, overrun by its inmates | |
+
+Humility has no dungeon, since Pride is the one anti-virtue with no dungeon of its own.
 
 ## T2A Dungeons
 These dungeons in the Lost Lands have their own monsters, loot, and stories. Some of them also connect to Britannia.
