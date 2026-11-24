@@ -2,7 +2,7 @@
 title: Demibosses
 description: What demibosses are, their artifacts, and how to beat them
 published: true
-date: 2026-11-24T09:16:37.588Z
+date: 2026-11-24T09:17:20.607Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T09:16:37.588Z
@@ -27,7 +27,7 @@ Both demibosses fight mainly with spells, so the strongest tools are the ones th
 
 ### Weapon Effects
 - [Concussion Blow](/weapon_effects#concussion-blow) from polearms halves a boss's Intelligence, and with it its maximum mana, for `30` seconds. The Lich King drops to `400` to `500` mana, and the Greater Elemental to `200` to `225`.
-- [Paralyzing Blow](/weapon_effects#paralyzing-blow) from spears and wrestling [stuns](/weapon_effects#stun) freeze the boss, and a frozen boss can't start a spell. A frozen Lich King can't teleport either, but the Greater Elemental still teleports and summons.
+- [Paralyzing Blow](/weapon_effects#paralyzing-blow) from spears and wrestling [stuns](/weapon_effects#stun) freeze the boss. A frozen boss can't start a new spell, though it finishes one already being cast. A frozen Lich King can't teleport either, but the Greater Elemental still teleports and summons.
 - [Silver](/magic_weapons#silver) weapons do double damage to the Lich King, who is undead. He drops one himself.
 - An [ambush](/ambush) from hiding opens the fight with up to `2.5×` damage. After that, the boss is alert for `1` minute.
 - Sapping vigor and Crushing Blow only weaken melee attacks, which neither boss relies on.
