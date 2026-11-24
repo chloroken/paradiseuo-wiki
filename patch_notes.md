@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-24T07:57:42.206Z
+date: 2026-11-24T08:49:24.064Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,6 +11,8 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 ## 2026.11.24
+- Make Concussion Blow a polearm-only [weapon effect](/weapon_effects#concussion-blow), triggered by [Anatomy](/anatomy) instead of Arms Lore, on `25%` of hits at `100`
+- Remove Concussion Blow from two-handed axes, so hits with axes and polearms no longer train Arms Lore
 - Give two-handed maces a [Blacksmithing](/blacksmithing) splash: each Crushing Blow has a chance, up to `100%` at grandmaster, to hit every monster around the target for the same damage
 - Remove the Blacksmithing damage bonus from one-handed maces
 - Make the war axe a two-handed mace, with Crushing Blow and the splash
