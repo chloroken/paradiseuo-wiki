@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T05:12:44.174Z
+date: 2026-11-24T05:26:19.925Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -25,12 +25,12 @@ Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
-| Archer | 100<br>100<br>25 | Archery<br>Tactics<br>Anatomy<br>Tracking<br>Fletching<br>Healing<br>Resisting Spells | Bows | The longest range and fastest shots after moving, and shots against fleeing targets never miss. |
+| Archer | 100<br>100<br>25 | Archery<br>Tactics<br>Anatomy<br>Tracking<br>Fletching<br>Healing<br>Resisting Spells | Bows<br>Crossbows | The longest range and fastest shots after moving, and shots against fleeing targets never miss. |
 | Carpenter | 100<br>100<br>25 | Carpentry<br>Mace Fighting<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Quarter staves<br>Clubs<br>Wooden shields | Switches between a boosted staff with Crushing Blow and a turtle stance behind a heater-strength wooden shield. |
 | Paladin | 100<br>40<br>85 | Mace Fighting<br>Anatomy<br>Healing<br>Parrying<br>Tactics<br>Resisting Spells<br>Magery 40<br>Meditation 60 | One-handed maces<br>Shields | A mace tank that saps monsters' vigor, giving up part of Valor's benefits for spot healing and buff spells. |
 | Prospector | 100<br>100<br>25 | Mining<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Pickaxes<br>Shields | A shield-wearing miner who specializes in fighting back with a pickaxe, with Mining increasing pickaxe damage. |
 | Rogue | 100<br>100<br>25 | Swordsmanship<br>Tactics<br>Anatomy<br>Hiding<br>Stealth<br>Poisoning<br>Lockpicking | Knives<br>Swords | Opens with a poisoned knife ambush, switches to a sword for crits, and picks dungeon chests along the way. |
-| Shadow | 100<br>100<br>25 | Fencing<br>Archery<br>Tactics<br>Anatomy<br>Poisoning<br>Hiding<br>Stealth | Heavy crossbows<br>Fencing weapons | Ambushes from stealth with a heavy crossbow for huge damage, then uses fencing attacks with poison to keep casters busy curing. |
+| Shadow | 100<br>100<br>25 | Fencing<br>Archery<br>Tactics<br>Anatomy<br>Poisoning<br>Hiding<br>Stealth | Heavy crossbows<br>Spears | Ambushes from stealth with a heavy crossbow for huge damage, then uses a spear attacks with poison to keep casters stuck to the ground and busy curing. |
 | Shepherd | 100<br>100<br>25 | Herding<br>Mace Fighting<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Shepherd's crooks | Hit-and-run with the shillelagh: every 9 seconds, the crook's next hit bonks for up to 10× damage. |
 | Smith | 100<br>100<br>25 | Blacksmithing<br>Mace Fighting<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | One-handed maces<br>Shields | A tank that saps vigor and gets boosted mace damage from Blacksmithing, and it can make and repair its own gear. |
 | Warrior | 100<br>100<br>25 | Swordsmanship<br>Archery<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Swords<br>Shields<br>Bows | The most well-rounded fighter, with full Valor benefits, swords for steady damage, and a bow for anything out of reach. |
@@ -54,7 +54,7 @@ Tamers can turn certain animals and monsters into followers known as [pets](/pet
 | Druid | 100<br>40<br>85 | Animal Taming<br>Animal Lore<br>Veterinary<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Spellbooks | A tamer who collects a pet army, moves it around with Gate Travel, and heals pets from range with bandages, sped up by its 40 Dexterity. |
 
 ### Bards
-Bards force things to attack with [Provocation](/provocation), reduce skills with [Discordance](/discordance), or stop attacks with [Peacemaking](/peacemaking).
+Bards turn monsters against each other with [Provocation](/provocation), weaken them with [Discordance](/discordance), or calm them with [Peacemaking](/peacemaking).
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
