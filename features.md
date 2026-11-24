@@ -78,8 +78,9 @@ Archers receive several enhancements that make ranged combat more effective.
 - [Crossbow Volley](/archery#crossbow-volley):
   - Crossbows fire up to `3` bolts per shot.
 - [Ambush](/ambush):
-  - Attacks with bows, crossbows, fencing weapons, and knives do bonus damage if they break Hiding.
+  - Attacks with bows, crossbows, one-handed fencing weapons, and knives do bonus damage if they break Hiding.
   - Breaking Stealth further enhances the attack.
+  - Daggers backstab for up to `5×` damage.
 - [Tracking](/tracking#archery-accuracy):
   - Increases accuracy with ranged weapons.
   - At `100` Tracking, shots against fleeing targets never miss.
