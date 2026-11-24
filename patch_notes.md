@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-24T09:39:14.758Z
+date: 2026-11-24T09:51:37.599Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,13 +11,6 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 ## 2026.11.24
-- Stop two-handed spears (pitchforks, short spears, and spears) from [ambushing](/ambush), since they're too long to strike with from hiding
-- Let daggers backstab: each stealthed step adds `0.35×` damage instead of `0.1×`, for `5×` after `10` steps
-- Make Concussion Blow a polearm-only [weapon effect](/weapon_effects#concussion-blow), triggered by [Anatomy](/anatomy) instead of Arms Lore, on `25%` of hits at `100`
-- Remove Concussion Blow from two-handed axes, so hits with axes and polearms no longer train Arms Lore
-- Give two-handed maces a [Blacksmithing](/blacksmithing) splash: each Crushing Blow has a chance, up to `100%` at grandmaster, to hit every monster around the target for the same damage
-- Remove the Blacksmithing damage bonus from one-handed maces
-- Make the war axe a two-handed mace, with Crushing Blow and the splash
 - Rework the [classes](/character#classes), adding classes built around scaling skills, the shillelagh, and melee ambushes
 - Add the Armsmaster class, and move the Warrior to Fencing so it doesn't need Arms Lore
 - Make [Arms Lore](/arms_lore) control every [weapon effect](/weapon_effects), from nothing at `0` to full strength at `100`:
@@ -26,6 +19,14 @@ Changes to *Paradise*, newest first.
     - Scale the vigor sapped by one-handed maces with Arms Lore
     - Train Arms Lore on hits with weapons that have a weapon effect
     - Leave the shillelagh, crossbow volleys, wrestling stuns, poison, and ambushes unaffected by Arms Lore
+- Lower spear damage to pay for Paralyzing Blow: short spears from `4` – `29` to `4` – `25`, and spears from `2` – `34` to `2` – `29`
+- Stop two-handed spears (pitchforks, short spears, and spears) from [ambushing](/ambush), since they're too long to strike with from hiding
+- Let daggers backstab: each stealthed step adds `0.35×` damage instead of `0.1×`, for `5×` after `10` steps
+- Make Concussion Blow a polearm-only [weapon effect](/weapon_effects#concussion-blow), triggered by [Anatomy](/anatomy) instead of Arms Lore, on `25%` of hits at `100`
+- Remove Concussion Blow from two-handed axes, so hits with axes and polearms no longer train Arms Lore
+- Give two-handed maces a [Blacksmithing](/blacksmithing) splash: each Crushing Blow has a chance, up to `100%` at grandmaster, to hit every monster around the target for the same damage
+- Remove the Blacksmithing damage bonus from one-handed maces
+- Make the war axe a two-handed mace, with Crushing Blow and the splash
 - Draw arrows and bolts from a fixed spot on the archer, raised while mounted, so every bolt of a crossbow volley starts where the archer stood when it fired
 ## 2026.11.23
 - Rename the Sorcerer class to Summoner
