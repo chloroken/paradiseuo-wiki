@@ -1,8 +1,8 @@
 ---
 title: Features
-description: The major ways Paradise differs from T2A
+description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-24T04:11:05.792Z
+date: 2026-11-24T04:16:32.751Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
