@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T10:29:47.635Z
+date: 2026-11-24T10:31:46.032Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -20,7 +20,7 @@ A character's build is determined by its stats, skills, and reputation. A build 
 Ultima Online doesn't have discrete classes. To play something like a Warrior, one would spend stat points on Strength and Dexterity, and skill points on weapon, defensive, and healing skills. The following classes are just ideas, many of them rooted in classic T2A gameplay.
 
 ### Fighters
-Fighters decry [Magery](/magery) and instead opt to specialize in [weapons](/weapons) and [armor](/armor), leveraging [Valor](/valor) benefits to get ahead.
+Fighters decry [Magery](/magery), instead opting to specialize in [weapons](/weapons) and [armor](/armor), leveraging [Valor](/valor) benefits to get ahead.
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
@@ -36,7 +36,7 @@ Fighters decry [Magery](/magery) and instead opt to specialize in [weapons](/wea
 | Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | The highest damage of all classes, and it can chop wood. Its axes have no weapon effect, so it needs no Arms Lore, but it lacks utility. Its axes take both hands, so Parrying only gives Valor's toughness. |
 
 ### Mages
-Mages get access to [spells](/spells) and all that entails, sacrificing some or all of Valor's benefits.
+Mages embrace [spellcasting](/spells), sacrificing some or all of Valor's benefits to unlock a trove of utility and damage spells.
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
@@ -46,7 +46,7 @@ Mages get access to [spells](/spells) and all that entails, sacrificing some or 
 | Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbooks | Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. Uses [Anatomy](/anatomy) with [Evaluating Intelligence](/evaluating_intelligence) instead of [Wrestling](/wrestling) to defend. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense). |
 
 ### Tamers
-Tamers can tame certain animals and monsters into followers known as [pets](/pet). See [Animal Taming](/animal_taming).
+Tamers can tame certain animals and monsters into followers known as [pets](/pet) to fight for them. See [Animal Taming](/animal_taming).
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
