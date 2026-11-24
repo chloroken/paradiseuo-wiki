@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T11:36:00.928Z
+date: 2026-11-24T12:15:52.227Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -32,7 +32,7 @@ The following table lists stats in this order: Strength, Dexterity, Intelligence
 | Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Armsmaster | 100<br>100<br>25 | Swordsmanship<br>Mace Fighting<br>Arms Lore<br>Tactics<br>Anatomy<br>Healing<br>Resisting Spells | Swords,<br>Polearms,<br>Maces,<br>War hammers | Carries different weapons and switches between them to land multiple weapon effects on a target. Always brings the right tool for the job. |
-| Blacksmith | 100<br>100<br>25 | Blacksmithing<br>Mace Fighting<br>Tactics<br>Arms Lore<br>Parrying<br>Healing<br>Resisting Spells | One-handed maces,<br>Shields,<br>War hammers,<br>War axes | A blacksmith that can make and repair its own gear. Uses a one-handed mace and shield to tank with, and switches to a bigger mace to do area attacks thanks to Blacksmithing's interaction with two-handed maces. Without Anatomy, the Smith misses out on Valor's regeneration bonus, and its bandages heal less and can't cure poison, so it carries cure potions to compensate. |
+| Blacksmith | 100<br>100<br>25 | Blacksmithing<br>Mace Fighting<br>Tactics<br>Arms Lore<br>Parrying<br>Healing<br>Resisting Spells | One-handed maces,<br>Shields,<br>War hammers,<br>War axes | A smith that can make and repair its own gear. Uses a one-handed mace and shield to tank with, and switches to a bigger mace to do area attacks thanks to Blacksmithing's interaction with two-handed maces. Without Anatomy, the Smith misses out on Valor's regeneration bonus, and its bandages heal less and can't cure poison, so it carries cure potions to compensate. |
 | Carpenter | 100<br>100<br>25 | Carpentry<br>Mace Fighting<br>Tactics<br>Arms Lore<br>Parrying<br>Healing<br>Resisting Spells | Quarter staves,<br>Clubs,<br>Wooden shields | A fighter skilled with wooden equipment. Does more damage with staves and blocks with wooden shields as if they were heater shields. Without Anatomy, the Carpenter misses out on Valor's regeneration bonus, and its bandages heal less and can't cure poison, so it must bring cure potions. |
 | Hunter | 100<br>100<br>25 | Fencing<br>Archery<br>Tactics<br>Arms Lore<br>Poisoning<br>Hiding<br>Stealth | Heavy crossbows,<br>Two-handed spears | Ambushes from stealth with a heavy crossbow for huge burst damage at range, then pins targets in place with a poisoned spear's Paralyzing Blow. No Healing or Resisting Spells and getting only offensive Valor benefits make the Hunter fragile and reliant on potions to heal and cure. However a frozen target can't start a spell, so the spear not only holds melee targets at bay, it interrupts casters as well while the poison keeps them busy curing.|
 | Prospector | 100<br>100<br>25 | Mining<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Pickaxes,<br>Shields | A miner who can clap back. Keeps up with other fighters thanks to Mining's huge boost to pickaxe damage. |
