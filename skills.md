@@ -2,7 +2,7 @@
 title: Skills
 description: Every enabled and disabled skill, and the most popular ones
 published: true
-date: 2026-11-24T03:49:52.467Z
+date: 2026-11-24T12:12:40.262Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -12,6 +12,13 @@ dateCreated: 2026-11-03T22:05:20.404Z
 A character can have up to `700` skill points. Common [class builds](/character#classes) aim for powerful synergies. Some skills are disabled, and others are almost useless.
 
 Every page is written specifically for *Paradise*, and checked against the server's code wherever possible. As alpha testing continues and the code behind each skill is better understood, more pages will be written and expanded.
+
+## Notable Skills
+These skills enable build archetypes and at least one is typically chosen as a base.
+- Tactics: raises weapon damage by up to `50%` offers significant [Valor](/valor) benefits
+- Magery: damage, healing, utility, and the best travel options at the expense of Valor benefits
+- Animal Taming: commanding an army of monsters is powerful
+- Provocation: turns monsters against each other, so the strongest ones do the bard's fighting
 
 ## Enabled Skills
 - [Alchemy](/alchemy)
@@ -62,13 +69,6 @@ Every page is written specifically for *Paradise*, and checked against the serve
 - [Tracking](/tracking)
 - [Veterinary](/veterinary)
 - [Wrestling](/wrestling)
-
-## Notable Skills
-Most characters take at least one of these skills.
-- Magery: damage, healing, utility, and the best travel options
-- Animal Taming: commanding an army of monsters is powerful
-- Provocation: turns monsters against each other, so the strongest ones do the bard's fighting
-- Tactics: raises weapon damage by up to `50%`, and accuracy through [Valor](/valor)
 
 ## Disabled Skills
 - Bushido
