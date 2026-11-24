@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T11:24:22.401Z
+date: 2026-11-24T11:32:23.619Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -55,8 +55,8 @@ The following table lists stats in this order: Strength, Dexterity, Intelligence
 
 | Class | Stats | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
-| Beastmaster | 100<br>100<br>25 | Animal Taming<br>Animal Lore<br>Veterinary<br>Musicianship<br>Peacemaking<br>Provocation<br>Hiding | None | One of the strongest hunters, with both pets and provoked monsters fighting for it, backed by the fastest bandages from maximum Dexterity. However, it has no Magery, which limits its utility. It also gets no benefits from Valor, which makes it very fragile. |
-| Druid | 100<br>40<br>85 | Animal Taming<br>Animal Lore<br>Veterinary<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Spellbook | A tamer who collects a pet army, moves it around with Gate Travel, and heals pets from range with Greater Heal and bandages sped up by its 40 Dexterity. |
+| Beastmaster | 100<br>100<br>25 | Animal Taming<br>Animal Lore<br>Veterinary<br>Musicianship<br>Peacemaking<br>Provocation<br>Hiding | None | Despite being harmless itself, the Beastmaster is one of the strongest hunters, with both pets and provoked monsters fighting for it. Its pets are backed by the fastest bandages from maximum Dexterity. However, it has no Magery, which limits its utility and travel speed. It has no true defenses and gets no benefits from Valor, making it exceptionally fragile. |
+| Druid | 100<br>40<br>85 | Animal Taming<br>Animal Lore<br>Veterinary<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Spellbook | A magical tamer who collects a pet army, moves it around with Gate Travel, and heals pets from range with Greater Heal and bandages sped up by its 40 Dexterity. |
 
 ## Bards
 
