@@ -2,7 +2,7 @@
 title: Damage Per Second
 description: Damage per second for every weapon, with and without its weapon effect
 published: true
-date: 2026-11-21T17:44:34.729Z
+date: 2026-11-24T09:50:18.043Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T17:43:32.186Z
@@ -27,8 +27,8 @@ Every weapon's base damage, speed, and damage per second (DPS) for a fighter wit
 | Kryss | 3 – 28 | 53 | 1.42 | 24.6 |  |
 | Dagger | 4 – 19 | 55 | 1.36 | 19.0 |  |
 | Pitchfork | 4 – 16 | 45 | 1.67 | 13.5 |  |
-| Short spear | 4 – 29 | 50 | 1.5 | 24.8 |  |
-| Spear | 2 – 34 | 46 | 1.63 | 24.8 |  |
+| Short spear | 4 – 25 | 50 | 1.5 | 21.8 |  |
+| Spear | 2 – 29 | 46 | 1.63 | 21.8 |  |
 | War fork | 4 – 32 | 45 | 1.67 | 24.3 |  |
 
 ## Axes
