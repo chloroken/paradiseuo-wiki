@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T13:12:12.229Z
+date: 2026-11-24T13:41:14.104Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -17,7 +17,7 @@ A character's build is determined by its stats, skills, and reputation. A build 
 - [Reputation](/reputation): builds up passively while interacting with the world.
 
 ## Classes
-Ultima Online doesn't have discrete classes. To play something like an evil warrior, one would spend stat points on Strength and Dexterity and skill points on weapon skills, then commit bad deeds to lower their karma.
+Ultima Online doesn't have discrete classes. To play something like an evil warrior, one would spend stat points on Strength and Dexterity and skill points on weapon skills, then commit bad deeds to lower karma.
 
 - [Fighters](#fighters) decry [Magery](/magery), instead opting to specialize in [weapons](/weapons) and [armor](/armor), leveraging [Valor](/valor) benefits to get ahead.
 - [Mages](#mages) embrace [spellcasting](/spells), sacrificing some or all of Valor's benefits to unlock a trove of utility and damage spells.
