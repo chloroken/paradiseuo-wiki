@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-24T05:55:18.050Z
+date: 2026-11-24T07:16:53.689Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -15,6 +15,13 @@ Changes to *Paradise*, newest first.
 - Remove the Blacksmithing damage bonus from one-handed maces
 - Make the war axe a two-handed mace, with Crushing Blow and the splash
 - Rework the [classes](/character#classes), adding classes built around scaling skills, the shillelagh, and melee ambushes
+- Make [Arms Lore](/arms_lore) control every [weapon effect](/weapon_effects), from nothing at `0` to full strength at `100`:
+    - Scale sword critical strikes with Arms Lore instead of Swordsmanship
+    - Trigger Concussion Blow, Crushing Blow, and Paralyzing Blow with Arms Lore instead of Anatomy, on `25%` of hits at `100`
+    - Scale the vigor sapped by one-handed maces with Arms Lore
+    - Train Arms Lore on hits with weapons that have a weapon effect
+    - Leave the shillelagh, crossbow volleys, wrestling stuns, poison, and ambushes unaffected by Arms Lore
+- Draw arrows and bolts from a fixed spot on the archer, raised while mounted, so every bolt of a crossbow volley starts where the archer stood when it fired
 ## 2026.11.23
 - Rename the Sorcerer class to Summoner
 - Refresh [Shame](/shame):
