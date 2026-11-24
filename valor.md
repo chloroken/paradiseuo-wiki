@@ -1,4 +1,14 @@
 ---
+title: valor
+description: 
+published: true
+date: 2026-11-24T03:50:47.752Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-24T03:38:56.754Z
+---
+
+---
 title: Valor
 description: The warrior's virtue: accuracy, toughness, and regeneration for characters who fight without magic
 published: true
@@ -29,4 +39,4 @@ With `100` Tactics, `100` weapon skill, and no Magery, a fighter hits a defender
 The bonuses use base skill, so items and spells that raise a skill don't count. They check the character's skills and Magery at all times, so changing any of them changes the bonuses immediately. These numbers are being tested during alpha and may change.
 
 ## Who Gets Valor
-Every player gets Valor from their Tactics, Parrying, and Anatomy, whatever they fight with, so archers and wrestlers benefit too. Magery weakens all three bonuses. The [Warrior](/warrior) takes all three skills and no Magery, so it gets the full bonuses. See [Classes](/classes).
+Every player gets Valor from their Tactics, Parrying, and Anatomy, whatever they fight with, so archers and wrestlers benefit too. Magery weakens all three bonuses. The [Warrior](/warrior) takes all three skills and no Magery, so it gets the full bonuses. See See [Character: Classes](/character#classes).
