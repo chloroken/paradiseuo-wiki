@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T13:41:14.104Z
+date: 2026-11-24T13:42:00.309Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
