@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T05:26:19.925Z
+date: 2026-11-24T05:58:29.737Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -37,7 +37,7 @@ Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate
 | Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | The highest damage of all classes, and it can chop wood, but otherwise lacks utility. |
 
 ### Mages
-Mages with [Anatomy](/anatomy) and [Evaluating Intelligence](/evaluating_intelligence) defend with empty hands as if they had up to `110` [Wrestling](/wrestling), without training it. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense).
+Mages use [Anatomy](/anatomy) with [Evaluating Intelligence](/evaluating_intelligence) instead of [Wrestling](/wrestling) to defend. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense).
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
