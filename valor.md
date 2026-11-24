@@ -1,8 +1,8 @@
 ---
 title: valor
-description: 
+description: The warrior's virtue: accuracy, toughness, and regeneration for characters who fight without magic
 published: true
-date: 2026-11-24T03:51:32.408Z
+date: 2026-11-24T03:52:11.977Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:56.754Z
