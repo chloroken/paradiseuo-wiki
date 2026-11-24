@@ -1,11 +1,11 @@
 ---
 title: Ambush
-description: Extra damage and accuracy for attacks from Hiding and Stealth, with bows, crossbows, fencing weapons, and knives
+description: Extra damage and accuracy for attacks from Hiding and Stealth, with bows, crossbows, one-handed fencing weapons, and knives
 published: true
-date: 2026-11-24T03:30:00.000Z
+date: 2026-11-24T09:45:28.881Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-24T03:30:00.000Z
+dateCreated: 2026-11-24T03:38:15.264Z
 ---
 
 # Ambush
