@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T10:14:12.163Z
+date: 2026-11-24T10:17:37.058Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -24,8 +24,8 @@ Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
-| Archer | 100<br>100<br>25 | Archery<br>Tactics<br>Anatomy<br>Tracking<br>Fletching<br>Healing<br>Resisting Spells | Bows<br>Crossbows | A long-range, nimble bow user excellent at finishing off fleeing targets that can make its own ammunition. |
-| Armsmaster | 100<br>100<br>25 | Swordsmanship<br>Mace Fighting<br>Arms Lore<br>Tactics<br>Anatomy<br>Healing<br>Resisting Spells | Swords<br>Polearms<br>Maces<br>War hammers | Carries different weapons and switches between them to land multiple weapon effects on a target. |
+| Archer | 100<br>100<br>25 | Archery<br>Tactics<br>Anatomy<br>Tracking<br>Fletching<br>Healing<br>Resisting Spells | Bows<br>Crossbows | A long-range, nimble bow user excellent at finishing off fleeing targets, and can make its own ammunition in the field if birds are present for feathers. |
+| Armsmaster | 100<br>100<br>25 | Swordsmanship<br>Mace Fighting<br>Arms Lore<br>Tactics<br>Anatomy<br>Healing<br>Resisting Spells | Swords<br>Polearms<br>Maces<br>War hammers | Carries different weapons and switches between them to land multiple weapon effects on a target. Always brings the right tool for the job. |
 | Carpenter | 100<br>100<br>25 | Carpentry<br>Mace Fighting<br>Tactics<br>Arms Lore<br>Parrying<br>Healing<br>Resisting Spells | Quarter staves<br>Clubs<br>Wooden shields | A fighter skilled with wooden equipment. Does more damage with staves and blocks more with a wooden shield. Without Anatomy, the Carpenter misses out on Valor's regeneration bonus, and its bandages heal less and can't cure poison. |
 | Hunter | 100<br>100<br>25 | Fencing<br>Archery<br>Tactics<br>Arms Lore<br>Poisoning<br>Hiding<br>Stealth | Heavy crossbows<br>Two-handed spears | Ambushes from stealth with a heavy crossbow for huge damage at range, then pins targets in place with a poisoned spear. No Resisting Spells and getting only the offensive Valor benefit make the Hunter fragile. However a frozen target can't start a spell, so the spear interrupts casters as well as holding melee users at arm's length, while the poison keeps them busy curing.|
 | Paladin | 100<br>40<br>85 | Mace Fighting<br>Arms Lore<br>Healing<br>Parrying<br>Tactics<br>Resisting Spells<br>Magery 40<br>Anatomy 60 | One-handed maces<br>Shields | A tank that uses maces to weaken monsters' hits, with Magery for Heal, Cure, and buffs while keeping part of Valor's benefits. Its Anatomy lets its bandages cure poison. Casting a spell moves its mace and shield to the backpack, so it re-equips them after each cast. |
