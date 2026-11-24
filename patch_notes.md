@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-24T09:51:37.599Z
+date: 2026-11-24T09:55:40.429Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,6 +12,7 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 ## 2026.11.24
 - Rework the [classes](/character#classes), adding classes built around scaling skills, the shillelagh, and melee ambushes
+- Rename the Shadow class to Hunter
 - Add the Armsmaster class, and move the Warrior to Fencing so it doesn't need Arms Lore
 - Make [Arms Lore](/arms_lore) control every [weapon effect](/weapon_effects), from nothing at `0` to full strength at `100`:
     - Scale sword critical strikes with Arms Lore instead of Swordsmanship
