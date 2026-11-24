@@ -17,13 +17,13 @@ Unless noted, each weapon effect is controlled by [Arms Lore](/arms_lore), from 
 |:-|:-:|:-:|:-:|
 | [Critical strikes](#critical-strikes) | Swords | Each sword's own chance, scaled by Arms Lore | Anything |
 | [Sapping vigor](#sapping-vigor) | One-handed maces | Every hit, amount scaled by Arms Lore | Monsters |
-| [Concussion Blow](#concussion-blow) | Two-handed axes, polearms | Arms Lore / 400 | Anything |
+| [Concussion Blow](#concussion-blow) | Polearms | Anatomy / 400, no Arms Lore needed | Anything |
 | [Crushing Blow](#crushing-blow) | Two-handed maces (war axe, war hammer), staves except the shepherd's crook | Arms Lore / 400 | Monsters |
 | [Paralyzing Blow](#paralyzing-blow) | Pitchforks, short spears, spears | Arms Lore / 400 | Anything |
 | [Shillelagh](#shillelagh) | Shepherd's crook | First hit after a 9 second cooldown, no Arms Lore needed | Anything |
 | [Stun](#stun) | Fists | (Wrestling + Anatomy) / 400, no Arms Lore needed | Anything |
 
-Concussion Blow, Crushing Blow, and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Two effects don't use Arms Lore: the shillelagh scales with [Herding](/herding), and stun needs Wrestling and [Anatomy](/anatomy). [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
+Crushing Blow and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Three effects don't use Arms Lore: Concussion Blow uses [Anatomy](/anatomy), the shillelagh scales with [Herding](/herding), and stun needs Wrestling and Anatomy. [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
 
 ## Critical Strikes
 Swords can land a critical strike, which doubles the hit's damage before armor, including a magic weapon's damage bonus. Each sword has its own chance, scaled by Arms Lore, so `50` Arms Lore gives half the chance shown below. The chances are set so every sword does about the same damage over time, and the slowest swords hit in the biggest bursts.
@@ -45,7 +45,7 @@ One-handed maces sap a monster's vigor. Each hit saps vigor equal to the damage 
 The attacker sees *\*saps vigor\** over their head when a sap starts, and everyone nearby sees *\*looks drained of vigor\** when the monster is fully drained. Vigor can only be sapped from monsters.
 
 ## Concussion Blow
-Two-handed axes and polearms can land a Concussion Blow, which halves the target's Intelligence and lowers its maximum mana for `30` seconds. It doesn't stack.
+Polearms can land a Concussion Blow on `Anatomy / 400` of hits, `25%` at `100` Anatomy. It halves the target's Intelligence and lowers its maximum mana for `30` seconds, and doesn't stack. It's aimed at the head, so it uses Anatomy instead of Arms Lore. Two-handed axes don't land it.
 
 Everyone nearby sees *\*looks concussed\** over the target.
 

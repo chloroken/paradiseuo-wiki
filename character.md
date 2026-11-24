@@ -26,7 +26,7 @@ Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Archer | 100<br>100<br>25 | Archery<br>Tactics<br>Anatomy<br>Tracking<br>Fletching<br>Healing<br>Resisting Spells | Bows<br>Crossbows | A long-range, nimble bow user excellent at finishing off targets. |
-| Armsmaster | 100<br>100<br>25 | Swordsmanship<br>Mace Fighting<br>Arms Lore<br>Tactics<br>Anatomy<br>Healing<br>Resisting Spells | Swords<br>Two-handed axes<br>Maces<br>War hammers | Carries multiple weapons and switches between them to land multiple weapon effects on a target. |
+| Armsmaster | 100<br>100<br>25 | Swordsmanship<br>Mace Fighting<br>Arms Lore<br>Tactics<br>Anatomy<br>Healing<br>Resisting Spells | Swords<br>Polearms<br>Maces<br>War hammers | Carries multiple weapons and switches between them to land multiple weapon effects on a target. |
 | Carpenter | 100<br>100<br>25 | Carpentry<br>Mace Fighting<br>Tactics<br>Arms Lore<br>Parrying<br>Healing<br>Resisting Spells | Quarter staves<br>Clubs<br>Wooden shields | A fighter skilled with wooden equipment. Does more damage with staves and blocks more with a wooden shield. Without Anatomy, the Carpenter misses out on Valor's regeneration bonus and has weaker bandages. |
 | Paladin | 100<br>40<br>85 | Mace Fighting<br>Arms Lore<br>Healing<br>Parrying<br>Tactics<br>Resisting Spells<br>Magery 40<br>Meditation 60 | One-handed maces<br>Shields | A tank that uses maces to weaken monsters' hits. Has access to spot healing and buff spells while keeping part of Valor's benefits. |
 | Prospector | 100<br>100<br>25 | Mining<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Pickaxes<br>Shields | A miner who can clap back with a pickaxe. |
@@ -35,14 +35,14 @@ Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate
 | Shepherd | 100<br>100<br>25 | Herding<br>Mace Fighting<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Shepherd's crooks | A shepherd that uses the shillelagh to fight with hit-and-run tactics. Every 9 seconds, the crook's next hit bonks for up to 10× damage. |
 | Smith | 100<br>100<br>25 | Blacksmithing<br>Mace Fighting<br>Tactics<br>Arms Lore<br>Parrying<br>Healing<br>Resisting Spells | One-handed maces<br>Shields<br>War hammers<br>War axes | A blacksmith that switches between tanking with a one-handed mace and shield and fighting with a two-handed mace with area damage. Without Anatomy, the Smith misses out on Valor's regeneration bonus and has weaker bandages. |
 | Warrior | 100<br>100<br>25 | Fencing<br>Archery<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Krysses<br>War forks<br>Shields<br>Bows | The most well-rounded fighter, with full Valor benefits and no need for Arms Lore. It fights with a kryss or war fork and a shield, the strongest one-handed weapons without a weapon effect, and a bow for anything out of reach. |
-| Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | The highest damage of all classes, and it can chop wood. It skips Arms Lore, so it lands no Concussion Blows and otherwise lacks utility. |
+| Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | The highest damage of all classes, and it can chop wood. Its axes have no weapon effect, so it needs no Arms Lore, but it lacks utility. |
 
 ### Mages
 Mages get access to spellcasting but give up Valor's benefits.
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
-| Battlemage | 100<br>25<br>100 | Swordsmanship<br>Tactics<br>Arms Lore<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Polearms | Rework imminent. |
+| Battlemage | 100<br>25<br>100 | Swordsmanship<br>Tactics<br>Anatomy<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Polearms | Rework imminent. |
 | Monk | 100<br>25<br>100 | Magery<br>Evaluating Intelligence<br>Meditation<br>Wrestling<br>Anatomy<br>Tactics<br>Resisting Spells | Fists | Fights with fists and magic, wearing leather armor so its mana regeneration isn't slowed. Its punches stun targets in place to control the fight. Uses Wrestling to defend. |
 | Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbooks | Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. Uses [Anatomy](/anatomy) with [Evaluating Intelligence](/evaluating_intelligence) instead of [Wrestling](/wrestling) to defend. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense). |
 
