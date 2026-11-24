@@ -2,7 +2,7 @@
 title: Towns
 description: Every town in Britannia and the Lost Lands, and which have moongates
 published: true
-date: 2026-11-19T08:01:26.492Z
+date: 2026-11-24T08:28:11.763Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T05:45:52.782Z
@@ -27,6 +27,7 @@ Towns are where players bank, buy and sell, train skills, and stable their pets.
 | Skara Brae | Yes | Island |
 | Trinsic | Yes | |
 | Vesper | No | |
+| Wind | No | Requires 70 Magery |
 | Yew | Yes | |
 
 Serpent's Hold and Buccaneer's Den each have a teleporter leading to them. See [Karma Towns](/reputation#karma-towns).
