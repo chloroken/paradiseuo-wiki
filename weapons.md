@@ -50,7 +50,7 @@ Some gathering and crafting skills make their own weapons hit harder. Each bonus
 - Carpentry also strengthens the wooden shield. See [Parrying: Shields](/parrying#shields).
 
 ## Weapon Effects
-Most weapon types have a weapon effect that can trigger on a hit, from a sword's critical strike to the shepherd's crook's bonk. Weapon effects are for players only. See [Weapon Effects](/weapon_effects).
+Most weapon types have a weapon effect that can trigger on a hit, from a sword's critical strike to the shepherd's crook's bonk. Weapon effects are for players only. Most of them are controlled by [Arms Lore](/arms_lore), so a fighter can skip them and spend those skill points elsewhere. See [Weapon Effects](/weapon_effects).
 
 ## Poison
 Fencing weapons and knives can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).

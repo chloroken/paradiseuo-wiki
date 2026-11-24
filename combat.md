@@ -21,7 +21,8 @@ This page covers how [often attacks land](#hit-chance), how [fast they come](#sw
 - [Wrestling](/wrestling): bare-handed moves and unarmed defense.
 - [Parrying](/parrying): blocking with shields, and Valor's toughness.
 - [Tactics](/tactics): more damage with every weapon, and Valor's accuracy.
-- [Anatomy](/anatomy): more damage, weapon effects, better bandages, and Valor's regeneration.
+- [Anatomy](/anatomy): more damage, wrestling stuns, better bandages, and Valor's regeneration.
+- [Arms Lore](/arms_lore): weapon effects, such as critical strikes and Crushing Blow.
 - [Healing](/healing): bandages that heal, cure poison, and resurrect.
 - [Poisoning](/poisoning): coating weapons and ammunition. See also [Poison](/poison).
 - [Hiding](/hiding) and [Stealth](/stealth): disappearing and moving unseen before an ambush.

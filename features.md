@@ -58,6 +58,7 @@ Characters who fight with weapons are enhanced to keep pace with mages, tamers, 
   - Two-handed maces and staves can slow a monster's attacks.
   - Herding turns the shepherd's crook into a shillelagh that bonks for up to `10` times damage.
   - Weapon effects are for players only.
+  - [Arms Lore](/arms_lore) controls most weapon effects, so each fighter chooses whether to pay for them.
   - Weapon damage is rebalanced so more weapons are worth using.
 - [Scaling Skills](/weapons#scaling-skills):
   - Lumberjacking, Carpentry, and Mining make their own weapons hit harder.

@@ -1,6 +1,6 @@
 ---
 title: Anatomy
-description: Weapon damage, weapon effect chance, better bandages, Valor regeneration, and unarmed defense
+description: Weapon damage, wrestling stuns, better bandages, Valor regeneration, and unarmed defense
 published: true
 date: 2026-11-24T03:30:00.000Z
 tags: 
@@ -9,7 +9,7 @@ dateCreated: 2026-11-24T03:30:00.000Z
 ---
 
 # Anatomy
-Anatomy is the knowledge of how bodies work. It makes every weapon hit harder, triggers several [weapon effects](/weapon_effects), and improves [Healing](/healing). Through [Valor](/valor), it also speeds up regeneration for characters who fight without magic.
+Anatomy is the knowledge of how bodies work. It makes every weapon hit harder, powers wrestling stuns, and improves [Healing](/healing). Through [Valor](/valor), it also speeds up regeneration for characters who fight without magic.
 
 ## Examining
 Using the skill and targeting a person or creature describes how strong and agile it is. From `65` Anatomy, it also describes how much stamina the target has left. Items can't be examined.
@@ -24,10 +24,8 @@ Anatomy adds `1%` weapon damage for every `5` points, plus `10%` at grandmaster,
 | 75 | 15 |
 | 100 | 30 |
 
-## Weapon Effects
-Every hit with a two-handed axe, polearm, two-handed mace, staff, or two-handed spear has an `Anatomy / 400` chance to land its weapon effect: Concussion Blow, Crushing Blow, or Paralyzing Blow. That's `25%` at `100` Anatomy, and a character without Anatomy never lands one. The shepherd's crook is the exception among staves and lands nothing.
-
-[Wrestling](/wrestling)'s stun needs `80` Anatomy, and succeeds `(Wrestling + Anatomy) / 400` of the time.
+## Stun
+[Wrestling](/wrestling)'s stun needs `80` Anatomy, and succeeds `(Wrestling + Anatomy) / 400` of the time. It's the only [weapon effect](/weapon_effects) that uses Anatomy. The others use [Arms Lore](/arms_lore).
 
 ## Bandages
 Anatomy raises both the minimum and maximum a bandage heals by `Anatomy / 5`. Curing poison with a bandage needs `60` Anatomy, and resurrecting needs `80`. See [Healing: Healing Wounds](/healing#healing-wounds).

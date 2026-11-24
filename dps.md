@@ -9,7 +9,7 @@ dateCreated: 2026-11-21T17:43:32.186Z
 ---
 
 # Damage Per Second
-Every weapon's base damage, speed, and damage per second (DPS) for a fighter with `100` Tactics, Strength, Anatomy, and Stamina, using a regular-quality, non-magic weapon. DPS assumes every swing hits and ignores armor. Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for swords, a [shillelagh](/weapon_effects#shillelagh) bonk every fourth swing at `100` [Herding](/herding) for the shepherd's crook, and all `3` bolts of a crossbow volley landing. For axes, the black, gnarled, and quarter staves, and the pickaxe, it adds `100` in their [scaling skill](/weapons#scaling-skills): [Lumberjacking](/lumberjacking), [Carpentry](/carpentry), and [Mining](/mining) respectively.
+Every weapon's base damage, speed, and damage per second (DPS) for a fighter with `100` Tactics, Strength, Anatomy, and Stamina, using a regular-quality, non-magic weapon. DPS assumes every swing hits and ignores armor. Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for swords at `100` [Arms Lore](/arms_lore), a [shillelagh](/weapon_effects#shillelagh) bonk every fourth swing at `100` [Herding](/herding) for the shepherd's crook, and all `3` bolts of a crossbow volley landing. For axes, the black, gnarled, and quarter staves, and the pickaxe, it adds `100` in their [scaling skill](/weapons#scaling-skills): [Lumberjacking](/lumberjacking), [Carpentry](/carpentry), and [Mining](/mining) respectively. A sword wielder without Arms Lore lands no critical strikes, so their damage is the DPS column, not EDPS.
 
 ## Swords
 | Weapon | Damage | Speed | Critical Strike<br>Chance (%) | Swing Delay (s) | DPS | EDPS |

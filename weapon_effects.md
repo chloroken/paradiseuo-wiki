@@ -9,24 +9,26 @@ dateCreated: 2026-11-24T03:30:00.000Z
 ---
 
 # Weapon Effects
-Most weapon types have a weapon effect, which can trigger when a hit lands. Weapon effects are for players only. Monsters, hirelings, and other NPCs never trigger them, even with the same weapons. Some effects also only work against monsters. Which weapons have which effect is listed on [Weapons](/weapons#weapon-types).
+Most weapon types have a weapon effect, which can trigger when a hit lands. Weapon effects are for players only. Monsters, hirelings, and other NPCs never trigger them, even with the same weapons. Some effects also only work against monsters.
+
+Unless noted, each weapon effect is controlled by [Arms Lore](/arms_lore), from nothing at `0` to full strength at `100`. A character without Arms Lore can use any weapon, but never lands its effect. Which weapons have which effect is listed on [Weapons](/weapons#weapon-types).
 
 | Effect | Weapons | Trigger | Works Against |
 |:-|:-:|:-:|:-:|
-| [Critical strikes](#critical-strikes) | Swords | Each sword's own chance | Anything |
-| [Sapping vigor](#sapping-vigor) | One-handed maces | Every hit | Monsters |
-| [Concussion Blow](#concussion-blow) | Two-handed axes, polearms | Anatomy / 400 | Anything |
-| [Crushing Blow](#crushing-blow) | Two-handed maces (war axe, war hammer), staves except the shepherd's crook | Anatomy / 400 | Monsters |
-| [Paralyzing Blow](#paralyzing-blow) | Pitchforks, short spears, spears | Anatomy / 400 | Anything |
-| [Shillelagh](#shillelagh) | Shepherd's crook | First hit after a 9 second cooldown | Anything |
-| [Stun](#stun) | Fists | (Wrestling + Anatomy) / 400 | Anything |
+| [Critical strikes](#critical-strikes) | Swords | Each sword's own chance, scaled by Arms Lore | Anything |
+| [Sapping vigor](#sapping-vigor) | One-handed maces | Every hit, amount scaled by Arms Lore | Monsters |
+| [Concussion Blow](#concussion-blow) | Two-handed axes, polearms | Arms Lore / 400 | Anything |
+| [Crushing Blow](#crushing-blow) | Two-handed maces (war axe, war hammer), staves except the shepherd's crook | Arms Lore / 400 | Monsters |
+| [Paralyzing Blow](#paralyzing-blow) | Pitchforks, short spears, spears | Arms Lore / 400 | Anything |
+| [Shillelagh](#shillelagh) | Shepherd's crook | First hit after a 9 second cooldown, no Arms Lore needed | Anything |
+| [Stun](#stun) | Fists | (Wrestling + Anatomy) / 400, no Arms Lore needed | Anything |
 
-Concussion Blow, Crushing Blow, and Paralyzing Blow are triggered by [Anatomy](/anatomy). Every hit with the right weapon has an `Anatomy / 400` chance to land one, which is `25%` at `100` Anatomy, and a character without Anatomy never lands one.
+Concussion Blow, Crushing Blow, and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Two effects don't use Arms Lore: the shillelagh scales with [Herding](/herding), and stun needs Wrestling and [Anatomy](/anatomy). [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
 
 ## Critical Strikes
-Swords can land a critical strike, which doubles the hit's damage before armor, including a magic weapon's damage bonus. Each sword has its own chance, scaled by [Swordsmanship](/swordsmanship), so `50` Swordsmanship gives half the chance shown below. The chances are set so every sword does about the same damage over time, and the slowest swords hit in the biggest bursts.
+Swords can land a critical strike, which doubles the hit's damage before armor, including a magic weapon's damage bonus. Each sword has its own chance, scaled by Arms Lore, so `50` Arms Lore gives half the chance shown below. The chances are set so every sword does about the same damage over time, and the slowest swords hit in the biggest bursts.
 
-| Sword | Critical Strike Chance (%)<br>at 100 Swordsmanship |
+| Sword | Critical Strike Chance (%)<br>at 100 Arms Lore |
 |:-|:-:|
 | Katana | 12 |
 | Broadsword | 10 |
@@ -38,7 +40,7 @@ Swords can land a critical strike, which doubles the hit's damage before armor, 
 Only swords land critical strikes, not axes, polearms, or knives. The attacker sees *You land a critical strike!* in their journal.
 
 ## Sapping Vigor
-One-handed maces sap a monster's vigor. Each hit saps vigor equal to the damage dealt, and the monster's melee attacks hit as if its Strength were that much lower, down to half its normal Strength. Its health isn't affected. The sap wears off `30` seconds after the last one-handed mace hit from anyone.
+One-handed maces sap a monster's vigor. Each hit saps vigor equal to the damage dealt, scaled by Arms Lore, so `50` Arms Lore saps half as much and a character without Arms Lore saps none. The monster's melee attacks hit as if its Strength were that much lower, down to half its normal Strength. Its health isn't affected. The sap wears off `30` seconds after the last one-handed mace hit from anyone.
 
 The attacker sees *\*saps vigor\** over their head when a sap starts, and everyone nearby sees *\*looks drained of vigor\** when the monster is fully drained. Vigor can only be sapped from monsters.
 
@@ -52,7 +54,7 @@ Two-handed maces and staves can land a Crushing Blow, which makes the target att
 
 Crushing Blow only works against monsters. Everyone nearby sees *\*looks dazed\** over the target.
 
-With a two-handed mace, each Crushing Blow has a `Blacksmithing / 100` chance to splash, every time at grandmaster [Blacksmithing](/blacksmithing). Every creature within `1` tile of the target takes the same hit, each reduced by its own armor. The splash only does damage, with no slow, and gives no skill gains. Staves never splash.
+With a two-handed mace, each Crushing Blow has a `Blacksmithing / 100` chance to splash, every time at grandmaster [Blacksmithing](/blacksmithing). Every creature within `1` tile of the target takes the same hit, each reduced by its own armor. Since the splash needs a Crushing Blow first, it needs Arms Lore too. The splash only does damage, with no slow, and gives no skill gains. Staves never splash.
 
 The splash only hits creatures that are fair game: monsters and the creatures they summon. It never hits players, pets, summons, hirelings, or anything innocent, such as townsfolk and animals.
 
@@ -62,7 +64,7 @@ Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes t
 Everyone nearby sees *\*looks stuck\** over the target.
 
 ## Shillelagh
-In the hands of a herder, a shepherd's crook becomes a shillelagh. The first crook hit that lands after a `9` second cooldown is a bonk, which multiplies the crook's damage roll by an amount set by [Herding](/herding). Everyone nearby sees *\*bonk\** over the target. When the cooldown ends, the attacker sees *Your crook hums.* in their journal.
+In the hands of a herder, a shepherd's crook becomes a shillelagh. The first crook hit that lands after a `9` second cooldown is a bonk, which multiplies the crook's damage roll by an amount set by Herding. Everyone nearby sees *\*bonk\** over the target. When the cooldown ends, the attacker sees *Your crook hums.* in their journal.
 
 | Herding | Bonk Damage |
 |:-|:-:|
@@ -83,7 +85,8 @@ In the hands of a herder, a shepherd's crook becomes a shillelagh. The first cro
 - The multiplier applies to the crook's damage roll, before Tactics, Strength, and Anatomy. A [magic](/magic_weapons) crook's damage bonus is added once and not multiplied, unlike with a critical strike.
 - Otherwise a bonk is a normal hit. Armor and shields reduce it, and it's halved against players like all melee between players.
 - The cooldown belongs to the player, so switching crooks doesn't reset it.
+- The bonk doesn't use Arms Lore.
 - Herding adds no damage to the crook's other hits, and the crook never lands a Crushing Blow.
 
 ## Stun
-Fighting with empty hands allows one move, Stun, which freezes the target in place for `4` seconds. It's attempted automatically when a punch hits, and needs `80` Wrestling and `80` Anatomy. See [Wrestling: Wrestling Moves](/wrestling#wrestling-moves).
+Fighting with empty hands allows one move, Stun, which freezes the target in place for `4` seconds. It's attempted automatically when a punch hits, and needs `80` Wrestling and `80` Anatomy, but no Arms Lore. See [Wrestling: Wrestling Moves](/wrestling#wrestling-moves).
