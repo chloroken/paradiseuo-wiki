@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-24T09:58:55.434Z
+date: 2026-11-24T11:28:24.645Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,7 +12,8 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 ## 2026.11.24
 - Rework the [classes](/character#classes), adding classes built around scaling skills, the shillelagh, and melee ambushes
-- Add the Armsmaster class, and move the Warrior to Fencing so it doesn't need Arms Lore
+    - Add the Armsmaster class, and move the Warrior to Fencing so it doesn't need Arms Lore
+    - Rename Archer to Ranger
 - Make [Arms Lore](/arms_lore) control most [weapon effects](/weapon_effects), from nothing at `0` to full strength at `100`:
     - Scale sword critical strikes with Arms Lore instead of Swordsmanship
     - Trigger Concussion Blow, Crushing Blow, and Paralyzing Blow with Arms Lore instead of Anatomy, on `25%` of hits at `100`
@@ -26,7 +27,7 @@ Changes to *Paradise*, newest first.
     - Lower spear damage to pay for Paralyzing Blow: short spears from `4` – `29` to `4` – `25`, and spears from `2` – `34` to `2` – `29`
     - Stop two-handed spears (pitchforks, short spears, and spears) from [ambushing](/ambush), since they're too long to strike with from hiding
     - Let daggers backstab: each stealthed step adds `0.35×` damage instead of `0.1×`, for `5×` after `10` steps
-- Blacksmithing:
+- Rename Smith to Blacksmith
     - Give two-handed maces a [Blacksmithing](/blacksmithing) splash: each Crushing Blow has a chance, up to `100%` at grandmaster, to hit every monster around the target for the same damage
     - Remove the Blacksmithing damage bonus from one-handed maces
     - Make the war axe a two-handed mace, with Crushing Blow and the splash
