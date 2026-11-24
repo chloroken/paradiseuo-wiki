@@ -2,7 +2,7 @@
 title: Features
 description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-24T05:53:50.875Z
+date: 2026-11-24T09:45:22.670Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -14,7 +14,7 @@ dateCreated: 2026-11-18T23:04:02.833Z
 The main design goals are:
 - Build diversity, with weapon users just as valuable as mages, tamers, and bards
 - Manually tuned spawns that stay true to T2A's monster placement and selection
-- Custom quests and demibosses that don't wreck balance, drawn from real Ultima lore
+- Custom quests and [demibosses](/demibosses) that don't wreck balance, drawn from real Ultima lore
 - Reworks of stale systems, such as reputation, that deepen immersion
 - A wiki that documents the shard's actual code, not just an interpretation of it
 
@@ -52,10 +52,15 @@ Characters who fight with weapons are enhanced to keep pace with mages, tamers, 
   - Disarm is removed, so every move is a stun.
 - [Poisoning](/poisoning):
   - Inflicting poison is now tied to Poisoning level, giving it a use in the field.
+- [Ambush](/ambush):
+  - Attacks with bows, crossbows, one-handed fencing weapons, and knives do bonus damage if they break Hiding.
+  - Breaking Stealth further enhances the attack.
+  - Daggers backstab for up to `5×` damage.
 - [Weapon Identities](/weapon_effects):
   - Swords critically strike for double damage, and slower swords crit more often.
   - One-handed maces weaken a monster's blows by sapping its vigor.
   - Two-handed maces and staves can slow a monster's attacks.
+  - Polearms halve a target's mana with Concussion Blow, aimed with Anatomy.
   - Herding turns the shepherd's crook into a shillelagh that bonks for up to `10` times damage.
   - Weapon effects are for players only.
   - [Arms Lore](/arms_lore) controls most weapon effects, so each fighter chooses whether to pay for them.
@@ -70,20 +75,18 @@ Characters who fight with weapons are enhanced to keep pace with mages, tamers, 
 ## Archer Rework
 Archers receive several enhancements that make ranged combat more effective.
 
-- Valor and Poison:
+- Valor, Poison, and Ambush:
   - Archers also benefit from Valor bonuses.
   - Arrows and bolts can be coated with poison.
+  - Bows and crossbows can ambush from Hiding and Stealth.
 - [Fletching](/fletching#fletching-and-archery):
   - Increases range, reduces time to shoot, and saves more arrows.
 - [Crossbow Volley](/archery#crossbow-volley):
   - Crossbows fire up to `3` bolts per shot.
-- [Ambush](/ambush):
-  - Attacks with bows, crossbows, one-handed fencing weapons, and knives do bonus damage if they break Hiding.
-  - Breaking Stealth further enhances the attack.
-  - Daggers backstab for up to `5×` damage.
 - [Tracking](/tracking#archery-accuracy):
   - Increases accuracy with ranged weapons.
   - At `100` Tracking, shots against fleeing targets never miss.
+
 ## Follower Enhancements
 Controlling [followers](/follower) is a popular fantasy, so it's been enhanced in three major ways. Followers keep pace with their owner, even when the owner is mounted (hirelings will mount their own horse), and players can attack their own followers without becoming criminals to hone their skills. See [Training on Followers](/follower#training-on-followers).
 
