@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-24T02:45:49.229Z
+date: 2026-11-24T03:39:48.474Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,7 +11,6 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 ## 2026.11.23
-- Change Liche's ring drop sources and rates
 - Rename the Sorcerer class to [Summoner](/summoner)
 - Refresh [Shame](/shame):
     - Add skeletons to represent dead miners 
@@ -56,7 +55,9 @@ Changes to *Paradise*, newest first.
     - Double the damage of knives
 - Make every [weapon effect](/weapons#weapon-effects) players only, so NPCs no longer land Concussion Blow or Paralyzing Blow
 - Remove Disarm from [wrestling](/wrestling#wrestling-moves), so every move is a stun
-
+- Let fencing weapons and knives [ambush](/ambush) from Hiding and Stealth, like bows and crossbows
+- Fix ambushed monsters never becoming alert
+- Change Liche's ring drop sources and rates, now a lottery drop from all liches
 
 ## 2026.11.22
 - Rework [hirelings](/hireling):
