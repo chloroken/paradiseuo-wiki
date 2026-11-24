@@ -2,10 +2,10 @@
 title: Fencing
 description: Daggers, krysses, and spears, with poison, ambushes, and Paralyzing Blow
 published: true
-date: 2026-11-24T08:30:00.000Z
+date: 2026-11-24T09:51:08.364Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-24T08:30:00.000Z
+dateCreated: 2026-11-24T08:17:35.845Z
 ---
 
 # Fencing
@@ -18,10 +18,10 @@ Fencing is the skill of fighting with daggers, krysses, and spears. Every fencin
 | Kryss | One | 3 – 28 | Poison |
 | War fork | One | 4 – 32 | Poison |
 | Pitchfork | Two | 4 – 16 | Paralyzing Blow, poison |
-| Short spear | Two | 4 – 29 | Paralyzing Blow, poison |
-| Spear | Two | 2 – 34 | Paralyzing Blow, poison |
+| Short spear | Two | 4 – 25 | Paralyzing Blow, poison |
+| Spear | Two | 2 – 29 | Paralyzing Blow, poison |
 
-The kryss, war fork, short spear, and spear all do about the same damage over time, a little less than swords with critical strikes. The kryss and war fork are the strongest one-handed weapons without a [weapon effect](/weapon_effects), which suits a fighter who carries a shield and skips [Arms Lore](/arms_lore). The pitchfork is weak, and so is the dagger in a long fight, but the dagger lands the hardest ambush of any melee weapon. See [Damage Per Second: Fencing](/dps#fencing).
+The kryss and war fork do the most damage over time of any fencing weapon, a little less than swords with critical strikes, and they're the strongest one-handed weapons without a [weapon effect](/weapon_effects), which suits a fighter who carries a shield and skips [Arms Lore](/arms_lore). The short spear and spear trade some damage for Paralyzing Blow. The pitchfork is weak, and so is the dagger in a long fight, but the dagger lands the hardest ambush of any melee weapon. See [Damage Per Second: Fencing](/dps#fencing).
 
 Tactics, Strength, and Anatomy raise damage the same way as for any other weapon. No scaling skill adds to fencing weapons. See [Combat: Damage](/combat#damage).
 
