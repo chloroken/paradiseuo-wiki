@@ -2,7 +2,7 @@
 title: Combat
 description: Hit chance, swing speed, damage, and Valor, the warrior's virtue
 published: true
-date: 2026-11-24T13:05:02.021Z
+date: 2026-11-24T13:09:15.567Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
@@ -11,7 +11,7 @@ dateCreated: 2026-11-19T00:05:40.279Z
 # Combat
 This page covers how [often attacks land](#hit-chance), how [fast they come](#swing-speed), and how much [damage they do](#damage).
 
-Valor is the warrior's virtue. Characters who fight without magic gain accuracy from Tactics, toughness from Parrying, and regeneration from Anatomy, and every bonus shrinks as Magery rises. See [Valor](/valor).
+Characters without magic gain accuracy, toughness, and regeneration. See [Valor](/valor).
 
 ## Gear and Skills
 - [Weapons](/weapons): every weapon type, its skill, and its scaling skill.
