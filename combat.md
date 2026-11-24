@@ -68,12 +68,11 @@ Second, these bonuses are added together, then applied to the result:
 | Strength | 1% per 5 Strength | 20 |
 | Anatomy | 1% per 5 Anatomy, plus 10% at grandmaster | 30 |
 | [Lumberjacking](/lumberjacking) | 1% per 5 Lumberjacking, plus 10% at grandmaster, axes except the pickaxe | 30 |
-| [Blacksmithing](/blacksmithing) | Up to 26.7%, plus 13.3% at grandmaster, one-handed maces only | 40 |
 | [Carpentry](/carpentry) | Up to 10%, plus 5% at grandmaster, black, gnarled, and quarter staves only | 15 |
 | [Mining](/mining) | Up to 66.7%, plus 33.3% at grandmaster, pickaxe only | 100 |
 | [Weapon quality](/crafting#exceptional-items) | +20% exceptional | |
 
-Lumberjacking, Blacksmithing, Carpentry, and Mining only add damage for players. Each grows evenly up to two thirds of its total at `99.9`, and the last third comes at grandmaster. See [Weapons: Scaling Skills](/weapons#scaling-skills).
+Lumberjacking, Carpentry, and Mining only add damage for players. Each grows evenly up to two thirds of its total at `99.9`, and the last third comes at grandmaster. See [Weapons: Scaling Skills](/weapons#scaling-skills).
 
 A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` times the weapon's base damage. With an exceptional weapon, that rises to `1.5 * 1.7 = 2.55` times, and with an exceptional axe and `100` Lumberjacking, to `1.5 * 2.0 = 3` times.
 

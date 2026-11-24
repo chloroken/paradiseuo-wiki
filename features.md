@@ -60,7 +60,8 @@ Characters who fight with weapons are enhanced to keep pace with mages, tamers, 
   - Weapon effects are for players only.
   - Weapon damage is rebalanced so more weapons are worth using.
 - [Scaling Skills](/weapons#scaling-skills):
-  - Lumberjacking, Blacksmithing, Carpentry, and Mining make their own weapons hit harder.
+  - Lumberjacking, Carpentry, and Mining make their own weapons hit harder.
+  - Blacksmithing lets two-handed maces splash Crushing Blows onto every monster around the target.
   - Carpentry makes the wooden shield as sturdy as a heater shield.
 - [Carrying Capacity](/stats#carrying-capacity):
   - Dexterity adds carrying capacity, half as much per point as Strength.

@@ -16,7 +16,7 @@ Most weapon types have a weapon effect, which can trigger when a hit lands. Weap
 | [Critical strikes](#critical-strikes) | Swords | Each sword's own chance | Anything |
 | [Sapping vigor](#sapping-vigor) | One-handed maces | Every hit | Monsters |
 | [Concussion Blow](#concussion-blow) | Two-handed axes, polearms | Anatomy / 400 | Anything |
-| [Crushing Blow](#crushing-blow) | Two-handed maces, staves except the shepherd's crook | Anatomy / 400 | Monsters |
+| [Crushing Blow](#crushing-blow) | Two-handed maces (war axe, war hammer), staves except the shepherd's crook | Anatomy / 400 | Monsters |
 | [Paralyzing Blow](#paralyzing-blow) | Pitchforks, short spears, spears | Anatomy / 400 | Anything |
 | [Shillelagh](#shillelagh) | Shepherd's crook | First hit after a 9 second cooldown | Anything |
 | [Stun](#stun) | Fists | (Wrestling + Anatomy) / 400 | Anything |
@@ -40,7 +40,7 @@ Only swords land critical strikes, not axes, polearms, or knives. The attacker s
 ## Sapping Vigor
 One-handed maces sap a monster's vigor. Each hit saps vigor equal to the damage dealt, and the monster's melee attacks hit as if its Strength were that much lower, down to half its normal Strength. Its health isn't affected. The sap wears off `30` seconds after the last one-handed mace hit from anyone.
 
-The attacker sees *\*saps vigor\** over their head when a sap starts, and everyone nearby sees *\*looks drained of vigor\** when the monster is fully drained. Vigor can only be sapped from monsters. The war axe trains [Mace Fighting](/mace_fighting), but has no effect on hit.
+The attacker sees *\*saps vigor\** over their head when a sap starts, and everyone nearby sees *\*looks drained of vigor\** when the monster is fully drained. Vigor can only be sapped from monsters.
 
 ## Concussion Blow
 Two-handed axes and polearms can land a Concussion Blow, which halves the target's Intelligence and lowers its maximum mana for `30` seconds. It doesn't stack.
@@ -51,6 +51,10 @@ Everyone nearby sees *\*looks concussed\** over the target.
 Two-handed maces and staves can land a Crushing Blow, which makes the target attack at half speed for `10` seconds. Another Crushing Blow restarts the time instead of stacking. The shepherd's crook is the exception and never lands one.
 
 Crushing Blow only works against monsters. Everyone nearby sees *\*looks dazed\** over the target.
+
+With a two-handed mace, each Crushing Blow has a `Blacksmithing / 100` chance to splash, every time at grandmaster [Blacksmithing](/blacksmithing). Every creature within `1` tile of the target takes the same hit, each reduced by its own armor. The splash only does damage, with no slow, and gives no skill gains. Staves never splash.
+
+The splash only hits creatures that are fair game: monsters and the creatures they summon. It never hits players, pets, summons, hirelings, or anything innocent, such as townsfolk and animals.
 
 ## Paralyzing Blow
 Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes the target in place for `2` seconds.

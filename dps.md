@@ -9,7 +9,7 @@ dateCreated: 2026-11-21T17:43:32.186Z
 ---
 
 # Damage Per Second
-Every weapon's base damage, speed, and damage per second (DPS) for a fighter with `100` Tactics, Strength, Anatomy, and Stamina, using a regular-quality, non-magic weapon. DPS assumes every swing hits and ignores armor. Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for swords, a [shillelagh](/weapon_effects#shillelagh) bonk every fourth swing at `100` [Herding](/herding) for the shepherd's crook, and all `3` bolts of a crossbow volley landing. For axes, one-handed maces, the black, gnarled, and quarter staves, and the pickaxe, it adds `100` in their [scaling skill](/weapons#scaling-skills): [Lumberjacking](/lumberjacking), [Blacksmithing](/blacksmithing), [Carpentry](/carpentry), and [Mining](/mining) respectively.
+Every weapon's base damage, speed, and damage per second (DPS) for a fighter with `100` Tactics, Strength, Anatomy, and Stamina, using a regular-quality, non-magic weapon. DPS assumes every swing hits and ignores armor. Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for swords, a [shillelagh](/weapon_effects#shillelagh) bonk every fourth swing at `100` [Herding](/herding) for the shepherd's crook, and all `3` bolts of a crossbow volley landing. For axes, the black, gnarled, and quarter staves, and the pickaxe, it adds `100` in their [scaling skill](/weapons#scaling-skills): [Lumberjacking](/lumberjacking), [Carpentry](/carpentry), and [Mining](/mining) respectively.
 
 ## Swords
 | Weapon | Damage | Speed | Critical Strike<br>Chance (%) | Swing Delay (s) | DPS | EDPS |
@@ -52,13 +52,13 @@ Every weapon's base damage, speed, and damage per second (DPS) for a fighter wit
 ## Maces
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|
-| Club | 8 – 24 | 40 | 1.88 | 19.2 | 24.3 |
-| Hammer pick | 6 – 33 | 30 | 2.5 | 17.6 | 22.2 |
-| Mace | 8 – 32 | 30 | 2.5 | 18.0 | 22.8 |
-| Maul | 11 – 33 | 27 | 2.78 | 17.8 | 22.6 |
+| Club | 8 – 24 | 40 | 1.88 | 19.2 |  |
+| Hammer pick | 6 – 33 | 30 | 2.5 | 17.6 |  |
+| Mace | 8 – 32 | 30 | 2.5 | 18.0 |  |
+| Maul | 11 – 33 | 27 | 2.78 | 17.8 |  |
 | War axe | 9 – 27 | 40 | 1.88 | 21.6 |  |
 | War hammer | 8 – 36 | 31 | 2.42 | 20.5 |  |
-| War mace | 10 – 30 | 32 | 2.34 | 19.2 | 24.3 |
+| War mace | 10 – 30 | 32 | 2.34 | 19.2 |  |
 
 ## Staves
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |

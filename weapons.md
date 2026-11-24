@@ -20,10 +20,9 @@ Damage per second is the standard way to compare weapons against monsters. See [
 | Krysses | [Fencing](/fencing) | Kryss | [Poison](#poison) | |
 | Axes (1H) | Swordsmanship | Pickaxe | None | [Mining](/mining) |
 | Axes (2H) | Swordsmanship | Axe, battle axe, double axe, executioner's axe,<br>hatchet, large battle axe, two-handed axe | [Concussion Blow](/weapon_effects#concussion-blow) | [Lumberjacking](/lumberjacking) |
-| War Axe | [Mace Fighting](/mace_fighting) | War axe | None | |
 | Polearms | Swordsmanship | Bardiche, halberd | Concussion Blow | |
-| Maces (1H) | Mace Fighting | Club, hammer pick, mace, maul, war mace | [Sapping vigor](/weapon_effects#sapping-vigor) | [Blacksmithing](/blacksmithing) |
-| Maces (2H) | Mace Fighting | War hammer | [Crushing Blow](/weapon_effects#crushing-blow) | |
+| Maces (1H) | [Mace Fighting](/mace_fighting) | Club, hammer pick, mace, maul, war mace | [Sapping vigor](/weapon_effects#sapping-vigor) | |
+| Maces (2H) | Mace Fighting | War axe, war hammer | [Crushing Blow](/weapon_effects#crushing-blow) | [Blacksmithing](/blacksmithing) |
 | Staves | Mace Fighting | Black staff, gnarled staff, quarter staff | Crushing Blow | [Carpentry](/carpentry) |
 | Shepherd's Crook | Mace Fighting | Shepherd's crook | [Shillelagh](/weapon_effects#shillelagh) | [Herding](/herding) |
 | Daggers | Fencing | Dagger | Poison | |
@@ -41,13 +40,12 @@ Some gathering and crafting skills make their own weapons hit harder. Each bonus
 | Scaling Skill | Weapons | Bonus at 50 (%) | Bonus at 100 (%) |
 |:-|:-:|:-:|:-:|
 | Lumberjacking | Axes, except the pickaxe | 10 | 30 |
-| Blacksmithing | One-handed maces | 13.3 | 40 |
 | Carpentry | Black, gnarled, and quarter staves | 5 | 15 |
 | Mining | Pickaxe | 33.3 | 100 |
 
 - Only players get these bonuses.
 - Herding scales the shepherd's crook's shillelagh instead of its damage.
-- The war axe gets no bonus from any skill.
+- Blacksmithing adds no damage. Instead, it lets a two-handed mace's Crushing Blow splash onto every creature around the target. See [Weapon Effects: Crushing Blow](/weapon_effects#crushing-blow).
 - Hits with axes, except the pickaxe, can train Lumberjacking. Hits never train Blacksmithing, Carpentry, Herding, or Mining.
 - Carpentry also strengthens the wooden shield. See [Parrying: Shields](/parrying#shields).
 
