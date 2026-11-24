@@ -2,7 +2,7 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-24T10:24:45.058Z
+date: 2026-11-24T10:29:47.635Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -20,15 +20,14 @@ A character's build is determined by its stats, skills, and reputation. A build 
 Ultima Online doesn't have discrete classes. To play something like a Warrior, one would spend stat points on Strength and Dexterity, and skill points on weapon, defensive, and healing skills. The following classes are just ideas, many of them rooted in classic T2A gameplay.
 
 ### Fighters
-Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate incoming damage, leveraging [Valor](/valor) benefits to get ahead.
+Fighters decry [Magery](/magery) and instead opt to specialize in [weapons](/weapons) and [armor](/armor), leveraging [Valor](/valor) benefits to get ahead.
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Archer | 100<br>100<br>25 | Archery<br>Tactics<br>Anatomy<br>Tracking<br>Fletching<br>Healing<br>Resisting Spells | Bows<br>Crossbows | A long-range, nimble bow user excellent at finishing off fleeing targets, and can make its own ammunition in the field, assuming birds are present for feathers. |
 | Armsmaster | 100<br>100<br>25 | Swordsmanship<br>Mace Fighting<br>Arms Lore<br>Tactics<br>Anatomy<br>Healing<br>Resisting Spells | Swords<br>Polearms<br>Maces<br>War hammers | Carries different weapons and switches between them to land multiple weapon effects on a target. Always brings the right tool for the job. |
-| Carpenter | 100<br>100<br>25 | Carpentry<br>Mace Fighting<br>Tactics<br>Arms Lore<br>Parrying<br>Healing<br>Resisting Spells | Quarter staves<br>Clubs<br>Wooden shields | A fighter skilled with wooden equipment. Does more damage with staves and blocks like a heater shield with a wooden shield. Without Anatomy, the Carpenter misses out on Valor's regeneration bonus, and its bandages heal less and can't cure poison. |
+| Carpenter | 100<br>100<br>25 | Carpentry<br>Mace Fighting<br>Tactics<br>Arms Lore<br>Parrying<br>Healing<br>Resisting Spells | Quarter staves<br>Clubs<br>Wooden shields | A fighter skilled with wooden equipment. Does more damage with staves and blocks with wooden shields as if they were heater shields. Without Anatomy, the Carpenter misses out on Valor's regeneration bonus, and its bandages heal less and can't cure poison. |
 | Hunter | 100<br>100<br>25 | Fencing<br>Archery<br>Tactics<br>Arms Lore<br>Poisoning<br>Hiding<br>Stealth | Heavy crossbows<br>Two-handed spears | Ambushes from stealth with a heavy crossbow for huge damage at range, then pins targets in place with a poisoned spear. No Healing or Resisting Spells and getting only the offensive Valor benefit make the Hunter fragile and reliant on potions to heal. However a frozen target can't start a spell, so the spear interrupts casters as well as holding melee users at arm's length, while the poison keeps them busy curing.|
-| Paladin | 100<br>40<br>85 | Mace Fighting<br>Arms Lore<br>Healing<br>Parrying<br>Tactics<br>Resisting Spells<br>Magery 40<br>Anatomy 60 | One-handed maces<br>Shields | A tank that uses maces to weaken monsters' hits, with Magery for Heal, Cure, and buffs while keeping part of Valor's benefits. Its Anatomy lets its bandages cure poison. Casting a spell moves its mace and shield to the backpack, so it re-equips them after each cast. |
 | Prospector | 100<br>100<br>25 | Mining<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Pickaxes<br>Shields | A miner who can clap back with a pickaxe. |
 | Rogue | 100<br>100<br>25 | Fencing<br>Tactics<br>Anatomy<br>Hiding<br>Stealth<br>Poisoning<br>Lockpicking | Daggers<br>Krysses<br>War forks | Backstabs from stealth with a poisoned dagger for a huge opening hit, finishes the fight quickly with a kryss or war fork, then picks the dungeon chests its victims were guarding. No Healing, Resisting Spells, nor Parrying to benefit from Valor make the Rogue defensively challenged, relying on potions to heal. However if the target is already dead, it can't cause harm. |
 | Shepherd | 100<br>100<br>25 | Herding<br>Mace Fighting<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Shepherd's crooks | A shepherd that uses the shillelagh to fight with hit-and-run tactics. Every 9 seconds, the crook's next hit bonks for up to 10× damage. The crook takes both hands, so Parrying only gives Valor's toughness. |
@@ -37,12 +36,13 @@ Fighters use [weapons](/weapons) to kill enemies and [armor](/armor) to mitigate
 | Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | The highest damage of all classes, and it can chop wood. Its axes have no weapon effect, so it needs no Arms Lore, but it lacks utility. Its axes take both hands, so Parrying only gives Valor's toughness. |
 
 ### Mages
-Mages get access to [spells](/spells) and all that entails, but give up most or all of Valor's benefits.
+Mages get access to [spells](/spells) and all that entails, sacrificing some or all of Valor's benefits.
 
 | Class | Strength<br>Dexterity<br>Intelligence | Skills | Weapons | Description |
 |:-|:-:|:-:|:-:|:-:|
 | Battlemage | 100<br>25<br>100 | Swordsmanship<br>Tactics<br>Anatomy<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Polearms | A classic T2A halberd mage. It opens with a heavy polearm hit, often landing a Concussion Blow through Anatomy to halve a caster's mana, then follows with spells. Casting moves the polearm to the backpack, so it re-equips between swings, and with 25 Dexterity it swings slowly, trading steady damage for burst. |
 | Monk | 100<br>25<br>100 | Magery<br>Evaluating Intelligence<br>Meditation<br>Wrestling<br>Anatomy<br>Tactics<br>Resisting Spells | Fists | Fights with fists and magic, wearing leather armor so its mana regeneration isn't slowed. Its punches try to stun the target in place every 10 seconds, succeeding half the time at grandmaster, and a stunned caster can't start a spell, so it interrupts enemy mages as well as controlling the fight. It defends at 110 with Anatomy and Evaluating Intelligence, so Wrestling only powers its stuns. |
+| Paladin | 100<br>40<br>85 | Mace Fighting<br>Arms Lore<br>Healing<br>Parrying<br>Tactics<br>Resisting Spells<br>Magery 40<br>Anatomy 60 | One-handed maces<br>Shields | A hybrid fighter-mage-tank that uses maces to weaken monsters' hits, with Magery for Heal, Cure, and buffs while keeping most of Valor's benefits. Its Anatomy lets its bandages cure poison. Casting a spell moves its mace and shield to the backpack, so it re-equips them after each cast. |
 | Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbooks | Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. Uses [Anatomy](/anatomy) with [Evaluating Intelligence](/evaluating_intelligence) instead of [Wrestling](/wrestling) to defend. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense). |
 
 ### Tamers
