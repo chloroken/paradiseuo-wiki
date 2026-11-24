@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-24T14:05:44.840Z
+date: 2026-11-24T19:35:12.474Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -23,13 +23,14 @@ Bard discordance should work on bosses to give them a solid use in bossing
   - Stealth
   - Lockpicking
   - Remove Trap
+- NPCs can call guards which send you to jail, increasingly as chain caught
 
 ## Skills
 Skills should have adventure potential, or some aspect that makes them not feel "useless" to take on a main character suitable for dungeon diving.
 
 These skills have an obvious way to add adventure potential:
 - Alchemy (more healing from potions)
-- Cooking (food buff)
+- Cooking (food buff, or eating heals you?)
 - Tailoring (cloth gives small absorb based on inscription)
 - Tinkering (spider drone toy?)
 
@@ -97,8 +98,9 @@ These skills already had adventure potential:
 - Add pages with incoming links that are missing
 
 ## Projects
+- Rework stealing/snooping into something more. Stealing from npcs/monsters should be a whole thing.
 - Karma Town Trinkets to complete reputation rework
-- Crafting expanded, allow for solo economy with NPCs (npcs in towns sometimes offer jobs to crafters. weighted based on town, e.g., yew more likely to offer fletchers a job.)
+- Crafting overhaul & expansion, allow for solo economy with NPCs (npcs in towns sometimes offer jobs to crafters. weighted based on town, e.g., yew more likely to offer fletchers a job.), give guilds a purpose
 - Give gems some type of meaningful purpose outside of economy, maybe as a secondary currency?
 - More quests from npcs in towns, including hauling quests, boating quests, etc.
 - Fork TazUO and customize defaults for new players, strip egregious branding
