@@ -2,7 +2,7 @@
 title: Monsters
 description: What roams the world, how monsters behave, and the demibosses
 published: true
-date: 2026-11-23T11:15:38.650Z
+date: 2026-11-24T09:42:38.548Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:09:38.337Z
@@ -26,12 +26,7 @@ Monsters behave differently from later versions of Ultima Online:
 Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. Their melee hits and spells do `25%` more damage to [pets](/pet) and [summons](/summon), and pets and summons do `25%` less damage to them. Characters with Parrying and little Magery take less physical damage through [Valor](/valor). See [Combat](/combat).
 
 ## Demibosses
-Demibosses are powerful monsters unique to *Paradise*, built for groups of players. Each one has its own lair, returns hours after it dies, and drops far more loot than an ordinary monster. A demiboss's melee hits and spells do double damage to pets and summons.
-
-| Demiboss | Location |
-|:-|:-:|
-| [Lich King](/lich_king) | Covetous, floor 3 |
-| [Greater Elemental](/greater_elemental) | Shame, floor 4 |
+Demibosses are powerful monsters unique to *Paradise*, built for groups of players, each with its own lair and artifact. See [Demibosses](/demibosses).
 
 ## Dealing with Monsters
 - Monsters can be slain with weapons.
