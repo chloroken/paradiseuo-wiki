@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-24T03:39:48.474Z
+date: 2026-11-24T03:41:14.712Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -13,7 +13,7 @@ Changes to *Paradise*, newest first.
 ## 2026.11.23
 - Rename the Sorcerer class to [Summoner](/summoner)
 - Refresh [Shame](/shame):
-    - Add skeletons to represent dead miners 
+    - Add skeletons to represent dead miners
     - Add bone magi to represent dead mages
     - Increase monster count on floors 3 and 4
     - Fill dungeon out with spawners in empty areas
@@ -53,7 +53,7 @@ Changes to *Paradise*, newest first.
     - Make the maul slower and harder hitting
     - Raise the pickaxe's damage
     - Double the damage of knives
-- Make every [weapon effect](/weapons#weapon-effects) players only, so NPCs no longer land Concussion Blow or Paralyzing Blow
+- Make every [weapon effect](/weapon-effects) players only, so NPCs no longer land Concussion Blow or Paralyzing Blow
 - Remove Disarm from [wrestling](/wrestling#wrestling-moves), so every move is a stun
 - Let fencing weapons and knives [ambush](/ambush) from Hiding and Stealth, like bows and crossbows
 - Fix ambushed monsters never becoming alert
