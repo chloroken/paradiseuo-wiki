@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-24T03:41:14.712Z
+date: 2026-11-24T03:46:28.177Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -43,7 +43,7 @@ Changes to *Paradise*, newest first.
     - Each bonus builds to two thirds by `99.9`, with the last third at grandmaster, like Lumberjacking
     - Make the Lumberjacking bonus players only
     - Make the wooden shield gain up to `15` armor from its wearer's Carpentry, matching a heater shield at `100`
-- Add the [shillelagh](/weapons#shillelagh), which turns the shepherd's crook into a weapon for herders:
+- Add the [shillelagh](/weapon_effects#shillelagh), which turns the shepherd's crook into a weapon for herders:
     - The first crook hit after a `9` second cooldown bonks for `1` to `10` times the crook's damage roll, rising with [Herding](/herding)
     - At `100` Herding, bonks never miss
     - Remove Crushing Blow from the shepherd's crook
@@ -53,7 +53,7 @@ Changes to *Paradise*, newest first.
     - Make the maul slower and harder hitting
     - Raise the pickaxe's damage
     - Double the damage of knives
-- Make every [weapon effect](/weapon-effects) players only, so NPCs no longer land Concussion Blow or Paralyzing Blow
+- Make every [weapon effect](/weapon_effects) players only, so NPCs no longer land Concussion Blow or Paralyzing Blow
 - Remove Disarm from [wrestling](/wrestling#wrestling-moves), so every move is a stun
 - Let fencing weapons and knives [ambush](/ambush) from Hiding and Stealth, like bows and crossbows
 - Fix ambushed monsters never becoming alert
