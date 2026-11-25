@@ -2,7 +2,7 @@
 title: Lich King
 description: The demiboss of Covetous, how he fights, and what he drops
 published: true
-date: 2026-11-24T00:55:49.995Z
+date: 2026-11-25T01:22:57.671Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T14:54:28.083Z
@@ -21,7 +21,7 @@ The throne room is populated by the Lich King's personal army of skeletons. Thes
 - Unlike other monsters, he walks around obstacles to reach his target, so pillars and corners won't hold him off.
 - His [Resisting Spells](/resisting_spells) is `150` to `200`, so he resists spells far more often than other monsters.
 - He is undead, so [silver](/magic_weapons#silver) weapons do double damage to him, and [poison](/poison) has no effect on him.
-- As a demiboss, his melee hits and most of his spells do `100%` extra damage to [pets and summons](/follower#followers-in-combat), instead of the usual `25%`. Pain Spike and Strangle do normal damage.
+- As a demiboss, his melee hits and most of his spells do double damage to [followers](/follower#followers-in-combat). Pain Spike and Strangle do normal damage.
 
 **The Lich King takes items from corpses near him, including fallen players.** He takes one item at a time from a corpse within `2` tiles, showing *\*rummages through a corpse and takes an item\**. Players that die during an attempt may find some of their loot missing, effectively donating it to the next person who kills the Lich King. Rummaged items drop with his own loot when he dies.
 
