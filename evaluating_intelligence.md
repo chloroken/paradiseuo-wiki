@@ -2,7 +2,7 @@
 title: Evaluating Intelligence
 description: More spell damage, judging a target's mind, unarmed defense, and Protection
 published: true
-date: 2026-11-25T01:58:26.522Z
+date: 2026-11-25T01:58:46.394Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T08:17:34.020Z
