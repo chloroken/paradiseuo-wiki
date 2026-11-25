@@ -2,7 +2,7 @@
 title: Scripting
 description: An overview of how to use TazUO's Legion scripting 
 published: true
-date: 2026-11-25T08:00:09.704Z
+date: 2026-11-25T08:10:40.365Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-25T08:00:09.704Z
@@ -66,7 +66,7 @@ import API
 THRESHOLD = 0.80   # heal when below 80% HP
 DELAY = 8          # seconds to wait after a bandage; tune to your Dex/shard
 
-while not API.StopRequested:
+while not API.StopRequested: # called to start listening for events
     p = API.Player
     if p.Hits < p.HitsMax * THRESHOLD:
         if API.BandageSelf():
@@ -101,8 +101,8 @@ GOLD = 0x0EED
 looted = set()
 
 while not API.StopRequested:
-    corpse = API.NearestCorpse(2)
-    if corpse and corpse.Serial not in looted:
+    corpse = API.NearestCorpse(2) # closest corpse within 2 tiles
+    if corpse and corpse.Serial not in looted: # serial is the unique identifier
         API.UseObject(corpse.Serial)   # open it
         API.Pause(1)
         for item in API.FindTypeAll(GOLD, corpse.Serial):
@@ -118,14 +118,14 @@ while not API.StopRequested:
 import API
 
 HOSTILE = [API.Notoriety.Gray, API.Notoriety.Criminal,
-           API.Notoriety.Enemy, API.Notoriety.Murderer]
+           API.Notoriety.Enemy, API.Notoriety.Murderer] # eligible targets array
 
 while not API.StopRequested:
     target = API.NearestMobile(HOSTILE, 10)
     if target and not API.IsFriend(target.Serial):
         API.SetWarMode(True)
         API.Attack(target.Serial)
-        API.HeadMsg("Target!", target.Serial, 33)
+        API.HeadMsg("Target!", target.Serial, 33) # stsring, follow, hue
         API.Pause(2)
     API.Pause(0.5)
 ```
@@ -144,7 +144,7 @@ API.OnHotKey("F2", heal_self)
 API.SysMsg("Press F2 to heal")
 
 while not API.StopRequested:
-    API.ProcessCallbacks()   # required, or the hotkey never fires
+    API.ProcessCallbacks()   # required to read hotkeys
     API.Pause(0.1)
 ```
 
