@@ -2,7 +2,7 @@
 title: Herding
 description: Guiding animals with a shepherd's crook, and the shillelagh's bonk
 published: true
-date: 2026-11-25T02:35:18.828Z
+date: 2026-11-25T02:35:34.281Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T08:17:37.686Z
@@ -45,7 +45,7 @@ Switch to bulls until grandmaster.
 | 90-100 | Giant Frog | Moonglow Zoo
 
 ## Macro Training
-
+Double click the creature you want to train on, then loop:
 - `Use Item In Hand`
 - `Wait For Target`
 - `Last Target`
