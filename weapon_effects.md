@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
 published: true
-date: 2026-11-25T11:55:28.000Z
+date: 2026-11-25T12:00:33.839Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:58.666Z
@@ -65,7 +65,7 @@ Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes t
 Everyone nearby sees *\*looks stuck\** over the target.
 
 ## Shillelagh
-In the hands of a herder, a shepherd's crook becomes a shillelagh. This magical stick gets an extended attack range by `1` tile every `25` levels of Herding, up to `5`.
+In the hands of a herder, a shepherd's crook becomes a shillelagh. This magical stick gets an extended attack range by `1` tile every `33.3` levels of Herding which rounds up to `4` tiles at grandmaster for a capstone bonused max range of `5`.
 
 The first crook hit that lands after a `7` second cooldown is a "bonk" and consumes `50%` of the attacker's current mana and never misses. The crook's damage is multiplied by `consumed mana / (10 - floor(herding / 20))` maxing out at `10×` while max Herding and with the maximum mana consumption. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
 
