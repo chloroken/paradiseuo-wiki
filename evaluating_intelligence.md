@@ -2,7 +2,7 @@
 title: Evaluating Intelligence
 description: More spell damage, judging a target's mind, unarmed defense, and Protection
 published: true
-date: 2026-11-25T01:58:46.394Z
+date: 2026-11-25T01:59:16.245Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T08:17:34.020Z
@@ -61,4 +61,4 @@ Double click a player to designate them as `Last Target` before running the macr
 - `Last Target`
 - `Delay 1000ms`
 
-It takes 30-60 minutes to grandmaster.
+It takes 30-60 minutes to grandmaster from scratch.
