@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-25T04:45:12.834Z
+date: 2026-11-25T05:12:58.882Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
