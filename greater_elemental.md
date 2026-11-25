@@ -2,7 +2,7 @@
 title: Greater Elemental
 description: The demiboss of Shame
 published: true
-date: 2026-11-23T12:53:17.463Z
+date: 2026-11-25T01:23:13.291Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T11:15:12.185Z
@@ -22,7 +22,7 @@ It hits softly, but it has an enormous health pool and fights beside an endless 
 - Unlike other monsters, it walks around obstacles to reach its target.
 - Its [Resisting Spells](/resisting_spells) is `100` to `110`.
 - It never flees, however low its health.
-- As a demiboss, its melee hits and most of its spells do `100%` extra damage to [pets and summons](/follower#followers-in-combat), instead of the usual `25%`.
+- As a demiboss, its melee hits and most of its spells do double damage to [followers](/follower#followers-in-combat).
 
 ## Abilities
 The Greater Elemental fights with standard Magery spells and a weak melee attack. Every `8` to `10` seconds in combat, it teleports up to `6` tiles away and summons an elemental beside it.
