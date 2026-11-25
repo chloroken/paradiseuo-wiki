@@ -2,10 +2,10 @@
 title: Evaluating Intelligence
 description: More spell damage, judging a target's mind, unarmed defense, and Protection
 published: true
-date: 2026-11-24T08:30:00.000Z
+date: 2026-11-25T01:45:27.100Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-24T08:30:00.000Z
+dateCreated: 2026-11-24T08:17:34.020Z
 ---
 
 # Evaluating Intelligence
@@ -52,5 +52,13 @@ A character with empty hands defends with `(Anatomy + Evaluating Intelligence + 
 Evaluating Intelligence raises the Protection spell's chance to keep a spell from being disrupted, along with [Meditation](/meditation) and [Inscription](/inscription). The chance is `(Evaluating Intelligence + Meditation + Inscription) / 4` percent, up to `75%`.
 
 ## Manual Training
+Use the Evaluating Intelligence skill on others. Targeting player characters gives the best gains. Can use the same target repetitively with no penalty.
 
 ## Macro Training
+Make a looping macro set to 1 second. Double click a target to set last target before looping.
+- `Use Skill: Evaluating Intelligence`
+- `wait for target`
+- `last target`
+
+
+It should take less than an hour to grandmaster.
