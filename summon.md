@@ -2,7 +2,7 @@
 title: Summon
 description: Magery's summon spells, how long summons last, and how they fight
 published: true
-date: 2026-11-25T01:17:44.772Z
+date: 2026-11-25T01:20:42.009Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T01:45:13.712Z
@@ -56,7 +56,7 @@ Each takes `4` follower slots, so a caster can have only one at a time, and neve
 Every other summon follows its caster and takes the same commands as any follower. Summons always obey. See [Follower: Commands](/follower#commands).
 
 ## Summons in Combat
-Pets and summons take double damage from demibosses, but hirelings don't. See [Follower: Followers in Combat](/follower#followers-in-combat).
+Like every follower, summons take double damage from demibosses. See [Follower: Followers in Combat](/follower#followers-in-combat).
 
 ## Dispelling Summons
 Dispel and Mass Dispel can remove a summon. Spirit Speak makes this less likely, unless the summoner is the one casting the spell. See [Spirit Speak](/spirit_speak).
