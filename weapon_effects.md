@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
 published: true
-date: 2026-11-25T13:53:59.951Z
+date: 2026-11-25T14:18:47.645Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:58.666Z
@@ -11,7 +11,7 @@ dateCreated: 2026-11-24T03:38:58.666Z
 # Weapon Effects
 Most weapon types have a weapon effect, which can trigger when a hit lands. Weapon effects are for players only. Monsters, hirelings, and other NPCs never trigger them, even with the same weapons. Some effects also only work against monsters.
 
-Unless noted, each weapon effect is controlled by [Arms Lore](/arms_lore), from nothing at `0` to full strength at `100`. A character without Arms Lore can use any weapon, but never lands its effect. Which weapons have which effect is listed on [Weapons](/weapons#weapon-types).
+Weapon effects are largely scaled by [Arms Lore](/arms_lore) in the form of trigger chance, but exceptions exist that are scaled by other skills. A character without Arms Lore can use any weapon, but never lands its effect. Which weapons have which effect is listed on [Weapons](/weapons#weapon-types).
 
 | Name | Effect |Weapons | Trigger | Works Against |
 |:-|:-:|:-:|:-:|:-:|
