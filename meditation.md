@@ -2,10 +2,10 @@
 title: Meditation
 description: Faster mana regeneration, the meditative trance, and how armor slows it
 published: true
-date: 2026-11-24T08:30:00.000Z
+date: 2026-11-25T13:37:46.725Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-24T08:30:00.000Z
+dateCreated: 2026-11-24T08:17:41.202Z
 ---
 
 # Meditation
@@ -34,7 +34,7 @@ Maximum mana equals Intelligence. See [Stats](/stats).
 
 ## Meditating
 Using the skill tries to enter a meditative trance. It can't be used:
-- With anything in hand except a spellbook, a runebook, or a light: *Your hands must be free to cast spells or meditate.*
+- With anything in hand except a spellbook, a runebook, a shepherd's crook, or a light: *Your hands must be free to cast spells or meditate.*
 - At full mana: *You are at peace.*
 - Below `10%` of maximum hit points: *The mind is strong but the body is weak.*
 
