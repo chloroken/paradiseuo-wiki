@@ -2,7 +2,7 @@
 title: Herding
 description: Guiding animals with a shepherd's crook, and the shillelagh's bonk
 published: true
-date: 2026-11-25T02:35:34.281Z
+date: 2026-11-25T02:36:24.629Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T08:17:37.686Z
@@ -28,17 +28,10 @@ A bonk that can't miss also skips that swing's chance to raise Mace Fighting.
 The Shepherd class is built around the shillelagh. See [Character: Classes](/character#classes).
 
 ## Manual Training
-Pay an animal keeper at a [stable](/stable) to hit level 30.
-
-Go to Moonglow zoo and herd the polar bear until level 50.
-
-Switch to the snow leopard until level 70.
-
-Switch to bulls until grandmaster.
 
 | Level | Creature | Location |
 |:-|:-:|:-:|:-:|
-| 1-30 | Animal Keeper | [Stable](/stable) |
+| 1-30 | Sheep | Moonglow Zoo |
 | 30-50 | Polar bear | Moonglow Zoo |
 | 50-70 | Snow leopard | Moonglow Zoo |
 | 70-90 | Bull | Moonglow Zoo |
@@ -52,3 +45,5 @@ Double click the creature you want to train on, then loop:
 - `Wait For Target`
 - `Last Target`
 - `Delay 1000 ms`
+
+It takes 30-60 minutes to grandmaster from scratch.
