@@ -2,7 +2,7 @@
 title: Meditation
 description: Faster mana regeneration, the meditative trance, and how armor slows it
 published: true
-date: 2026-11-25T13:37:46.725Z
+date: 2026-11-25T13:41:30.441Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T08:17:41.202Z
