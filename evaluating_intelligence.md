@@ -2,7 +2,7 @@
 title: Evaluating Intelligence
 description: More spell damage, judging a target's mind, unarmed defense, and Protection
 published: true
-date: 2026-11-25T01:45:27.100Z
+date: 2026-11-25T01:46:10.552Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T08:17:34.020Z
@@ -55,10 +55,10 @@ Evaluating Intelligence raises the Protection spell's chance to keep a spell fro
 Use the Evaluating Intelligence skill on others. Targeting player characters gives the best gains. Can use the same target repetitively with no penalty.
 
 ## Macro Training
-Make a looping macro set to 1 second. Double click a target to set last target before looping.
+Make a looping macro. Double click a target to set last target before using.
 - `Use Skill: Evaluating Intelligence`
-- `wait for target`
-- `last target`
-
+- `Wait For Target`
+- `Last Target`
+- `Delay 1000ms`
 
 It should take less than an hour to grandmaster.
