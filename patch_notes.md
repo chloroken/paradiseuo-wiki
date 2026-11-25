@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-25T05:12:58.882Z
+date: 2026-11-25T12:52:26.901Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -13,8 +13,12 @@ Changes to *Paradise*, newest first.
 ## 2026.11.25
 - Remove the pet and summon damage penalties against monsters, so all followers deal and take normal damage
 - Make demibosses do double damage to hirelings, like pets and summons
-- Allow shillelagh to train Mace Fighting on guaranteed hits
-- Play sound/visual effects for shillelagh bonks
+- Shillelagh:
+  - Add range to hit scaled with Herding
+  - Make attack consume mana and scale damage based on mana consumed
+  - Allow shillelagh to train Mace Fighting on guaranteed hits
+  - Play sound/visual effects for shillelagh bonks
+  - Allow meditation with a shepherd's crook
 
 ## 2026.11.24
 - Rework the [classes](/character#classes), adding classes built around scaling skills, the shillelagh, and melee ambushes
