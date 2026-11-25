@@ -2,13 +2,13 @@
 title: Scripting
 description: An overview of how to use TazUO's Legion scripting 
 published: true
-date: 2026-11-25T08:42:26.636Z
+date: 2026-11-25T08:48:21.348Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-25T08:00:09.704Z
 ---
 
-# Getting Started with TazUO Legion Macros
+# Getting Started with TazUO Legion Scripting
 Making a [Legion Script](/https://tazuo.org/wiki/legion-scripting/) macro with TazUO is easier than it looks. See: [TazUO Legion API docs](https://tazuo.org/legion/legionapi/).
 
 ## Macro Structure
@@ -33,7 +33,7 @@ while not API.StopRequested: # the loop, it goes until a "stop" is "requested"
     API.Pause(DELAY) # delay
 ```
 
-A fourth structure of macros is hotkeys and callback functions. A function can be defined in a macro and called by that macro as many times as it wants, executing its instructions repeatedly. To bind a callback function to a key, the loop can be used to listen for that key. Callback functions should be inserted after defining variables, but the hotkey bindings and the loop. Putting this into practice, here is a macro that continually begs the closest innocent NPC within 5 tiles.
+A fourth structure of macros is hotkeys and callback functions. A function can be defined in a macro and called by that macro as many times as it wants, executing its instructions repeatedly. To bind a callback function to a key, the loop can be used to listen for that key. Callback functions should be inserted after defining variables, but before the hotkey bindings and the loop. Putting this into practice, here is a macro that continually begs the closest innocent NPC within 5 tiles.
 
 ```python
 import API
@@ -51,7 +51,7 @@ API.OnHotKey("F1", beg_npc) # here is the hotkey and callback function it calls
 
 while not API.StopRequested:
     API.ProcessCallbacks() # this reads hotkey input
-    API.Pause(0.1) # always use a small delay to prevent call spam
+    API.Pause(0.1) # always use a delay in loops to prevent call spam
 ```
 
 ## Example Macros
@@ -74,7 +74,7 @@ while not API.StopRequested:
         else:
             API.SysMsg("Out of bandages!", 33)
             API.Pause(5)
-    API.Pause(0.5) # always use a delay to prevent call spam
+    API.Pause(0.5) # always use a delay in loops to prevent call spam
 ```
 
 ### 2. Skill trainer
@@ -87,7 +87,7 @@ DELAY = 10.5       # skill cooldown in seconds
 
 while not API.StopRequested:
     API.UseSkill(SKILL)
-    API.Pause(DELAY)
+    API.Pause(DELAY) # always use a delay in loops to prevent call spam
     API.SysMsg(f"{SKILL}: {API.GetSkill(SKILL).Value}") # a formatted string
 ```
 
@@ -108,7 +108,7 @@ while not API.StopRequested:
             API.MoveItem(item.Serial, API.Backpack) # drag drop items
             API.Pause(0.8)
         looted.add(corpse.Serial)
-    API.Pause(0.5) # always use a delay to prevent call spam
+    API.Pause(0.5) # always use a delay in loops to prevent call spam
 ```
 
 ### 4. Attack the nearest hostile
@@ -126,7 +126,7 @@ while not API.StopRequested:
         API.Attack(target.Serial)
         API.HeadMsg("Target!", target.Serial, 33) # stsring, follow, hue
         API.Pause(2)
-    API.Pause(0.5) # always use a delay to prevent call spam
+    API.Pause(0.5) # always use a delay in loops to prevent call spam
 ```
 
 ### 5. Heal yourself on a hotkey
@@ -144,5 +144,5 @@ API.SysMsg("Press F2 to heal") # journal output
 
 while not API.StopRequested: # loop
     API.ProcessCallbacks()   # required to read hotkeys
-    API.Pause(0.1) # always use a small delay
+    API.Pause(0.1) # always use a delay in loops to prevent call spam
 ```
