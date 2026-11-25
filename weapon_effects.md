@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
 published: true
-date: 2026-11-25T04:44:26.076Z
+date: 2026-11-25T11:18:57.352Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:58.666Z
@@ -65,29 +65,20 @@ Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes t
 Everyone nearby sees *\*looks stuck\** over the target.
 
 ## Shillelagh
-In the hands of a herder, a shepherd's crook becomes a shillelagh. The first crook hit that lands after a `9` second cooldown is a bonk, which multiplies the crook's damage roll by an amount set by Herding. Everyone nearby sees *\*bonk\** over the target and hears a sound effect. When the cooldown ends, the attacker sees *Your crook hums* in their journal and sees a glowing effect on their character.
+In the hands of a herder, a shepherd's crook becomes a shillelagh. This magical stick gets an extended attack range by `1` tile every `50` levels of Herding, up to `3`.
 
-| Herding | Bonk Damage |
+The first crook hit that lands after a `7` second cooldown is a bonk attack that never misses, which consumes `50%` of the attacker's current mana. The consumed mana is divided by `5`, and this number is used as a multiplier for the base damage of the attack. Everyone nearby sees *\*bonk\** over the target and hears a sound effect. When the cooldown ends, the attacker sees *Your crook hums* in their journal and sees a glowing effect on their character.
+
+| Mana Consumed | Bonk Damage |
 |:-|:-:|
-| 0 | No bonk |
-| 0.1 – 9.9 | 1× |
-| 10 – 19.9 | 2× |
-| 20 – 29.9 | 3× |
-| 30 – 39.9 | 4× |
-| 40 – 49.9 | 5× |
-| 50 – 59.9 | 6× |
-| 60 – 69.9 | 7× |
-| 70 – 79.9 | 8× |
-| 80 – 89.9 | 9× |
-| 90 – 100 | 10× |
+| 5 mana | 1× |
+| 25 mana | 5× |
+| 50 mana | 10× |
 
-- At `100` Herding, a bonk never misses.
-- Below `100`, a bonk can miss. A miss shows nothing and doesn't use the bonk, so the next hit that lands bonks instead.
-- The multiplier applies to the crook's damage roll, before Tactics, Strength, and Anatomy. A [magic](/magic_weapons) crook's damage bonus is added once and not multiplied, unlike with a critical strike.
-- Otherwise a bonk is a normal hit. Armor and shields reduce it, and it's halved against players like all melee between players.
+- The multiplier applies to the crook's damage roll, before Tactics, Strength, and Anatomy.
+- A [magic](/magic_weapons) crook's damage bonus is added once and not multiplied.
+- Otherwise a bonk is a normal hit. Armor and shields reduce its damage.
 - The cooldown belongs to the player, so switching crooks doesn't reset it.
-- The bonk doesn't use Arms Lore.
-- Herding adds no damage to the crook's other hits, and the crook never lands a Crushing Blow.
 
 ## Stun
 Fighting with empty hands allows one move, Stun, which freezes the target in place for `4` seconds. It's attempted automatically when a punch hits, and needs `80` Wrestling and `80` Anatomy, but no Arms Lore. See [Wrestling: Wrestling Moves](/wrestling#wrestling-moves).
