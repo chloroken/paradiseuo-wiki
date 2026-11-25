@@ -2,7 +2,7 @@
 title: Scripting
 description: An overview of how to use TazUO's Legion scripting 
 published: true
-date: 2026-11-25T08:16:40.072Z
+date: 2026-11-25T08:17:43.989Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-25T08:00:09.704Z
@@ -61,7 +61,7 @@ while not API.StopRequested:
         API.UseObject(corpse.Serial)   # open it corpse by identifier
         API.Pause(1)
         for item in API.FindTypeAll(GOLD, corpse.Serial): # loop through items
-            API.MoveItem(item.Serial, API.Backpack)
+            API.MoveItem(item.Serial, API.Backpack) # drag drop items
             API.Pause(0.8)
         looted.add(corpse.Serial)
     API.Pause(0.5) # always use a delay to prevent call spam
