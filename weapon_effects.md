@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
 published: true
-date: 2026-11-25T12:28:39.536Z
+date: 2026-11-25T12:30:06.773Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:58.666Z
@@ -69,11 +69,12 @@ In the hands of a herder, a shepherd's crook becomes a shillelagh. This magical 
 
 The first crook hit that lands after a `7` second cooldown is a "bonk" and consumes `20%` of the attacker's current mana and never misses. The crook's damage is multiplied by `consumed mana × 5 / (20 - floor(herding / 10))` capped at `10×` with max Herding and `20` mana consumption. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
 
+With `100` Herding:
 | Mana Consumed | Bonk Damage |
 |:-|:-:|
-| 5 mana | 1× |
-| 25 mana | 5× |
-| 50 mana | 10× |
+| 5 mana | 2.5× |
+| 10 mana | 5× |
+| 20 mana | 10× |
 
 - The multiplier applies to the crook's damage roll, before Tactics, Strength, and Anatomy.
 - A [magic](/magic_weapons) crook's damage bonus is not multiplied by bonk, it's just added normally.
