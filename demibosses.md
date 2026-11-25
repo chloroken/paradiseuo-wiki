@@ -2,7 +2,7 @@
 title: Demibosses
 description: What demibosses are, their artifacts, and how to beat them
 published: true
-date: 2026-11-24T10:07:09.300Z
+date: 2026-11-25T01:26:00.536Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T09:16:37.588Z
@@ -11,7 +11,7 @@ dateCreated: 2026-11-24T09:16:37.588Z
 # Demibosses
 Demibosses are powerful monsters unique to *Paradise*, built for groups of players. Each one rules its own lair, returns hours after it dies, and drops far more loot than an ordinary monster, including an artifact found nowhere else. They exist to give groups a reason to gather: a fight that takes planning and a mix of classes, with a reward worth sharing.
 
-Demibosses don't always follow the rules of other [monsters](/monsters). They walk around obstacles to reach their target, and their melee hits and most of their spells do double damage to pets and summons.
+Demibosses don't always follow the rules of other [monsters](/monsters). They walk around obstacles to reach their target, and their melee hits and most of their spells do double damage to followers.
 
 ## Demibosses
 | Demiboss | Location | Hit Points | Respawn (hours) | Artifact | Chance (%) |
@@ -44,8 +44,7 @@ Both demibosses fight mainly with spells, so the strongest tools are the ones th
 - Bards are best used on the adds: [provoking](/provocation) the Greater Elemental's elementals into each other, especially the blood and poison elementals that appear below half health, and turning the Lich King's skeletons on each other.
 
 ### Tamers and Followers
-- Pets and summons take double damage from a demiboss, so they should fight the adds, not the boss. See [Follower: Followers in Combat](/follower#followers-in-combat).
-- [Hirelings](/hireling) deal and take full damage against demibosses, but they're far too weak to make much of a difference and will likely just get killed off.
+- Followers take double damage from a demiboss, so pets, hirelings, and summons should fight the adds, not the boss. See [Follower: Followers in Combat](/follower#followers-in-combat).
 - The Greater Elemental's adds vanish after `60` seconds and return at its next teleport, so killing them only buys time. Keeping them busy with pets works better than killing them repeatedly.
 
 ### Lich King
