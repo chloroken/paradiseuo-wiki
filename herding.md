@@ -2,7 +2,7 @@
 title: Herding
 description: Guiding animals with a shepherd's crook, and the shillelagh's bonk
 published: true
-date: 2026-11-25T02:37:18.824Z
+date: 2026-11-25T02:37:39.940Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T08:17:37.686Z
