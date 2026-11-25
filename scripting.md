@@ -2,7 +2,7 @@
 title: Scripting
 description: An overview of how to use TazUO's Legion scripting 
 published: true
-date: 2026-11-25T08:14:49.827Z
+date: 2026-11-25T08:16:40.072Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-25T08:00:09.704Z
@@ -103,19 +103,4 @@ while not API.StopRequested:
     API.Pause(0.1) # always use a delay to prevent call spam
 ```
 
-## Tips and troubleshooting
-
-| Problem | Likely cause | Fix |
-| --- | --- | --- |
-| Script won't stop | Loop doesn't check `API.StopRequested` | Use `while not API.StopRequested:` |
-| Hotkey does nothing | `ProcessCallbacks()` never runs | Call it in the main loop |
-| "You must wait" spam | Actions sent too fast | Raise `API.Pause()` values |
-| Wrong item found | Graphic ID differs on your shard | Check the item's graphic in-game and update the constant |
-| Targeting misses | Cursor not up yet | Wait with `API.WaitForTarget()` before targeting |
-
-- Start with long pauses and shorten them once the macro works. Many shards penalize or kick for action spam.
-- Keep one job per script; run several scripts side by side and share state with `API.SetSharedVar`.
-- Save settings that should survive restarts with `API.SavePersistentVar`.
-- Check your shard's rules on unattended macroing before leaving a script running AFK.
-
-Graphic IDs, hues and delays above are common defaults, so verify them on your shard. Full method signatures: [TazUO Legion API docs](https://tazuo.org/legion/legionapi/).
+Full method signatures: [TazUO Legion API docs](https://tazuo.org/legion/legionapi/).
