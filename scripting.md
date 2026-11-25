@@ -2,7 +2,7 @@
 title: Scripting
 description: An overview of how to use TazUO's Legion scripting 
 published: true
-date: 2026-11-25T08:48:21.348Z
+date: 2026-11-25T08:48:33.526Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-25T08:00:09.704Z
@@ -124,7 +124,7 @@ while not API.StopRequested:
     if target and not API.IsFriend(target.Serial):
         API.SetWarMode(True)
         API.Attack(target.Serial)
-        API.HeadMsg("Target!", target.Serial, 33) # stsring, follow, hue
+        API.HeadMsg("Target!", target.Serial, 33) # string, follow, hue
         API.Pause(2)
     API.Pause(0.5) # always use a delay in loops to prevent call spam
 ```
