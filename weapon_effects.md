@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
 published: true
-date: 2026-11-25T11:18:57.352Z
+date: 2026-11-25T11:55:28.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:58.666Z
@@ -65,9 +65,9 @@ Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes t
 Everyone nearby sees *\*looks stuck\** over the target.
 
 ## Shillelagh
-In the hands of a herder, a shepherd's crook becomes a shillelagh. This magical stick gets an extended attack range by `1` tile every `50` levels of Herding, up to `3`.
+In the hands of a herder, a shepherd's crook becomes a shillelagh. This magical stick gets an extended attack range by `1` tile every `25` levels of Herding, up to `5`.
 
-The first crook hit that lands after a `7` second cooldown is a bonk attack that never misses, which consumes `50%` of the attacker's current mana. The consumed mana is divided by `5`, and this number is used as a multiplier for the base damage of the attack. Everyone nearby sees *\*bonk\** over the target and hears a sound effect. When the cooldown ends, the attacker sees *Your crook hums* in their journal and sees a glowing effect on their character.
+The first crook hit that lands after a `7` second cooldown is a "bonk" and consumes `50%` of the attacker's current mana and never misses. The crook's damage is multiplied by `consumed mana / (10 - floor(herding / 20))` maxing out at `10×` while max Herding and with the maximum mana consumption. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
 
 | Mana Consumed | Bonk Damage |
 |:-|:-:|
@@ -76,7 +76,7 @@ The first crook hit that lands after a `7` second cooldown is a bonk attack that
 | 50 mana | 10× |
 
 - The multiplier applies to the crook's damage roll, before Tactics, Strength, and Anatomy.
-- A [magic](/magic_weapons) crook's damage bonus is added once and not multiplied.
+- A [magic](/magic_weapons) crook's damage bonus is not multiplied by bonk, it's just added normally.
 - Otherwise a bonk is a normal hit. Armor and shields reduce its damage.
 - The cooldown belongs to the player, so switching crooks doesn't reset it.
 
