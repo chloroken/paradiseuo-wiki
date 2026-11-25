@@ -2,19 +2,19 @@
 title: Herding
 description: Guiding animals with a shepherd's crook, and the shillelagh's bonk
 published: true
-date: 2026-11-24T08:30:00.000Z
+date: 2026-11-25T02:05:07.509Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-24T08:30:00.000Z
+dateCreated: 2026-11-24T08:17:37.686Z
 ---
 
 # Herding
-Herding is the skill of guiding animals with a shepherd's crook. It also turns the crook into a shillelagh, which bonks for up to `10` times damage.
+Herding is the skill of guiding animals with a shepherd's crook. It also turns the crook into a shillelagh, which bonks for up to `10×` damage.
 
 ## Herding Animals
 Double-clicking a shepherd's crook and targeting a wild animal within `10` tiles, then a spot on the ground, tries to send the animal there. Only creatures that can be tamed can be herded. A tamed creature *looks tame already*.
 
-The chance depends on the animal's minimum taming skill. It rises evenly from `0%` at `30` below the minimum taming skill to certain success at `30` to `39` above it, so an animal that needs `50` to tame can't be herded below `20` Herding, and always moves at `90`. When the herder's skill is well above the animal's, the herder sees *That wasn't even challenging.*
+The chance depends on the animal's minimum taming skill. It rises evenly from `0%` at `30` below the minimum taming skill to certain success at `30` to `39` above it, so an animal that needs `50` to tame can't be herded below `20` Herding, and always moves at `90`. When the herder's skill is well above the animal's, the herder sees *That wasn't even challenging.* See: [Animal Taming](/animal_taming).
 
 On success, the herder sees *The animal walks where it was instructed to.* The animal walks straight toward the spot while it isn't fighting, and stops once it arrives or if it ends up more than `15` tiles away. A failure shows *You don't seem to be able to persuade that to move.*
 
