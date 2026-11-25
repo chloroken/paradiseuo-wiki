@@ -2,7 +2,7 @@
 title: Pet
 description: Training, healing, and commanding pets, plus Pack Instinct and notable pets
 published: true
-date: 2026-11-20T04:27:23.390Z
+date: 2026-11-25T01:15:47.936Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-16T07:24:49.945Z
@@ -22,7 +22,7 @@ Pets train their skills by using them, just like players, but twice as quickly. 
 Pets are healed with bandages using [Veterinary](/veterinary). The range at which a pet can be bandaged grows with Veterinary skill. See [Veterinary: Range](/veterinary#range). Players can also attack their own pets and bandage them to train Veterinary. See [Follower: Training on Followers](/follower#training-on-followers).
 
 ## Pets in Combat
-Pets do `25%` less damage to monsters and take `25%` more from them, and a [demiboss](/monsters#demibosses) does double damage to them. Summons share these penalties, but hirelings don't. See [Follower: Followers in Combat](/follower#followers-in-combat).
+A [demiboss](/monsters#demibosses) does double damage to pets. Summons share these penalties, but hirelings don't. See [Follower: Followers in Combat](/follower#followers-in-combat).
 
 ## Obeying Commands
 Pets are commanded with phrases like `all follow me` and `dragon kill`, the same as every follower. See [Follower: Commands](/follower#commands). Unlike hirelings and summons, pets don't always obey. Every command has a chance to fail, based on the owner's skills, the pet's difficulty, and its Loyalty. Animal Taming matters four times as much as Animal Lore, and the two combine into a weighted skill:
