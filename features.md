@@ -2,7 +2,7 @@
 title: Features
 description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-24T12:21:19.136Z
+date: 2026-11-25T01:24:11.575Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -101,7 +101,7 @@ Paid followers found in taverns, cheap enough for any character. *Paradise* adds
 
 - Each tavern has `2` random hirelings and the Jhelom fighting pit has `10`.
 - Unhired hirelings are replaced with new ones every hour.
-- Hirelings deal and take full damage against monsters.
+- Followers take double damage from demibosses. See [Follower: Followers in Combat](/follower#followers-in-combat).
 - Hirelings ride horses when commanded to follow.
 - The cleric hireling heals its employer, their pets and hirelings, and itself, but has limited mana.
 
