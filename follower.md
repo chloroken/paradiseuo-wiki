@@ -2,10 +2,10 @@
 title: Follower
 description: Follower slots, commands, combat, Loyalty, feeding, and training on followers
 published: true
-date: 2026-11-23T01:45:00.000Z
+date: 2026-11-25T01:22:28.384Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-23T01:45:00.000Z
+dateCreated: 2026-11-23T01:45:00.305Z
 ---
 
 # Follower
@@ -45,15 +45,9 @@ A follower told to follow runs to catch up when it's more than `5` tiles behind,
 Followers can follow their owner into houses. Untamed creatures can't enter houses.
 
 ## Followers in Combat
-Pets and summons fight at a disadvantage against monsters, but hirelings don't:
+Followers deal and take normal damage against monsters. Demibosses are the exception: their melee hits and most of their spells do double damage to every follower, whether pet, hireling, or summon.
 
-| Follower | Damage to Monsters (%) | Damage From Monsters (%) | Damage From Demibosses (%) |
-|:-|:-:|:-:|:-:|
-| Pet | 75 | 125 | 200 |
-| Summon | 75 | 125 | 200 |
-| Hireling | 100 | 100 | 100 |
-
-These changes apply to melee hits and spells. Breath, poison, and Fire Field do their normal damage. A follower's melee hits on another player are halved, the same as a player's. See [Combat: Damage](/combat#damage).
+This applies to melee hits and spells. Breath, poison, and Fire Field do their normal damage. A follower's melee hits on another player are halved, the same as a player's. See [Combat: Damage](/combat#damage).
 
 [Spirit Speak](/spirit_speak) strengthens a player's summons, and summoned elementals do up to `50%` more damage.
 
