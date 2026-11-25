@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
 published: true
-date: 2026-11-24T11:44:53.589Z
+date: 2026-11-25T04:43:41.240Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:58.666Z
@@ -65,7 +65,7 @@ Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes t
 Everyone nearby sees *\*looks stuck\** over the target.
 
 ## Shillelagh
-In the hands of a herder, a shepherd's crook becomes a shillelagh. The first crook hit that lands after a `9` second cooldown is a bonk, which multiplies the crook's damage roll by an amount set by Herding. Everyone nearby sees *\*bonk\** over the target. When the cooldown ends, the attacker sees *Your crook hums.* in their journal.
+In the hands of a herder, a shepherd's crook becomes a shillelagh. The first crook hit that lands after a `9` second cooldown is a bonk, which multiplies the crook's damage roll by an amount set by Herding. Everyone nearby sees *\*bonk\** over the target and hears a smacking sound effect. When the cooldown ends, the attacker sees *Your crook hums* in their journal and hears a humming effect.
 
 | Herding | Bonk Damage |
 |:-|:-:|
