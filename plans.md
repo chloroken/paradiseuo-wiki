@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-24T20:34:15.863Z
+date: 2026-11-25T02:31:27.135Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -99,6 +99,7 @@ These skills already had adventure potential:
 - Add pages with incoming links that are missing
 
 ## Projects
+- Fill world with trainers, like shepherds in farms
 - Rework stealing/snooping into something more. Stealing from npcs/monsters should be a whole thing.
 - Karma Town Trinkets to complete reputation rework
 - Crafting overhaul & expansion, allow for solo economy with NPCs (npcs in towns sometimes offer jobs to crafters. weighted based on town, e.g., yew more likely to offer fletchers a job.), give guilds a purpose
