@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
 published: true
-date: 2026-11-25T12:20:46.796Z
+date: 2026-11-25T12:28:39.536Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:58.666Z
@@ -65,9 +65,9 @@ Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes t
 Everyone nearby sees *\*looks stuck\** over the target.
 
 ## Shillelagh
-In the hands of a herder, a shepherd's crook becomes a shillelagh. This magical stick gets an extended attack range by `1` tile every `33.3` levels of Herding for a capstone bonused max range of `4`.
+In the hands of a herder, a shepherd's crook becomes a shillelagh. This magical stick gets an extended attack range by `1` tile every `50` levels of Herding for a capstone bonused max range of `3`.
 
-The first crook hit that lands after a `7` second cooldown is a "bonk" and consumes `25%` of the attacker's current mana and never misses. The crook's damage is multiplied by `consumed mana * 2 / (10 - floor(herding / 20))` capped at `10×` with max Herding and assuming the maximum mana consumption of `25`. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
+The first crook hit that lands after a `7` second cooldown is a "bonk" and consumes `20%` of the attacker's current mana and never misses. The crook's damage is multiplied by `consumed mana × 5 / (20 - floor(herding / 10))` capped at `10×` with max Herding and `20` mana consumption. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
 
 | Mana Consumed | Bonk Damage |
 |:-|:-:|
