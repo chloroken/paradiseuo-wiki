@@ -2,7 +2,7 @@
 title: Herding
 description: Guiding animals with a shepherd's crook, and the shillelagh's bonk
 published: true
-date: 2026-11-25T02:36:24.629Z
+date: 2026-11-25T02:37:18.824Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T08:17:37.686Z
@@ -46,4 +46,4 @@ Double click the creature you want to train on, then loop:
 - `Last Target`
 - `Delay 1000 ms`
 
-It takes 30-60 minutes to grandmaster from scratch.
+This works because herding a creature to itself targets the ground under it. It takes 30-60 minutes to grandmaster from scratch.
