@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
 published: true
-date: 2026-11-25T12:30:06.773Z
+date: 2026-11-25T13:12:21.594Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:58.666Z
@@ -67,7 +67,7 @@ Everyone nearby sees *\*looks stuck\** over the target.
 ## Shillelagh
 In the hands of a herder, a shepherd's crook becomes a shillelagh. This magical stick gets an extended attack range by `1` tile every `50` levels of Herding for a capstone bonused max range of `3`.
 
-The first crook hit that lands after a `7` second cooldown is a "bonk" and consumes `20%` of the attacker's current mana and never misses. The crook's damage is multiplied by `consumed mana × 5 / (20 - floor(herding / 10))` capped at `10×` with max Herding and `20` mana consumption. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
+The first crook hit that lands after a `7` second cooldown is a "bonk" and consumes `20%` of the attacker's current mana and never misses. The crook's damage is multiplied by `consumed mana × 5 / (20 - floor(herding / 10))` capped at `10×` with max Herding and the full `20` mana consumed. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
 
 With `100` Herding:
 | Mana Consumed | Bonk Damage |
@@ -77,7 +77,7 @@ With `100` Herding:
 | 20 mana | 10× |
 
 - The multiplier applies to the crook's damage roll, before Tactics, Strength, and Anatomy.
-- A [magic](/magic_weapons) crook's damage bonus is not multiplied by bonk, it's just added normally.
+- A [magic](/magic_weapons) crook's damage bonus is not multiplied by bonk, it's added after.
 - Otherwise a bonk is a normal hit. Armor and shields reduce its damage.
 - The cooldown belongs to the player, so switching crooks doesn't reset it.
 
