@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
 published: true
-date: 2026-11-25T13:12:21.594Z
+date: 2026-11-25T13:53:59.951Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:58.666Z
@@ -65,16 +65,18 @@ Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes t
 Everyone nearby sees *\*looks stuck\** over the target.
 
 ## Shillelagh
-In the hands of a herder, a shepherd's crook becomes a shillelagh. This magical stick gets an extended attack range by `1` tile every `50` levels of Herding for a capstone bonused max range of `3`.
+With at least `0.1` Herding, using a shepherd's crook can trigger shillelagh, or bonk, once every `7` seconds. Bonk's attack range is extended based on Herding up to a maximum of `3` tiles, its damage is boosted, and it never misses regardless of accuracy.
 
-The first crook hit that lands after a `7` second cooldown is a "bonk" and consumes `20%` of the attacker's current mana and never misses. The crook's damage is multiplied by `consumed mana × 5 / (20 - floor(herding / 10))` capped at `10×` with max Herding and the full `20` mana consumed. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
+Bonk consumes `20%` of the attacker's current mana on hit. The crook's base damage is then multiplied by `consumed mana × 5 / (20 - floor(herding / 10))` capped at `10×` with max Herding. With less mana consumed, damage sharply decreases. In practice, bonk cannot do its full damage unless its wielder is completely full on mana. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
 
-With `100` Herding:
-| Mana Consumed | Bonk Damage |
-|:-|:-:|
-| 5 mana | 2.5× |
-| 10 mana | 5× |
-| 20 mana | 10× |
+| Herding | Mana Consumed | Bonk Damage |
+|:-|:-:|:-:|
+| 50 | 5 mana | 1.25× |
+| 50 | 10 mana | 2.5× |
+| 50 | 20 mana | 5× |
+| 100 | 5 mana | 2.5× |
+| 100 | 10 mana | 5× |
+| 100 | 20 mana | 10× |
 
 - The multiplier applies to the crook's damage roll, before Tactics, Strength, and Anatomy.
 - A [magic](/magic_weapons) crook's damage bonus is not multiplied by bonk, it's added after.
