@@ -2,7 +2,7 @@
 title: Scripting
 description: An overview of how to use TazUO's Legion scripting 
 published: true
-date: 2026-11-25T08:10:40.365Z
+date: 2026-11-25T08:14:49.827Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-25T08:00:09.704Z
@@ -10,53 +10,8 @@ dateCreated: 2026-11-25T08:00:09.704Z
 
 # Getting Started with TazUO Legion Macros
 
-## What this guide covers
-
-Legion scripts are plain Python files that drive the TazUO client through a global `API` object. This guide gets you from an empty file to five working macros: auto-bandage, skill trainer, corpse looter, attack-nearest and a heal-on-hotkey. Use it alongside the companion *TazUO Legion Python API Reference* for full method lists, and check exact signatures on the [official docs](https://tazuo.org/legion/legionapi/).
-
-## Setting up
-
-1. Open the Legion Scripting window from the TazUO menu. It lists every script in your `LegionScripts` folder inside the TazUO install directory.
-2. Create a new `.py` file in that folder (or use the window's new-script option) and give it a clear name, such as `AutoBandage.py`.
-3. Start the file with `import API`, then write your logic below it.
-4. Click the script in the window to start or stop it. A running script shows as active; stopping it sets `API.StopRequested`.
-5. Test with a one-liner first: `API.SysMsg("Hello from Legion")`. If the message appears in your journal, your setup works.
-
-To bind a script to a key, either assign it in the client's hotkey options or register keys from inside a running script with `API.OnHotKey("F1", callback)` (shown in Example 5).
-
-## Four patterns every macro uses
-
-**The main loop.** Repeat until the user stops the script, and always pause so you don't flood the server.
-
-```python
-import API
-
-while not API.StopRequested:
-    API.ProcessCallbacks()   # lets hotkeys and timers fire
-    # ... your logic ...
-    API.Pause(0.5)
-```
-
-**Pauses.** `API.Pause(seconds)` takes seconds, not milliseconds. Most actions need 0.5–1 s between them; skills and bandages need longer.
-
-**Targeting.** Trigger the action, wait for the cursor, then pick the target.
-
-```python
-API.CastSpell("Heal")
-if API.WaitForTarget(timeout=3):
-    API.TargetSelf()
-```
-
-**Journal checks.** Read server messages to react to failures. Passing `True` clears the matched line so it isn't seen twice.
-
-```python
-if API.InJournal("You must wait", True):
-    API.Pause(2)
-```
-
 ## Example macros
-
-Each example is a complete script. Copy it into its own `.py` file and adjust the values marked in comments.
+Making a [Legion Script](/https://tazuo.org/wiki/legion-scripting/) macro with TazUO is easier than it looks. These five examples lay out various structures to copy.
 
 ### 1. Auto-bandage below 80% health
 
@@ -68,14 +23,14 @@ DELAY = 8          # seconds to wait after a bandage; tune to your Dex/shard
 
 while not API.StopRequested: # called to start listening for events
     p = API.Player
-    if p.Hits < p.HitsMax * THRESHOLD:
+    if p.Hits < p.HitsMax * THRESHOLD: # algebraic conditional
         if API.BandageSelf():
             API.CreateCooldownBar(DELAY, "Bandage", 33)
             API.Pause(DELAY)
         else:
             API.SysMsg("Out of bandages!", 33)
             API.Pause(5)
-    API.Pause(0.5)
+    API.Pause(0.5) # always use a delay to prevent call spam
 ```
 
 ### 2. Skill trainer
@@ -103,13 +58,13 @@ looted = set()
 while not API.StopRequested:
     corpse = API.NearestCorpse(2) # closest corpse within 2 tiles
     if corpse and corpse.Serial not in looted: # serial is the unique identifier
-        API.UseObject(corpse.Serial)   # open it
+        API.UseObject(corpse.Serial)   # open it corpse by identifier
         API.Pause(1)
-        for item in API.FindTypeAll(GOLD, corpse.Serial):
+        for item in API.FindTypeAll(GOLD, corpse.Serial): # loop through items
             API.MoveItem(item.Serial, API.Backpack)
             API.Pause(0.8)
         looted.add(corpse.Serial)
-    API.Pause(0.5)
+    API.Pause(0.5) # always use a delay to prevent call spam
 ```
 
 ### 4. Attack the nearest hostile
@@ -127,7 +82,7 @@ while not API.StopRequested:
         API.Attack(target.Serial)
         API.HeadMsg("Target!", target.Serial, 33) # stsring, follow, hue
         API.Pause(2)
-    API.Pause(0.5)
+    API.Pause(0.5) # always use a delay to prevent call spam
 ```
 
 ### 5. Heal yourself on a hotkey
@@ -145,7 +100,7 @@ API.SysMsg("Press F2 to heal")
 
 while not API.StopRequested:
     API.ProcessCallbacks()   # required to read hotkeys
-    API.Pause(0.1)
+    API.Pause(0.1) # always use a delay to prevent call spam
 ```
 
 ## Tips and troubleshooting
