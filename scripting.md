@@ -2,7 +2,7 @@
 title: Scripting
 description: An overview of how to use TazUO's Legion scripting 
 published: true
-date: 2026-11-25T08:17:43.989Z
+date: 2026-11-25T08:22:01.754Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-25T08:00:09.704Z
@@ -16,7 +16,7 @@ Making a [Legion Script](/https://tazuo.org/wiki/legion-scripting/) macro with T
 ### 1. Auto-bandage below 80% health
 
 ```python
-import API
+import API # required for API methods to work
 
 THRESHOLD = 0.80   # heal when below 80% HP
 DELAY = 8          # seconds to wait after a bandage; tune to your Dex/shard
@@ -44,7 +44,7 @@ DELAY = 10.5       # skill cooldown in seconds
 while not API.StopRequested:
     API.UseSkill(SKILL)
     API.Pause(DELAY)
-    API.SysMsg(f"{SKILL}: {API.GetSkill(SKILL).Value}")
+    API.SysMsg(f"{SKILL}: {API.GetSkill(SKILL).Value}") # a formatted string
 ```
 
 ### 3. Loot gold from nearby corpses
@@ -52,8 +52,8 @@ while not API.StopRequested:
 ```python
 import API
 
-GOLD = 0x0EED
-looted = set()
+GOLD = 0x0EED # graphic ID, can get from Assistant -> Item Database -> Target Item Info
+looted = set() # a structure to keep track of which corpses have been looted
 
 while not API.StopRequested:
     corpse = API.NearestCorpse(2) # closest corpse within 2 tiles
