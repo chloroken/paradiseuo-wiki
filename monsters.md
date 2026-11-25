@@ -2,7 +2,7 @@
 title: Monsters
 description: What roams the world, how monsters behave, and the demibosses
 published: true
-date: 2026-11-24T09:42:38.548Z
+date: 2026-11-25T01:14:49.779Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:09:38.337Z
@@ -23,7 +23,7 @@ Monsters behave differently from later versions of Ultima Online:
 - Monsters only cast Teleport when they're stuck, and never cast Invisibility.
 
 ## Fighting Monsters
-Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. Their melee hits and spells do `25%` more damage to [pets](/pet) and [summons](/summon), and pets and summons do `25%` less damage to them. Characters with Parrying and little Magery take less physical damage through [Valor](/valor). See [Combat](/combat).
+Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. Characters with Parrying and little Magery take less physical damage through [Valor](/valor). See [Combat](/combat).
 
 ## Demibosses
 Demibosses are powerful monsters unique to *Paradise*, built for groups of players, each with its own lair and artifact. See [Demibosses](/demibosses).
