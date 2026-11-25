@@ -2,7 +2,7 @@
 title: Hireling
 description: Hiring, paying, and commanding hirelings
 published: true
-date: 2026-11-22T15:32:01.477Z
+date: 2026-11-25T01:23:35.129Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T14:24:45.792Z
@@ -69,7 +69,7 @@ A hireling rides a horse while following its employer and goes on foot for any o
 Saying `name release` ends a hireling's contract, and any unused pay is lost. A hireling that quits or is dismissed can be hired again by anyone, and leaves for good after `3` days if no one does.
 
 ## Hirelings in Combat
-Hirelings deal and take full damage against monsters, including demibosses, unlike [pets](/pet) and [summons](/summon). Their melee hits on other players are halved, the same as a player's.
+Hirelings take double damage from demibosses, like [pets](/pet) and [summons](/summon). Their melee hits on other players are halved, the same as a player's.
 
 **Hireling death is permanent.** Hirelings can't be bonded or stabled. A dead hireling's corpse holds only its gold, and its gear is lost.
 
