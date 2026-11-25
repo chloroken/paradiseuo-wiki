@@ -2,7 +2,7 @@
 title: Combat
 description: Hit chance, swing speed, damage, and Valor, the warrior's virtue
 published: true
-date: 2026-11-25T01:14:16.102Z
+date: 2026-11-25T01:19:29.620Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:05:40.279Z
@@ -83,7 +83,7 @@ A worn-out weapon does less damage, down to half when it's about to break.
 
 Melee damage between players is halved, and so is melee damage from a player's [follower](/follower) to another player. Every other hit between players and monsters does full damage, so monsters hit players twice as hard as on most ServUO shards.
 
-A [demiboss](/demibosses) does double damage to pets and summons. Hirelings take normal damage from demibosses. Breath, poison, and Fire Field aren't affected. See [Follower: Followers in Combat](/follower#followers-in-combat).
+A [demiboss](/demibosses) does double damage to every follower: pets, hirelings, and summons. Breath, poison, and Fire Field aren't affected. See [Follower: Followers in Combat](/follower#followers-in-combat).
 
 The damage of each hit shows as a number over the target. The attacker and the target see it, as do the owners of any followers involved.
 
