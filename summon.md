@@ -2,7 +2,7 @@
 title: Summon
 description: Magery's summon spells, how long summons last, and how they fight
 published: true
-date: 2026-11-25T01:20:42.009Z
+date: 2026-11-25T01:21:14.509Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T01:45:13.712Z
@@ -23,7 +23,7 @@ Summons are [followers](/follower) conjured with [Magery](/magery). They serve t
 | [Summon Daemon](/summon_daemon) | 8th | 4 | 294.5 | 9.7 | Magery 70 – 80 |
 | [Energy Vortex](/energy_vortex) | 8th | 4 | 70 | 22.8 | None |
 
-Hit points are averages. DPS is average melee damage per second with the summon's Tactics and Strength, before the follower damage levers. It counts every swing as a hit and leaves out spells.
+Hit points are averages. DPS is average melee damage per second with the summon's Tactics and Strength. It counts every swing as a hit and leaves out spells.
 
 Blade spirits and energy vortexes last `80` to `119` seconds. Every other summon lasts `4` seconds per point of Magery, so `400` seconds at `100` Magery. Spirit Speak multiplies every duration by up to `2`, so a `400` second summon lasts `800` seconds at `100` Spirit Speak. See [Spirit Speak: Summons](/spirit_speak#summons).
 
