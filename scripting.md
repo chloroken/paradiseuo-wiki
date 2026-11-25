@@ -2,14 +2,14 @@
 title: Scripting
 description: An overview of how to use TazUO's Legion scripting 
 published: true
-date: 2026-11-25T08:41:37.986Z
+date: 2026-11-25T08:42:26.636Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-25T08:00:09.704Z
 ---
 
 # Getting Started with TazUO Legion Macros
-Making a [Legion Script](/https://tazuo.org/wiki/legion-scripting/) macro with TazUO is easier than it looks.
+Making a [Legion Script](/https://tazuo.org/wiki/legion-scripting/) macro with TazUO is easier than it looks. See: [TazUO Legion API docs](https://tazuo.org/legion/legionapi/).
 
 ## Macro Structure
 
@@ -146,5 +146,3 @@ while not API.StopRequested: # loop
     API.ProcessCallbacks()   # required to read hotkeys
     API.Pause(0.1) # always use a small delay
 ```
-
-Full method signatures: [TazUO Legion API docs](https://tazuo.org/legion/legionapi/).
