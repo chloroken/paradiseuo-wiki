@@ -2,7 +2,7 @@
 title: Covetous
 description: The dungeon west of Vesper, its floors and mountain passes, and its history
 published: true
-date: 2026-11-22T06:58:44.705Z
+date: 2026-11-26T08:11:15.143Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T10:58:47.341Z
@@ -15,13 +15,13 @@ Covetous is a [dungeon](/dungeons) west of [Vesper](/towns) with three floors jo
 Covetous was hewn by slaves as a crypt for the ancient rulers of the lands that became Minoc, and it is bound to the virtue of [Sacrifice](https://wiki.ultimacodex.com/wiki/Sacrifice). The Avatar once braved its depths for the [Orange Stone of Sacrifice](https://wiki.ultimacodex.com/wiki/Virtue_Stones). In time it was dug out as a mine, and its miners found [blackrock](https://wiki.ultimacodex.com/wiki/Blackrock), a stone that smothers magic. Ages later the mine was abandoned, and the liche [Khelereth](https://wiki.ultimacodex.com/wiki/Khelereth) claimed it with his undead. Before he was struck down, he had steeped himself in blackrock and buried his phylactery deep within the mountain soil. Years later, when Khelereth was all but forgotten, an unnamed liche stained in black took up rule within Covetous once again. Is it a coincidence, or could it be him?
 
 ## Floor 1
-Floor 1 has harpies, stone harpies, headless ones, gazers, gazer larvae, and corpsers.
+Floor 1 has harpies, stone harpies, headless ones, gazers, gazer larvae, and corpsers. It is trapped with fire column traps, spike traps, and saw traps.
 
 ## Mountain Pass A
 Headless ones and harpies guard the pass between floors 1 and 2.
 
 ## Floor 2
-Floor 2 has the same monsters as floor 1, along with elder gazers, slimes, water elementals, giant spiders, and dread spiders.
+Floor 2 has the same monsters as floor 1, along with elder gazers, slimes, water elementals, giant spiders, and dread spiders. It is trapped with fire column traps, gas traps, saw traps, and spike traps.
 
 ## Mountain Pass B
 Skeletons, bone knights, and stone harpies guard the pass between floors 2 and 3.
