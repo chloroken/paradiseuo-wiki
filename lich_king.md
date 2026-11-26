@@ -1,13 +1,3 @@
----
-title: Lich King
-description: The demiboss of Covetous, how he fights, and what he drops
-published: true
-date: 2026-11-26T11:33:11.819Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-21T14:54:28.083Z
----
-
 # Lich King
 The Lich King is a [demiboss](/demibosses), ruling from the throne room on floor 3 of [Covetous](/covetous). Being laden with blackrock, he is highly resistant to magic. He is built for a group of players, though a strong player may be able to defeat him alone. After he dies, he returns `12` to `24` hours later.
 
@@ -59,7 +49,7 @@ The Lich King also casts standard magery spells, heals himself, and teleports ev
 Most of the weapons, armor, and shields are magic, but jewelry never is. The silver weapon is a random type of weapon, usually with magic properties.
 
 ## Liche's Ring
-A liche's ring is a silver ring that can turn a weapon silver. It can drop from any Lich.
+A liche's ring is a silver ring that can turn a weapon silver. It can drop from any lich.
 
 | Source | Drop Chance (%) |
 |:-|:-:|

@@ -1,13 +1,3 @@
----
-title: Ultima Online
-description: First steps in Ultima Online: skills, training, early adventures, travel, equipment, and death
-published: true
-date: 2026-11-24T04:15:52.076Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-24T04:10:50.129Z
----
-
 # Ultima Online
 Ultima Online is a sandbox: there are no levels, no set path, and no wrong way to play within the shard's rules. Players go on adventures, hoard treasure, and construct their own houses.
 
@@ -40,4 +30,4 @@ Once Young status ends, a character who dies drops everything on their corpse, s
 A dead character becomes a ghost and has to be resurrected, by a healer NPC or by another player with [Healing](/healing). Every resurrection costs `10%` of the character's Fame. See [Reputation](/reputation).
 
 ## Staying Safe
-Players can't attack each other on *Paradise*, but scams still exist. A deal that sounds too good to be true usually is, and a gate cast by a stranger can lead somewhere dangerous. Other players are often happy to help, and staff can be reached through the community channels. See [Community](/community).
+Outside duel arenas and guild wars, players can't attack each other on *Paradise*, but scams still exist. A deal that sounds too good to be true usually is, and a gate cast by a stranger can lead somewhere dangerous. Other players are often happy to help, and staff can be reached through the community channels. See [Community](/community).

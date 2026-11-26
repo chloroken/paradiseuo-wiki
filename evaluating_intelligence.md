@@ -1,13 +1,3 @@
----
-title: Evaluating Intelligence
-description: More spell damage, judging a target's mind, unarmed defense, and Protection
-published: true
-date: 2026-11-25T01:59:16.245Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-24T08:17:34.020Z
----
-
 # Evaluating Intelligence
 Evaluating Intelligence is the skill of judging a mind. Its main use is making [Magery](/magery)'s damage spells hit harder. It also lets a mage defend with empty hands, and strengthens the [Protection](/protection) spell.
 
@@ -52,13 +42,13 @@ A character with empty hands defends with `(Anatomy + Evaluating Intelligence + 
 Evaluating Intelligence raises the Protection spell's chance to keep a spell from being disrupted, along with [Meditation](/meditation) and [Inscription](/inscription). The chance is `(Evaluating Intelligence + Meditation + Inscription) / 4` percent, up to `75%`.
 
 ## Manual Training
-Use the Evaluating Intelligence skill on others. Targeting player characters gives the best gains. Can use the same target repetitively with no penalty.
+Using Evaluating Intelligence on others trains it. Player characters give the best gains, and the same target can be used over and over with no penalty.
 
 ## Macro Training
-Double click a player to designate them as `Last Target` before running the macro.
+Before running the macro, the trainer double-clicks a player so they become the `Last Target`. The macro then loops:
 - `Use Skill: Evaluating Intelligence`
 - `Wait For Target`
 - `Last Target`
 - `Delay 1000ms`
 
-It takes 30-60 minutes to grandmaster from scratch.
+It takes `30` to `60` minutes to reach grandmaster from scratch.

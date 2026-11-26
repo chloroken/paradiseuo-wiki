@@ -1,17 +1,7 @@
----
-title: Damage Per Second
-description: Damage per second for every weapon, with and without its weapon effect
-published: true
-date: 2026-11-24T10:05:24.938Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-21T17:43:32.186Z
----
-
 # Damage Per Second
-Every weapon's base damage, speed, and damage per second (DPS) for a fighter with `100` Tactics, Strength, Anatomy, and Stamina, using a regular-quality, non-magic weapon. DPS assumes every swing hits and ignores armor, which means that damage may vary in the field based on the victim's defensive capabilities. 
+Every weapon's base damage, speed, and damage per second (DPS) for a fighter with `100` Tactics, Strength, Anatomy, and Stamina, using a regular-quality, non-magic weapon. DPS assumes every swing hits and ignores armor.
 
-Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for swords at `100` [Arms Lore](/arms_lore), a [shillelagh](/weapon_effects#shillelagh) bonk every fourth swing at `100` [Herding](/herding) for the shepherd's crook, and all `3` bolts of a crossbow volley landing. For axes, the black, gnarled, and quarter staves, and the pickaxe, it adds `100` in their [scaling skill](/weapons#scaling-skills): [Lumberjacking](/lumberjacking), [Carpentry](/carpentry), and [Mining](/mining) respectively. A sword wielder without Arms Lore lands no critical strikes, so their damage is the DPS column, not EDPS.
+Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for swords at `100` [Arms Lore](/arms_lore), a [shillelagh](/weapon_effects#shillelagh) bonk every third swing at `100` [Herding](/herding) and full mana for the shepherd's crook, and all `3` bolts of a crossbow volley landing. For axes, the black, gnarled, and quarter staves, and the pickaxe, it adds `100` in their [scaling skill](/weapons#scaling-skills): [Lumberjacking](/lumberjacking), [Carpentry](/carpentry), and [Mining](/mining) respectively. A sword wielder without Arms Lore lands no critical strikes, so their damage is the DPS column, not EDPS.
 
 ## Swords
 | Weapon | Damage | Speed | Critical Strike<br>Chance (%) | Swing Delay (s) | DPS | EDPS |
@@ -68,7 +58,7 @@ Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for sword
 | Black staff | 8 – 33 | 35 | 2.14 | 21.5 | 23.7 |
 | Gnarled staff | 10 – 30 | 33 | 2.27 | 19.8 | 21.8 |
 | Quarter staff | 6 – 25 | 48 | 1.56 | 22.3 | 24.6 |
-| Shepherd's crook | 3 – 12 | 30 | 2.5 | 6.8 | 21.9 |
+| Shepherd's crook | 3 – 12 | 30 | 2.5 | 6.8 | 27.0 |
 
 ## Knives
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |

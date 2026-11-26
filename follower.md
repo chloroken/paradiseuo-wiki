@@ -1,20 +1,9 @@
----
-title: Follower
-description: Follower slots, commands, combat, Loyalty, feeding, and training on followers
-published: true
-date: 2026-11-25T01:22:28.384Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-23T01:45:00.305Z
----
-
 # Follower
 A follower is a creature that follows a character and fights for them. There are three kinds: [pets](/pet) are tamed, [hirelings](/hireling) are paid, and [summons](/summon) are conjured with Magery. [Mounts](/mount) are pets too. Most rules here apply to every follower, and the tables below show where the kinds differ.
 
 | Rule | Pets | Summons | Hirelings |
 |:-|:-:|:-:|:-:|
 | Take follower slots | Yes | Yes | Yes |
-| Weaker against monsters | Yes | Yes | No |
 | Can fail to obey | Yes | No | No |
 | Loyalty and feeding | Yes | No | Yes |
 | Pack Instinct | Yes | Yes | No |

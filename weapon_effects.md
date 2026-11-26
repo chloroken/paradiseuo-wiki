@@ -1,30 +1,20 @@
----
-title: Weapon Effects
-description: Critical strikes, sapping vigor, Concussion, Crushing, and Paralyzing Blows, the shillelagh, and stun
-published: true
-date: 2026-11-25T14:18:47.645Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-24T03:38:58.666Z
----
-
 # Weapon Effects
 Most weapon types have a weapon effect, which can trigger when a hit lands. Weapon effects are for players only. Monsters, hirelings, and other NPCs never trigger them, even with the same weapons. Some effects also only work against monsters.
 
 Weapon effects are largely scaled by [Arms Lore](/arms_lore) in the form of trigger chance, but exceptions exist that are scaled by other skills. A character without Arms Lore can use any weapon, but never lands its effect. Which weapons have which effect is listed on [Weapons](/weapons#weapon-types).
 
-| Name | Effect |Weapons | Trigger | Works Against |
+| Name | Effect | Weapons | Trigger | Works Against |
 |:-|:-:|:-:|:-:|:-:|
-| [Critical strikes](#critical-strikes) | 2x damage | Swords | Each sword's own chance, scaled by Arms Lore | Anything |
+| [Critical strikes](#critical-strikes) | 2× damage | Swords | Each sword's own chance, scaled by Arms Lore | Anything |
 | [Sapping vigor](#sapping-vigor) | Reduces enemy damage | One-handed maces | Every hit, amount scaled by Arms Lore | Monsters |
 | [Concussion Blow](#concussion-blow) | Reduces enemy Intelligence | Polearms | Anatomy / 400, no Arms Lore needed | Anything |
-| [Crushing Blow](#crushing-blow) | Reduce enemy attack speed | Two-handed maces, staves | Arms Lore / 400 | Monsters |
+| [Crushing Blow](#crushing-blow) | Reduces enemy attack speed | Two-handed maces, staves | Arms Lore / 400 | Monsters |
 | Crushing Blow (secondary effect) | Splash damage hits everything within a tile | Two-handed maces | Blacksmithing / 100 | Monsters |
 | [Paralyzing Blow](#paralyzing-blow) | Freezes enemy | Pitchforks, short spears, spears | Arms Lore / 400 | Anything |
-| [Shillelagh](#shillelagh) | 10x damage, 9s cooldown | Shepherd's crook | First hit after a 9 second cooldown, no Arms Lore needed | Anything |
+| [Shillelagh](#shillelagh) | Up to 10× damage | Shepherd's crook | First hit after a 7 second cooldown, scaled by Herding and mana, no Arms Lore needed | Anything |
 | [Stun](#stun) | Freezes enemy | Fists | (Wrestling + Anatomy) / 400, no Arms Lore needed | Anything |
 
-Crushing Blow and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Four effects don't use Arms Lore: Concussion Blow uses [Anatomy](/anatomy), Crushing Blow's secondary effect uses [Blacksmithing](/blacksmithing), the shillelagh scales with [Herding](/herding), and stun needs Wrestling and Anatomy. [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
+Crushing Blow and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Four effects don't use Arms Lore: Concussion Blow uses [Anatomy](/anatomy), Crushing Blow's secondary effect uses Blacksmithing, the shillelagh scales with [Herding](/herding), and stun needs Wrestling and Anatomy. [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
 
 ## Critical Strikes
 Swords can land a critical strike, which doubles the hit's damage before armor, including a magic weapon's damage bonus. Each sword has its own chance, scaled by Arms Lore, so `50` Arms Lore gives half the chance shown below. The chances are set so every sword does about the same damage over time, and the slowest swords hit in the biggest bursts.
@@ -65,9 +55,9 @@ Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes t
 Everyone nearby sees *\*looks stuck\** over the target.
 
 ## Shillelagh
-With at least `0.1` Herding, using a shepherd's crook can trigger shillelagh, or bonk, once every `7` seconds. Bonk's attack range is extended based on Herding up to a maximum of `3` tiles, its damage is boosted, and it never misses regardless of accuracy.
+With at least `0.1` Herding, the first shepherd's crook hit that lands after a `7` second cooldown is a shillelagh, or bonk. A missed swing doesn't use it up. A bonk reaches `2` tiles, or `3` above `50` Herding, and at `100` Herding it never misses.
 
-Bonk consumes `20%` of the attacker's current mana on hit. The crook's base damage is then multiplied by `consumed mana × 5 / (20 - floor(herding / 10))` capped at `10×` with max Herding. With less mana consumed, damage sharply decreases. In practice, bonk cannot do its full damage unless its wielder is completely full on mana. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
+A bonk consumes `20%` of the attacker's current mana, up to `20`. The crook's damage roll is then multiplied by `(Mana Consumed / 2) * (Herding / 100)`, so with less mana, the bonk does much less. A bonk reaches its maximum of `10×` with at least `100` mana and `100` Herding. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
 
 | Herding | Mana Consumed | Bonk Damage |
 |:-|:-:|:-:|

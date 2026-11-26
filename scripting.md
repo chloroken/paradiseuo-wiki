@@ -1,68 +1,61 @@
----
-title: Scripting
-description: An overview of how to use TazUO's Legion scripting 
-published: true
-date: 2026-11-25T08:48:33.526Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-25T08:00:09.704Z
----
-
-# Getting Started with TazUO Legion Scripting
-Making a [Legion Script](/https://tazuo.org/wiki/legion-scripting/) macro with TazUO is easier than it looks. See: [TazUO Legion API docs](https://tazuo.org/legion/legionapi/).
+# Scripting
+TazUO's [Legion scripting](https://tazuo.org/wiki/legion-scripting/) runs Python macros inside the client. Every command a script can use is listed in the [Legion API docs](https://tazuo.org/legion/legionapi/).
 
 ## Macro Structure
+Most macros have the same three parts:
 
-Most macros use the same structure:
-
-| Section | Description |
+| Part | Description |
 |:-|:-:|
-| Import | This section "imports" the proper tools, in this case "API" |
-| Variables | Numbers that might be tweaked later, like delays |
-| Loop | The guts of the macro, contains instructions and a delay |
+| Import | Loads the tools a script needs, in this case `API` |
+| Variables | Numbers that might be tweaked later, such as delays |
+| Loop | The body of the macro, with its instructions and a delay |
 
-So putting it together, let's make a macro that says "Hello, world!" every five seconds:
+This macro says *Hello, world!* every five seconds:
 
-```python
-import API # import the proper tools
+```
+import API # load the tools
 
-DELAY = 5.0 # the variable delay to control later
+DELAY = 5.0 # a variable to tweak later
 
-while not API.StopRequested: # the loop, it goes until a "stop" is "requested"
+while not API.StopRequested: # loop until the macro is stopped
     API.Say("Hello, world!") # instructions
     API.Pause(DELAY) # delay
 ```
 
-A fourth structure of macros is hotkeys and callback functions. A function can be defined in a macro and called by that macro as many times as it wants, executing its instructions repeatedly. To bind a callback function to a key, the loop can be used to listen for that key. Callback functions should be inserted after defining variables, but before the hotkey bindings and the loop. Putting this into practice, here is a macro that continually begs the closest innocent NPC within 5 tiles.
+### Hotkeys and Callbacks
+A macro can also define a function and bind it to a key, so the function runs each time the key is pressed. The loop listens for the key. Functions go after the variables and before the hotkey bindings and the loop.
 
-```python
+This macro begs from the nearest innocent NPC within `5` tiles whenever `F1` is pressed:
+
+```
 import API
 
-SKILL = "Begging" # set up some variables
+SKILL = "Begging"
 MAXDIST = 5
 
-def beg_npc(): # this is the callback function, we will "call" it from the loops
-		npc = API.NearestMobile([API.Notoriety.Innocent], MAXDIST)
+def beg_npc(): # the callback function, run when F1 is pressed
+    npc = API.NearestMobile([API.Notoriety.Innocent], MAXDIST)
+    if not npc:
+        return
     API.UseSkill(SKILL)
     if API.WaitForTarget(timeout=3):
-        API.NearestEntity()
+        API.Target(npc)
 
-API.OnHotKey("F1", beg_npc) # here is the hotkey and callback function it calls
+API.OnHotKey("F1", beg_npc) # bind the key to the function
 
 while not API.StopRequested:
-    API.ProcessCallbacks() # this reads hotkey input
-    API.Pause(0.1) # always use a delay in loops to prevent call spam
+    API.ProcessCallbacks() # reads hotkey input
+    API.Pause(0.1) # always pause in a loop to avoid spamming commands
 ```
 
 ## Example Macros
-But scripting has so much more potential. Here are five examples lay out various structures to copy.
+These examples show common structures to copy and adapt.
 
-### 1. Auto-bandage below 80% health
-
-```python
+### Auto-Bandage Below 80% Health
+```
 import API
 
-THRESHOLD = 0.80   # heal when below 80% HP
+THRESHOLD = 0.80   # heal when below 80% of maximum hit points
 DELAY = 8          # seconds to wait after a bandage
 
 while not API.StopRequested:
@@ -74,12 +67,11 @@ while not API.StopRequested:
         else:
             API.SysMsg("Out of bandages!", 33)
             API.Pause(5)
-    API.Pause(0.5) # always use a delay in loops to prevent call spam
+    API.Pause(0.5) # always pause in a loop to avoid spamming commands
 ```
 
-### 2. Skill trainer
-
-```python
+### Skill Trainer
+```
 import API
 
 SKILL = "Hiding"   # any skill used with UseSkill
@@ -87,62 +79,59 @@ DELAY = 10.5       # skill cooldown in seconds
 
 while not API.StopRequested:
     API.UseSkill(SKILL)
-    API.Pause(DELAY) # always use a delay in loops to prevent call spam
+    API.Pause(DELAY) # always pause in a loop to avoid spamming commands
     API.SysMsg(f"{SKILL}: {API.GetSkill(SKILL).Value}") # a formatted string
 ```
 
-### 3. Loot gold from nearby corpses
-
-```python
+### Loot Gold From Nearby Corpses
+```
 import API
 
-GOLD = 0x0EED # graphic ID, can get from Assistant -> Item Database -> Target Item Info
-looted = set() # a structure to keep track of which corpses have been looted
+GOLD = 0x0EED # graphic ID, from Assistant -> Item Database -> Target Item Info
+looted = set() # corpses already looted
 
 while not API.StopRequested:
     corpse = API.NearestCorpse(2) # closest corpse within 2 tiles
-    if corpse and corpse.Serial not in looted: # serial is the unique identifier
-        API.UseObject(corpse.Serial)   # open it corpse by identifier
+    if corpse and corpse.Serial not in looted: # the serial identifies the corpse
+        API.UseObject(corpse.Serial) # open the corpse
         API.Pause(1)
-        for item in API.FindTypeAll(GOLD, corpse.Serial): # loop through items
-            API.MoveItem(item.Serial, API.Backpack) # drag drop items
+        for item in API.FindTypeAll(GOLD, corpse.Serial): # every gold pile inside
+            API.MoveItem(item.Serial, API.Backpack) # drag it to the backpack
             API.Pause(0.8)
         looted.add(corpse.Serial)
-    API.Pause(0.5) # always use a delay in loops to prevent call spam
+    API.Pause(0.5) # always pause in a loop to avoid spamming commands
 ```
 
-### 4. Attack the nearest hostile
-
-```python
+### Attack the Nearest Hostile
+```
 import API
 
 HOSTILE = [API.Notoriety.Gray, API.Notoriety.Criminal,
-           API.Notoriety.Enemy, API.Notoriety.Murderer] # eligible targets array
+           API.Notoriety.Enemy, API.Notoriety.Murderer] # eligible targets
 
 while not API.StopRequested:
     target = API.NearestMobile(HOSTILE, 10)
     if target and not API.IsFriend(target.Serial):
         API.SetWarMode(True)
         API.Attack(target.Serial)
-        API.HeadMsg("Target!", target.Serial, 33) # string, follow, hue
+        API.HeadMsg("Target!", target.Serial, 33) # text, who it follows, hue
         API.Pause(2)
-    API.Pause(0.5) # always use a delay in loops to prevent call spam
+    API.Pause(0.5) # always pause in a loop to avoid spamming commands
 ```
 
-### 5. Heal yourself on a hotkey
-
-```python
+### Self-Heal on a Hotkey
+```
 import API
 
 def heal_self(): # callback function
-    API.CastSpell("Greater Heal") # instructions
+    API.CastSpell("Greater Heal")
     if API.WaitForTarget(timeout=3):
         API.TargetSelf()
 
 API.OnHotKey("F2", heal_self) # hotkey
-API.SysMsg("Press F2 to heal") # journal output
+API.SysMsg("Press F2 to heal") # journal message
 
-while not API.StopRequested: # loop
-    API.ProcessCallbacks()   # required to read hotkeys
-    API.Pause(0.1) # always use a delay in loops to prevent call spam
+while not API.StopRequested:
+    API.ProcessCallbacks() # required to read hotkeys
+    API.Pause(0.1) # always pause in a loop to avoid spamming commands
 ```

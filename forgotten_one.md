@@ -1,13 +1,3 @@
----
-title: Forgotten One
-description: The demiboss of deceit, how to reach him, how he fights, his loot, and his artifact drop
-published: true
-date: 2026-11-26T11:33:36.897Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-26T11:14:37.412Z
----
-
 # Forgotten One
 The Forgotten One is a demiboss locked in a room on floor 3 of [Deceit](/deceit). No one remembers what he was before the dead of Deceit claimed him, and he has never forgiven them for it. Unlike the other demibosses, he fights only in melee, and he is built for a pair of steady tanks rather than a crowd. After he dies, he returns `12` to `24` hours later.
 
@@ -22,7 +12,7 @@ He can also appear anywhere in Deceit. Every use of a summoning brazier has a `0
 - He attacks constantly, and his hits carry Regular [poison](/poison). His damage is low, but the poison comes back faster than it can be cured, so healing through it doesn't work.
 - He never switches targets on his own, so whoever holds him keeps him until they pass him to someone else.
 - If he leaves his room, he blinks back into it.
-- He is undead, so [silver](/magic_weapons#silver) weapons do double damage to him, and [poison](/poison) has no effect on him.
+- He is undead, so [silver](/magic_weapons#silver) weapons do double damage to him, and poison has no effect on him.
 - As a demiboss, his hits do double damage to [followers](/follower#followers-in-combat).
 
 ## Loot

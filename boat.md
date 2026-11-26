@@ -1,13 +1,3 @@
----
-title: Boat
-description: Buying, sailing, navigating, dry-docking, and keeping boats from sinking
-published: true
-date: 2026-11-19T05:39:02.269Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-17T22:49:31.290Z
----
-
 # Boat
 Boats allow travel by sea and river. They are bought from shipwrights near docks, and sink quickly if left unused. See [Decay](#decay).
 
@@ -80,8 +70,6 @@ Dry-docking is free, after a confirmation window. The ship becomes a toy ship in
 A ship sinks `24` hours after it was last refreshed. A ship is refreshed at every world save while a player is aboard, and it never decays while someone is aboard or while it's moving.
 
 **When a ship sinks, everything in the hold and on deck is lost.** Ships that won't be used for a while should be dry-docked.
-
-Boat decay is short because players traditionally used rows of boats to block objectives, or even entire islands. A shorter decay makes this much more tedious.
 
 ## Naming
 | Command | Effect | Permission |

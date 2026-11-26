@@ -1,15 +1,5 @@
----
-title: Pet
-description: Training, healing, and commanding pets, plus Pack Instinct and notable pets
-published: true
-date: 2026-11-25T01:20:18.014Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-16T07:24:49.945Z
----
-
 # Pet
-Pets are tamed [followers](/follower), and [mounts](/mount) are pets too. [Animal tamers](/animal_taming) specialize in capturing and using pets. Tamers can control powerful monsters, which makes hunting for loot much easier, provided their pets stay alive and obedient. Loyalty, feeding, and the rules all followers share are on [Follower](/follower).
+Pets are tamed [followers](/follower), and [mounts](/mount) are pets too. [Animal tamers](/animal_taming) specialize in capturing and using pets. Tamers can control powerful monsters, which makes hunting for loot much easier, provided their pets stay alive and obedient. Loyalty, feeding, and the rules all followers share are covered on the Follower page.
 
 Most pets take up `1` follower slot, strong pets such as drakes take `2`, and the most powerful pets such as dragons take `3`. See [Follower: Follower Slots](/follower#follower-slots). Pets can be left with an animal trainer while their owner is offline. See [Stable](/stable).
 

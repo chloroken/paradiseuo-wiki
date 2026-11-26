@@ -1,13 +1,3 @@
----
-title: Monsters
-description: What roams the world, how monsters behave, and the demibosses
-published: true
-date: 2026-11-25T01:14:49.779Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-19T00:09:38.337Z
----
-
 # Monsters
 Monsters roam the wilds and fill the [dungeons](/dungeons). They range from rats and slimes near town to dragons and daemons in the deepest dungeons, and many of them can be tamed or turned against each other.
 
@@ -29,7 +19,6 @@ Monsters hit players with their full melee damage, twice as hard as on most Serv
 Demibosses are powerful monsters unique to *Paradise*, built for groups of players, each with its own lair and artifact. See [Demibosses](/demibosses).
 
 ## Dealing with Monsters
-- Monsters can be slain with weapons.
 - Many animals and monsters can be tamed. See [Animal Taming](/animal_taming) and [Pet](/pet).
 - Bards can turn monsters against each other with [Provocation](/provocation), or calm them with [Peacemaking](/peacemaking).
 

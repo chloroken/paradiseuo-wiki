@@ -1,13 +1,3 @@
----
-title: ~Style Guide~
-description: How every page on the Paradise wiki is written and formatted
-published: true
-date: 2026-11-20T05:14:56.554Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-19T00:22:42.267Z
----
-
 # Style Guide
 Every page on the *Paradise* wiki follows these rules, so the wiki reads as one consistent document.
 
@@ -63,7 +53,7 @@ Italics are used for:
 - Links to pages that don't exist yet are kept. They mark planned pages and start working once the page is written.
 - Link text follows normal sentence capitalization: capitals only for proper names, such as skills, spells, and places. Ordinary words stay lowercase.
   - Examples: tamers turn animals into [pets](/pet), healed with [Veterinary](/veterinary), listed in the [patch notes](/patch_notes)
-- Cross-references are the one exception, and use the title of what they link to: the page's title for a whole page, such as See [Stable](/stable), or the section's heading for a section, such as See [Valor](/combat#valor). If the heading is too vague to stand on its own, the page title and a colon go before it, such as See [Combat: Damage](/combat#damage).
+- Cross-references are the one exception, and use the title of what they link to: the page's title for a whole page, such as See [Stable](/stable), or the section's heading for a section, such as See [Valor](/valor). If the heading is too vague to stand on its own, the page title and a colon go before it, such as See [Combat: Damage](/combat#damage).
 
 ## Notes and Warnings
 The wiki doesn't use note boxes, callouts, or block quotes. Important information goes in the text, with bold for critical warnings.

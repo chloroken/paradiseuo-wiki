@@ -1,13 +1,3 @@
----
-title: Mace Fighting
-description: Maces, hammers, staves, and the shepherd's crook, with sapping vigor, Crushing Blow, and the shillelagh
-published: true
-date: 2026-11-24T08:30:00.000Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-24T08:30:00.000Z
----
-
 # Mace Fighting
 Mace Fighting is the skill of fighting with blunt weapons: maces, hammers, staves, and the shepherd's crook. One-handed maces weaken a monster's blows, two-handed maces and staves slow its attacks, and the crook bonks. [Blacksmithing](/blacksmithing), [Carpentry](/carpentry), and [Herding](/herding) each strengthen one group.
 
@@ -45,7 +35,7 @@ Only players land weapon effects. Hits with every Mace Fighting weapon except th
 Carpentry adds up to `15%` damage to black, gnarled, and quarter staves, for players only. Staves take both hands, so they can't be used with a wooden shield. See [Weapons: Scaling Skills](/weapons#scaling-skills).
 
 ## Shillelagh
-The first shepherd's crook hit that lands after a `9` second cooldown bonks for `1×` to `10×` the crook's damage roll, rising with Herding. At `100` Herding, a bonk never misses. The crook never lands a Crushing Blow and doesn't need Arms Lore. See [Weapon Effects: Shillelagh](/weapon_effects#shillelagh).
+The first shepherd's crook hit that lands after a `7` second cooldown bonks for up to `10×` the crook's damage roll, depending on Herding and the attacker's mana. At `100` Herding, a bonk never misses. The crook never lands a Crushing Blow and doesn't need Arms Lore. See [Weapon Effects: Shillelagh](/weapon_effects#shillelagh).
 
 ## Manual Training
 

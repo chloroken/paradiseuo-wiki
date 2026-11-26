@@ -1,13 +1,3 @@
----
-title: Fencing
-description: Daggers, krysses, and spears, with poison, ambushes, and Paralyzing Blow
-published: true
-date: 2026-11-24T09:51:08.364Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-24T08:17:35.845Z
----
-
 # Fencing
 Fencing is the skill of fighting with daggers, krysses, and spears. Every fencing weapon can be coated with [poison](/poisoning). The one-handed ones can [ambush](/ambush) from hiding, and the dagger backstabs hardest of all. Two-handed spears pin their targets in place with Paralyzing Blow instead.
 
@@ -37,7 +27,7 @@ Hits with these three weapons can train Arms Lore. Hits with daggers, krysses, a
 Every fencing weapon can be coated with poison, which uses one dose on each hit and can poison the target. Each swing with a poisoned weapon risks poisoning the wielder, less often with more Poisoning. See [Poisoned Weapons](/poisoning#poisoned-weapons).
 
 ## Ambush
-A fencer with a dagger, kryss, or war fork who attacks from [Hiding](/hiding) does `1.5×` damage, rising to `2.5×` and a hit that can't miss after `10` steps with [Stealth](/stealth). A dagger rises much faster, to `5.0×`. Two-handed spears are too long to strike with from hiding, so they never ambush. A melee attacker has to reach the target before the stealthed steps run out. See [Ambush](/ambush#stealth).
+A fencer with a dagger, kryss, or war fork who attacks from [Hiding](/hiding) does `1.5×` damage, rising to `2.5×` and a hit that can't miss after `10` steps with [Stealth](/stealth). A dagger rises much faster, to `5×`. Two-handed spears are too long to strike with from hiding, so they never ambush. A melee attacker has to reach the target before the stealthed steps run out. See [Ambush](/ambush#stealth).
 
 ## Manual Training
 

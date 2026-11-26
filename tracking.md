@@ -1,15 +1,5 @@
----
-title: Tracking
-description: Finding nearby creatures and players, and bonus accuracy with ranged weapons
-published: true
-date: 2026-11-20T09:26:48.733Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-20T09:26:48.733Z
----
-
 # Tracking
-Tracking is the skill of locating nearby animals, monsters, NPCs, and players. Trackers can select a target and follow its movements with a tracking arrow. Tracking also improves ranged accuracy, making it a valuable combat skill for archers.
+Tracking is the skill of locating nearby animals, monsters, NPCs, and players. Trackers can select a target and follow its movements with a tracking arrow. Tracking also improves accuracy with bows and crossbows.
 
 ## Finding Targets
 Using the Tracking skill searches the surrounding area. The tracker can choose between four categories:
@@ -34,9 +24,7 @@ Tracking range increases with skill. The search range starts at `10` tiles and i
 Tracking requires a successful skill check to find evidence of nearby targets.
 
 ## Archery Accuracy
-Tracking improves the accuracy of bows and crossbows. The skill helps an archer anticipate a target's movements and place shots more accurately.
-
-Tracking recovers a percentage of the accuracy missing from a guaranteed hit. At `100` Tracking, half of the missing accuracy is recovered against normal targets.
+Tracking improves the accuracy of bows and crossbows by recovering part of the accuracy missing from a guaranteed hit, up to half at `100` Tracking. Melee attacks get no Tracking bonus.
 
 | Tracking | Missing Accuracy Recovered (%) |
 |:-|:-:|
@@ -48,21 +36,10 @@ Tracking recovers a percentage of the accuracy missing from a guaranteed hit. At
 
 For example, an attack with a base hit chance of `60%` has `40%` missing accuracy. At `100` Tracking, half of that missing accuracy is recovered, resulting in an `80%` hit chance.
 
-| Base Hit Chance (%) | Hit Chance at 100 Tracking (%) |
-|:-|:-:|
-| 20 | 60 |
-| 40 | 70 |
-| 60 | 80 |
-| 80 | 90 |
-
-The bonus applies to ranged weapons only. Melee attacks receive no Tracking accuracy bonus.
-
 See [Archery](/archery) and [Combat: Hit Chance](/combat#hit-chance).
 
 ## Fleeing Targets
-Tracking gives an extra accuracy bonus against fleeing creatures. Experienced trackers can anticipate a fleeing creature's movements and land shots that would otherwise be difficult to hit.
-
-Against a fleeing creature, Tracking recovers a percentage of all missing accuracy equal to the tracker's Tracking skill.
+Against a creature that is fleeing, Tracking instead recovers a share of the missing accuracy equal to the tracker's Tracking skill. This replaces the normal bonus rather than stacking with it.
 
 | Tracking | Missing Accuracy Recovered (%) |
 |:-|:-:|
@@ -75,8 +52,6 @@ Against a fleeing creature, Tracking recovers a percentage of all missing accura
 At `100` Tracking, ranged attacks against fleeing creatures cannot miss.
 
 Only a monster that has turned to flee counts, not one that is moving away for any other reason.
-
-The fleeing bonus replaces the normal Tracking accuracy bonus rather than stacking with it.
 
 ## Manual Training
 

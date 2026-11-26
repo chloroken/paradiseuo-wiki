@@ -1,13 +1,3 @@
----
-title: Demibosses
-description: What demibosses are, their artifacts, and how to beat them
-published: true
-date: 2026-11-26T11:32:00.600Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-24T09:16:37.588Z
----
-
 # Demibosses
 Demibosses are powerful monsters found in [dungeons](/dungeons), built for groups of players but *conceivably* soloable. Each one rules its own lair, returns hours after it dies, and drops far more loot than an ordinary monster, including an artifact found nowhere else. They exist to give groups a reason to gather: a fight that takes planning and a mix of classes, with a reward worth sharing.
 
@@ -37,7 +27,7 @@ How the effects players can use work on each demiboss.
 | [Ambush](/ambush) | Bows, crossbows, fencing weapons, and knives | Up to 2.5× damage | Up to 2.5× damage | Up to 2.5× damage |
 | Damage spells | Magery | Resisting Spells 150 – 200 | Resisting Spells 100 – 110 | No Resisting Spells |
 | Mana Vampire | Magery | Resisted half to three quarters of the time at 100 Magery | Resisted about a quarter of the time at 100 Magery | No effect |
-| Paralyze | Magery | Can't cast until damage breaks it | Can't cast until damage breaks it | Can't attack until damage breaks it |
+| Paralyze | Magery | Can't move or cast until damage breaks it | Can't move or cast until damage breaks it | Can't move until damage breaks it, but still attacks anything in reach |
 | [Poison](/poison) | Poisoned weapons and spells | Immune | Poisoned, but it can cure itself | Immune |
 | Provocation, Peacemaking, and Discordance | Bard skills | No effect | No effect | No effect |
 

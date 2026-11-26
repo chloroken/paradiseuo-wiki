@@ -1,18 +1,8 @@
----
-title: Animal Taming
-description: Turning animals and monsters into pets, the taming penalty, and where to train
-published: true
-date: 2026-11-22T12:37:01.122Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-08T00:12:55.938Z
----
-
 # Animal Taming
 Animal tamers turn animals, and some monsters, into followers known as [pets](/pet).
 
 ## How to Tame
-When Animal Taming is used on a creature, the tamer will attempt to verbally recruit the creature to be a pet. After some time, if the tamer is still close enough, the creature is either tamed or rejects the effort and carries on. Once a creature is tamed, it is permanent, assuming they're taken care of. See [Follower: Loyalty](/follower#loyalty).
+When Animal Taming is used on a creature, the tamer tries to talk it into becoming a pet. After some time, if the tamer is still close enough, the creature is either tamed or rejects the effort and carries on. A tamed creature stays tamed as long as it's cared for. See [Follower: Loyalty](/follower#loyalty).
 
 ## Taming Penalty
 Taming a creature reduces its [skills](/skills), such as Magery, by `10%`. If it was paralyzed during the tick it was tamed, its skills are reduced by `14%` instead. Pets train their skills naturally, so this penalty can be recovered. See [Pet Training](/pet#pet-training).

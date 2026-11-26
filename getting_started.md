@@ -1,17 +1,7 @@
----
-title: Getting Started
-description: Where new players start, from installing the game to learning the commands
-published: true
-date: 2026-11-25T12:34:02.005Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-21T05:59:12.815Z
----
-
 # Getting Started
 New players start here: how to join *Paradise*, what protects new characters, and how to talk to the world.
 
-Also, new players should be familiar with the shard's [rules](/rules).
+New players should also read the shard's [rules](/rules).
 
 ## Joining
 - [Quickstart](/quickstart): install the game and the TazUO client, then log in.

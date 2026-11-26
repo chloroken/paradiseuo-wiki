@@ -1,13 +1,3 @@
----
-title: Herding
-description: Guiding animals with a shepherd's crook, and the shillelagh's bonk
-published: true
-date: 2026-11-25T02:37:39.940Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-24T08:17:37.686Z
----
-
 # Herding
 Herding is the skill of guiding creatures with a shepherd's crook. It also turns the crook into a shillelagh, which bonks for up to `10` times damage.
 
@@ -19,9 +9,9 @@ The chance depends on the animal's minimum taming skill. It rises evenly from `0
 On success, the herder sees *The animal walks where it was instructed to.* The animal walks straight toward the spot while it isn't fighting, and stops once it arrives or if it ends up more than `15` tiles away. A failure shows *You don't seem to be able to persuade that to move.*
 
 ## Shillelagh
-In a player's hands, a shepherd's crook becomes a shillelagh. The first crook hit that lands after a `9` second cooldown is a bonk, which multiplies the crook's damage roll by `1×`, plus `1×` for every full `10` Herding, up to `10×` at `90`. At `100` Herding, a bonk never misses. Below that, a missed bonk isn't used up, so the next hit that lands bonks instead. See [Weapon Effects: Shillelagh](/weapon_effects#shillelagh).
+In a player's hands, a shepherd's crook becomes a shillelagh. The first crook hit that lands after a `7` second cooldown is a bonk. It consumes `20%` of the attacker's current mana, up to `20`, and multiplies the crook's damage roll by `(Mana Consumed / 2) * (Herding / 100)`, up to `10×` with at least `100` mana and `100` Herding. At `100` Herding, a bonk never misses. Below that, a missed bonk isn't used up, so the next hit that lands bonks instead. See [Weapon Effects: Shillelagh](/weapon_effects#shillelagh).
 
-The crook uses [Mace Fighting](/mace_fighting) to hit and defend. Herding adds no damage to the crook's other hits. At `100` Herding, a crook bonks about every fourth swing and does most of a sword's damage over time. See [Damage Per Second: Staves](/dps#staves).
+The crook uses [Mace Fighting](/mace_fighting) to hit and defend. Herding adds no damage to the crook's other hits. At `100` Herding, a crook bonks about every third swing. With full mana for every bonk, it does about as much damage over time as a sword, but mana rarely refills that fast. See [Damage Per Second: Staves](/dps#staves).
 
 A bonk that can't miss also skips that swing's chance to raise Mace Fighting.
 
@@ -29,16 +19,16 @@ The Shepherd class is built around the shillelagh. See [Character: Classes](/cha
 
 ## Manual Training
 
-| Level | Creature | Location |
-|:-|:-:|:-:|:-:|
-| 1-30 | Sheep | Moonglow Zoo |
-| 30-50 | Polar bear | Moonglow Zoo |
-| 50-70 | Snow leopard | Moonglow Zoo |
-| 70-90 | Bull | Moonglow Zoo |
-| 90-100 | Giant Frog | Moonglow Zoo
+| Herding | Creature | Location |
+|:-|:-:|:-:|
+| 0 – 30 | Sheep | Moonglow Zoo |
+| 30 – 50 | Polar bear | Moonglow Zoo |
+| 50 – 70 | Snow leopard | Moonglow Zoo |
+| 70 – 90 | Bull | Moonglow Zoo |
+| 90 – 100 | Giant frog | Moonglow Zoo |
 
 ## Macro Training
-Double click the creature you want to train on, then loop:
+Before running the macro, the herder double-clicks the creature to train on so it becomes the `Last Target`. The macro then loops:
 - `Use Item In Hand`
 - `Wait For Target`
 - `Last Target`
@@ -46,4 +36,4 @@ Double click the creature you want to train on, then loop:
 - `Last Target`
 - `Delay 1000 ms`
 
-This works because herding a creature to itself targets the ground under it. It takes 30-60 minutes to grandmaster from scratch.
+This works because herding a creature to itself targets the ground under it. It takes `30` to `60` minutes to reach grandmaster from scratch.

@@ -1,13 +1,3 @@
----
-title: Combat
-description: Hit chance, swing speed, damage, and Valor, the warrior's virtue
-published: true
-date: 2026-11-25T01:19:29.620Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-19T00:05:40.279Z
----
-
 # Combat
 This page covers how [often attacks land](#hit-chance), how [fast they come](#swing-speed), and how much [damage they do](#damage).
 
@@ -57,7 +47,7 @@ Every attack, hit or miss, has a chance to raise the attacker's weapon skill.
 
 Two things can raise hit chance beyond skill:
 - Valor adds to the attacker's weapon skill for this roll.
-- Stealth archers gain accuracy for every stealthed step before an ambush, until the shot can't miss. See [Archery](/archery).
+- Ambushers gain accuracy for every stealthed step before the attack, until it can't miss. See [Ambush](/ambush#stealth).
 
 ## Damage
 Every weapon rolls its base damage, which is then changed in two steps.
