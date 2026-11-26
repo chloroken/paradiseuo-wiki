@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-26T11:16:17.287Z
+date: 2026-11-26T11:37:08.397Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -31,6 +31,7 @@ Changes to *Paradise*, newest first.
     - Add a switch puzzle to the floor 3 necropolis that reveals a piece of lore
 - Add a door switch to each mage tower on floor 3 of [Shame](/shame)
 - Lower the number of elementals on floor 2 of Shame
+- Make [silver](/magic_weapons#silver) weapons do double damage to the Lich King and the Forgotten One, like other undead
 ## 2026.11.25
 - Remove the pet and summon damage penalties against monsters, so all followers deal and take normal damage
 - Make demibosses do double damage to hirelings, like pets and summons
