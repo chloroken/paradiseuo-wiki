@@ -35,7 +35,7 @@ Only players land weapon effects. Hits with every Mace Fighting weapon except th
 Carpentry adds up to `15%` damage to black, gnarled, and quarter staves, for players only. Staves take both hands, so they can't be used with a wooden shield. See [Weapons: Scaling Skills](/weapons#scaling-skills).
 
 ## Shillelagh
-The first shepherd's crook hit that lands after a `7` second cooldown bonks for up to `10×` the crook's damage roll, depending on Herding and the attacker's mana. At `100` Herding, a bonk never misses. The crook never lands a Crushing Blow and doesn't need Arms Lore. See [Weapon Effects: Shillelagh](/weapon_effects#shillelagh).
+The first shepherd's crook hit after a `7` second cooldown bonks for up to `10×` the crook's damage roll, depending on Herding, [Magery](/magery), and the attacker's mana. A bonk never misses, and a hit with any other weapon restarts the cooldown. The crook never lands a Crushing Blow and doesn't need Arms Lore. See [Weapon Effects: Shillelagh](/weapon_effects#shillelagh).
 
 ## Manual Training
 

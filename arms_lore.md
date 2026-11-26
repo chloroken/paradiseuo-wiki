@@ -1,13 +1,3 @@
----
-title: Arms Lore
-description: Controls weapon effects, and judges the condition and quality of weapons and armor
-published: true
-date: 2026-11-24T07:46:03.011Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-24T07:26:02.530Z
----
-
 # Arms Lore
 Arms Lore is the knowledge of weapons and armor. It controls the [weapon effects](/weapon_effects) that make each weapon type distinct, and it can judge the condition and quality of a weapon or piece of armor.
 
@@ -25,7 +15,7 @@ At `50` Arms Lore, each chance is halved, and one-handed maces sap half as much 
 
 ### Effects Without Arms Lore
 Some effects don't use Arms Lore at all:
-- The shepherd's crook's [shillelagh](/weapon_effects#shillelagh) scales with [Herding](/herding).
+- The shepherd's crook's [shillelagh](/weapon_effects#shillelagh) scales with [Herding](/herding) and [Magery](/magery).
 - Polearms' [Concussion Blow](/weapon_effects#concussion-blow) uses [Anatomy](/anatomy), on `25%` of hits at `100`.
 - Wrestling's [stun](/weapon_effects#stun) needs Wrestling and Anatomy.
 - [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects.

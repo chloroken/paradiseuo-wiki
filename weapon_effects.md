@@ -11,10 +11,10 @@ Weapon effects are largely scaled by [Arms Lore](/arms_lore) in the form of trig
 | [Crushing Blow](#crushing-blow) | Reduces enemy attack speed | Two-handed maces, staves | Arms Lore / 400 | Monsters |
 | Crushing Blow (secondary effect) | Splash damage hits everything within a tile | Two-handed maces | Blacksmithing / 100 | Monsters |
 | [Paralyzing Blow](#paralyzing-blow) | Freezes enemy | Pitchforks, short spears, spears | Arms Lore / 400 | Anything |
-| [Shillelagh](#shillelagh) | Up to 10× damage | Shepherd's crook | First hit after a 7 second cooldown, scaled by Herding and mana, no Arms Lore needed | Anything |
+| [Shillelagh](#shillelagh) | Up to 10× damage | Shepherd's crook | First hit after a 7 second cooldown, scaled by Herding, Magery, and mana, no Arms Lore needed | Anything |
 | [Stun](#stun) | Freezes enemy | Fists | (Wrestling + Anatomy) / 400, no Arms Lore needed | Anything |
 
-Crushing Blow and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Four effects don't use Arms Lore: Concussion Blow uses [Anatomy](/anatomy), Crushing Blow's secondary effect uses Blacksmithing, the shillelagh scales with [Herding](/herding), and stun needs Wrestling and Anatomy. [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
+Crushing Blow and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Four effects don't use Arms Lore: Concussion Blow uses [Anatomy](/anatomy), Crushing Blow's secondary effect uses Blacksmithing, the shillelagh scales with [Herding](/herding) and [Magery](/magery), and stun needs Wrestling and Anatomy. [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
 
 ## Critical Strikes
 Swords can land a critical strike, which doubles the weapon's own damage before armor. A magic or exceptional weapon's bonus damage is added once, not doubled. See [Magic Weapons: Modifiers](/magic_weapons#modifiers). Each sword has its own chance, scaled by Arms Lore, so `50` Arms Lore gives half the chance shown below. The chances are set so every sword does about the same damage over time, and the slowest swords hit in the biggest bursts.
@@ -55,22 +55,27 @@ Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes t
 Everyone nearby sees *\*looks stuck\** over the target.
 
 ## Shillelagh
-With at least `0.1` Herding, the first shepherd's crook hit that lands after a `7` second cooldown is a shillelagh, or bonk. A missed swing doesn't use it up. A bonk reaches `2` tiles, or `3` above `50` Herding, and at `100` Herding it never misses.
+With at least `0.1` Herding, the first shepherd's crook hit after a `7` second cooldown is a shillelagh, or bonk. A bonk never misses. It reaches `2` tiles, or `3` above `50` Herding.
 
-A bonk consumes `20%` of the attacker's current mana, up to `20`. The crook's damage roll is then multiplied by `(Mana Consumed / 2) * (Herding / 100)`, so with less mana, the bonk does much less. A bonk reaches its maximum of `10×` with at least `100` mana and `100` Herding. When the cooldown ends, the attacker sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
+A bonk consumes `20%` of the attacker's current mana, up to `20`. The crook's damage roll is then multiplied by `(Mana Consumed / 2) * (Herding / 100) * (Magery / 100)`, so with less mana, Herding, or Magery, the bonk does much less. It never drops below `1×`, so a bonk always does at least as much as a normal hit. It reaches its maximum of `10×` with at least `100` mana, `100` Herding, and `100` Magery.
 
-| Herding | Mana Consumed | Bonk Damage |
-|:-|:-:|:-:|
-| 50 | 5 mana | 1.25× |
-| 50 | 10 mana | 2.5× |
-| 50 | 20 mana | 5× |
-| 100 | 5 mana | 2.5× |
-| 100 | 10 mana | 5× |
-| 100 | 20 mana | 10× |
+Magery counts only base skill, like [Valor](/valor), so the Magery that strengthens a bonk weakens Valor by the same share. When the cooldown ends, an attacker with a crook in hand or in their backpack sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
 
+| Herding | Magery | Mana Consumed | Bonk Damage |
+|:-|:-:|:-:|:-:|
+| 100 | 100 | 20 | 10× |
+| 100 | 100 | 10 | 5× |
+| 100 | 100 | 5 | 2.5× |
+| 100 | 50 | 20 | 5× |
+| 50 | 100 | 20 | 5× |
+| 100 | 0 | 20 | 1× |
+| 100 | 100 | 1 | 1× |
+
+- A hit with any other weapon, bare hands included, restarts the cooldown. Spells, missed swings, and equipping a crook don't.
+- A character in war mode with empty hands punches anything next to them, and each punch that lands restarts the cooldown. Staying out of reach or switching to peace mode avoids this.
 - The multiplier applies to the crook's damage roll, before Tactics, Strength, and Anatomy.
 - A magic or exceptional crook's bonus damage isn't multiplied by a bonk. It's added once, after.
-- Otherwise a bonk is a normal hit. Armor and shields reduce its damage.
+- Otherwise a bonk is a normal hit. Armor and shields reduce its damage, and it can raise Mace Fighting.
 - The cooldown belongs to the player, so switching crooks doesn't reset it.
 
 ## Stun

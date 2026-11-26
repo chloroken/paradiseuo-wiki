@@ -22,6 +22,12 @@ Changes to *Paradise*, newest first.
 - Add a door switch to each mage tower on floor 3 of [Shame](/shame)
 - Lower the number of elementals on floor 2 of Shame
 - Cap the shillelagh's bonk at `10×` damage and `20` mana
+- [Shillelagh](/weapon_effects#shillelagh):
+    - Scale bonk damage with [Magery](/magery), so a bonk reaches `10×` only at `100` Magery
+    - Never let a bonk do less than `1×` damage
+    - Restart the bonk cooldown on any hit with another weapon or bare hands
+    - Train Mace Fighting on bonks instead of Herding
+    - Only hum for players with a crook in hand or in their backpack
 - Make magic and exceptional weapon damage flat, so critical strikes, ambushes, and bonks only multiply the weapon's own roll
 - Make [silver](/magic_weapons#silver) weapons do double damage to the Lich King and the Forgotten One, like other undead
 ## 2026.11.25
