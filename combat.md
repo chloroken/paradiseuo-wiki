@@ -69,6 +69,8 @@ Lumberjacking, Carpentry, and Mining only add damage for players. Each grows eve
 
 A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` times the weapon's base damage. With an exceptional weapon, that rises to `1.5 * 1.7 = 2.55` times, and with an exceptional axe and `100` Lumberjacking, to `1.5 * 2.0 = 3` times.
 
+Magic and exceptional bonuses are modifiers, and their damage is flat: critical strikes, ambushes, and bonks multiply only the weapon's own roll. See [Magic Weapons: Modifiers](/magic_weapons#modifiers).
+
 A worn-out weapon does less damage, down to half when it's about to break.
 
 Melee damage between players is halved, and so is melee damage from a player's [follower](/follower) to another player. Every other hit between players and monsters does full damage, so monsters hit players twice as hard as on most ServUO shards.

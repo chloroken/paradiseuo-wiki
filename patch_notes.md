@@ -22,6 +22,7 @@ Changes to *Paradise*, newest first.
 - Add a door switch to each mage tower on floor 3 of [Shame](/shame)
 - Lower the number of elementals on floor 2 of Shame
 - Cap the shillelagh's bonk at `10×` damage and `20` mana
+- Make magic and exceptional weapon damage flat, so critical strikes, ambushes, and bonks only multiply the weapon's own roll
 - Make [silver](/magic_weapons#silver) weapons do double damage to the Lich King and the Forgotten One, like other undead
 ## 2026.11.25
 - Remove the pet and summon damage penalties against monsters, so all followers deal and take normal damage

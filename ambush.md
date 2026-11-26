@@ -43,6 +43,8 @@ A dagger is the backstabber's weapon. It does little damage in a long fight, but
 
 These are before armor, with a regular, non-magic weapon. Ambushing from Hiding alone, without Stealth, does `1.5×` with any weapon, daggers included.
 
+An ambush multiplies only the weapon's own damage roll. A magic or exceptional weapon's bonus damage is added once, not multiplied. See [Magic Weapons: Modifiers](/magic_weapons#modifiers).
+
 ## Restrictions
 - Only the Hiding skill counts. Hiding with the [Invisibility](/invisibility) spell or an [invisibility potion](/invisibility_potion) won't trigger an ambush.
 - Hiding must be used before Stealth, or stealthed steps don't count.

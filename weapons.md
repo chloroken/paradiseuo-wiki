@@ -1,13 +1,3 @@
----
-title: Weapons
-description: Every weapon type, its skill, its weapon effect, and magic weapons
-published: true
-date: 2026-11-24T12:52:18.356Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-18T23:29:24.473Z
----
-
 # Weapons
 Each type of weapon is trained with its own skill, and most types have an effect of their own. Hit chance, swing speed, and damage work the same way for every weapon. See [Combat](/combat).
 
@@ -56,4 +46,4 @@ Some gathering and crafting skills make their own weapons hit harder. Each bonus
 Fencing weapons and knives can be coated with poison, which can poison the target on a hit, but risks poisoning a wielder without Poisoning. See [Poisoning](/poisoning).
 
 ## Magic Weapons
-Weapons found as loot can be magic, with bonuses to damage, accuracy, or durability, and some are silver. See [Magic Weapons](/magic_weapons).
+Weapons can have modifiers: magic properties from loot, such as bonus damage, accuracy, durability, or silver, or exceptional quality from crafting, never both. See [Magic Weapons: Modifiers](/magic_weapons#modifiers).

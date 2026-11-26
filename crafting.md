@@ -1,13 +1,3 @@
----
-title: Crafting
-description: Every crafting skill, its tools and resources, success chances, and exceptional items
-published: true
-date: 2026-11-21T06:22:58.400Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-19T00:05:59.693Z
----
-
 # Crafting
 Crafters turn gathered resources into weapons, armor, clothing, furniture, potions, scrolls, and more. Each crafting skill needs its own tool, which opens a menu of everything that skill can make. Items with their own pages are listed on [Items](/items).
 
@@ -37,10 +27,10 @@ Every item has a minimum and a maximum skill. Below the minimum it can't be made
 Every attempt, success or failure, has a chance to raise the crafting skill, as long as the crafter's skill is between the item's minimum and maximum. A failed attempt can use up some of the resources.
 
 ## Exceptional Items
-Weapons, armor, clothing, furniture, and other gear can come out exceptional. Every other crafted item is regular quality. Magic weapons only come from loot and are always regular quality, so a weapon can't be both exceptional and magic. See [Magic Weapons](/magic_weapons).
+Weapons, armor, clothing, furniture, and other gear can come out exceptional. Every other crafted item is regular quality. Exceptional quality is a modifier, like the magic properties found on loot, and a weapon can't have both. See [Magic Weapons: Modifiers](/magic_weapons#modifiers).
 
 An exceptional item gets these bonuses:
-- Weapons do `20%` more damage. See [Combat: Damage](/combat#damage).
+- Weapons do `20%` more damage. The extra damage is flat, so critical strikes, ambushes, and bonks don't multiply it. See [Combat: Damage](/combat#damage).
 - Armor gets `8` more armor rating. See [Armor](/armor).
 - Weapons and armor last `20%` longer before breaking.
 

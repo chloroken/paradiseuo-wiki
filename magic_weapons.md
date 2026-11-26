@@ -1,15 +1,12 @@
----
-title: Magic Weapons
-description: Damage, accuracy, durability, and silver properties on looted weapons
-published: true
-date: 2026-11-24T03:30:00.000Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-24T03:30:00.000Z
----
-
 # Magic Weapons
-Weapons found as loot can be magic. A magic weapon can have a damage, accuracy, and durability property, each in five strengths, and can also be [silver](#silver). Magic weapons only come from loot and are always regular quality, so a weapon can't be both magic and exceptional. See [Crafting: Exceptional Items](/crafting#exceptional-items).
+Weapons found as loot can be magic. Magic is one of the two kinds of modifiers a weapon can have.
+
+## Modifiers
+A weapon can have modifiers of two kinds, never both on the same weapon:
+- Magic modifiers come only from loot: damage, accuracy, and durability, each in five strengths. A magic weapon can also be [silver](#silver).
+- The exceptional modifier comes only from crafting. An exceptional weapon does `20%` more damage and lasts `20%` longer, and exceptional armor gets `8` more armor rating. See [Crafting: Exceptional Items](/crafting#exceptional-items).
+
+A modifier's damage is a flat amount. [Critical strikes](/weapon_effects#critical-strikes), [ambushes](/ambush), and shillelagh bonks multiply only the weapon's own damage roll, then add the modifier's damage once. Silver is the exception: it doubles the whole finished hit against the undead.
 
 ## Damage
 | Property | Base Damage Bonus |
@@ -20,7 +17,7 @@ Weapons found as loot can be magic. A magic weapon can have a damage, accuracy, 
 | Power | +7 |
 | Vanquishing | +9 |
 
-The bonus is added to the weapon's base damage before Tactics, Strength, and Anatomy, so a fighter with `100` in all three gets `2.25` times the bonus. Fast weapons gain the most, since they hit more often. A crossbow only adds the bonus to the first bolt of each volley. A [critical strike](/weapon_effects#critical-strikes) doubles the whole hit, bonus included, but a [shillelagh](/weapon_effects#shillelagh) bonk only multiplies the crook's own damage roll and adds the bonus once.
+The bonus is added to the weapon's base damage before Tactics, Strength, and Anatomy, so a fighter with `100` in all three gets `2.25` times the bonus. Fast weapons gain the most, since they hit more often. A crossbow only adds the bonus to the first bolt of each volley. Like every modifier, it isn't multiplied by critical strikes, ambushes, or bonks. See [Modifiers](#modifiers).
 
 ## Accuracy
 | Property | Weapon Skill Bonus |

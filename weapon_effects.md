@@ -17,7 +17,7 @@ Weapon effects are largely scaled by [Arms Lore](/arms_lore) in the form of trig
 Crushing Blow and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Four effects don't use Arms Lore: Concussion Blow uses [Anatomy](/anatomy), Crushing Blow's secondary effect uses Blacksmithing, the shillelagh scales with [Herding](/herding), and stun needs Wrestling and Anatomy. [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
 
 ## Critical Strikes
-Swords can land a critical strike, which doubles the hit's damage before armor, including a magic weapon's damage bonus. Each sword has its own chance, scaled by Arms Lore, so `50` Arms Lore gives half the chance shown below. The chances are set so every sword does about the same damage over time, and the slowest swords hit in the biggest bursts.
+Swords can land a critical strike, which doubles the weapon's own damage before armor. A magic or exceptional weapon's bonus damage is added once, not doubled. See [Magic Weapons: Modifiers](/magic_weapons#modifiers). Each sword has its own chance, scaled by Arms Lore, so `50` Arms Lore gives half the chance shown below. The chances are set so every sword does about the same damage over time, and the slowest swords hit in the biggest bursts.
 
 | Sword | Critical Strike Chance (%)<br>at 100 Arms Lore |
 |:-|:-:|
@@ -69,7 +69,7 @@ A bonk consumes `20%` of the attacker's current mana, up to `20`. The crook's da
 | 100 | 20 mana | 10× |
 
 - The multiplier applies to the crook's damage roll, before Tactics, Strength, and Anatomy.
-- A [magic](/magic_weapons) crook's damage bonus is not multiplied by bonk, it's added after.
+- A magic or exceptional crook's bonus damage isn't multiplied by a bonk. It's added once, after.
 - Otherwise a bonk is a normal hit. Armor and shields reduce its damage.
 - The cooldown belongs to the player, so switching crooks doesn't reset it.
 
