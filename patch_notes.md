@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-26T18:29:32.011Z
+date: 2026-11-26T18:34:48.307Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -208,7 +208,7 @@ Changes to *Paradise*, newest first.
     - Lower cyclops damage to `7` to `17`
 
 ## 2026.11.20
-- Rename Antimage to [Valor](/combat#valor), the warrior's virtue from Ultima lore
+- Rename Antimage to [Valor](/valor), the warrior's virtue from Ultima lore
 - Tune Valor so each bonus comes from a skill, not just by not having Magery:
     - Tactics still passively adds up to `30` points of weapon skill
     - Parrying passively reduces physical damage taken by up to `20%`, before armor reductions
