@@ -2,14 +2,14 @@
 title: Demibosses
 description: What demibosses are, their artifacts, and how to beat them
 published: true
-date: 2026-11-26T11:12:27.618Z
+date: 2026-11-26T11:20:15.015Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T09:16:37.588Z
 ---
 
 # Demibosses
-Demibosses are powerful monsters unique to *Paradise*, built for groups of players. Each one rules its own lair, returns hours after it dies, and drops far more loot than an ordinary monster, including an artifact found nowhere else. They exist to give groups a reason to gather: a fight that takes planning and a mix of classes, with a reward worth sharing.
+Demibosses are powerful monsters found in [dungeons](/dungeons), built for groups of players but *conceivably* soloable. Each one rules its own lair, returns hours after it dies, and drops far more loot than an ordinary monster, including an artifact found nowhere else. They exist to give groups a reason to gather: a fight that takes planning and a mix of classes, with a reward worth sharing.
 
 Demibosses don't always follow the rules of other [monsters](/monsters). They walk around obstacles to reach their target, and their melee hits and most of their spells do double damage to followers.
 
