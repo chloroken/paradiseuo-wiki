@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-26T15:18:40.331Z
+date: 2026-11-26T15:42:46.620Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -50,6 +50,7 @@ Changes to *Paradise*, newest first.
   - Allow shillelagh to train Mace Fighting on guaranteed hits
   - Play sound/visual effects for shillelagh bonks
   - Allow meditation with a shepherd's crook
+- Make [robes](/meditation#robes) shorten the delay between mana points outside a trance for tailors wearing no armor, by up to `25%` at `100` Tailoring
 
 ## 2026.11.24
 - Rework the [classes](/character#classes), adding classes built around scaling skills, the shillelagh, and melee ambushes
