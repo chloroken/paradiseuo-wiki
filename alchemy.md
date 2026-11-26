@@ -2,7 +2,7 @@
 title: Alchemy
 description: Brewing potions from reagents, every potion's recipe, and what each one does
 published: true
-date: 2026-11-26T15:17:42.860Z
+date: 2026-11-26T15:44:04.803Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T05:14:48.220Z
@@ -47,7 +47,7 @@ Even a grandmaster alchemist only brews deadly poison `20%` of the time.
 ### Healing
 Heal potions restore hit points, with an extra `Alchemy / 10` hit points for alchemists. After drinking one, another heal potion can't be drunk for `10` seconds.
 
-| Potion | Hit Points<br>Healed | Grandmaster<br>Alchemist |
+| Potion | Hit Points<br>Healed | With 100<br>Alchemy |
 |:-|:-:|:-:|
 | Lesser heal | 3 – 10 | 13 – 20 |
 | Heal | 6 – 20 | 16 – 30 |
