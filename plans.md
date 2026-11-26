@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-26T12:37:42.396Z
+date: 2026-11-26T15:17:59.490Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -30,7 +30,6 @@ dateCreated: 2026-11-22T12:00:49.987Z
 Skills should have adventure potential, or some aspect that makes them not feel "useless" to take on a main character suitable for dungeon diving.
 
 These skills have an obvious way to add adventure potential:
-- Alchemy (more healing from potions)
 - Cooking (food buff, or eating heals you?)
 - Tailoring (cloth gives small absorb based on inscription)
 - Tinkering (spider drone toy?)
@@ -49,6 +48,7 @@ These skills don't have an obvious way to add adventure potential:
 - Remove Trap
 
 These skills had adventure potential added or enhanced:
+- Alchemy (more healing/damage from potions)
 - Blacksmithing (more 1h mace dmg)
 - Carpentry (more staff dmg, more wood shield armor)
 - Fletching (Up to +2 range, half the delay before shooting after moving, more ammunition recovered)
