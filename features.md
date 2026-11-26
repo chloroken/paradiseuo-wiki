@@ -2,7 +2,7 @@
 title: Features
 description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-26T13:16:41.026Z
+date: 2026-11-26T13:35:55.455Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
