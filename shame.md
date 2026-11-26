@@ -2,7 +2,7 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-26T08:13:37.576Z
+date: 2026-11-26T08:16:00.513Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
@@ -22,7 +22,7 @@ But it wasn't just miners interested in Shame. A band of evil mages, outcast fro
 Floor 1 is filled with scorpions, earth elementals, and the skeletons of miners still haunting their forgotten campsites. It is trapped with saw traps and spike traps.
 
 ## Floor 2
-Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors. Skeletons are all that remain of those who tried to stay. It is trapped with spike traps and saw traps.
+Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors. Skeletons are all that remain of those who tried to stay. Spike traps and saw traps line its paths.
 
 ## Floor 3
 A variety of creatures fill the nooks and crannies of floor 3: air, fire, water, and earth elementals, giant spiders, scorpions, sea serpents, and skeletons. It is the most heavily trapped floor in Shame, with saw traps, spike traps, and gas traps. A secret door hides in its walls.
