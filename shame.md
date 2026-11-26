@@ -21,20 +21,11 @@ But it wasn't just miners interested in Shame. A band of evil mages, outcast fro
 ## Floor 1
 Floor 1 is filled with scorpions, earth elementals, and the skeletons of miners still haunting their forgotten campsites.
 
-- Traps: none
-- [Dungeon chests](/lockpicking#dungeon-chests): `9` level 1 and `9` level 2
-
 ## Floor 2
 Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors. Skeletons are all that remain of those who tried to stay.
 
-- Traps: spike traps and saw traps
-- Dungeon chests: `1` level 1, `3` level 2, and `3` level 3
-
 ## Floor 3
-A variety of creatures fill the nooks and crannies of floor 3: air, fire, water, and earth elementals, giant spiders, scorpions, sea serpents, and skeletons. Secret doors hide in its walls.
-
-- Traps: saw traps, spike traps, and gas traps
-- Dungeon chests: `1` level 1, `11` level 2, `11` level 3, and `1` level 4, none of them in the fortress
+A variety of creatures fill the nooks and crannies of floor 3: air, fire, water, and earth elementals, giant spiders, scorpions, sea serpents, and skeletons.
 
 ### Towers
 Two towers flank the entrance to floor 3. Deranged evil mages, evil mage lords, and slimes guard them. A magical teleporter joins the towers, guarded by poison elementals.
@@ -49,5 +40,31 @@ A single tower stands on floor 4, home to skeletons and bone magi. The bone magi
 
 A series of ropes, starting at a pair of red braziers on the shore, carries adventurers to most of the islands in the lagoon. At the center of the water drifts the Greater Elemental, surrounded by water elementals and krakens. Could it be the source of the mages' failures?
 
-- Traps: mushroom traps
-- Dungeon chests: `4` level 1, `5` level 2, `5` level 3, and `4` level 4
+## Traps
+| Floor | Traps |
+|:-|:-:|
+| 1 | None |
+| 2 | Spike traps and saw traps |
+| 3 | Saw traps, spike traps, and gas traps |
+| 4 | Mushroom traps |
+
+## Curiosities
+
+### Dye Tub
+A dye tub left behind in one of the miners' camps on floor 1 still works.
+
+### Tower Switches
+Each mage tower on floor 3 has a switch that plays a trick on the tower's doors.
+
+### Secret Doors
+Floor 3 has a secret door.
+
+## Treasure
+Dungeon chests spawn on every floor of Shame except the fortress. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
+
+| Floor | Level 1 | Level 2 | Level 3 | Level 4 |
+|:-|:-:|:-:|:-:|:-:|
+| 1 | 9 | 9 | 0 | 0 |
+| 2 | 1 | 3 | 3 | 0 |
+| 3 | 1 | 11 | 11 | 1 |
+| 4 | 4 | 5 | 5 | 4 |

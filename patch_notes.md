@@ -10,6 +10,23 @@ dateCreated: 2026-11-04T19:38:55.944Z
 
 # Patch Notes
 Changes to *Paradise*, newest first.
+## 2026.11.26
+- Refresh [Deceit](/deceit):
+    - Rework spawns so each floor grows more dangerous, from skeletons and zombies on floor 1 to liches and lich lords on floor 4
+    - Add `7` summoning braziers that call a random Deceit monster, with a `5` minute cooldown
+    - Make summoned monsters vanish `1` hour after they are summoned
+    - Give the levers on floor 2 and the switch over the floor 4 bone pit surprise effects
+    - Remove the hidden teleporters from floor 4 to Despise and Fire
+    - Add demiboss to floor 3
+- Add the [Forgotten One](/forgotten_one), a demiboss locked away on floor 3 of Deceit:
+    - Built for tanks, with `15,000` to `20,000` hit points, a fast poisoning melee attack, and low damage
+    - Reached only through the pit on floor 4
+    - Give every Deceit summoning brazier a `0.1%` chance to call him instead
+- Refresh [Covetous](/covetous):
+    - Add skeletons to floor 1, replacing a few harpies and stone harpies
+    - Add a switch puzzle to the floor 3 necropolis that reveals a piece of lore
+- Add a door switch to each mage tower on floor 3 of [Shame](/shame)
+- Lower the number of elementals on floor 2 of Shame
 ## 2026.11.25
 - Remove the pet and summon damage penalties against monsters, so all followers deal and take normal damage
 - Make demibosses do double damage to hirelings, like pets and summons

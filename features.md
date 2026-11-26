@@ -111,3 +111,4 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 - Monsters hit players with attacks much harder than other shards.
 - Followers take double damage from demibosses. See [Follower: Followers in Combat](/follower#followers-in-combat).
 - Starting items aren't protected, so they drop on death once a character is no longer Young. See [Young Player](/young_player#losing-young-status).
+- Dungeons hide curiosities, such as the summoning braziers of Deceit, which call random monsters from the dark. See [Deceit: Summoning Braziers](/deceit#summoning-braziers).

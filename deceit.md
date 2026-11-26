@@ -15,39 +15,37 @@ Deceit is a [dungeon](/dungeons) on Dagger Isle with four floors. The restless d
 Deceit lies on Dagger Isle in the frozen north of Britannia, and it is bound to the virtue of [Honesty](https://wiki.ultimacodex.com/wiki/Honesty). The Avatar once braved its depths for the [Blue Stone of Honesty](https://wiki.ultimacodex.com/wiki/Virtue_Stones). Since then the dead have claimed it. Liches tend the braziers that their masters once used to call servants from the grave. The braziers still burn for anyone who lights them, and what they summon serves no one.
 
 ## Floor 1
-Skeletons and zombies shamble through floor 1. A summoning brazier sits in the main hall. On the lower level, a skeleton prison holds a mass of skeletons, overseen by a bone knight. Water elementals rise from the pools, and a wraith guards the stairs to floor 2. Secret doors hide in its walls.
-
-- Traps: fire-breathing stone faces, spike traps, saw traps, and gas traps
-- [Dungeon chests](/lockpicking#dungeon-chests): `1` level 2 and `2` level 3
+Skeletons and zombies shamble through floor 1. On the lower level, a skeleton prison holds a mass of skeletons, overseen by a bone knight. Water elementals rise from the pools, and a wraith guards the stairs to floor 2.
 
 ## Floor 2
-Skeletons, zombies, ghouls, shades, and wraiths roam floor 2. A water elemental lurks in the pool. Bone and skeletal magi protect a summoning brazier. A magical teleporter to floor 3 is guarded by a lich and bone and skeletal knights and magi. Secret doors hide in its walls.
-
-Levers stand throughout floor 2: a door lever, a lever that may summon skeletons, and a lever behind the stone faces that is there for flavor.
-
-- Traps: fire-breathing stone faces
-- Dungeon chests: `1` level 2 and `2` level 3
+Skeletons, zombies, ghouls, shades, and wraiths roam floor 2. A water elemental lurks in the pool. Bone and skeletal magi gather in a ritual chamber. A magical teleporter to floor 3 is guarded by a lich and bone and skeletal knights and magi.
 
 ## Floor 3
-Skeletons, ghouls, shades, spectres, and wraiths fill floor 3. Liches performing rituals and experiments can be found all over. Fountains make water elementals, and poison elementals emanate from toxic pools. In the furthest chamber are two summoning braziers and the stairs to floor 4.
+Skeletons, ghouls, shades, spectres, and wraiths fill floor 3. Liches performing rituals and experiments can be found all over. Fountains make water elementals, and poison elementals emanate from toxic pools. The furthest chamber holds the stairs to floor 4.
 
-A locked room on this floor holds the [Forgotten One](/forgotten_one).
-
-- Traps: saw traps, spike traps, and gas traps
-- Dungeon chests: `1` level 2 and `2` level 3
+A locked room on this floor holds the [Forgotten One](/forgotten_one), a [demiboss](/demibosses) with `15,000` to `20,000` hit points who returns `12` to `24` hours after he dies.
 
 ## Floor 4
-Skeletons crowd every corner of floor 4, and there's a bone pit brimming with them. A conspicuous switch looms over the pit, and it may have sinister purposes. Fire elementals burn in a hall with lava pits. Secret doors hide in its walls.
+Skeletons crowd every corner of floor 4, and there's a bone pit brimming with them. Fire elementals burn in a hall with lava pits.
 
-The deepest chamber is the lich lord room, where liches and lich lords gather around three summoning braziers, seemingly experimenting on a silver serpent.
+The deepest chamber is the lich lord room, where liches and lich lords gather, seemingly experimenting on a silver serpent.
 
 The pit in floor 4's entrance room drops into the Forgotten One's room on floor 3. It is the only way in, so anyone who leaves the room has to fight back down through the dungeon to return to the fight.
 
-- Traps: saw traps, mushroom traps, spike traps, and gas traps
-- Dungeon chests: `1` level 2, `3` level 3, and `2` level 4
+## Traps
+| Floor | Traps |
+|:-|:-:|
+| 1 | Fire-breathing stone faces, spike traps, saw traps, and gas traps |
+| 2 | Fire-breathing stone faces |
+| 3 | Saw traps, spike traps, and gas traps |
+| 4 | Saw traps, mushroom traps, spike traps, and gas traps |
 
-## Summoning Braziers
-Seven ancient summoning braziers burn in Deceit: one on floor 1, one on floor 2, two on floor 3, and three in the lich lord room on floor 4.
+On floor 4, most of the traps are in the lich lord room.
+
+## Curiosities
+
+### Summoning Braziers
+Seven ancient summoning braziers burn in Deceit: one in the main hall of floor 1, one in the ritual chamber of floor 2, two in the furthest chamber of floor 3, and three in the lich lord room on floor 4.
 
 Double-clicking a brazier from within `2` tiles lights it with *\*The brazier burns with dark energy\**. After `2` seconds, a monster appears beside it, *\*summoned from the brazier\**. If there is no room nearby, the summoning fails. The brazier then lies dormant for `5` minutes, even if the summoning failed.
 
@@ -62,5 +60,20 @@ Every summoning also has a `0.1%` chance to call the Forgotten One instead, on a
 
 Summoned monsters belong to no one. They attack anyone nearby, wander the dungeon like any other monster, and drop their normal loot. Each one vanishes `1` hour after it was summoned, even in the middle of a fight. There is no limit to how many can be summoned, so a careless group can leave floor 1 full of liches for whoever comes next.
 
-## Forgotten One
-The Forgotten One is a [demiboss](/demibosses) locked in a room on floor 3, reached only through the pit on floor 4. He has `15,000` to `20,000` hit points and returns `12` to `24` hours after he dies. See [Forgotten One](/forgotten_one).
+### Levers and Switches
+- Floor 2 has a door lever, a lever that may summon skeletons, and a lever behind the stone faces that is there for flavor.
+- On floor 4, a conspicuous switch looms over the bone pit, and it may have sinister purposes.
+
+### Secret Doors
+- Floor 1 has a secret door.
+- Floors 2 and 4 have secret doors.
+
+## Treasure
+Dungeon chests spawn on every floor of Deceit. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
+
+| Floor | Level 1 | Level 2 | Level 3 | Level 4 |
+|:-|:-:|:-:|:-:|:-:|
+| 1 | 0 | 1 | 2 | 0 |
+| 2 | 0 | 1 | 2 | 0 |
+| 3 | 0 | 1 | 2 | 0 |
+| 4 | 0 | 1 | 3 | 2 |

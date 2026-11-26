@@ -16,7 +16,7 @@ The dungeons in Britannia each represent an [anti-virtue](https://www.uoguide.co
 
 | Name | Virtue | Floors | Location | Description | Demiboss |
 |:-|:-:|:-:|:-:|:-:|:-:|
-| [Covetous](/covetous)<br>(Selfishness) | Sacrifice | 3 | West of Vesper | Mountain tunnels lead to an undead fortress | Lich King |
+| [Covetous](/covetous)<br>(Selfishness) | Sacrifice | 3 | West of Vesper | Mountain tunnels lead to an undead necropolis | Lich King |
 | [Deceit](/deceit)<br>(Deceit) | Honesty | 4 | Dagger Isle | Frozen halls where the restless dead keep watch | |
 | [Despise](/despise)<br>(Hatred) | Compassion | 3 | North of Britain | Forest caverns hiding a den of evil mages | |
 | [Destard](/destard)<br>(Cowardice) | Valor | 3 | Trinsic Jungle | A scorched lair ruled by dragons | |
