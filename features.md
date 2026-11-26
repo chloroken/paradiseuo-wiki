@@ -2,7 +2,7 @@
 title: Features
 description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-26T17:49:02.396Z
+date: 2026-11-26T18:29:24.654Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -117,6 +117,8 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 ## Other Changes
 - Equipping weapons doesn't reset swing timer.
 - Tailors who wear a robe and no armor regenerate mana faster outside a trance. See [Meditation: Robes](/meditation#robes).
+- Hungry characters don't regenerate hit points, and starving characters waste away to `1` hit point. See [Cooking: Hunger](/cooking#hunger).
+- Cooks heal when they eat, so a chef can save up a burst of healing by staying hungry. See [Cooking: Healing from Food](/cooking#healing-from-food).
 - Monsters hit players with attacks much harder than other shards.
 - Followers take double damage from demibosses. See [Follower: Followers in Combat](/follower#followers-in-combat).
 - Starting items aren't protected, so they drop on death once a character is no longer Young. See [Young Player](/young_player#losing-young-status).
