@@ -1,3 +1,13 @@
+---
+title: Demibosses
+description: What demibosses are, their artifacts, and how to beat them
+published: true
+date: 2026-11-26T13:42:30.131Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-24T09:16:37.588Z
+---
+
 # Demibosses
 Demibosses are powerful monsters found in [dungeons](/dungeons), built for groups of players but *conceivably* soloable. Each one rules its own lair, returns hours after it dies, and drops far more loot than an ordinary monster, including an artifact found nowhere else. They exist to give groups a reason to gather: a fight that takes planning and a mix of classes, with a reward worth sharing.
 
@@ -12,7 +22,7 @@ Demibosses don't always follow the rules of other [monsters](/monsters). They wa
 
 - A liche's ring turns any weapon silver, at the cost of its user's life.
 - A primal amulet makes one elemental summon spell cost no mana or reagents, once every `10` seconds.
-- Spiteful memory drains a lich's or lich lord's mana on a weapon hit, once every `5` minutes, but crumbles if a lich or lich lord kills its owner.
+- Spiteful memory drains a lich's or lich lord's mana on a weapon or unarmed hit, once every `5` minutes, but crumbles if a lich or lich lord kills its owner.
 
 ## Effects on Demibosses
 How the effects players can use work on each demiboss.
