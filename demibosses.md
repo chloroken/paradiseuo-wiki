@@ -2,7 +2,7 @@
 title: Demibosses
 description: What demibosses are, their artifacts, and how to beat them
 published: true
-date: 2026-11-26T13:42:44.209Z
+date: 2026-11-26T13:44:30.841Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T09:16:37.588Z
@@ -30,7 +30,6 @@ How the effects players can use work on each demiboss.
 | Sapping vigor | One-handed maces | Weaker melee hits | Weaker melee hits | Weaker hits |
 | Crushing Blow | Two-handed maces and staves | Slower melee attacks | Slower melee attacks | Slower attacks |
 | [Silver](/magic_weapons#silver) | Silver weapons | Double damage | No effect | Double damage |
-| [Ambush](/ambush) | Bows, crossbows, fencing weapons, and knives | Up to 2.5× damage | Up to 2.5× damage | Up to 2.5× damage |
 | Damage spells | Magery | Resisting Spells 150 – 200 | Resisting Spells 100 – 110 | No Resisting Spells |
 | Mana Vampire | Magery | Resisted half to three quarters of the time at 100 Magery | Resisted about a quarter of the time at 100 Magery | No effect |
 | Paralyze | Magery | Can't move or cast until damage breaks it | Can't move or cast until damage breaks it | Can't move until damage breaks it, but still attacks anything in reach |
@@ -40,5 +39,5 @@ How the effects players can use work on each demiboss.
 - Concussion Blow and Mana Vampire do nothing to the Forgotten One, who has no mana.
 - Sapping vigor and Crushing Blow only affect melee. The Lich King and the Greater Elemental fight mainly with spells, but the Forgotten One fights only in melee.
 - Paralyze ends at the first hit, from anyone.
-- Peacemaking aimed at the bard still pacifies everything nearby, demibosses included, for `1` second.
+- Peacemaking aimed at the bard does pacify demibosses for `1` second.
 - The Lich King drops a silver weapon himself. See [Lich King: Loot](/lich_king#loot).
