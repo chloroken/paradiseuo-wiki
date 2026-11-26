@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-26T07:52:41.047Z
+date: 2026-11-26T12:37:42.396Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -96,7 +96,7 @@ These skills already had adventure potential:
 - All get a demiboss
 - Levers should be connected (even if just for lore)
 - Dungeons should have something defining besides loot and mobs. this thing could be challenge, scenery, or something. for example in deceit, there are summoning braziers.
-- All floors should have "something neat", either a tougher monster, some site, some unique traps, some lore, something that makes the floor not feel like it's an afterthought. for example in shame, floor 1 just has earth ele and scorpions, but adding skeletons to the "old campsites" for the miners made the floor interesting.
+- All floors should have "curiosities", either a tougher monster, some site, some unique traps, some lore, something that makes the floor not feel like it's an afterthought. for example in shame, floor 1 just has earth ele and scorpions, but adding skeletons to the "old campsites" for the miners made the floor interesting.
 
 ## Wiki
 - Have page written for every skill
