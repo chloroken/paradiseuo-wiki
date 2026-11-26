@@ -2,7 +2,7 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-26T08:11:54.018Z
+date: 2026-11-26T08:13:37.576Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
