@@ -2,7 +2,7 @@
 title: Features
 description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-26T15:42:31.058Z
+date: 2026-11-26T17:49:02.396Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -103,6 +103,13 @@ Paid followers found in taverns, cheap enough for any character. *Paradise* adds
 - Unhired hirelings are replaced with new ones every hour.
 - Hirelings ride horses when commanded to follow.
 - The cleric hireling heals its employer, their pets and hirelings, and itself, but has limited mana.
+
+### Golems
+Tinkers who also train Inscription build golems, machines that fight on their own for a short time. See [Golem](/golem).
+
+- Golems are invulnerable, and monsters ignore them.
+- They attack the closest red or gray creature for `30` seconds, then wind down.
+- Each golem costs `3` gems and a Blade Spirits scroll, and has a `50%` chance to be recovered.
 
 ## Reputation
 Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower, and locked Karma is unlocked with shrine mantras. See [Reputation](/reputation).
