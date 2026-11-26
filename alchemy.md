@@ -2,7 +2,7 @@
 title: Alchemy
 description: Brewing potions from reagents, every potion's recipe, and what each one does
 published: true
-date: 2026-11-20T05:14:48.220Z
+date: 2026-11-26T15:17:42.860Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T05:14:48.220Z
@@ -45,13 +45,13 @@ Even a grandmaster alchemist only brews deadly poison `20%` of the time.
 
 ## Potions
 ### Healing
-Heal potions restore hit points. After drinking one, another heal potion can't be drunk for `10` seconds.
+Heal potions restore hit points, with an extra `Alchemy / 10` hit points for alchemists. After drinking one, another heal potion can't be drunk for `10` seconds.
 
-| Potion | Hit Points Healed |
-|:-|:-:|
-| Lesser heal | 3 – 10 |
-| Heal | 6 – 20 |
-| Greater heal | 9 – 30 |
+| Potion | Hit Points<br>Healed | Grandmaster<br>Alchemist |
+|:-|:-:|:-:|
+| Lesser heal | 3 – 10 | 13 – 20 |
+| Heal | 6 – 20 | 16 – 30 |
+| Greater heal | 9 – 30 | 19 – 40 |
 
 ### Curing
 Cure potions have a chance to cure poison, depending on the potion and the poison's strength. See [Poison: Potions](/poison#potions).
@@ -69,13 +69,13 @@ A night sight potion lights up the drinker's surroundings, like the [Night Sight
 Poison potions are used with [Poisoning](/poisoning) to coat weapons, arrows, bolts, and food. See [Poison](/poison).
 
 ### Explosion
-Explosion potions are thrown at a target. They explode after a short fuse, damaging everyone within `2` tiles. A thrown potion adds `Alchemy / 10` damage, and each explosion does at most `40` damage. A potion that explodes in the thrower's backpack also damages the thrower.
+Explosion potions are thrown at a target. They explode after a short fuse, damaging everyone within `2` tiles. A thrown potion adds `Alchemy / 10` damage. A potion that explodes in the thrower's backpack also damages the thrower.
 
-| Potion | Damage |
-|:-|:-:|
-| Lesser explosion | 5 – 10 |
-| Explosion | 10 – 20 |
-| Greater explosion | 15 – 30 |
+| Potion | Damage | Grandmaster<br>Damage |
+|:-|:-:|:-:|
+| Lesser explosion | 5 – 10 | 15 – 20 |
+| Explosion | 10 – 20 | 20 – 30 |
+| Greater explosion | 15 – 30 | 25 – 40 |
 
 ## Manual Training
 
