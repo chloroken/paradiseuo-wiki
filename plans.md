@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-26T17:50:57.303Z
+date: 2026-11-26T18:32:47.198Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -29,9 +29,6 @@ dateCreated: 2026-11-22T12:00:49.987Z
 ## Skills
 Skills should have adventure potential, or some aspect that makes them not feel "useless" to take on a main character suitable for dungeon diving.
 
-These skills have an obvious way to add adventure potential:
-- Cooking (food buff, or eating heals you?)
-
 These skills create an alternate playstyle:
 - Begging (pacify a hostile target, 100% at lv100 snoop+steal)
 - Snooping (creates new lootpacks in monster bags, deleted on death)
@@ -46,6 +43,7 @@ These skills don't have an obvious way to add adventure potential:
 - Remove Trap
 
 These skills had adventure potential added or enhanced:
+- Cooking (food buff, or eating heals you?)
 - Alchemy (more healing/damage from potions)
 - Blacksmithing (more 1h mace dmg)
 - Carpentry (more staff dmg, more wood shield armor)
