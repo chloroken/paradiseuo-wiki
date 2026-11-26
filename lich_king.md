@@ -2,7 +2,7 @@
 title: Lich King
 description: The demiboss of Covetous, how he fights, and what he drops
 published: true
-date: 2026-11-25T14:46:49.529Z
+date: 2026-11-26T11:33:11.819Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T14:54:28.083Z
