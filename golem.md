@@ -1,8 +1,8 @@
 ---
 title: Golem
-description: The machines used by tinkerers in combat, their stats, and crafting requirements
+description: The machines used by tinkers in combat, their stats, and crafting requirements
 published: true
-date: 2026-11-26T17:47:52.916Z
+date: 2026-11-26T17:50:39.291Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T17:47:52.916Z
