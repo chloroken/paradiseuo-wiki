@@ -2,7 +2,7 @@
 title: Forgotten One
 description: The demiboss of deceit, how to reach him, how he fights, his loot, and his artifact drop
 published: true
-date: 2026-11-26T12:44:25.964Z
+date: 2026-11-26T13:36:00.234Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T11:14:37.412Z
