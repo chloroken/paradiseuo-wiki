@@ -2,7 +2,7 @@
 title: Skills
 description: Every enabled and disabled skill, and the most popular ones
 published: true
-date: 2026-11-26T15:10:21.532Z
+date: 2026-11-26T15:42:09.030Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -66,7 +66,7 @@ These skills enable archetype and most characters take at least one.
 | [Stealth](/stealth) | Walks while hidden, for a stronger ambush | |
 | [Swordsmanship](/swordsmanship) | | Hits and defends with swords, axes, polearms, knives, and the pickaxe |
 | [Tactics](/tactics) | | More weapon damage, and Valor adds accuracy |
-| [Tailoring](/tailoring) | Crafts clothing and leather armor | |
+| [Tailoring](/tailoring) | Crafts clothing and leather armor | Faster mana regeneration while wearing a robe and no armor |
 | [Tinkering](/tinkering) | Crafts tools, jewelry, and traps | Puts locks on a carpenter's containers, and makes them harder to pick |
 | [Tracking](/tracking) | Finds nearby animals, monsters, NPCs, or players, and points an arrow to one | Bows and crossbows hit more often, especially against fleeing creatures |
 | [Veterinary](/veterinary) | Bandages creatures, from farther away with more skill | Adds stable slots |
