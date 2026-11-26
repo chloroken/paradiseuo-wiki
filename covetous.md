@@ -2,7 +2,7 @@
 title: Covetous
 description: The dungeon west of Vesper, its floors and mountain passes, and its history
 published: true
-date: 2026-11-26T10:30:09.345Z
+date: 2026-11-26T10:33:37.919Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T10:58:47.341Z
@@ -29,7 +29,15 @@ Skeletons, bone knights, and stone harpies guard the pass between floors 2 and 3
 The Lich King's dark magic prevents [Mark](/mark) and [Gate Travel](/gate_travel) in this area. [Recall](/recall) may only be used to leave.
 
 ## Floor 3
-Floor 3 is an undead necropolis carved into the mountain. Skeletons, bone knights, skeletal knights, shades, spectres, wraiths, mummies, zombies, and liches can be found throughout. In the back of the main area, there are stairs that lead to an undead prison, which houses magical undead and a lich lord. Behind the throne room, another lich lord guards stairs that lead to a cave with drakes and a dragon. The Lich King sits in the throne room surrounded by his army of skeletons.
+Floor 3 is an undead necropolis carved into the mountain. Skeletons, bone knights, skeletal knights, shades, spectres, wraiths, mummies, zombies, and liches can be found throughout. In the center is the throne room. In the very back of the floor, there are stairs that lead to an undead prison which houses magical undead and a lich lord. Behind the throne room, another lich lord guards stairs that lead to a cave with enslaved drakes and a dragon. The Lich King sits proud in the throne room surrounded by his army of skeletons.
+
+## Curiosities
+
+### Warning Statues
+Statues in the necropolis on floor 3 warn those who draw near.
+
+### Necropolis Switches
+Five switches stand in the necropolis on floor 3. Switching them in a specific, secret order grants a book with dungeon lore in it. The secret order is revealed somewhere else in the dungeon.
 
 ## Traps
 | Area | Traps |
@@ -39,14 +47,6 @@ Floor 3 is an undead necropolis carved into the mountain. Skeletons, bone knight
 | Floor 2 | Fire column traps, gas traps, saw traps, and spike traps |
 | Mountain Pass B | None |
 | Floor 3 | None |
-
-## Curiosities
-
-### Warning Statues
-Statues in the necropolis on floor 3 warn those who draw near.
-
-### Necropolis Switches
-Five switches stand in the necropolis on floor 3. They seem to respond to something, and the throne room may hold a clue.
 
 ## Treasure
 Dungeon chests spawn on every floor of Covetous and in Mountain Pass B. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
