@@ -2,7 +2,7 @@
 title: Skills
 description: Every enabled and disabled skill, and the most popular ones
 published: true
-date: 2026-11-26T17:48:38.027Z
+date: 2026-11-26T18:29:14.980Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -34,7 +34,7 @@ These skills enable archetype and most characters take at least one.
 | [Camping](/camping) | | |
 | [Carpentry](/carpentry) | Crafts furniture, containers, staves, wooden shields, instruments, and add-ons | More damage with staves, and more armor on a wooden shield |
 | [Cartography](/cartography) | Crafts maps and sea charts, and decodes treasure maps | |
-| [Cooking](/cooking) | Cooks food | |
+| [Cooking](/cooking) | Cooks food | Eating heals, up to `5` hit points per point of hunger filled |
 | [Detecting Hidden](/detecting_hidden) | Reveals hidden characters nearby | |
 | [Discordance](/discordance) | Lowers a target's stats and skills | |
 | [Evaluating Intelligence](/evaluating_intelligence) | Describes a target's Intelligence and mana | More spell damage, unarmed defense, and a stronger Protection spell |
