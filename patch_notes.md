@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-26T15:43:42.700Z
+date: 2026-11-26T17:49:51.450Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -52,6 +52,10 @@ Changes to *Paradise*, newest first.
   - Play sound/visual effects for shillelagh bonks
   - Allow meditation with a shepherd's crook
 - Make [robes](/meditation#robes) shorten the delay between mana points outside a trance for tailors wearing no armor, by up to `25%` at `100` Tailoring
+- Add [golems](/golem), invulnerable machines built with Tinkering and Inscription that fight nearby monsters for `30` seconds:
+    - Add prototype, mechanical, and terror golems, needing `50`, `75`, and `100` Tinkering and Inscription and taking `1`, `2`, and `3` follower slots
+    - Make each golem cost `3` gems and a Blade Spirits scroll, and drop back to the ground `50%` of the time
+- Reorganize the [Tinkering](/tinkering) menu into new categories, and remove items from after T2A, such as bolas, faction traps, and theme pack lamps
 
 ## 2026.11.24
 - Rework the [classes](/character#classes), adding classes built around scaling skills, the shillelagh, and melee ambushes
