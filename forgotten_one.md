@@ -2,7 +2,7 @@
 title: Forgotten One
 description: The demiboss of deceit, how to reach him, how he fights, his loot, and his artifact drop
 published: true
-date: 2026-11-26T13:36:00.234Z
+date: 2026-11-26T14:10:45.316Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T11:14:37.412Z
@@ -43,4 +43,4 @@ Spiteful memory is a pair of magical gold earrings, all that remains of the Forg
 
 While spiteful memory is worn, a weapon hit on a lich or lich lord, melee or ranged, drains all of its mana. The wearer sees *Your earrings drain the lich's mana.*, and the lich shows *\*mana drained\**. The earrings can drain a lich once every `5` minutes. A hit on a lich with no mana doesn't use up the wait. The Lich King is unaffected.
 
-**Spiteful memory crumbles if a lich or lich lord kills its owner.** Every spiteful memory the player carries, worn or in their backpack, is destroyed, and they see *Forgotten again...* Death to the Lich King or anything else leaves it intact.
+**Spiteful memory crumbles if its owner is slain by a lich or lich lord.** Every spiteful memory the player carries, worn or in their backpack, is destroyed, and they see *Forgotten again...* Death to the Lich King or anything else leaves it intact.
