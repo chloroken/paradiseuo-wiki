@@ -1,3 +1,12 @@
+---
+title: Magery
+description: Casting spells, casting chances by circle, and travel magic
+published: true
+date: 2026-11-23T01:52:48.921Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-19T04:10:03.878Z
+---
 # Magery
 Magery is the skill of casting spells. It offers damage, healing, utility, and the best ways to travel, which is why most characters take it. Every point of Magery also weakens [Valor](/valor), the virtue that strengthens fighters. A fighter has to choose between spells and Valor.
 
