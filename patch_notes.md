@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-26T17:49:51.450Z
+date: 2026-11-26T18:29:32.011Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -56,6 +56,13 @@ Changes to *Paradise*, newest first.
     - Add prototype, mechanical, and terror golems, needing `50`, `75`, and `100` Tinkering and Inscription and taking `1`, `2`, and `3` follower slots
     - Make each golem cost `3` gems and a Blade Spirits scroll, and drop back to the ground `50%` of the time
 - Reorganize the [Tinkering](/tinkering) menu into new categories, and remove items from after T2A, such as bolas, faction traps, and theme pack lamps
+- Make [hunger](/cooking#hunger) matter:
+    - Stop hit point regeneration at hunger `5` or below
+    - Drain `1` hit point per second at hunger `0`, down to `1`
+    - Warn players when they get hungry, and every `60` seconds while starving
+    - Spare Young players the penalties, but not the warnings
+- Make eating heal `Cooking / 20` hit points per point of hunger filled, with no cooldown
+- Remove items from after T2A from the [Cooking](/cooking) menu, such as wheat wort, tribal paint, and coffee
 
 ## 2026.11.24
 - Rework the [classes](/character#classes), adding classes built around scaling skills, the shillelagh, and melee ambushes
