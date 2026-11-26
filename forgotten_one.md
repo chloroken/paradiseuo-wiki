@@ -1,5 +1,17 @@
+---
+title: Forgotten One
+description: The demiboss of deceit, how to reach him, how he fights, his loot, and his artifact drop
+published: true
+date: 2026-11-26T12:41:20.011Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T11:14:37.412Z
+---
+
 # Forgotten One
 The Forgotten One is a demiboss locked in a room on floor 3 of [Deceit](/deceit). No one remembers what he was before the dead of Deceit claimed him, and he has never forgiven them for it. Unlike the other demibosses, he fights only in melee, and he is built for a pair of steady tanks rather than a crowd. After he dies, he returns `12` to `24` hours later.
+
+![boss_forgotten_one.png](/boss_forgotten_one.png)
 
 ## Reaching the Forgotten One
 His room's door is locked. The only way in is the pit in the entrance room of floor 4, which drops into his room on floor 3. Anyone who leaves the room has to fight back down through the dungeon to return.
