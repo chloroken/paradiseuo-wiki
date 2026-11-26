@@ -2,7 +2,7 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-26T09:27:43.729Z
+date: 2026-11-26T10:40:32.067Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
@@ -40,6 +40,17 @@ A single tower stands on floor 4, home to skeletons and bone magi. The bone magi
 
 A series of ropes, starting at a pair of red braziers on the shore, carries adventurers to most of the islands in the lagoon. At the center of the water drifts the Greater Elemental, surrounded by water elementals and krakens. Could it be the source of the mages' failures?
 
+## Curiosities
+
+### Dye Tub
+The dye tub left behind in one of the miners' camps on floor 1 still works.
+
+### Tower Switches
+Each mage tower on floor 3 has a lever that magically manipulates tower's doors.
+
+### Secret Doors
+Floor 3 has a secret door leading to the inner section of the fortress.
+
 ## Traps
 | Floor | Traps |
 |:-|:-:|
@@ -47,17 +58,6 @@ A series of ropes, starting at a pair of red braziers on the shore, carries adve
 | 2 | Spike traps and saw traps |
 | 3 | Saw traps, spike traps, and gas traps |
 | 4 | Mushroom traps |
-
-## Curiosities
-
-### Dye Tub
-A dye tub left behind in one of the miners' camps on floor 1 still works.
-
-### Tower Switches
-Each mage tower on floor 3 has a switch that plays a trick on the tower's doors.
-
-### Secret Doors
-Floor 3 has a secret door.
 
 ## Treasure
 Dungeon chests spawn on every floor of Shame except the fortress. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
