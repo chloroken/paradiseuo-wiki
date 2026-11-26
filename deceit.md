@@ -2,7 +2,7 @@
 title: Deceit
 description: The undead dungeon on Dagger Isle, its floors, braziers, and treasure
 published: true
-date: 2026-11-26T09:27:27.534Z
+date: 2026-11-26T10:38:38.524Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T07:35:01.236Z
@@ -32,6 +32,31 @@ The deepest chamber is the lich lord room, where liches and lich lords gather, s
 
 The pit in floor 4's entrance room drops into the Forgotten One's room on floor 3. It is the only way in, so anyone who leaves the room has to fight back down through the dungeon to return to the fight.
 
+## Curiosities
+
+### Summoning Braziers
+Seven ancient summoning braziers burn in Deceit: one in the main hall of floor 1, one in the ritual chamber of floor 2, two in the furthest chamber of floor 3, and three in the lich lord room on floor 4.
+
+Double-clicking a brazier from within `2` tiles lights it with *\*The brazier burns with dark energy\**. After `2` seconds, a monster appears beside it, *\*summoned from the brazier\**. If there is no room nearby, the summoning fails. The brazier then lies dormant for `5` minutes, even if the summoning failed.
+
+Each summoning picks one of these monsters:
+
+- skeleton, zombie, ghoul, shade, spectre, and wraith
+- bone knight, skeletal knight, bone mage, and skeletal mage
+- water elemental, poison elemental, and fire elemental
+- lich, lich lord, and silver serpent
+
+Thus, each choice has an equal `6.25%` chance of being selected. After a choice is selected, there is a `0.1%` chance to call the Forgotten One instead, regardless of floor.
+
+Monsters summoned from braziers belong to no one. They attack anyone nearby, wander the dungeon like any other monster, and drop their normal loot. Each one vanishes `1` hour after it was summoned, even in the middle of a fight. If others use the braziers, adventurers would be wise to expect stronger monsters being present throughout the dungeon.
+
+### Levers and Switches
+- Floor 2 has a three functional levers. What might they do?
+- On floor 4, a switch looms over the bone pit.
+
+### Secret Doors
+- Floors 1, 2, and 4 have secret doors.
+
 ## Traps
 | Floor | Traps |
 |:-|:-:|
@@ -41,32 +66,6 @@ The pit in floor 4's entrance room drops into the Forgotten One's room on floor 
 | 4 | Saw traps, mushroom traps, spike traps, and gas traps |
 
 On floor 4, most of the traps are in the lich lord room.
-
-## Curiosities
-
-### Summoning Braziers
-Seven ancient summoning braziers burn in Deceit: one in the main hall of floor 1, one in the ritual chamber of floor 2, two in the furthest chamber of floor 3, and three in the lich lord room on floor 4.
-
-Double-clicking a brazier from within `2` tiles lights it with *\*The brazier burns with dark energy\**. After `2` seconds, a monster appears beside it, *\*summoned from the brazier\**. If there is no room nearby, the summoning fails. The brazier then lies dormant for `5` minutes, even if the summoning failed.
-
-Each summoning picks one of these monsters, with an equal `6.25%` chance for each:
-
-- skeleton, zombie, ghoul, shade, spectre, and wraith
-- bone knight, skeletal knight, bone mage, and skeletal mage
-- water elemental, poison elemental, and fire elemental
-- lich, lich lord, and silver serpent
-
-Every summoning also has a `0.1%` chance to call the Forgotten One instead, on any floor.
-
-Summoned monsters belong to no one. They attack anyone nearby, wander the dungeon like any other monster, and drop their normal loot. Each one vanishes `1` hour after it was summoned, even in the middle of a fight. There is no limit to how many can be summoned, so a careless group can leave floor 1 full of liches for whoever comes next.
-
-### Levers and Switches
-- Floor 2 has a door lever, a lever that may summon skeletons, and a lever behind the stone faces that is there for flavor.
-- On floor 4, a conspicuous switch looms over the bone pit, and it may have sinister purposes.
-
-### Secret Doors
-- Floor 1 has a secret door.
-- Floors 2 and 4 have secret doors.
 
 ## Treasure
 Dungeon chests spawn on every floor of Deceit. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
