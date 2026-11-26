@@ -2,7 +2,7 @@
 title: Follower
 description: Follower slots, commands, combat, Loyalty, feeding, and training on followers
 published: true
-date: 2026-11-26T17:48:22.309Z
+date: 2026-11-26T18:34:07.265Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T01:45:00.305Z
@@ -45,7 +45,7 @@ A follower told to follow runs to catch up when it's more than `5` tiles behind,
 Followers can follow their owner into houses. Untamed creatures can't enter houses.
 
 ## Followers in Combat
-Followers deal and take normal damage against monsters. Demibosses are the exception: their melee hits and most of their spells do double damage to every follower, whether pet, hireling, or summon. Golems are the exception, since they're invulnerable and monsters ignore them.
+Followers deal and take normal damage against monsters. Demibosses are the exception: their melee hits and most of their spells do double damage to every follower, whether pet, hireling, or summon. Golems are unaffected, since they're invulnerable and monsters ignore them.
 
 This applies to melee hits and spells. Breath, poison, and Fire Field do their normal damage. A follower's melee hits on another player are halved, the same as a player's. See [Combat: Damage](/combat#damage).
 
