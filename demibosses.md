@@ -2,7 +2,7 @@
 title: Demibosses
 description: What demibosses are, their artifacts, and how to beat them
 published: true
-date: 2026-11-26T11:29:08.326Z
+date: 2026-11-26T11:32:00.600Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T09:16:37.588Z
@@ -33,7 +33,7 @@ How the effects players can use work on each demiboss.
 | [Paralyzing Blow](/weapon_effects#paralyzing-blow) and [stuns](/weapon_effects#stun) | Spears and wrestling | Frozen, so he can't start a spell or teleport | Frozen, so it can't start a spell, but it still teleports and summons | Frozen |
 | Sapping vigor | One-handed maces | Weaker melee hits | Weaker melee hits | Weaker hits |
 | Crushing Blow | Two-handed maces and staves | Slower melee attacks | Slower melee attacks | Slower attacks |
-| [Silver](/magic_weapons#silver) | Silver weapons | Double damage | No effect | No effect (unconfirmed) |
+| [Silver](/magic_weapons#silver) | Silver weapons | Double damage | No effect | Double damage |
 | [Ambush](/ambush) | Bows, crossbows, fencing weapons, and knives | Up to 2.5× damage | Up to 2.5× damage | Up to 2.5× damage |
 | Damage spells | Magery | Resisting Spells 150 – 200 | Resisting Spells 100 – 110 | No Resisting Spells |
 | Mana Vampire | Magery | Resisted half to three quarters of the time at 100 Magery | Resisted about a quarter of the time at 100 Magery | No effect |
