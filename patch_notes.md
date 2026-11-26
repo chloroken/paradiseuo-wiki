@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-26T14:07:26.814Z
+date: 2026-11-26T14:07:49.150Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -23,7 +23,7 @@ Changes to *Paradise*, newest first.
     - Reached only through the pit on floor 4
     - Give every Deceit summoning brazier a `0.1%` chance to call him instead
     - Drops a large haul of gold and magic items, `500` potions, and a level `5` treasure map
-- Add [spiteful memory](/forgotten_one#spiteful-memory), which drains a lich's or lich lord's mana on hit once every `5` minutes:
+- Add [spiteful memory](/forgotten_one#spiteful-memory), which drains a lich's or lich lord's mana on a weapon hit once every `5` minutes:
     - Dropped by the Forgotten One `10%` of the time
     - Crumbles if a lich or lich lord kills its owner
 - Refresh [Covetous](/covetous):
