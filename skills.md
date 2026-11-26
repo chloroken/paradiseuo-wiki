@@ -2,7 +2,7 @@
 title: Skills
 description: Every enabled and disabled skill, and the most popular ones
 published: true
-date: 2026-11-26T15:42:09.030Z
+date: 2026-11-26T17:48:38.027Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -45,7 +45,7 @@ These skills enable archetype and most characters take at least one.
 | [Healing](/healing) | Bandages people to heal them, cure poison, and resurrect | |
 | [Herding](/herding) | Sends a tameable creature to a spot with a shepherd's crook | Turns the shepherd's crook into a shillelagh that bonks for more damage |
 | [Hiding](/hiding) | Hides from players and monsters, setting up an ambush | |
-| [Inscription](/inscription) | Writes spell scrolls | Strengthens Reactive Armor and Protection |
+| [Inscription](/inscription) | Writes spell scrolls | Strengthens Reactive Armor and Protection, and crafts and unleashes golems with Tinkering |
 | [Item Identification](/item_identification) | | |
 | [Lockpicking](/lockpicking) | Picks locks with a lockpick or skeleton key | |
 | [Lumberjacking](/lumberjacking) | Chops trees for logs | More damage with axes |
@@ -67,7 +67,7 @@ These skills enable archetype and most characters take at least one.
 | [Swordsmanship](/swordsmanship) | | Hits and defends with swords, axes, polearms, knives, and the pickaxe |
 | [Tactics](/tactics) | | More weapon damage, and Valor adds accuracy |
 | [Tailoring](/tailoring) | Crafts clothing and leather armor | Faster mana regeneration while wearing a robe and no armor |
-| [Tinkering](/tinkering) | Crafts tools, jewelry, and traps | Puts locks on a carpenter's containers, and makes them harder to pick |
+| [Tinkering](/tinkering) | Crafts tools, jewelry, traps, and golems | Puts locks on a carpenter's containers and makes them harder to pick, and unleashes golems with Inscription |
 | [Tracking](/tracking) | Finds nearby animals, monsters, NPCs, or players, and points an arrow to one | Bows and crossbows hit more often, especially against fleeing creatures |
 | [Veterinary](/veterinary) | Bandages creatures, from farther away with more skill | Adds stable slots |
 | [Wrestling](/wrestling) | | Hits and defends with bare hands, and lands stuns with Anatomy |
