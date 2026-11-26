@@ -2,7 +2,7 @@
 title: Alchemy
 description: Brewing potions from reagents, every potion's recipe, and what each one does
 published: true
-date: 2026-11-26T15:44:04.803Z
+date: 2026-11-26T15:45:11.961Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T05:14:48.220Z
@@ -71,7 +71,7 @@ Poison potions are used with [Poisoning](/poisoning) to coat weapons, arrows, bo
 ### Explosion
 Explosion potions are thrown at a target. They explode after a short fuse, damaging everyone within `2` tiles. A thrown potion adds `Alchemy / 10` damage. A potion that explodes in the thrower's backpack also damages the thrower.
 
-| Potion | Damage | Grandmaster<br>Damage |
+| Potion | Damage | With 100<br>Alchemy |
 |:-|:-:|:-:|
 | Lesser explosion | 5 – 10 | 15 – 20 |
 | Explosion | 10 – 20 | 20 – 30 |
