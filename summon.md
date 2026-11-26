@@ -2,7 +2,7 @@
 title: Summon
 description: Magery's summon spells, how long summons last, and how they fight
 published: true
-date: 2026-11-25T01:21:14.509Z
+date: 2026-11-26T17:48:52.643Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T01:45:13.712Z
@@ -51,6 +51,8 @@ A summoned animal with a Pack Instinct counts toward its owner's pack. Because s
 Blade spirits and energy vortexes appear at a targeted spot and can't be commanded. They fight on their own until they die or their time runs out.
 
 Each takes `4` follower slots, so a caster can have only one at a time, and never alongside a daemon.
+
+[Golems](/golem) built with Tinkering look like blade spirits and also fight on their own, but they aren't summons.
 
 ## Commanding Summons
 Every other summon follows its caster and takes the same commands as any follower. Summons always obey. See [Follower: Commands](/follower#commands).
