@@ -2,7 +2,7 @@
 title: Demibosses
 description: What demibosses are, their artifacts, and how to beat them
 published: true
-date: 2026-11-26T13:42:30.131Z
+date: 2026-11-26T13:42:44.209Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T09:16:37.588Z
@@ -16,13 +16,9 @@ Demibosses don't always follow the rules of other [monsters](/monsters). They wa
 ## Demibosses
 | Demiboss | Location | Hit Points | Respawn (hours) | Artifact | Chance (%) |
 |:-|:-:|:-:|:-:|:-:|:-:|
-| [Lich King](/lich_king) | Covetous, floor 3 | 9,000 – 11,000 | 12 – 24 | [Liche's ring](/lich_king#liches-ring) | 10 |
-| [Greater Elemental](/greater_elemental) | Shame, floor 4 | 20,000 – 30,000 | 12 – 24 | [Primal amulet](/greater_elemental#primal-amulet) | 50 |
-| [Forgotten One](/forgotten_one) | Deceit, floor 3 | 15,000 – 20,000 | 12 – 24 | [Spiteful memory](/forgotten_one#spiteful-memory) | 10 |
-
-- A liche's ring turns any weapon silver, at the cost of its user's life.
-- A primal amulet makes one elemental summon spell cost no mana or reagents, once every `10` seconds.
-- Spiteful memory drains a lich's or lich lord's mana on a weapon or unarmed hit, once every `5` minutes, but crumbles if a lich or lich lord kills its owner.
+| [Lich King](/lich_king) | Covetous | 9,000 – 11,000 | 12 – 24 | [Liche's ring](/lich_king#liches-ring) | 10 |
+| [Greater Elemental](/greater_elemental) | Shame | 20,000 – 30,000 | 12 – 24 | [Primal amulet](/greater_elemental#primal-amulet) | 50 |
+| [Forgotten One](/forgotten_one) | Deceit | 15,000 – 20,000 | 12 – 24 | [Spiteful memory](/forgotten_one#spiteful-memory) | 10 |
 
 ## Effects on Demibosses
 How the effects players can use work on each demiboss.
