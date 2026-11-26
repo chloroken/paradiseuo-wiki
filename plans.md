@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-25T02:31:27.135Z
+date: 2026-11-26T04:21:32.374Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -92,6 +92,7 @@ These skills already had adventure potential:
 - All dungeon teleporters are checked
 - All get a spawner overhaul
 - All get a demiboss
+- All floors should have "something neat", either a tougher monster, some site, some unique traps, some lore, something that makes the floor not feel like it's an afterthought. for example in shame, floor 1 just has earth ele and scorpions, but adding skeletons to the "old campsites" for the miners made the floor interesting.
 
 ## Wiki
 - Have page written for every skill
