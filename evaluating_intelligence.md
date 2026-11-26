@@ -1,3 +1,13 @@
+---
+title: Evaluating Intelligence
+description: More spell damage, judging a target's mind, unarmed defense, and Protection
+published: true
+date: 2026-11-26T12:02:11.023Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-24T08:17:34.020Z
+---
+
 # Evaluating Intelligence
 Evaluating Intelligence is the skill of judging a mind. Its main use is making [Magery](/magery)'s damage spells hit harder. It also lets a mage defend with empty hands, and strengthens the [Protection](/protection) spell.
 
@@ -14,7 +24,7 @@ Damage spells compare the caster's Evaluating Intelligence to the target's [Resi
 
 Falling behind costs more than getting ahead gains, so a caster without Evaluating Intelligence does half damage to a target with `100` Resisting Spells.
 
-The caster's Magery then adds `(Magery - 100) / 4` percent, from `-25%` at `0` to nothing at `100`. Against monsters and animals, the result is doubled. Against players and creatures with a human body, it isn't. A resisted spell then does three quarters of the damage.
+The caster's Magery then adds `(Magery - 100) / 4` percent, from `-25%` at `0` to nothing at `100`. Against monsters and animals, the result is doubled. Against players and creatures with a human body, it isn't. A resisted spell then does less damage, from half to three quarters depending on the spell. See [Resisting Spells: Resistible Spells](/resisting_spells#resistible-spells).
 
 These spells use Evaluating Intelligence:
 - Magic Arrow
