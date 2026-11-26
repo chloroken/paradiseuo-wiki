@@ -2,7 +2,7 @@
 title: Forgotten One
 description: The demiboss of deceit, how to reach him, how he fights, his loot, and his artifact drop
 published: true
-date: 2026-11-26T11:14:37.412Z
+date: 2026-11-26T11:32:43.747Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T11:14:37.412Z
@@ -22,7 +22,8 @@ He can also appear anywhere in Deceit. Every use of a summoning brazier has a `0
 - He attacks constantly, and his hits carry Regular [poison](/poison). His damage is low, but the poison comes back faster than it can be cured, so healing through it doesn't work.
 - He never switches targets on his own, so whoever holds him keeps him until they pass him to someone else.
 - If he leaves his room, he blinks back into it.
-- Poison and bleeding have no effect on him.
+- He is undead, so [silver](/magic_weapons#silver) weapons do double damage to him.
+- Like most undead, poison and bleeding have no effect on him.
 - As a demiboss, his hits do double damage to [followers](/follower#followers-in-combat).
 
 ## Loot
