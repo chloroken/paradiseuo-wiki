@@ -2,7 +2,7 @@
 title: Covetous
 description: The dungeon west of Vesper, its floors and mountain passes, and its history
 published: true
-date: 2026-11-26T09:27:54.694Z
+date: 2026-11-26T10:30:09.345Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T10:58:47.341Z
