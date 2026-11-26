@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-26T18:32:47.198Z
+date: 2026-11-26T18:36:04.013Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -10,6 +10,12 @@ dateCreated: 2026-11-22T12:00:49.987Z
 
 # Plans
 *Paradise* is in alpha, and thus receives constant development. This page serves as a way of keeping track of the bigger picture: getting the game suitable for beta.
+
+## todo
+- add inscription page, prune nont2a stuff
+- add blacksmithing page, prune nont2a stuff
+- add tailoring page, prune nont2a stuff
+- add mining, prune nont2a stuff
 
 ## Fixes
 - Bard discordance should work on bosses to give them a solid use in bossing
