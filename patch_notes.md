@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-26T14:07:49.150Z
+date: 2026-11-26T15:18:40.331Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -40,6 +40,7 @@ Changes to *Paradise*, newest first.
     - Only hum for players with a crook in hand or in their backpack
 - Make magic and exceptional weapon damage flat, so critical strikes, ambushes, and bonks only multiply the weapon's own roll
 - Make [silver](/magic_weapons#silver) weapons do double damage to the Lich King and the Forgotten One, like other undead
+- Healing potions restore `Alchemy / 10` extra hitpoints for alchemists
 ## 2026.11.25
 - Remove the pet and summon damage penalties against monsters, so all followers deal and take normal damage
 - Make demibosses do double damage to hirelings, like pets and summons
