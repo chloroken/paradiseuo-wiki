@@ -2,7 +2,7 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-26T08:16:00.513Z
+date: 2026-11-26T08:18:06.466Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
@@ -19,7 +19,7 @@ Shame lies in the western mountains of Britannia, and it is bound to the virtue 
 But it wasn't just miners interested in Shame. A band of evil mages, outcast from society, traveled down in search of power, binding elementals to guard their towers to sow their foul experimentations in safety. But the elementals had their own ideas.
 
 ## Floor 1
-Floor 1 is filled with scorpions, earth elementals, and the skeletons of miners still haunting their forgotten campsites. It is trapped with saw traps and spike traps.
+Floor 1 is filled with scorpions, earth elementals, and the skeletons of miners still haunting their forgotten campsites.
 
 ## Floor 2
 Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors. Skeletons are all that remain of those who tried to stay. Spike traps and saw traps line its paths.
