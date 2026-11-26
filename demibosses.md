@@ -2,7 +2,7 @@
 title: Demibosses
 description: What demibosses are, their artifacts, and how to beat them
 published: true
-date: 2026-11-26T13:44:30.841Z
+date: 2026-11-26T13:45:51.277Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T09:16:37.588Z
