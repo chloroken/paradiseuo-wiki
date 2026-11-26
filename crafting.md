@@ -1,3 +1,13 @@
+---
+title: Crafting
+description: Every crafting skill, its tools and resources, success chances, and exceptional items
+published: true
+date: 2026-11-26T17:48:30.433Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-19T00:05:59.693Z
+---
+
 # Crafting
 Crafters turn gathered resources into weapons, armor, clothing, furniture, potions, scrolls, and more. Each crafting skill needs its own tool, which opens a menu of everything that skill can make. Items with their own pages are listed on [Items](/items).
 
@@ -12,7 +22,7 @@ Crafters turn gathered resources into weapons, armor, clothing, furniture, potio
 | [Fletching](/fletching) | Fletcher's tools | Boards, feathers | Bows, crossbows, arrows, bolts |
 | [Inscription](/inscription) | Scribe's pen | Blank scrolls, reagents | Spell scrolls |
 | [Tailoring](/tailoring) | Sewing kit | Cloth, leather | Clothing, leather armor |
-| [Tinkering](/tinkering) | Tinker's tools | Ingots, boards | Tools, jewelry, traps |
+| [Tinkering](/tinkering) | Tinker's tools | Ingots, boards | Tools, jewelry, traps, golems |
 
 Blacksmithing needs an anvil and a forge nearby. Raw resources come from the gathering skills: [Mining](/mining) for ore, [Lumberjacking](/lumberjacking) for logs, and [Fishing](/fishing) for fish to cook. Ore can be smelted straight from a pack animal's backpack.
 
@@ -23,6 +33,8 @@ Every item has a minimum and a maximum skill. Below the minimum it can't be made
 |:-|:-:|
 | 0 | Alchemy, Blacksmithing, Cartography, Cooking, Inscription, Tinkering |
 | 50 | Carpentry, Fletching, Tailoring |
+
+Tinkering's golems and potion keg are exceptions, and start at `50%`.
 
 Every attempt, success or failure, has a chance to raise the crafting skill, as long as the crafter's skill is between the item's minimum and maximum. A failed attempt can use up some of the resources.
 
