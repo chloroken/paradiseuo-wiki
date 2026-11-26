@@ -2,7 +2,7 @@
 title: Shame
 description: The elemental dungeon south of Yew, its floors and treasure
 published: true
-date: 2026-11-26T08:10:42.734Z
+date: 2026-11-26T08:11:54.018Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-23T08:37:47.031Z
@@ -19,10 +19,10 @@ Shame lies in the western mountains of Britannia, and it is bound to the virtue 
 But it wasn't just miners interested in Shame. A band of evil mages, outcast from society, traveled down in search of power, binding elementals to guard their towers to sow their foul experimentations in safety. But the elementals had their own ideas.
 
 ## Floor 1
-Floor 1 is filled with scorpions, earth elementals, and the skeletons of miners still haunting their forgotten campsites. It is trapped with a saw trap and a spike trap.
+Floor 1 is filled with scorpions, earth elementals, and the skeletons of miners still haunting their forgotten campsites. It is trapped with saw traps and spike traps.
 
 ## Floor 2
-Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors. Skeletons are all that remain of those who tried to stay. It is trapped with spike traps and a saw trap.
+Elementals have overrun floor 2. Air elementals roam freely, water elementals patrol the river, and earth elementals wander the corridors. Skeletons are all that remain of those who tried to stay. It is trapped with spike traps and saw traps.
 
 ## Floor 3
 A variety of creatures fill the nooks and crannies of floor 3: air, fire, water, and earth elementals, giant spiders, scorpions, sea serpents, and skeletons. It is the most heavily trapped floor in Shame, with saw traps, spike traps, and gas traps. A secret door hides in its walls.
@@ -34,7 +34,7 @@ Two towers flank the entrance to floor 3. Deranged evil mages, evil mage lords, 
 A fortress is embedded in the mountain, separating floors 3 and 4. Teleporters marked by silver moongates lead in and out, and gazers guard the entrance. In the fortress cells are elder gazers and skeletons.
 
 ## Floor 4
-On floor 4, the mountains carve into a lagoon where krakens and sea serpents swim. Air, earth, fire, water, and poison elementals cover the entire floor. Two gazer nests survive, consisting of gazers, gazer larvae, and elder gazers. Giant spiders and scorpions take refuge in the corners of the caves, along with a mushroom trap.
+On floor 4, the mountains carve into a lagoon where krakens and sea serpents swim. Air, earth, fire, water, and poison elementals cover the entire floor. Two gazer nests survive, consisting of gazers, gazer larvae, and elder gazers. Giant spiders and scorpions take refuge in the corners of the caves, along with mushroom traps.
 
 A single tower stands on floor 4, home to skeletons and bone magi. The bone magi were likely evil mages before something killed them. In the back of the floor is a cave branch where the mages did their experimenting, now full of blood elementals.
 
