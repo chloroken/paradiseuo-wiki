@@ -2,14 +2,14 @@
 title: Character
 description: Stats, skills, classes, and reputation, the pieces of every character
 published: true
-date: 2026-11-26T02:53:10.529Z
+date: 2026-11-26T02:53:27.753Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
 ---
 
 # Character
-A character's build is determined by its stats, skills, and reputation. A build can be thought of as a class.
+A character's build, or class, is determined by its stats, skills, and reputation.
 
 ## Building Blocks
 - [Stats](/stats): Strength, Dexterity, and Intelligence, and what each one does.
