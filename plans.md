@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-26T17:18:35.017Z
+date: 2026-11-26T17:50:57.303Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -31,7 +31,6 @@ Skills should have adventure potential, or some aspect that makes them not feel 
 
 These skills have an obvious way to add adventure potential:
 - Cooking (food buff, or eating heals you?)
-- Tinkering (spider drone toy?)
 
 These skills create an alternate playstyle:
 - Begging (pacify a hostile target, 100% at lv100 snoop+steal)
@@ -58,6 +57,7 @@ These skills had adventure potential added or enhanced:
 - Spirit Speak (Longer summons, resistance to Dispel, stronger elementals that never fail to cast at 100)
 - Stealth (Ambush up to 2.5× damage, with extra accuracy)
 - Tailoring (robes+no armor=faster passive med mana regen)
+- Tinkering (golems)
 - Tracking (Ranged accuracy; at 100, ranged shots never miss fleeing targets)
 
 These skills already had adventure potential:
