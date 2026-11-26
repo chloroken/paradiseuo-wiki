@@ -2,7 +2,7 @@
 title: Features
 description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-25T01:27:21.286Z
+date: 2026-11-26T13:16:41.026Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -108,6 +108,7 @@ Paid followers found in taverns, cheap enough for any character. *Paradise* adds
 Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower, and locked Karma is unlocked with shrine mantras. See [Reputation](/reputation).
 
 ## Other Changes
+- Equipping weapons doesn't reset swing timer.
 - Monsters hit players with attacks much harder than other shards.
 - Followers take double damage from demibosses. See [Follower: Followers in Combat](/follower#followers-in-combat).
 - Starting items aren't protected, so they drop on death once a character is no longer Young. See [Young Player](/young_player#losing-young-status).
