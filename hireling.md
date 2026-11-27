@@ -26,7 +26,7 @@ Taverns with hirelings:
 - Trinsic
 - Vesper
 
-In Serpent's Hold and Buccaneer's Den, hirelings refuse characters who don't meet the town's Karma requirement. See [Reputation: Karma Towns](/reputation#karma-towns).
+In Serpent's Hold and Buccaneer's Den, hirelings refuse characters who don't meet the town's [Karma requirement](/reputation#karma-towns).
 
 ## Hiring
 Saying `hire` near a hireling, or choosing `Hire` from its menu, makes it state its daily wage. Dropping at least one day's wage in gold on it hires it, and it says how many days the gold covers. Paying too little gets the price repeated, and the gold stays with the player.
@@ -62,7 +62,7 @@ The cleric heals instead of fighting. It casts Heal, Greater Heal, and Cure on i
 The cleric keeps up with light damage, but not with strong monsters or large groups.
 
 ## Commands
-Hirelings take the same commands as other followers, such as `all follow me`, `all guard me`, and `all kill`. They always obey. See [Follower: Commands](/follower#commands).
+Hirelings take the same [commands](/follower#commands) as other followers, such as `all follow me`, `all guard me`, and `all kill`, and always obey.
 
 A hireling rides a horse while following its employer and goes on foot for any other command. The horse is only for show, and doesn't make the hireling faster.
 
@@ -74,4 +74,4 @@ Hirelings take double damage from demibosses, like [pets](/pet) and [summons](/s
 **Hireling death is permanent.** Hirelings can't be bonded or stabled. A dead hireling's corpse holds only its gold, and its gear is lost.
 
 ## Loyalty
-Hirelings lose Loyalty like pets, `10` every hour. Unless fed meat, a hireling walks off after about `10` hours, even if its pay hasn't run out. See [Follower: Loyalty](/follower#loyalty).
+Hirelings lose [Loyalty](/follower#loyalty) like pets. Unless fed meat, a hireling walks off after about `10` hours, even if its pay hasn't run out.

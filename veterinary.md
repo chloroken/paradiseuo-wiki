@@ -14,10 +14,10 @@ Veterinary is the skill of healing creatures with [bandages](/bandage). It's the
 To heal a creature, usually a pet, the veterinarian uses a bandage on it and stays in range until it finishes.
 
 ## Stable Slots
-Veterinary counts toward a character's stable slots, alongside Animal Taming and Animal Lore. See [Stable Slots](/stable#stable-slots).
+Veterinary counts toward a character's [stable slots](/stable#stable-slots), alongside Animal Taming and Animal Lore.
 
 ## Healing Creatures
-Veterinary heals creatures the same way Healing heals people, using Veterinary in place of Healing and Animal Lore in place of Anatomy. The chance to heal, the amount healed, slips, bandage speed, and curing poison all follow the same rules and formulas. See [Healing](/healing).
+Veterinary heals creatures the same way Healing heals people, using Veterinary in place of Healing and Animal Lore in place of Anatomy. The chance to heal, the amount healed, slips, bandage speed, and curing poison all follow the same rules and formulas as [Healing](/healing).
 
 Creatures also heal an extra `1` hit point for every `100` maximum hit points they have.
 
@@ -33,7 +33,7 @@ Veterinarians can bandage creatures from a distance. For every `25` points of Ve
 | 100+ | 5 |
 
 ## Manual Training
-Players can attack their own pets to train weapon skills, then bandage them to train Veterinary. See [Follower: Training on Followers](/follower#training-on-followers).
+Players can [attack their own pets](/follower#training-on-followers) to train weapon skills, then bandage them to train Veterinary.
 
 ## Macro Training
 The macro needs a hearty pet and several thousand bandages. It's a TazUO Assistant macro bound to a key, with its `Journal Trigger` set to `*pet*` and these actions:
@@ -46,4 +46,4 @@ The macro needs a hearty pet and several thousand bandages. It's a TazUO Assista
 | `Say` | `*pet*` |
 | `Attack Last` | |
 
-Attacking the pet and typing `*pet*` starts the macro, and pressing the keybind stops it. The delay should match the character's bandage speed. See [Bandage Speed](/healing#bandage-speed).
+Attacking the pet and typing `*pet*` starts the macro, and pressing the keybind stops it. The delay should match the character's [bandage speed](/healing#bandage-speed).

@@ -33,12 +33,10 @@ Each character has `5` follower slots. A character can't take on a follower that
 | Air, earth, fire, or water elemental | 1 – 4 |
 | Golem | 1 – 3 |
 
-Summoned animals and elementals take fewer slots as their caster's Spirit Speak rises. See [Summon: Follower Slots](/summon#follower-slots). See [Pet: Notable Pets](/pet#notable-pets) for the slots of individual pets, and [Golem](/golem) for each golem's.
+Summoned animals and elementals take [fewer slots](/summon#follower-slots) as their caster's Spirit Speak rises. The slots of individual pets are listed with the [notable pets](/pet#notable-pets), and each golem's on its own page.
 
 ## Commands
-Followers are commanded by speech, with phrases like `all follow me`, `all guard me`, and `dragon kill`. See [Commands](/commands).
-
-Pets don't always obey, depending on their owner's skills and their Loyalty. See [Pet: Obeying Commands](/pet#obeying-commands). Hirelings and summons always obey. Blade spirits, energy vortexes, and golems can't be commanded at all, and fight on their own.
+Followers are commanded by speech, with [commands](/commands) like `all follow me`, `all guard me`, and `dragon kill`. Pets [don't always obey](/pet#obeying-commands), depending on their owner's skills and their Loyalty, but hirelings and summons always do. Blade spirits, energy vortexes, and golems can't be commanded at all, and fight on their own.
 
 A follower told to follow runs to catch up when it's more than `5` tiles behind, and paths around obstacles to reach its owner, unlike wild monsters. Followers keep pace with their owner, even when the owner is mounted.
 
@@ -47,9 +45,7 @@ Followers can follow their owner into houses. Untamed creatures can't enter hous
 ## Followers in Combat
 Followers deal and take normal damage against monsters. Demibosses are the exception: their melee hits and most of their spells do double damage to every follower, whether pet, hireling, or summon. Golems are unaffected, since they're invulnerable and monsters ignore them.
 
-This applies to melee hits and spells. Breath, poison, and Fire Field do their normal damage. A follower's melee hits on another player are halved, the same as a player's. See [Combat: Damage](/combat#damage).
-
-[Spirit Speak](/spirit_speak) strengthens a player's summons, and summoned elementals do up to `50%` more damage.
+This applies to melee hits and spells. Breath, poison, and Fire Field do their normal damage. A follower's melee hits on another player are [halved](/combat#damage), the same as a player's. [Spirit Speak](/spirit_speak) also makes a player's summoned elementals hit harder.
 
 ## Training on Followers
 Players can attack their own followers to train combat skills, and heal their pets to train [Veterinary](/veterinary).
@@ -62,7 +58,7 @@ Players can attack their own followers to train combat skills, and heal their pe
 ## Loyalty
 Every pet and hireling has a hidden Loyalty value from `0` to `100`. Summons have none. A newly tamed pet starts at `100`, and Animal Lore shows how happy a pet is.
 
-Once an hour, every pet and hireling in the world loses `10` Loyalty. Stabled pets and pets being ridden don't lose Loyalty. A pet that reaches `0` *looks around desperately*, then decides it is better off without a master and goes wild. A hireling at `0` walks off, even if its pay hasn't run out. See [Hireling: Loyalty](/hireling#loyalty).
+Once an hour, every pet and hireling in the world loses `10` Loyalty. Stabled pets and pets being ridden don't lose Loyalty. A pet that reaches `0` *looks around desperately*, then decides it is better off without a master and goes wild. A hireling at `0` [walks off](/hireling#loyalty), even if its pay hasn't run out.
 
 An unfed pet or hireling at full Loyalty leaves after about `10` hours.
 
@@ -74,4 +70,4 @@ Feeding a stack is more reliable than feeding one piece, and a stack of `20` alm
 Food also restores `15 * Pieces - 50` stamina, so a stack of `4` or more is needed to restore any.
 
 ## Death
-**Pet and hireling death is permanent. GMs cannot resurrect them.** A summon vanishes when it dies or its time runs out. See [Summon](/summon).
+**Pet and hireling death is permanent. GMs cannot resurrect them.** A summon vanishes when it dies or its time runs out.

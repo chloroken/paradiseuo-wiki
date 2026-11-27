@@ -2,15 +2,15 @@
 Animal tamers turn animals, and some monsters, into followers known as [pets](/pet).
 
 ## How to Tame
-When Animal Taming is used on a creature, the tamer tries to talk it into becoming a pet. After some time, if the tamer is still close enough, the creature is either tamed or rejects the effort and carries on. A tamed creature stays tamed as long as it's cared for. See [Follower: Loyalty](/follower#loyalty).
+When Animal Taming is used on a creature, the tamer tries to talk it into becoming a pet. After some time, if the tamer is still close enough, the creature is either tamed or rejects the effort and carries on. A tamed creature stays tamed as long as its [Loyalty](/follower#loyalty) is kept up.
 
 ## Taming Penalty
-Taming a creature reduces its [skills](/skills), such as Magery, by `10%`. If it was paralyzed during the tick it was tamed, its skills are reduced by `14%` instead. Pets train their skills naturally, so this penalty can be recovered. See [Pet Training](/pet#pet-training).
+Taming a creature reduces its [skills](/skills), such as Magery, by `10%`. If it was paralyzed during the tick it was tamed, its skills are reduced by `14%` instead. Pets [train their skills](/pet#pet-training) naturally, so this penalty can be recovered.
 
 The penalty applies again every time a creature is tamed by a new owner, so a pet that has been released and re-tamed several times keeps less of its original skill each time.
 
 ## Manual Training
-Animal Taming is one of the slowest skills to train, though it gains twice as fast during alpha. Tamers train [Animal Lore](/animal_lore) alongside it, since it helps tamed animals obey commands. See [Obeying Commands](/pet#obeying-commands).
+Animal Taming is one of the slowest skills to train, though it gains twice as fast during alpha. Tamers train [Animal Lore](/animal_lore) alongside it, since it helps tamed animals [obey commands](/pet#obeying-commands).
 
 Using `Alt + Click` on an animal follows it automatically.
 

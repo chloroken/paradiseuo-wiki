@@ -21,20 +21,16 @@ The window has three pages:
 - Wrestling, Tactics, Resisting Spells (shown as `Magic Resistance`), Anatomy, Poisoning, Magery, Evaluating Intelligence, and Meditation. A skill below `10` shows as `---`.
 - Favorite food, Pack Instinct, and Loyalty.
 
-A pet only eats its favorite food. See [Follower: Feeding](/follower#feeding), [Follower: Loyalty](/follower#loyalty), and [Pet: Pack Instinct](/pet#pack-instinct).
+A pet only eats its [favorite food](/follower#feeding), which keeps up its [Loyalty](/follower#loyalty), and a [Pack Instinct](/pet#pack-instinct) makes pets of the same kind fight better together.
 
 ## Commanding Pets
-Every command given to a pet has a chance to fail. The owner's Animal Taming and Animal Lore combine into a weighted skill, with Animal Taming counting four times as much:
-
-`Weighted Skill = (4 * Animal Taming + Animal Lore) / 5`
-
-Each point of Animal Lore adds `0.2` to the weighted skill. With `90` Animal Taming and a pet that needs `90` to tame, `100` Animal Lore gives an `82%` chance to obey, but `50` Animal Lore means the pet never obeys. Pets that need `29.1` or less to tame always obey. See [Pet: Obeying Commands](/pet#obeying-commands).
+Every command given to a pet has a chance to fail. Animal Lore counts for a fifth of the skill that decides whether a pet [obeys](/pet#obeying-commands), with Animal Taming counting for the rest, so a tamer short on Animal Lore can be left with a pet that never listens.
 
 ## Healing Creatures
-When bandaging a creature, Animal Lore takes the place of [Anatomy](/anatomy). It raises both the minimum and maximum healed by `Animal Lore / 5`, and curing a creature's poison needs `60` Animal Lore. See [Veterinary](/veterinary).
+When bandaging a creature, Animal Lore takes the place of [Anatomy](/anatomy). It raises both the minimum and maximum healed by `Animal Lore / 5`, and curing a creature's poison with [Veterinary](/veterinary) needs `60` Animal Lore.
 
 ## Stable Slots
-Animal Lore counts toward stable slots, alongside Animal Taming and Veterinary. Each point above `95` in Animal Lore adds `1` more slot. See [Stable: Stable Slots](/stable#stable-slots).
+Animal Lore counts toward [stable slots](/stable#stable-slots), alongside Animal Taming and Veterinary.
 
 ## Manual Training
 

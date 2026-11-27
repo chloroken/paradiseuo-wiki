@@ -25,7 +25,7 @@ Summons are [followers](/follower) conjured with [Magery](/magery). They serve t
 
 Hit points are averages. DPS is average melee damage per second with the summon's Tactics and Strength. It counts every swing as a hit and leaves out spells.
 
-Blade spirits and energy vortexes last `80` to `119` seconds. Every other summon lasts `4` seconds per point of Magery, so `400` seconds at `100` Magery. Spirit Speak multiplies every duration by up to `2`, so a `400` second summon lasts `800` seconds at `100` Spirit Speak. See [Spirit Speak: Summons](/spirit_speak#summons).
+Blade spirits and energy vortexes last `80` to `119` seconds. Every other summon lasts `4` seconds per point of Magery, so `400` seconds at `100` Magery. Spirit Speak [multiplies every duration](/spirit_speak#summons) by up to `2`, so a `400` second summon lasts `800` seconds at `100` Spirit Speak.
 
 At `100` Spirit Speak, every summon spell never fails to cast.
 
@@ -40,12 +40,12 @@ Every summon takes follower slots, and the spell fails if there aren't enough fr
 | Summon Creature's animal | 2 | 2 | 1 | 1 | 1 |
 | Air, earth, fire, or water elemental | 4 | 3 | 3 | 2 | 1 |
 
-The columns are the caster's Spirit Speak. A caster can have only one summoned elemental of each kind at a time, so at `90` Spirit Speak a summoner can field all four at once. See [Follower: Follower Slots](/follower#follower-slots).
+The columns are the caster's Spirit Speak. A caster can have only one summoned elemental of each kind at a time, so at `90` Spirit Speak a summoner can field all four at once within their [follower slots](/follower#follower-slots).
 
 ## Summon Creature
 Summon Creature conjures one animal at random: a polar bear, grizzly bear, black bear, horse, walrus, chicken, scorpion, giant serpent, llama, alligator, grey wolf, slime, eagle, gorilla, snow leopard, pig, hind, or rabbit. It never conjures a kind of animal the caster already has summoned.
 
-A summoned animal with a Pack Instinct counts toward its owner's pack. Because summoned animals never repeat, the polar bear, grizzly bear, and black bear are the only ones that can form a pack together. See [Pet: Pack Instinct](/pet#pack-instinct).
+A summoned animal with a [Pack Instinct](/pet#pack-instinct) counts toward its owner's pack. Because summoned animals never repeat, the polar bear, grizzly bear, and black bear are the only ones that can form a pack together.
 
 ## Blade Spirits and Energy Vortexes
 Blade spirits and energy vortexes appear at a targeted spot and can't be commanded. They fight on their own until they die or their time runs out.
@@ -55,16 +55,16 @@ Each takes `4` follower slots, so a caster can have only one at a time, and neve
 [Golems](/golem) built with Tinkering look like blade spirits and also fight on their own, but they aren't summons.
 
 ## Commanding Summons
-Every other summon follows its caster and takes the same commands as any follower. Summons always obey. See [Follower: Commands](/follower#commands).
+Every other summon follows its caster, takes the same [commands](/follower#commands) as any follower, and always obeys.
 
 ## Summons in Combat
-Like every follower, summons take double damage from demibosses. See [Follower: Followers in Combat](/follower#followers-in-combat).
+Like every follower, summons take [double damage](/follower#followers-in-combat) from demibosses.
 
 ## Dispelling Summons
-Dispel and Mass Dispel can remove a summon. Spirit Speak makes this less likely, unless the summoner is the one casting the spell. See [Spirit Speak](/spirit_speak).
+Dispel and Mass Dispel can remove a summon. Spirit Speak makes this less likely, unless the summoner is the one casting the spell.
 
 ## Summon Scrolls
-Elementals in [Shame](/shame) and daemons anywhere can drop summon scrolls. Casting from a scroll counts as two circles lower, so summoners can cast 8th circle summons long before they can from a spellbook. See [Magery: Casting Chance](/magery#casting-chance).
+Elementals in [Shame](/shame) and daemons anywhere can drop summon scrolls. Casting from a scroll counts as [two circles lower](/magery#casting-chance), so summoners can cast 8th circle summons long before they can from a spellbook.
 
 | Monster | Where | Chance (%) | Scroll |
 |:-|:-:|:-:|:-:|

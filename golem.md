@@ -31,7 +31,7 @@ Golems are crafted with a tinker's tools, under `Golems`. Crafting needs both sk
 | Mechanical golem | 10 | 4 gears, 4 springs, 2 clock parts | Ruby, amethyst, and sapphire |
 | Terror golem | 15 | 6 gears, 6 springs, 4 clock parts | Emerald, star sapphire, and diamond |
 
-The chance to succeed is `50%` at the required Tinkering and rises to `100%` at `50` points above it. A grandmaster tinker always succeeds with a prototype golem, succeeds `75%` of the time with a mechanical golem, and succeeds `50%` of the time with a terror golem. See [Tinkering: Golems](/tinkering#golems).
+The chance to succeed is `50%` at the required Tinkering and rises to `100%` at `50` points above it. A grandmaster tinker always succeeds with a prototype golem, succeeds `75%` of the time with a mechanical golem, and succeeds `50%` of the time with a terror golem. Golems are made from the [Tinkering menu](/tinkering#golems).
 
 ## Unleashing
 Double-clicking a golem in the backpack unleashes it beside its owner. It can't be unleashed:
