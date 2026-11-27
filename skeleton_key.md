@@ -1,3 +1,13 @@
+---
+title: Skeleton Key
+description: A key that lowers Lockpicking requirements, and where to find one
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Skeleton Key
 A skeleton key lowers a locked container's [Lockpicking](/lockpicking) requirements by `10` when used instead of a [lockpick](/lockpick).
 

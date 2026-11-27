@@ -1,3 +1,13 @@
+---
+title: Lich King
+description: The demiboss of Covetous, his abilities, loot, and the liche's ring
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Lich King
 The Lich King is a [demiboss](/demibosses), ruling from the throne room on floor 3 of [Covetous](/covetous). Being laden with blackrock, he is highly resistant to magic. He is built for a group of players, though a strong player may be able to defeat him alone. After he dies, he returns `12` to `24` hours later.
 

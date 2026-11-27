@@ -1,3 +1,13 @@
+---
+title: Ultima Online
+description: An introduction to Ultima Online for new players
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Ultima Online
 Ultima Online is a sandbox: there are no levels, no set path, and no wrong way to play within the shard's rules. Players go on adventures, hoard treasure, and construct their own houses.
 

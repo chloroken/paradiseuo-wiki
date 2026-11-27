@@ -1,3 +1,13 @@
+---
+title: Herding
+description: Guiding creatures with a shepherd's crook, and the shillelagh
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Herding
 Herding is the skill of guiding creatures with a shepherd's crook. It also turns the crook into a shillelagh that bonks for heavy damage.
 

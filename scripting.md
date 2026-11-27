@@ -1,3 +1,13 @@
+---
+title: Scripting
+description: Macros and scripts with TazUO's Legion scripting
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Scripting
 TazUO's [Legion scripting](https://tazuo.org/wiki/legion-scripting/) runs Python macros inside the client. Every command a script can use is listed in the [Legion API docs](https://tazuo.org/legion/legionapi/).
 

@@ -1,3 +1,13 @@
+---
+title: Magic Weapons
+description: Magic and exceptional modifiers, and silver weapons
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Magic Weapons
 Weapons found as loot can be magic. Magic is one of the two kinds of modifiers a weapon can have.
 

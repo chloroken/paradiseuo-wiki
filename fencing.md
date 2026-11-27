@@ -1,3 +1,13 @@
+---
+title: Fencing
+description: Fighting with daggers, krysses, and spears
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Fencing
 Fencing is the skill of fighting with daggers, krysses, and spears. While holding any of them, a character defends against an attacker's [hit chance](/combat#hit-chance) with Fencing, and the dagger, kryss, and war fork leave the other hand free for [parrying](/parrying) with a shield. Every fencing weapon can be coated with [poison](/poisoning). The one-handed ones can [ambush](/ambush) from hiding, and the dagger backstabs hardest of all, while two-handed spears are too long to ambush and pin their targets with [Paralyzing Blow](/weapon_effects#paralyzing-blow) instead. Each weapon has its own [speed and damage](/dps), which Tactics, Strength, and [Anatomy](/anatomy) raise the same way as for any other weapon, and no scaling skill adds to them.
 

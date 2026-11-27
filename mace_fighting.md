@@ -1,3 +1,13 @@
+---
+title: Mace Fighting
+description: Fighting with maces, hammers, staves, and the shepherd's crook
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Mace Fighting
 Mace Fighting is the skill of fighting with blunt weapons: maces, hammers, staves, and the shepherd's crook. While holding any of them, a character defends against an attacker's [hit chance](/combat#hit-chance) with Mace Fighting, but only one-handed maces leave a hand free for [parrying](/parrying) with a shield. Each weapon has its own [speed and damage](/dps), which Tactics, Strength, and [Anatomy](/anatomy) raise the same way as for any other weapon. Mace hits don't drain the target's stamina, but blunt weapons [wear down armor](/armor#durability) faster.
 

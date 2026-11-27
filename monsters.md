@@ -1,3 +1,13 @@
+---
+title: Monsters
+description: How monsters behave, fight, and drop loot
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Monsters
 Monsters roam the wilds and fill the [dungeons](/dungeons). They range from rats and slimes near town to dragons and daemons in the deepest dungeons, and many of them can be tamed or turned against each other.
 

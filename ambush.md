@@ -1,3 +1,13 @@
+---
+title: Ambush
+description: Attacking from Hiding and Stealth for extra damage and accuracy
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Ambush
 A character who hides with the [Hiding](/hiding) skill and then attacks ambushes the target, for extra damage. Moving with [Stealth](/stealth) first makes the ambush stronger and more accurate. [Valor](/valor) applies to an ambush like any other attack.
 

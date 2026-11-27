@@ -1,3 +1,13 @@
+---
+title: Character
+description: Classes, builds, and what makes a character
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Character
 A character's build, or class, is determined by its stats, skills, and reputation.
 

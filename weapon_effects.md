@@ -1,3 +1,13 @@
+---
+title: Weapon Effects
+description: Critical strikes, blows, the shillelagh, and other effects on hit
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Weapon Effects
 Most weapon types have a weapon effect, which can trigger when a hit lands. Weapon effects are for players only. Monsters, hirelings, and other NPCs never trigger them, even with the same weapons. Some effects also only work against monsters.
 

@@ -1,3 +1,13 @@
+---
+title: Combat
+description: Hit chance, swing speed, and damage
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Combat
 This page covers how [often attacks land](#hit-chance), how [fast they come](#swing-speed), and how much [damage they do](#damage).
 

@@ -1,3 +1,13 @@
+---
+title: Damage Per Second
+description: Every weapon's damage, speed, and damage per second
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Damage Per Second
 Every weapon's base damage, speed, and damage per second (DPS) for a fighter with `100` Tactics, Strength, Anatomy, and Stamina, using a regular-quality, non-magic weapon. DPS assumes every swing hits and ignores armor.
 

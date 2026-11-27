@@ -1,3 +1,13 @@
+---
+title: Animal Taming
+description: Turning animals and monsters into pets, and the taming penalty
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Animal Taming
 Animal tamers turn animals, and some monsters, into followers known as [pets](/pet).
 

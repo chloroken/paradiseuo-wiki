@@ -1,3 +1,13 @@
+---
+title: Pet
+description: Tamed followers: training, obeying commands, Pack Instinct, and notable pets
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Pet
 Pets are tamed [followers](/follower), and [mounts](/mount) are pets too. [Animal tamers](/animal_taming) specialize in capturing and using pets. Tamers can control powerful monsters, which makes hunting for loot much easier, provided their pets stay alive and obedient. Loyalty, feeding, and the rules all followers share are covered on the Follower page.
 

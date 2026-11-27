@@ -1,3 +1,13 @@
+---
+title: Boat
+description: Buying, sailing, and keeping a boat
+published: true
+date: 2026-11-27T15:54:43.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T18:40:29.000Z
+---
+
 # Boat
 Boats allow travel by sea and river. They are bought from shipwrights near docks, and [sink quickly](#decay) if left unused.
 
