@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-27T12:05:16.143Z
+date: 2026-11-27T15:35:25.086Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -12,6 +12,34 @@ dateCreated: 2026-11-04T19:38:55.944Z
 Changes to *Paradise*, newest first.
 ## 2026.11.27
 - Lower golem break down chance to `10%`
+- Prune [Blacksmithing](/blacksmithing) to T2A:
+    - Remove dragon scale armor and the metal keg
+    - Fix the broadsword missing from the crafting menu
+- Prune [Tailoring](/tailoring) to T2A:
+    - Remove spined, horned, and barbed leather, the orc, bear, deer, tribal, and horned tribal masks, oil cloth, and the Krampus hat, boots, and talons
+    - Remove bone armor and the orc helm from the crafting menu, so bone armor only drops as loot
+    - Make carved corpses give only plain hides or leather, and no scales
+    - Stop monsters from dropping bones, and stop bone piles and rib cages from being cut into bones
+- Require enough [Magery](/magery) to have a chance of casting a spell before scribing it with [Inscription](/inscription)
+- Make a failed craft lose half of each material instead of all of it
+- Add [metal types](/armor#metal-types) to armor:
+    - Make colored metal reduce spell damage instead of adding armor rating, up to `10%` for a full valorite set with a shield
+    - Make `10%` of the ringmail, chainmail, plate, and shields dropped by monsters come in a colored metal
+    - Let [Arms Lore](/arms_lore) judge how well armor's metal wards off magic
+- Sell shovels at provisioners in every town
+- Remove items from after T2A from vendors, such as skin tingeing tincture, interior decorators, commodity deeds, malleable alloy, solvent flasks, hoes, aquarium items, beeswax, plant bowls, crystals, and taxidermy kits
+- Fix demibosses dropping two treasure maps
+- Add charged [magic items](/magic_items):
+    - Add magic jewelry and clothing with Agility, Bless, Cunning, Invisibility, Magic Reflection, Night Sight, Protection, Strength, or Teleport (rings only)
+    - Add cursed jewelry with Clumsy, Curse, Feeblemind, or Weaken
+    - Drop them unidentified, showing their effect and charges once identified
+    - Drop them from the richest monsters, [treasure chests](/treasure_map), and [dungeon chests](/lockpicking#dungeon-chests), and `4` to `6` strong ones from every demiboss
+    - Replace plain jewelry and clothing in dungeon chests with magic items
+- Add [wands](/magic_items#wands) to monster loot, demibosses, treasure chests, and dungeon chests
+- Fix level 3 and 4 dungeon chests never dropping their magic weapons and armor
+- Make [Item Identification](/item_identification) succeed or fail in a single roll, and identify magic items too
+- Let wands of identification identify magic items
+- Show an item's name and properties on one line when single-clicked, instead of two
 ## 2026.11.26
 - Refresh [Deceit](/deceit):
     - Rework spawns so each floor grows more dangerous, from skeletons and zombies on floor 1 to liches and lich lords on floor 4
