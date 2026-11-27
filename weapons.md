@@ -2,7 +2,7 @@
 title: Weapons
 description: Every weapon type, its skill, its weapon effect, and magic weapons
 published: true
-date: 2026-11-26T12:55:48.270Z
+date: 2026-11-27T16:03:31.832Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -14,13 +14,13 @@ Each type of weapon is trained with its own skill, and most types have a [weapon
 ## Weapon Types
 | Type | Skill | Weapons | Effect | Scaling Skill |
 |:-|:-:|:-:|:-:|:-:|
-| Axes (1H) | Swordsmanship | Pickaxe | | [Mining](/mining) |
+| Axes (1H) | [Swordsmanship](/swordsmanship) | Pickaxe | | [Mining](/mining) |
 | Axes (2H) | Swordsmanship | Axe, battle axe, double axe, executioner's axe,<br>hatchet, large battle axe, two-handed axe | | [Lumberjacking](/lumberjacking) |
 | Knives | Swordsmanship | Butcher knife, cleaver, skinning knife | Poison | |
 | Polearms | Swordsmanship | Bardiche, halberd | [Concussion Blow](/weapon_effects#concussion-blow) | |
-| Swords | [Swordsmanship](/swordsmanship) | Broadsword, cutlass, katana,<br>longsword, scimitar, viking sword | [Critical strikes](/weapon_effects#critical-strikes) | |
-| Daggers | Fencing | Dagger | Poison | |
-| Krysses | [Fencing](/fencing) | Kryss | Poison | |
+| Swords | Swordsmanship | Broadsword, cutlass, katana,<br>longsword, scimitar, viking sword | [Critical strikes](/weapon_effects#critical-strikes) | |
+| Daggers | [Fencing](/fencing) | Dagger | Poison | |
+| Krysses | Fencing | Kryss | Poison | |
 | Spears (1H) | Fencing | War fork | Poison | |
 | Spears (2H) | Fencing | Pitchfork, short spear, spear | [Paralyzing Blow](/weapon_effects#paralyzing-blow), poison | |
 | Maces (1H) | [Mace Fighting](/mace_fighting) | Club, hammer pick, mace, maul, war mace | [Sapping vigor](/weapon_effects#sapping-vigor) | |
