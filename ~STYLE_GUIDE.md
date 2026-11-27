@@ -1,11 +1,31 @@
+---
+title: ~Style Guide~
+description: How every page on the Paradise wiki is written and formatted
+published: true
+date: 2026-11-27T15:17:07.782Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-19T00:22:42.267Z
+---
+
 # Style Guide
 Every page on the *Paradise* wiki follows these rules, so the wiki reads as one consistent document.
 
 ## Page Structure
 - Each page has one `#` heading, matching the page title.
-- A short intro paragraph follows the title, before the first section.
+- A succinct intro paragraph follows the title, before the first section. It says what the subject is and how it works, linking related mechanics inline as it goes.
+- Tables go wherever they fit naturally, in the intro or in a section.
+- Sections are only for details this page owns. A section that would only restate another page becomes a phrase with an inline link instead.
 - Sections use `##` and subsections use `###`. Nothing deeper than `###`.
 - Sections are separated by headings only, never by horizontal rules.
+
+## One Home per Mechanic
+Every mechanic is explained, with its numbers, on exactly one page: its home. Other pages mention it in a few words and link to its home, rather than repeating how it works.
+
+- Correct: Swords can land [critical strikes](/weapon_effects#critical-strikes), increasing with skill in [Arms Lore](/arms_lore).
+- Incorrect: Swords can land a critical strike, which doubles the hit's damage before armor. Each sword has its own chance, from `10%` for the broadsword to `40%` for the viking sword at `100` Arms Lore. See [Weapon Effects: Critical Strikes](/weapon_effects#critical-strikes).
+
+A number belongs on the page that owns its mechanic, so a change only needs to be made in one place. A table that compares things across pages, such as weapon damage on [Damage Per Second](/dps), is the home for those numbers.
 
 ## Headings
 Headings use Title Case, with short words (a, an, and, as, at, by, for, in, of, on, or, the, to, with) in lowercase unless they come first.
@@ -49,11 +69,17 @@ Italics are used for:
 - Links always use a relative path: `/pet`, never `https://paradiseuo.com/pet`.
 - Links to a section add an anchor: `/pet#obeying-commands`.
 - Anchors must be lowercase, with spaces converted to hyphens and punctuation removed, or they won't work. "Obeying Commands" becomes `#obeying-commands`. `%20` does not work.
-- Only the first mention of a page is linked on any given page.
+- Links go inline, on the words that name the subject: a character defends against the attacker's [hit chance](/combat#hit-chance) with Swordsmanship.
+- Each link target is linked only at its first mention on a page. A page and each of its sections are separate targets, so `/combat#damage` and `/combat#hit-chance` can each be linked once on the same page.
 - Links to pages that don't exist yet are kept. They mark planned pages and start working once the page is written.
 - Link text follows normal sentence capitalization: capitals only for proper names, such as skills, spells, and places. Ordinary words stay lowercase.
   - Examples: tamers turn animals into [pets](/pet), healed with [Veterinary](/veterinary), listed in the [patch notes](/patch_notes)
-- Cross-references are the one exception, and use the title of what they link to: the page's title for a whole page, such as See [Stable](/stable), or the section's heading for a section, such as See [Valor](/valor). If the heading is too vague to stand on its own, the page title and a colon go before it, such as See [Combat: Damage](/combat#damage).
+
+### See Links
+A "See" link is a last resort, for when no word in the sentence can carry the link. It uses the title of what it links to: the page's title for a whole page, such as See [Stable](/stable), or the section's heading for a section. If the heading is too vague to stand on its own, the page title and a colon go before it, such as See [Combat: Damage](/combat#damage).
+
+- Correct: Each weapon's speed and damage are listed on [Damage Per Second](/dps).
+- Incorrect: Each weapon has its own speed and damage. See [Damage Per Second](/dps).
 
 ## Notes and Warnings
 The wiki doesn't use note boxes, callouts, or block quotes. Important information goes in the text, with bold for critical warnings.
