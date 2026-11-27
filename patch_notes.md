@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-26T18:35:15.506Z
+date: 2026-11-27T12:05:16.143Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -10,6 +10,8 @@ dateCreated: 2026-11-04T19:38:55.944Z
 
 # Patch Notes
 Changes to *Paradise*, newest first.
+## 2026.11.27
+- Lower golem break down chance to `10%`
 ## 2026.11.26
 - Refresh [Deceit](/deceit):
     - Rework spawns so each floor grows more dangerous, from skeletons and zombies on floor 1 to liches and lich lords on floor 4
