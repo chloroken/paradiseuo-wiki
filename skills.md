@@ -14,8 +14,8 @@ A character can have up to `700` skill points. Common [class builds](/character#
 Skills are trained by using them. However, it's part of UO culture to use [macros](/scripting) to train skills automatically.
 
 ## Notable Skills
-These skills enable archetype and most characters take at least one.
-- Tactics: raises weapon damage by up to `50%` and offers significant [Valor](/valor) benefits
+These skills define an archetype, and most characters take at least one.
+- Tactics: raises weapon damage and offers significant [Valor](/valor) benefits
 - Magery: offers access to damage, healing, utility, and the best travel options
 - Animal Taming: commanding an army of monsters is powerful in combat
 - Provocation: turns monsters against each other, the stronger the better

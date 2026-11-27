@@ -9,9 +9,7 @@ dateCreated: 2026-11-18T23:04:02.833Z
 ---
 
 # Features
-This page covers the significant ways that *Paradise* deliberately differs from its T2A base.
-
-Smaller tweaks are listed in the [patch notes](/patch_notes). Development is ongoing during alpha. See [Plans](/plans).
+*Paradise* is a T2A shard, and this page covers the significant ways it deliberately differs from its T2A base. Smaller tweaks are listed in the [patch notes](/patch_notes), and development is ongoing during alpha, with what's next listed on [Plans](/plans).
 
 ## Design Goals
 The main design goals of *Paradise* are:
@@ -24,103 +22,50 @@ The main design goals of *Paradise* are:
 ## Fighter Rework
 Characters who fight with weapons are enhanced to keep pace with mages, tamers, and bards in PvM.
 
-- [Valor](/valor):
-  - Characters who fight without magic are gripped by [the warrior's virtue](https://wiki.ultimacodex.com/wiki/Valor).
-  - Valor grants fighting bonuses that diminish as Magery increases.
-- [Armor](/armor#how-armor-works):
-  - Armor damage reduction is percentage-based instead of flat, making it better against bigger hits.
-  - Shields also reduce every hit, on top of blocking.
-  - Armor and shields of [colored metal](/armor#metal-types) ward off spell damage instead of adding armor rating, giving tanks an edge against mages.
-- [Wrestling Moves](/wrestling#wrestling-moves):
-  - Wrestling's stun happens automatically, no button or macro needed.
-  - Disarm is removed, so every move is a stun.
-- [Poisoning](/poisoning):
-  - Inflicting poison is now tied to Poisoning level, giving it a use in the field.
-- [Ambush](/ambush):
-  - Attacks with bows, crossbows, one-handed fencing weapons, and knives do bonus damage if they break Hiding.
-  - Breaking Stealth further enhances the attack.
-  - Daggers backstab for up to `5×` damage.
-- [Weapon Identities](/weapon_effects):
-  - Swords critically strike for double damage, and slower swords crit more often.
-  - One-handed maces weaken a monster's blows by sapping its vigor.
-  - Two-handed maces and staves can slow a monster's attacks.
-  - Polearms halve a target's mana with Concussion Blow, aimed with Anatomy.
-  - Herding turns the shepherd's crook into a shillelagh that bonks for up to `10` times damage.
-  - Weapon effects are for players only.
-  - [Arms Lore](/arms_lore) controls most weapon effects, so each fighter chooses whether to pay for them.
-  - Weapon damage is rebalanced so more weapons are worth using.
-- [Scaling Skills](/weapons#scaling-skills):
-  - Lumberjacking, Carpentry, and Mining make their own weapons hit harder.
-  - Blacksmithing lets two-handed maces splash Crushing Blows onto every monster around the target.
-  - Carpentry makes the wooden shield as sturdy as a heater shield.
-- [Carrying Capacity](/stats#carrying-capacity):
-  - Dexterity adds carrying capacity, half as much per point as Strength.
+- Characters who fight without magic are gripped by [Valor](/valor), the warrior's virtue, which grants fighting bonuses that fade as Magery rises.
+- [Armor](/armor#how-armor-works) reduces damage by a percentage instead of a flat amount, so it holds up against big hits, and shields reduce every hit on top of blocking.
+- Armor and shields of [colored metal](/armor#metal-types) ward off spell damage instead of adding armor rating, giving tanks an edge against mages.
+- Wrestling's [stun](/wrestling#wrestling-moves) happens automatically, and Disarm is gone, so every move is a stun.
+- The chance to inflict [poison](/poisoning) is tied to Poisoning, giving it a use in the field.
+- Bows, crossbows, one-handed fencing weapons, and knives [ambush](/ambush) for bonus damage when they break Hiding, more after Stealth, and daggers backstab.
+- Each weapon type has its own identity through [weapon effects](/weapon_effects): swords critically strike, one-handed maces sap a monster's vigor, two-handed maces and staves slow its attacks, polearms concuss, and the shepherd's crook bonks as a shillelagh. Most of them are powered by [Arms Lore](/arms_lore), so each fighter chooses whether to pay for them, and only players land them.
+- Weapon damage is [rebalanced](/dps) so more weapons are worth using.
+- Lumberjacking, Carpentry, and Mining make their own weapons hit harder as [scaling skills](/weapons#scaling-skills), Blacksmithing lets two-handed maces splash their Crushing Blows, and Carpentry makes the wooden shield as sturdy as a heater shield.
+- Dexterity adds [carrying capacity](/stats#carrying-capacity), half as much per point as Strength.
 
 ## Archer Rework
-Archers receive several enhancements that make ranged combat more effective.
-
-- Valor, Poison, and Ambush:
-  - Archers also benefit from Valor bonuses.
-  - Arrows and bolts can be coated with poison.
-  - Bows and crossbows can ambush from Hiding and Stealth.
-- [Fletching](/fletching#fletching-and-archery):
-  - Increases range, reduces time to shoot, and saves more arrows.
-- [Crossbow Volley](/archery#crossbow-volley):
-  - Crossbows fire up to `3` bolts per shot.
-- [Tracking](/tracking#archery-accuracy):
-  - Increases accuracy with ranged weapons.
-  - At `100` Tracking, shots against fleeing targets never miss.
+Archers share Valor, poison, and ambushes with other fighters, and also get:
+- [Fletching](/fletching#fletching-and-archery), which adds range, shortens the wait to shoot after moving, and recovers more arrows
+- [Crossbow volleys](/archery#crossbow-volley), firing several bolts per shot
+- [Tracking](/tracking#archery-accuracy), which makes ranged attacks more accurate, until shots at fleeing targets never miss
 
 ## Follower Enhancements
-Controlling [followers](/follower) is a popular fantasy, so it's been enhanced in three major ways. Followers keep pace with their owner, even when the owner is mounted (hirelings will mount their own horse), and players can attack their own followers without becoming criminals to hone their skills. See [Training on Followers](/follower#training-on-followers).
+Controlling [followers](/follower) is a popular fantasy, so it's been enhanced in several ways. Followers keep pace with their owner, even a mounted one, and players can [train on their own followers](/follower#training-on-followers) without becoming criminals. Demibosses do [double damage](/follower#followers-in-combat) to every follower.
 
 ### Tamers
-Animal tamers get several changes that make training, healing, and keeping pets easier.
-
 - During alpha, Animal Taming gains skill twice as fast as normal.
 - A player's own pets appear green to them.
-- Animal tamers can bandage pets from farther away as their Veterinary skill rises. See [Veterinary: Range](/veterinary#range).
-- Saying `claim` to an animal trainer opens a list of stabled pets to choose from. See [Stable](/stable).
-- Silver steeds and nightmares have a small chance to spawn Shiny, with a rare hue. See [Mount](/mount).
+- Tamers can bandage pets from [farther away](/veterinary#range) as their Veterinary rises.
+- Saying `claim` to an animal trainer opens a list of [stabled](/stable) pets to choose from.
+- Silver steeds and nightmares have a small chance to spawn as Shiny [mounts](/mount), with a rare hue.
 
 ### Summoners
-Mages who train [Spirit Speak](/spirit_speak) have enhanced summoning spells. See [Summon](/summon).
-
-Spirit Speak:
-- makes summons last longer.
-- makes summons become more resistant to dispels.
-- makes summoned air, earth, fire, and water elementals do more damage.
-- makes summoned animals and elementals take fewer follower slots. See [Summon: Follower Slots](/summon#follower-slots).
-- makes summon spells less likely to fail, never failing at `100` Spirit Speak
-
-Related Changes:
-- A player can have only one elemental of each kind at once.
-- Elementals in Shame and daemons anywhere drop summon scrolls. See [Summon: Summon Scrolls](/summon#summon-scrolls).
+Mages who train [Spirit Speak](/spirit_speak) get stronger [summons](/summon) that last longer, resist dispels, and take fewer [follower slots](/summon#follower-slots), with stronger elementals and summon spells that stop failing at grandmaster. A player can have only one elemental of each kind at once, and elementals in Shame and daemons anywhere drop [summon scrolls](/summon#summon-scrolls).
 
 ### Hirelings
-Paid followers found in taverns, cheap enough for any character. *Paradise* adds the Cleric hireling. See [Hireling](/hireling).
-
-- Each tavern has `2` random hirelings and the Jhelom fighting pit has `10`.
-- Unhired hirelings are replaced with new ones every hour.
-- Hirelings ride horses when commanded to follow.
-- The cleric hireling heals its employer, their pets and hirelings, and itself, but has limited mana.
+[Hirelings](/hireling) are paid followers found in taverns and the Jhelom fighting pit, cheap enough for any character. They're replaced every hour while unhired, ride their own horses when following, and include the cleric, unique to *Paradise*, who heals its employer.
 
 ### Golems
-Tinkers who also train Inscription build golems, machines that fight on their own for a short time. See [Golem](/golem).
-
-- Golems are invulnerable, and monsters ignore them.
-- They attack the closest red or gray creature for `30` seconds, then wind down.
-- Each golem costs `3` gems and a Blade Spirits scroll, and has a `50%` chance to be recovered.
+Tinkers who also train Inscription build [golems](/golem): invulnerable machines that monsters ignore, which attack nearby red and gray creatures for a short time before winding down.
 
 ## Reputation
-Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower, and locked Karma is unlocked with shrine mantras. See [Reputation](/reputation).
+Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower, and locked Karma is unlocked with shrine mantras. All of it is covered on [Reputation](/reputation).
 
 ## Other Changes
-- Equipping weapons doesn't reset swing timer.
-- Tailors who wear a robe and no armor regenerate mana faster outside a trance. See [Meditation: Robes](/meditation#robes).
-- Hungry characters don't regenerate hit points, and starving characters waste away to `1` hit point. See [Cooking: Hunger](/cooking#hunger).
-- Cooks heal when they eat, so a chef can save up a burst of healing by staying hungry. See [Cooking: Healing from Food](/cooking#healing-from-food).
-- Monsters hit players with attacks much harder than other shards.
-- Followers take double damage from demibosses. See [Follower: Followers in Combat](/follower#followers-in-combat).
-- Starting items aren't protected, so they drop on death once a character is no longer Young. See [Young Player](/young_player#losing-young-status).
-- Dungeons hide curiosities, such as the summoning braziers of Deceit, which call random monsters from the dark. See [Deceit: Summoning Braziers](/deceit#summoning-braziers).
+- Equipping weapons doesn't reset the swing timer.
+- Tailors who wear a [robe and no armor](/meditation#robes) regenerate mana faster outside a trance.
+- [Hungry](/cooking#hunger) characters don't regenerate hit points, and starving characters waste away.
+- Cooks [heal when they eat](/cooking#healing-from-food), so a chef can save up a burst of healing by staying hungry.
+- Monsters hit players with attacks much harder than on other shards.
+- Starting items aren't protected, so they drop on death once a character is [no longer Young](/young_player#losing-young-status).
+- Dungeons hide curiosities, such as the [summoning braziers](/deceit#summoning-braziers) of Deceit, which call random monsters from the dark.

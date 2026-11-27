@@ -1,7 +1,7 @@
 # Combat
 This page covers how [often attacks land](#hit-chance), how [fast they come](#swing-speed), and how much [damage they do](#damage).
 
-Characters without magic gain accuracy, toughness, and regeneration. See [Valor](/valor).
+Characters who fight without magic also gain accuracy, toughness, and regeneration through [Valor](/valor).
 
 ## Gear and Skills
 - [Weapons](/weapons): every weapon type, its skill, and its scaling skill.
@@ -16,7 +16,7 @@ Characters without magic gain accuracy, toughness, and regeneration. See [Valor]
 - [Anatomy](/anatomy): more damage, wrestling stuns, polearm Concussion Blows, better bandages, and Valor's regeneration.
 - [Arms Lore](/arms_lore): weapon effects, such as critical strikes and Crushing Blow.
 - [Healing](/healing): bandages that heal, cure poison, and resurrect.
-- [Poisoning](/poisoning): coating weapons and ammunition. See also [Poison](/poison).
+- [Poisoning](/poisoning): coating weapons and ammunition, and how [poison](/poison) works once it lands.
 - [Hiding](/hiding) and [Stealth](/stealth): disappearing and moving unseen before an ambush.
 - [Tracking](/tracking): finding targets, and accuracy with ranged weapons.
 - [Monsters](/monsters): what there is to fight.
@@ -33,7 +33,7 @@ Each attack compares the attacker's weapon skill to the defender's:
 
 `(Attacker's Weapon Skill + 50) / ((Defender's Weapon Skill + 50) * 2)`
 
-The defender uses the skill of whatever weapon they're holding, so a fencer defends with Fencing and an archer with Archery. An unarmed character defends with Wrestling, or with Anatomy and Evaluating Intelligence. See [Unarmed Defense](/wrestling#unarmed-defense).
+The defender uses the skill of whatever weapon they're holding, so a fencer defends with Fencing and an archer with Archery. An unarmed character defends with Wrestling, or with [Anatomy and Evaluating Intelligence](/wrestling#unarmed-defense).
 
 | Attacker Skill | Defender Skill | Hit Chance (%) |
 |:-|:-:|:-:|
@@ -47,7 +47,7 @@ Every attack, hit or miss, has a chance to raise the attacker's weapon skill.
 
 Two things can raise hit chance beyond skill:
 - Valor adds to the attacker's weapon skill for this roll.
-- Ambushers gain accuracy for every stealthed step before the attack, until it can't miss. See [Ambush](/ambush#stealth).
+- Ambushers gain accuracy for every [stealthed step](/ambush#stealth) before the attack, until it can't miss.
 
 ## Damage
 Every weapon rolls its base damage, which is then changed in two steps.
@@ -60,28 +60,24 @@ Second, these bonuses are added together, then applied to the result:
 |:-|:-:|:-:|
 | Strength | 1% per 5 Strength | 20 |
 | Anatomy | 1% per 5 Anatomy, plus 10% at grandmaster | 30 |
-| [Lumberjacking](/lumberjacking) | 1% per 5 Lumberjacking, plus 10% at grandmaster, axes except the pickaxe | 30 |
-| [Carpentry](/carpentry) | Up to 10%, plus 5% at grandmaster, black, gnarled, and quarter staves only | 15 |
-| [Mining](/mining) | Up to 66.7%, plus 33.3% at grandmaster, pickaxe only | 100 |
+| [Scaling skills](/weapons#scaling-skills) | Lumberjacking for axes, Carpentry for staves, Mining for the pickaxe | 15 – 100 |
 | [Weapon quality](/crafting#exceptional-items) | +20% exceptional | |
-
-Lumberjacking, Carpentry, and Mining only add damage for players. Each grows evenly up to two thirds of its total at `99.9`, and the last third comes at grandmaster. See [Weapons: Scaling Skills](/weapons#scaling-skills).
 
 A fighter with `100` in Tactics, Strength, and Anatomy does `1.5 * 1.5 = 2.25` times the weapon's base damage. With an exceptional weapon, that rises to `1.5 * 1.7 = 2.55` times, and with an exceptional axe and `100` Lumberjacking, to `1.5 * 2.0 = 3` times.
 
-Magic and exceptional bonuses are modifiers, and their damage is flat: critical strikes, ambushes, and bonks multiply only the weapon's own roll. See [Magic Weapons: Modifiers](/magic_weapons#modifiers).
+Magic and exceptional damage are [flat modifiers](/magic_weapons#modifiers), so critical strikes, ambushes, and bonks multiply only the weapon's own roll.
 
 A worn-out weapon does less damage, down to half when it's about to break.
 
 Melee damage between players is halved, and so is melee damage from a player's [follower](/follower) to another player. Every other hit between players and monsters does full damage, so monsters hit players twice as hard as on most ServUO shards.
 
-A [demiboss](/demibosses) does double damage to every follower: pets, hirelings, and summons. Breath, poison, and Fire Field aren't affected. See [Follower: Followers in Combat](/follower#followers-in-combat).
+A [demiboss](/demibosses) does [double damage](/follower#followers-in-combat) to every follower, except with breath, poison, and Fire Field.
 
 The damage of each hit shows as a number over the target. The attacker and the target see it, as do the owners of any followers involved.
 
-Valor, shields, armor, and Arch Protection reduce the damage before it reaches the target. See [Armor](/armor).
+Valor, shields, [armor](/armor#how-armor-works), and Arch Protection then reduce the damage before it reaches the target.
 
 ## Being Hit
-- Any damage, however small, makes a bandage slip. See [Healing: Slips](/healing#slips).
+- Any damage, however small, makes a [bandage slip](/healing#slips).
 - Frozen characters can't move or begin casting a spell, but can still attack anything in reach. Wrestling stuns and Paralyzing Blow freeze their target, and the freeze lasts its full time, even through damage.
 - Paralyzed characters have the same limits, but taking damage breaks the paralysis. The Paralyze spell and paralyze fields paralyze their target.
