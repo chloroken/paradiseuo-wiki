@@ -2,7 +2,7 @@
 title: Golem
 description: The machines used by tinkers in combat, their stats, and crafting requirements
 published: true
-date: 2026-11-26T17:50:39.291Z
+date: 2026-11-27T11:42:18.899Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T17:47:52.916Z
@@ -51,4 +51,4 @@ Golems aren't summons. [Spirit Speak](/spirit_speak) doesn't make them last long
 ## Winding Down
 A golem winds down after `30` seconds. It winds down early if its owner dies, logs out, or moves more than `18` tiles away, and every golem winds down when the server restarts.
 
-When a golem winds down, there's a `50%` chance it drops back onto the ground where it stood, as a golem that can be picked up and used again. Its owner sees *Your golem winds down.* Otherwise, the owner sees *Your golem breaks down beyond repair.*
+When a golem winds down, there's a `90%` chance it drops back onto the ground where it stood, as a golem that can be picked up and used again. Its owner sees *Your golem winds down.* Otherwise, the owner sees *Your golem breaks down beyond repair.*
