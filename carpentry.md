@@ -1,13 +1,3 @@
----
-title: Carpentry
-description: Turning boards into furniture, containers, weapons, instruments, and house add-ons
-published: true
-date: 2026-11-19T11:19:53.462Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-17T06:34:26.911Z
----
-
 # Carpentry
 Carpentry is the skill of turning boards into furniture, containers, weapons, shields, instruments, and house add-on deeds, using a saw or other woodworking tools. There are no colored woods, just normal wood.
 
@@ -125,6 +115,6 @@ A wooden shield gains up to `15` armor from its wearer's Carpentry, so at `100` 
 ## Manual Training
 Carpentry trains by crafting the highest-level items possible, with plenty of boards and spare tools for when they break. The `Properties` button beside each item in the crafting menu shows the chance of success.
 
-Reaching grandmaster takes many thousands of boards.
+Reaching grandmaster takes thousands of boards.
 
 ## Macro Training

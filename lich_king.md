@@ -41,12 +41,15 @@ The Lich King also casts standard magery spells, heals himself, and teleports ev
 |:-|:-:|:-:|
 | Gold | 5,260 average | 100 |
 | 7th and 8th circle spell scrolls | 10 | 100 |
-| Weapons, armor, shields, and jewelry | 9 average | 100 |
+| Weapons, armor, and shields | 9 average | 100 |
+| Strong [magic jewelry and clothing](/magic_items) | 4 – 6 | 100 |
+| Magic jewelry and clothing | 1 average | 100 |
+| [Wands](/magic_items#wands) | 2.5 average | 100 |
 | Level 5 [treasure map](/treasure_map) | 1 | 100 |
 | Silver weapon | 1 | 100 |
 | Liche's ring | 1 | 10 |
 
-Most of the weapons, armor, and shields are magic, but jewelry never is. The silver weapon is a random type of weapon, usually with magic properties.
+Most of the weapons, armor, and shields are magic. The silver weapon is a random type of weapon, usually with magic properties.
 
 ## Liche's Ring
 A liche's ring is a silver ring that can turn a weapon silver. It can drop from any lich.

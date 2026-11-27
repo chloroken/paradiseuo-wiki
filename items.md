@@ -1,13 +1,3 @@
----
-title: Items
-description: Items with their own pages
-published: true
-date: 2026-11-20T02:39:39.619Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-10T01:43:55.190Z
----
-
 # Items
 These items have their own pages.
 
@@ -15,6 +5,7 @@ These items have their own pages.
 - [Armor](/armor)
 - [Weapons](/weapons)
 - [Magic Weapons](/magic_weapons)
+- [Magic Items](/magic_items)
 
 ## Other Items
 - [Treasure Map](/treasure_map)

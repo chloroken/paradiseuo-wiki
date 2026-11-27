@@ -1,13 +1,3 @@
----
-title: Skills
-description: Every enabled and disabled skill, and the most popular ones
-published: true
-date: 2026-11-26T18:29:14.980Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-03T22:05:20.404Z
----
-
 # Skills
 A character can have up to `700` skill points. Common [class builds](/character#classes) aim for powerful synergies.
 
@@ -30,7 +20,7 @@ These skills enable archetype and most characters take at least one.
 | [Archery](/archery) | | Hits and defends with bows and crossbows |
 | [Arms Lore](/arms_lore) | Judges a weapon's or armor's condition, damage or protection, and poison | Powers critical strikes, sapping vigor, Crushing Blow, and Paralyzing Blow |
 | [Begging](/begging) | | |
-| [Blacksmithing](/blacksmithing) | Crafts metal weapons, armor, and shields, and repairs armor | Two-handed mace Crushing Blows splash onto nearby monsters |
+| [Blacksmithing](/blacksmithing) | Crafts metal weapons, armor, and shields, and repairs and smelts them | Two-handed mace Crushing Blows splash onto nearby monsters |
 | [Camping](/camping) | | |
 | [Carpentry](/carpentry) | Crafts furniture, containers, staves, wooden shields, instruments, and add-ons | More damage with staves, and more armor on a wooden shield |
 | [Cartography](/cartography) | Crafts maps and sea charts, and decodes treasure maps | |
@@ -46,7 +36,7 @@ These skills enable archetype and most characters take at least one.
 | [Herding](/herding) | Sends a tameable creature to a spot with a shepherd's crook | Turns the shepherd's crook into a shillelagh that bonks for more damage |
 | [Hiding](/hiding) | Hides from players and monsters, setting up an ambush | |
 | [Inscription](/inscription) | Writes spell scrolls | Strengthens Reactive Armor and Protection, and crafts and unleashes golems with Tinkering |
-| [Item Identification](/item_identification) | | |
+| [Item Identification](/item_identification) | Identifies an item, revealing its magic and charges | |
 | [Lockpicking](/lockpicking) | Picks locks with a lockpick or skeleton key | |
 | [Lumberjacking](/lumberjacking) | Chops trees for logs | More damage with axes |
 | [Mace Fighting](/mace_fighting) | | Hits and defends with maces, hammers, staves, war axes, and the shepherd's crook |

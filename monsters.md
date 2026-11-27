@@ -25,7 +25,7 @@ Demibosses are powerful monsters unique to *Paradise*, built for groups of playe
 Outside of dungeons, monsters won't initiate an attack against [Young players](/young_player).
 
 ## Loot
-Monsters carry gold and items, and stronger monsters can drop [treasure maps](/treasure_map). Some loot never drops:
+Monsters carry gold and items, and stronger monsters can drop [treasure maps](/treasure_map), [magic jewelry and clothing](/magic_items), and [wands](/magic_items#wands). Some loot never drops:
 - Necromancer scrolls and reagents
 - Seeds
 - Fire horns

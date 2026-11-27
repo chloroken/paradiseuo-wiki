@@ -1,13 +1,3 @@
----
-title: Features
-description: What Paradise is, its rules, and the major ways it differs from T2A
-published: true
-date: 2026-11-26T18:29:24.654Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-18T23:04:02.833Z
----
-
 # Features
 This page covers the significant ways that *Paradise* deliberately differs from its T2A base.
 
@@ -30,6 +20,7 @@ Characters who fight with weapons are enhanced to keep pace with mages, tamers, 
 - [Armor](/armor#how-armor-works):
   - Armor damage reduction is percentage-based instead of flat, making it better against bigger hits.
   - Shields also reduce every hit, on top of blocking.
+  - Armor and shields of [colored metal](/armor#metal-types) ward off spell damage instead of adding armor rating, giving tanks an edge against mages.
 - [Wrestling Moves](/wrestling#wrestling-moves):
   - Wrestling's stun happens automatically, no button or macro needed.
   - Disarm is removed, so every move is a stun.

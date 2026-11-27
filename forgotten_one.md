@@ -1,13 +1,3 @@
----
-title: Forgotten One
-description: The demiboss of deceit, how to reach him, how he fights, his loot, and his artifact drop
-published: true
-date: 2026-11-26T14:28:12.779Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-26T11:14:37.412Z
----
-
 # Forgotten One
 The Forgotten One is a demiboss locked in a room on floor 3 of [Deceit](/deceit). Unlike the other dead roaming around him, he was never given release. Instead, he was kept alive, poisoned, experimented on, and forgotten in his cell. He fights only in melee, but he attacks fast, with poison, and he runs faster than a mounted player so melee combat is undeniable. After he dies, he returns `12` to `24` hours later.
 
@@ -31,12 +21,15 @@ He can also appear anywhere in Deceit. Every use of a summoning brazier has a `0
 | Drop | Amount | Chance (%) |
 |:-|:-:|:-:|
 | Gold | 5,260 average | 100 |
-| Weapons, armor, shields, and jewelry | 9 average | 100 |
+| Weapons, armor, and shields | 9 average | 100 |
+| Strong [magic jewelry and clothing](/magic_items) | 4 – 6 | 100 |
+| Magic jewelry and clothing | 1 average | 100 |
+| [Wands](/magic_items#wands) | 2.5 average | 100 |
 | Potions | 500 | 100 |
 | Level 5 [treasure map](/treasure_map) | 1 | 100 |
 | Spiteful memory | 1 | 10 |
 
-Most of the weapons, armor, and shields are magic, but jewelry never is. The potions come in `5` stacks of `100`, each a random choice of greater agility, explosion, greater strength, greater heal, greater cure, greater explosion, or deadly poison. Stacks of the same kind merge.
+Most of the weapons, armor, and shields are magic. The potions come in `5` stacks of `100`, each a random choice of greater agility, explosion, greater strength, greater heal, greater cure, greater explosion, or deadly poison. Stacks of the same kind merge.
 
 ## Spiteful Memory
 Spiteful memory is a pair of magical gold earrings, all that remains of the Forgotten One's grudge against the liches of Deceit.

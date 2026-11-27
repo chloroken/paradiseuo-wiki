@@ -1,12 +1,3 @@
----
-title: Arms Lore
-description: Controls weapon effects, and judges the condition and quality of weapons and armor
-published: true
-date: 2026-11-24T07:46:03.011Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-24T07:26:02.530Z
----
 # Arms Lore
 Arms Lore is the knowledge of weapons and armor. It controls the [weapon effects](/weapon_effects) that make each weapon type distinct, and it can judge the condition and quality of a weapon or piece of armor.
 
@@ -35,7 +26,7 @@ A fighter who doesn't want weapon effects can skip Arms Lore and spend those ski
 Every hit with a weapon that has an Arms Lore effect has a chance to raise Arms Lore: swords, maces, staves, and two-handed spears. Weapons without an Arms Lore effect don't train it: two-handed axes, polearms, krysses, daggers, war forks, knives, the pickaxe, the shepherd's crook, bows, crossbows, and bare hands.
 
 ## Examining
-Using the skill and targeting a weapon or piece of armor within `2` tiles describes its condition. For a weapon, it also gives a rough idea of its damage and says if it has poison on it. For armor, it gives a rough idea of its protection. Items for sale on a player vendor can be examined too. A failed attempt gives no information. Each attempt, failed or not, has a chance to raise Arms Lore.
+Using the skill and targeting a weapon or piece of armor within `2` tiles describes its condition. For a weapon, it also gives a rough idea of its damage and says if it has poison on it. For armor, it gives a rough idea of its protection, and for armor of [colored metal](/armor#metal-types), how well it wards off magic: *faintly* for dull copper and shadow iron, *some* for copper and bronze, *well* for gold and agapite, and *exceptionally well* for verite and valorite. Items for sale on a player vendor can be examined too. A failed attempt gives no information. Each attempt, failed or not, has a chance to raise Arms Lore.
 
 ## Manual Training
 

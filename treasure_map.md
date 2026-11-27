@@ -1,13 +1,3 @@
----
-title: Treasure Map
-description: Decoding treasure maps, opening treasure chests, and what they hold
-published: true
-date: 2026-11-23T07:09:02.751Z
-tags: 
-editor: markdown
-dateCreated: 2026-11-10T01:23:58.121Z
----
-
 # Treasure Map
 Treasure maps drop from monsters and have a level from `1` to `5`, with stronger monsters dropping higher-level maps.
 
@@ -37,9 +27,11 @@ A treasure chest's loot depends on its map level. Treasure maps found inside are
 | Gold | 5,000 * Level | 100 |
 | Reagents | (40 to 60) * (Level + 1) | 100 |
 | Gems | 3 * Level + 1 | 100 |
-| Magic equipment | 6 * Level | 100 |
+| Magic weapons, armor, and shields | 6 * Level | 100 |
+| [Magic jewelry and clothing](/magic_items) | 2 * Level | 100 |
+| [Wands](/magic_items#wands) | Level | 100 |
 | Scrolls | 5 * Level | 100 |
 | Treasure map | 1 | 50 |
 | [Skeleton key](/skeleton_key) | 1 | Level |
 
-A skeleton key's chance in percent equals the map's level, so a level `5` chest has a `5%` chance.
+A skeleton key's chance in percent equals the map's level, so a level `5` chest has a `5%` chance. Magic jewelry and clothing from level `4` and `5` chests are [strong](/magic_items#finding-magic-items).
