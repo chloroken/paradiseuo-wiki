@@ -30,7 +30,7 @@ With `100` Intelligence and no armor:
 | 75 | 1.32 | 0.66 | 46 | 91 |
 | 100 | 1 | 0.5 | 60 | 120 |
 
-Maximum mana equals Intelligence. See [Stats](/stats).
+Maximum mana equals [Intelligence](/stats).
 
 ## Meditating
 Using the skill tries to enter a meditative trance. It can't be used:

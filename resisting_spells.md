@@ -9,7 +9,7 @@ dateCreated: 2026-11-12T08:34:37.098Z
 ---
 
 # Resisting Spells
-Resisting Spells gives a chance to shrug off part of a hostile spell. How much a resist blocks depends on the spell. See [Resistible Spells](#resistible-spells).
+Resisting Spells gives a chance to shrug off part of a hostile spell. How much a resist blocks depends on the [spell](#resistible-spells).
 
 ## Resist Chance
 The chance to resist a spell depends on the defender's Resisting Spells, the caster's Magery, and the spell's circle:

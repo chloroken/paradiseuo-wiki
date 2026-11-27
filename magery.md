@@ -11,7 +11,7 @@ dateCreated: 2026-11-19T04:10:03.878Z
 Magery is the skill of casting spells. It offers damage, healing, utility, and the best ways to travel, which is why most characters take it. Every point of Magery also weakens [Valor](/valor), the virtue that strengthens fighters. A fighter has to choose between spells and Valor.
 
 ## Spells
-Magery has `64` spells, split evenly across `8` circles. Each spell needs reagents and mana, and is cast from a spellbook or a scroll. See [Spells](/spells).
+Magery has `64` [spells](/spells), split evenly across `8` circles. Each spell needs reagents and mana, and is cast from a spellbook or a scroll.
 
 ## Casting Chance
 Each circle has a range of Magery where its spells can fail. Below the range a spell always fails, above it the spell always succeeds, and in between the chance rises evenly.
@@ -37,7 +37,7 @@ Casting from a scroll counts as two circles lower, so a scroll of an 8th circle 
 - [Inscription](/inscription) makes scrolls, and strengthens [Reactive Armor](/reactive_armor) and [Protection](/protection).
 - [Resisting Spells](/resisting_spells) protects against spells, and a caster's Magery makes their spells harder to resist.
 - [Spirit Speak](/spirit_speak) makes summons last longer, resist Dispel, and take fewer follower slots, and makes summoned elementals hit harder. At `100`, summon spells never fail.
-- [Herding](/herding) turns the shepherd's crook into a shillelagh, whose bonks grow stronger with Magery. See [Weapon Effects: Shillelagh](/weapon_effects#shillelagh).
+- [Herding](/herding) turns the shepherd's crook into a [shillelagh](/weapon_effects#shillelagh), whose bonks grow stronger with Magery.
 
 ## Travel
 Recall, Mark, and Gate Travel are the fastest ways to cross the world, but none of them work in dungeons or the Lost Lands.

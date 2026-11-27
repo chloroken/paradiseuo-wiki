@@ -32,7 +32,7 @@ The bonuses in the table scale evenly with Spirit Speak and stop growing at `100
 - Duration: every [Magery](/magery) summon lasts `1 + Spirit Speak / 100` times as long.
 - Dispel resistance: Dispel and Mass Dispel are less likely to remove the summon, multiplied by `1 - 0.75 * Spirit Speak / 100`. A summoner dispelling their own summons is never resisted.
 - Elemental damage: summoned air, earth, fire, and water elementals do up to `50%` more damage with melee and spells.
-- Follower slots: summoned animals take `1` slot instead of `2` from `50` Spirit Speak, and summoned elementals take `4` slots, falling to `3` at `30`, `2` at `60`, and `1` at `90`. See [Summon: Follower Slots](/summon#follower-slots).
+- Follower slots: summoned animals and elementals take [fewer follower slots](/summon#follower-slots).
 - At `100` Spirit Speak, every summon spell never fails to cast.
 
 ## Manual Training

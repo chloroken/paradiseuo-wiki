@@ -29,4 +29,4 @@ With `100` Tactics, `100` weapon skill, and no Magery, a fighter hits a defender
 The bonuses use base skill, so items and spells that raise a skill don't count. They check the character's skills and Magery at all times, so changing any of them changes the bonuses immediately. These numbers are being tested during alpha and may change.
 
 ## Who Gets Valor
-Every player gets Valor from their Tactics, Parrying, and Anatomy, whatever they fight with, so archers and wrestlers benefit too. Magery weakens all three bonuses. Fighters with all three skills and no Magery, such as the Warrior, get the full bonuses. See [Character: Classes](/character#classes).
+Every player gets Valor from their Tactics, Parrying, and Anatomy, whatever they fight with, so archers and wrestlers benefit too. Magery weakens all three bonuses. Fighters with all three skills and no Magery, such as the Warrior [class](/character#classes), get the full bonuses.

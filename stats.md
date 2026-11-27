@@ -26,8 +26,8 @@ Every [class](/character#classes) takes `100` Strength, for the hit points.
 
 ## Dexterity
 - Maximum stamina equals Dexterity.
-- Melee and ranged attacks are faster with more current stamina, so a tired character swings more slowly. See [Combat](/combat).
-- Bandages on others are faster at `40` and `100` Dexterity, and bandaging oneself gets faster with every point. See [Bandage Speed](/healing#bandage-speed).
+- Melee and ranged attacks are [faster](/combat#swing-speed) with more current stamina, so a tired character swings more slowly.
+- [Bandages](/healing#bandage-speed) on others are faster at `40` and `100` Dexterity, and bandaging oneself gets faster with every point.
 - Carrying capacity rises by `1.75` stones per point of Dexterity, half as much as Strength.
 
 ## Intelligence

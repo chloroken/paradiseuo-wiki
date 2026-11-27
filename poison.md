@@ -30,7 +30,7 @@ A poisoned character can only be poisoned again by a stronger poison, which repl
 [Young players](/young_player) can't be poisoned.
 
 ### Poisoned Weapons
-Fencing weapons, knives, arrows, and bolts coated with [Poisoning](/poisoning) can poison their target on a hit. The chance is the attacker's Poisoning skill as a percentage, but never below `50%`. See [Poisoned Weapons](/poisoning#poisoned-weapons).
+Fencing weapons, knives, arrows, and bolts coated with [Poisoning](/poisoning) can poison their target on a hit, with a [chance](/poisoning#poison-chance) that rises with the attacker's Poisoning.
 
 ## Poisoning Spellcasters
 Monsters with Magery cast Cure on themselves before anything else. Every time a poisoner poisons them again, they spend another spell curing it instead of attacking, so poison wears mages down and keeps their spells off the poisoner.
@@ -73,4 +73,4 @@ The Poison spell's strength depends on the caster's combined Magery and Poisonin
 | Lethal | 0 | 0 | 25 |
 
 ### Bandages
-Bandaging a poisoned target always tries to cure the poison instead of healing. See [Healing: Curing Poison](/healing#curing-poison) and [Veterinary](/veterinary) for creatures.
+Bandaging a poisoned target always tries to [cure the poison](/healing#curing-poison) instead of healing, with [Veterinary](/veterinary) for creatures.
