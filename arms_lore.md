@@ -1,3 +1,13 @@
+---
+title: Arms Lore
+description: Controls weapon effects, and judges the condition and quality of weapons and armor
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-24T07:26:02.530Z
+---
+
 # Arms Lore
 Arms Lore is the knowledge of weapons and armor. It controls the [weapon effects](/weapon_effects) that make each weapon type distinct, and it can judge the condition and quality of a weapon or piece of armor.
 

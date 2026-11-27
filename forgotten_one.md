@@ -1,3 +1,13 @@
+---
+title: Forgotten One
+description: The demiboss of deceit, how to reach him, how he fights, his loot, and his artifact drop
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-26T11:14:37.412Z
+---
+
 # Forgotten One
 The Forgotten One is a demiboss locked in a room on floor 3 of [Deceit](/deceit). Unlike the other dead roaming around him, he was never given release. Instead, he was kept alive, poisoned, experimented on, and forgotten in his cell. He fights only in melee, but he attacks fast, with poison, and he runs faster than a mounted player so melee combat is undeniable. After he dies, he returns `12` to `24` hours later.
 

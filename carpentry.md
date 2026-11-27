@@ -1,3 +1,13 @@
+---
+title: Carpentry
+description: Turning boards into furniture, containers, weapons, instruments, and house add-ons
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-17T06:34:26.911Z
+---
+
 # Carpentry
 Carpentry is the skill of turning boards into furniture, containers, weapons, shields, instruments, and house add-on deeds, using a saw or other woodworking tools. There are no colored woods, just normal wood.
 

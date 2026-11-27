@@ -1,3 +1,13 @@
+---
+title: Greater Elemental
+description: The demiboss of Shame
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-23T11:15:12.185Z
+---
+
 # Greater Elemental
 The Greater Elemental is a demiboss that drifts in the lagoon on floor 4 of [Shame](/shame). Although nobody knows for certain where it came from, rumor has it that the mages themselves accidentally summoned it while experimenting with blood elementals. Perhaps a study of the mages' runes could confirm or deny this.
 

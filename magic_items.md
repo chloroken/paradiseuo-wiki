@@ -1,3 +1,13 @@
+---
+title: Magic Items
+description: Charged magic jewelry and clothing, cursed jewelry, and wands
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-27T15:35:09.000Z
+---
+
 # Magic Items
 Jewelry and clothing found as loot can hold a magic effect, which works while the item is worn and spends charges as it goes. Magic items always drop unidentified, and single-clicking one shows only that until it's identified with [Item Identification](/item_identification). Once identified, single-clicking shows the effect and the charges left, such as *Ring [Bless: 12]*. When the last charge is spent, *The magic in your ring fades.* and it becomes an ordinary ring. Magic items can't be crafted or recharged. Magic weapons and armor are covered on [Magic Weapons](/magic_weapons) and [Armor](/armor).
 

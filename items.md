@@ -1,3 +1,13 @@
+---
+title: Items
+description: Items with their own pages
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-10T01:43:55.190Z
+---
+
 # Items
 These items have their own pages.
 

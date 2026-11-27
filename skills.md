@@ -1,3 +1,13 @@
+---
+title: Skills
+description: Every enabled and disabled skill, and the most popular ones
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-03T22:05:20.404Z
+---
+
 # Skills
 A character can have up to `700` skill points. Common [class builds](/character#classes) aim for powerful synergies.
 

@@ -1,3 +1,13 @@
+---
+title: Armor
+description: How armor and shields reduce damage, which body slots get hit, durability, and metal types
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-15T03:33:34.463Z
+---
+
 # Armor
 Armor reduces incoming physical damage. Heavy armor lowers stamina and Dexterity, and most armor slows mana regeneration, even with [Meditation](/meditation). Leather armor doesn't slow it at all, studded armor slows it half as much, and shields count too. Bone armor is never crafted and is only found as loot. Armor and shields of [colored metal](#metal-types) also ward off spells.
 

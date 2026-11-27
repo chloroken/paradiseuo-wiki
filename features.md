@@ -1,3 +1,13 @@
+---
+title: Features
+description: What Paradise is, its rules, and the major ways it differs from T2A
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-18T23:04:02.833Z
+---
+
 # Features
 This page covers the significant ways that *Paradise* deliberately differs from its T2A base.
 

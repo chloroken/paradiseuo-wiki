@@ -1,3 +1,13 @@
+---
+title: Inscription
+description: Writing spell scrolls and runebooks
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-27T15:35:09.000Z
+---
+
 # Inscription
 Inscription is the skill of writing [spell scrolls](/scroll) and runebooks with a scribe's pen. A scribe can only write a spell that's in a [spellbook](/spellbook) they carry, and needs enough [Magery](/magery) to have a chance of casting it. Each scroll takes a blank scroll, one of each of the spell's reagents, and mana. A failed attempt ruins the scroll and loses the materials. Inscription also strengthens [Reactive Armor](/reactive_armor) and [Protection](/protection), and brings [golems](/golem) to life alongside Tinkering.
 

@@ -1,3 +1,13 @@
+---
+title: Item Identification
+description: Identifying items and revealing their magic
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-27T15:35:09.000Z
+---
+
 # Item Identification
 Item Identification is the skill of recognizing what an item really is. Using the skill and targeting an item within `8` tiles, even one in a container or on a player vendor, has a chance equal to the skill's value of succeeding, so `50` Item Identification succeeds half the time. A success names the item, identifies it, and shows its properties, the same as single-clicking an identified item. A failure gives no information. Targeting a creature or person names it.
 

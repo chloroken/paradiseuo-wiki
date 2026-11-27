@@ -1,3 +1,13 @@
+---
+title: Treasure Map
+description: Decoding treasure maps, opening treasure chests, and what they hold
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-10T01:23:58.121Z
+---
+
 # Treasure Map
 Treasure maps drop from monsters and have a level from `1` to `5`, with stronger monsters dropping higher-level maps.
 

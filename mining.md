@@ -1,3 +1,13 @@
+---
+title: Mining
+description: Digging ore, colored veins, and smelting ore into ingots
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-27T15:35:09.000Z
+---
+
 # Mining
 Mining is the skill of digging ore out of mountainsides and cave floors with a pickaxe or shovel, then smelting it into ingots at a forge for [Blacksmithing](/blacksmithing) and [Tinkering](/tinkering). Provisioners in every town sell shovels, and tinkers can make both tools. Miners can't dig while mounted or polymorphed, and must stand within `2` tiles of the rock. Mining also makes the [pickaxe](/weapons#scaling-skills) hit harder, and makes it easier to dig up a [treasure chest](/treasure_map).
 

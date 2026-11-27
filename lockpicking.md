@@ -1,3 +1,13 @@
+---
+title: Lockpicking
+description: Picking town, dungeon, treasure, and crafted chests
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-15T21:00:26.779Z
+---
+
 # Lockpicking
 Lockpickers use [lockpicks](/lockpick) to pick locks. These locks often secure containers full of loot, which the lockpicker can then take. A [skeleton key](/skeleton_key) can be used instead of a lockpick, and mages can open easier locks with the [Unlock](/unlock) spell.
 

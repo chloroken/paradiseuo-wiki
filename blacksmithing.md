@@ -1,3 +1,13 @@
+---
+title: Blacksmithing
+description: Forging metal weapons, armor, and shields, and repairing and smelting them
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-27T15:35:09.000Z
+---
+
 # Blacksmithing
 Blacksmithing is the skill of forging metal weapons, armor, and shields from [ingots](/mining#smelting), using a smith's hammer or tongs within `2` tiles of an anvil and a forge. Like every [crafting](/crafting) skill, each item has its own skill range and can come out exceptional. Blacksmiths also repair metal gear and melt it back down into ingots. Outside the forge, Blacksmithing lets two-handed maces [splash their Crushing Blows](/weapons#scaling-skills) onto nearby monsters.
 

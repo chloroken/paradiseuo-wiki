@@ -1,3 +1,13 @@
+---
+title: Crafting
+description: Every crafting skill, its tools and resources, success chances, and exceptional items
+published: true
+date: 2026-11-27T15:35:09.000Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-19T00:05:59.693Z
+---
+
 # Crafting
 Crafters turn gathered resources into weapons, armor, clothing, furniture, potions, scrolls, and more. Each crafting skill needs its own tool, which opens a menu of everything that skill can make. Items with their own pages are listed on [Items](/items).
 
