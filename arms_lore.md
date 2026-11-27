@@ -30,7 +30,7 @@ Some effects don't use Arms Lore at all:
 - Wrestling's [stun](/weapon_effects#stun) needs Wrestling and Anatomy.
 - [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects.
 
-A fighter who doesn't want weapon effects can skip Arms Lore and spend those skill points elsewhere. See [Character: Classes](/character#classes).
+A fighter who doesn't want weapon effects can skip Arms Lore and spend those skill points elsewhere, as some [classes](/character#classes) do.
 
 ## Training on Hits
 Every hit with a weapon that has an Arms Lore effect has a chance to raise Arms Lore: swords, maces, staves, and two-handed spears. Weapons without an Arms Lore effect don't train it: two-handed axes, polearms, krysses, daggers, war forks, knives, the pickaxe, the shepherd's crook, bows, crossbows, and bare hands.
