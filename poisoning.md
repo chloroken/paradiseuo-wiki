@@ -9,7 +9,7 @@ dateCreated: 2026-11-20T00:56:57.736Z
 ---
 
 # Poisoning
-Poisoning is the skill of coating fencing weapons, knives, arrows, bolts, and food with poison made with [Alchemy](/alchemy). A poisoned target takes damage every few seconds until the poison is cured or wears off. It is a dangerous skill to dabble in because any character, except grandmaster poisoners, can accidentally poison themselves in combat. See [Curing Poison](/healing#curing-poison).
+Poisoning is the skill of coating fencing weapons, knives, arrows, bolts, and food with poison made with [Alchemy](/alchemy). A poisoned target takes damage every few seconds until the poison is cured or wears off. It is a dangerous skill to dabble in because any character, except grandmaster poisoners, can accidentally poison themselves in combat, and must then [cure the poison](/healing#curing-poison).
 
 ## Applying Poison
 The poisoner uses the skill, targets a poison potion, then targets what to poison. After `2` seconds, a skill check decides whether it works. The skill can be used again after `10` seconds. A failure with less than `80` Poisoning has a `5%` chance to poison the character instead.

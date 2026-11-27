@@ -1,7 +1,7 @@
 # Weapon Effects
 Most weapon types have a weapon effect, which can trigger when a hit lands. Weapon effects are for players only. Monsters, hirelings, and other NPCs never trigger them, even with the same weapons. Some effects also only work against monsters.
 
-Weapon effects are largely scaled by [Arms Lore](/arms_lore) in the form of trigger chance, but exceptions exist that are scaled by other skills. A character without Arms Lore can use any weapon, but never lands its effect. Which weapons have which effect is listed on [Weapons](/weapons#weapon-types).
+Most weapon effects trigger more often with [Arms Lore](/arms_lore), so a character without it can use any weapon but never lands its effect. A few use other skills instead, as the table shows. Each weapon type's effect is also listed with the [weapon types](/weapons#weapon-types).
 
 | Name | Effect | Weapons | Trigger | Works Against |
 |:-|:-:|:-:|:-:|:-:|
@@ -14,10 +14,10 @@ Weapon effects are largely scaled by [Arms Lore](/arms_lore) in the form of trig
 | [Shillelagh](#shillelagh) | Up to 10× damage | Shepherd's crook | First hit after a 7 second cooldown, scaled by Herding, Magery, and mana, no Arms Lore needed | Anything |
 | [Stun](#stun) | Freezes enemy | Fists | (Wrestling + Anatomy) / 400, no Arms Lore needed | Anything |
 
-Crushing Blow and Paralyzing Blow each land on `Arms Lore / 400` of hits with the right weapon, which is `25%` at `100` Arms Lore. Four effects don't use Arms Lore: Concussion Blow uses [Anatomy](/anatomy), Crushing Blow's secondary effect uses Blacksmithing, the shillelagh scales with [Herding](/herding) and [Magery](/magery), and stun needs Wrestling and Anatomy. [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them either.
+`Arms Lore / 400` is `25%` at `100` Arms Lore. [Crossbow volleys](/archery#crossbow-volley), [poison](/poisoning), and [ambushes](/ambush) aren't weapon effects, so Arms Lore doesn't change them.
 
 ## Critical Strikes
-Swords can land a critical strike, which doubles the weapon's own damage before armor. A magic or exceptional weapon's bonus damage is added once, not doubled. See [Magic Weapons: Modifiers](/magic_weapons#modifiers). Each sword has its own chance, scaled by Arms Lore, so `50` Arms Lore gives half the chance shown below. The chances are set so every sword does about the same damage over time, and the slowest swords hit in the biggest bursts.
+Swords can land a critical strike, which doubles the weapon's own damage before armor. A magic or exceptional weapon's [bonus damage](/magic_weapons#modifiers) is added once, not doubled. Each sword has its own chance, scaled by Arms Lore, so `50` Arms Lore gives half the chance shown below. The chances are set so every sword does about the same damage over time, and the slowest swords hit in the biggest bursts.
 
 | Sword | Critical Strike Chance (%)<br>at 100 Arms Lore |
 |:-|:-:|
@@ -79,4 +79,4 @@ Magery counts only base skill, like [Valor](/valor), so the Magery that strength
 - The cooldown belongs to the player, so switching crooks doesn't reset it.
 
 ## Stun
-Fighting with empty hands allows one move, Stun, which freezes the target in place for `4` seconds. It's attempted automatically when a punch hits, and needs `80` Wrestling and `80` Anatomy, but no Arms Lore. See [Wrestling: Wrestling Moves](/wrestling#wrestling-moves).
+Fists can [stun](/wrestling#wrestling-moves), freezing the target in place. It's attempted automatically when a punch hits, and depends on Wrestling and Anatomy instead of Arms Lore.

@@ -7,7 +7,7 @@ These weapons can ambush:
 - One-handed fencing weapons: daggers, krysses, and war forks
 - Knives: butcher knives, cleavers, and skinning knives
 
-Two-handed spears (pitchforks, short spears, and spears) can be [poisoned](/poisoning), but they're too long to strike with from hiding, so they never ambush. Swords, axes, polearms, maces, staves, and fists never ambush either. Attacking with them from hiding is an ordinary hit. See [Weapons](/weapons).
+Two-handed spears (pitchforks, short spears, and spears) can be [poisoned](/poisoning), but they're too long to strike with from hiding, so they never ambush. Swords, axes, polearms, maces, staves, and fists never ambush either, so attacking with them from hiding is an ordinary hit.
 
 ## Hiding
 - An attack that breaks Hiding does `1.5×` damage. This works while mounted.
@@ -30,10 +30,10 @@ Moving with Stealth before the attack makes the ambush stronger.
 | 8 | 2.3× | 4.3× | 80 | 90 |
 | 10 | 2.5× | 5× | 100 | 100 |
 
-Each use of Stealth allows `1` step for every `10` points of Stealth, so with `100` Stealth the 10th step uses the last one. One more step reveals the attacker, and the attack becomes an ordinary hit. An archer can fire from where they stand, but a melee attacker has to be next to the target by then, or use Stealth again before the steps run out. See [Stealth: Moving Quietly](/stealth#moving-quietly).
+Each use of Stealth allows `1` step for every `10` points of Stealth, so with `100` Stealth the 10th step uses the last one. One more step reveals the attacker, and the attack becomes an ordinary hit. An archer can fire from where they stand, but a melee attacker has to be next to the target by then, or use Stealth again before the steps run out. How far Stealth moves is covered under [moving quietly](/stealth#moving-quietly).
 
 ## Daggers
-A dagger is the backstabber's weapon. It does little damage in a long fight, but its ambush grows `0.35×` per stealthed step instead of `0.1×`, for `5×` after `10` steps. With `100` Tactics, Strength, and Anatomy, a perfect ambush averages about:
+A dagger is the backstabber's weapon: weak in a long fight, but with the biggest ambush of all. With `100` Tactics, Strength, and Anatomy, a perfect ambush averages about:
 
 | Weapon | Perfect Ambush Damage |
 |:-|:-:|
@@ -41,9 +41,7 @@ A dagger is the backstabber's weapon. It does little damage in a long fight, but
 | Dagger | 129 |
 | Kryss | 87 |
 
-These are before armor, with a regular, non-magic weapon. Ambushing from Hiding alone, without Stealth, does `1.5×` with any weapon, daggers included.
-
-An ambush multiplies only the weapon's own damage roll. A magic or exceptional weapon's bonus damage is added once, not multiplied. See [Magic Weapons: Modifiers](/magic_weapons#modifiers).
+These are before armor, with a regular, non-magic weapon. An ambush multiplies only the weapon's own damage roll, so a magic or exceptional weapon's [bonus damage](/magic_weapons#modifiers) is added once, not multiplied.
 
 ## Restrictions
 - Only the Hiding skill counts. Hiding with the [Invisibility](/invisibility) spell or an [invisibility potion](/invisibility_potion) won't trigger an ambush.
