@@ -2,7 +2,7 @@
 title: Deceit
 description: The undead dungeon on Dagger Isle, its floors, braziers, and treasure
 published: true
-date: 2026-11-27T16:09:54.870Z
+date: 2026-11-27T16:10:22.707Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T07:35:01.236Z
