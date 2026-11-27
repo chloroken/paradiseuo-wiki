@@ -40,4 +40,4 @@ How the effects players can use work on each demiboss.
 - Sapping vigor and Crushing Blow only affect melee. The Lich King and the Greater Elemental fight mainly with spells, but the Forgotten One fights only in melee.
 - Paralyze ends at the first hit, from anyone.
 - Peacemaking aimed at the bard does pacify demibosses for `1` second.
-- The Lich King drops a silver weapon himself. See [Lich King: Loot](/lich_king#loot).
+- The Lich King drops a silver weapon himself, listed in his [loot](/lich_king#loot).

@@ -28,7 +28,7 @@ A hidden character is revealed by:
 - Another player using Detecting Hidden nearby, or a monster using Detecting Hidden or casting Reveal.
 
 ## Ambush
-Only a hide made with the Hiding skill allows an ambush, with a bow, crossbow, dagger, kryss, war fork, or knife. The Invisibility spell and invisibility potions don't count. See [Ambush](/ambush).
+Only a hide made with the Hiding skill allows an ambush, with a bow, crossbow, dagger, kryss, war fork, or knife. The Invisibility spell and invisibility potions don't count toward an [ambush](/ambush).
 
 ## Manual Training
 

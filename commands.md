@@ -20,7 +20,7 @@ Many actions on *Paradise* use speech: phrases said aloud to the right NPC, foll
 | `guards` | Calls the town guards on nearby criminals, in a guarded town |
 | `I must consider my sins` | Shows the character's murder counts |
 | `I resign from my guild` | Leaves the character's player guild |
-| `I renounce my young player status` | Gives up Young status. See [Young Player](/young_player). |
+| `I renounce my young player status` | Gives up [Young](/young_player) status. |
 
 ### Bankers
 | Phrase | Effect |
@@ -62,15 +62,15 @@ Some places in the world respond to a spoken word.
 | `cross` | Skara Brae's ferry points | Crosses the water between Skara Brae and the mainland |
 | `om om om` | Shrine of Spirituality | Moves the speaker into the shrine |
 
-The teleporters work within a few tiles. The serpent pillars only work from a boat within `10` tiles of the pillar, and the word must be said on its own. See [Boat](/boat).
+The teleporters work within a few tiles. The serpent pillars only work from a boat within `10` tiles of the pillar, and the word must be said on its own from a [boat](/boat).
 
-Escort quest commands, such as `destination`, are listed with the quests. See [Quests](/world#quests).
+Escort quest commands, such as `destination`, are listed with the [quests](/world#quests).
 
 Other speech commands are listed on their own pages:
-- Follower commands, such as `all follow me`. See [Follower](/follower).
-- Stable commands, such as `stable` and `claim`. See [Stable](/stable).
-- House commands, such as `I wish to lock this down`. See [House](/house).
-- Tillerman commands, such as `forward` and `stop`. See [Boat](/boat).
+- [Follower](/follower#commands) commands, such as `all follow me`
+- [Stable](/stable) commands, such as `stable` and `claim`
+- [House](/house) commands, such as `I wish to lock this down`
+- Tillerman commands for boats, such as `forward` and `stop`
 
 ## Server Commands
 Players can type commands in the chat line starting with `[` to check or change account and server details.

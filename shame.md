@@ -11,7 +11,7 @@ dateCreated: 2026-11-23T08:37:47.031Z
 # Shame
 Shame is a [dungeon](/dungeons) south of [Yew](/towns) with four floors. It is a hotbed of elemental activity: earth, air, water, fire, deadly poison elementals, the exclusive blood elementals, and their ostensible leader: the [Greater Elemental](/greater_elemental).
 
-Elementals in Shame have a chance to drop a summon scroll on top of their normal loot, unless they were summoned themselves. See [Summon: Summon Scrolls](/summon#summon-scrolls).
+Elementals in Shame have a chance to drop a [summon scroll](/summon#summon-scrolls) on top of their normal loot, unless they were summoned themselves.
 
 ## History
 Shame lies in the western mountains of Britannia, and it is bound to the virtue of [Honor](https://wiki.ultimacodex.com/wiki/Honor). It began as a mine, but was abandoned when overrun by gremlins. In time, miners returned to dig again, but most never came back up. Some say those miners still patrol their old camps.
@@ -60,7 +60,7 @@ Floor 3 has a secret door leading to the inner section of the fortress.
 | 4 | Mushroom traps |
 
 ## Treasure
-Dungeon chests spawn on every floor of Shame except the fortress. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
+[Dungeon chests](/lockpicking#dungeon-chests) spawn on every floor of Shame except the fortress.
 
 | Floor | Level 1 | Level 2 | Level 3 | Level 4 |
 |:-|:-:|:-:|:-:|:-:|

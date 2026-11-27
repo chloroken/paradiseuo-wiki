@@ -25,7 +25,7 @@ The chance to succeed is `(Stealth + 20 - 2 * Armor Rating)%`. Without armor, it
 - After each attempt, the skill can't be used again for `10` seconds.
 
 ## Ambush
-Each stealthed step before an attack makes an ambush stronger, up to `10` steps. A melee attacker has to reach the target before the steps run out. See [Ambush](/ambush).
+Each stealthed step before an attack makes an ambush stronger, up to `10` steps. A melee attacker has to reach the target before the steps run out, and the rest is covered under [Ambush](/ambush).
 
 ## Manual Training
 

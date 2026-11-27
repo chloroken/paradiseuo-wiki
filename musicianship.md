@@ -27,7 +27,7 @@ Each attempt at a bard skill rolls Musicianship first, with the same chance. A f
 A bard skill plays the last instrument the bard played or chose, as long as it's still in their backpack. Otherwise, the bard is asked to choose one.
 
 ## Instruments
-Drums, tambourines, lap harps, lutes, and standing harps all play the same way, and differ only in sound. Instruments are made with [Carpentry](/carpentry), which needs some Musicianship. See [Carpentry: Instruments](/carpentry#instruments).
+Drums, tambourines, lap harps, lutes, and standing harps all play the same way, and differ only in sound. Instruments are made with [Carpentry](/carpentry#instruments), which needs some Musicianship.
 
 - Bard skills wear out instruments. An instrument has `350` to `450` uses, and breaks with *The instrument played its last tune.* when the last one is used.
 - An exceptional instrument has twice the uses, and makes every target `5` points easier for bard skills, about `10%` more chance to succeed.

@@ -40,7 +40,7 @@ Carpentry is the skill of turning boards into furniture, containers, weapons, sh
 | Large table | 84.2 | 109.2 | 27 boards |
 
 ## Containers
-A chest, box, or crate made by a carpenter can come with a lock and a key, depending on the carpenter's [Tinkering](/tinkering). Higher Tinkering makes the lock harder to pick. See [Crafted Containers](/lockpicking#crafted-containers).
+A chest, box, or crate made by a carpenter can come with a lock and a key, depending on the carpenter's [Tinkering](/tinkering). Higher Tinkering makes the lock [harder to pick](/lockpicking#crafted-containers).
 
 | Item | Minimum Skill | Maximum Skill | Materials |
 |:-|:-:|:-:|:-:|
@@ -64,7 +64,7 @@ A chest, box, or crate made by a carpenter can come with a lock and a key, depen
 | Shepherd's crook | 78.9 | 103.9 | 7 boards |
 | Black staff | 81.5 | 106.5 | 9 boards |
 
-Carpentry also makes black, gnarled, and quarter staves hit harder, up to `15%` more damage at `100`. Only players get this bonus. See [Weapons: Scaling Skills](/weapons#scaling-skills).
+Carpentry also makes black, gnarled, and quarter staves [hit harder](/weapons#scaling-skills) for players.
 
 ## Armor
 
@@ -72,7 +72,7 @@ Carpentry also makes black, gnarled, and quarter staves hit harder, up to `15%` 
 |:-|:-:|:-:|:-:|
 | Wooden shield | 52.6 | 77.6 | 9 boards |
 
-A wooden shield gains up to `15` armor from its wearer's Carpentry, so at `100` it blocks like a heater shield. Only players get this bonus. See [Parrying: Shields](/parrying#shields).
+A wooden shield gains armor from its wearer's Carpentry, so at `100` it [blocks like a heater shield](/parrying#shields).
 
 ## Instruments
 

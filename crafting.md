@@ -39,11 +39,11 @@ Tinkering's golems and potion keg are exceptions, and start at `50%`.
 Every attempt, success or failure, has a chance to raise the crafting skill, as long as the crafter's skill is between the item's minimum and maximum. A failed attempt uses up half of each material, rounded down, but always at least `1` of each, so an item that needs only one of something loses all of it.
 
 ## Exceptional Items
-Weapons, armor, clothing, furniture, and other gear can come out exceptional. Every other crafted item is regular quality. Exceptional quality is a modifier, like the magic properties found on loot, and a weapon can't have both. See [Magic Weapons: Modifiers](/magic_weapons#modifiers).
+Weapons, armor, clothing, furniture, and other gear can come out exceptional. Every other crafted item is regular quality. Exceptional quality is a [modifier](/magic_weapons#modifiers), like the magic properties found on loot, and a weapon can't have both.
 
 An exceptional item gets these bonuses:
-- Weapons do `20%` more damage. The extra damage is flat, so critical strikes, ambushes, and bonks don't multiply it. See [Combat: Damage](/combat#damage).
-- Armor gets `8` more armor rating. See [Armor](/armor).
+- Weapons do `20%` more [damage](/combat#damage). The extra damage is flat, so critical strikes, ambushes, and bonks don't multiply it.
+- [Armor](/armor) gets `8` more armor rating.
 - Weapons and armor last `20%` longer before breaking.
 
 The chance of a crafted item becoming exceptional depends on the success chance and the crafter's skill:

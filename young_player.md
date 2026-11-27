@@ -17,10 +17,10 @@ New players start with Young status, which protects their characters while they 
 - When a Young player dies, they keep all of their items in their backpack instead of dropping them on their corpse.
 - Healers heal Young players to full health for free when they walk up, once every `5` minutes.
 - Young players can log out instantly anywhere instead of needing to wait.
-- Young players don't suffer hunger penalties. They still get the warnings, but they keep regenerating hit points while hungry and don't waste away while starving. See [Cooking: Hunger](/cooking#hunger).
+- Young players don't suffer hunger penalties. They still get the warnings, but they keep regenerating hit points while [hungry](/cooking#hunger) and don't waste away while starving.
 
 ## Limits
-- Dungeons have no Young protection. Entering one shows a warning, and monsters inside attack as normal. See [Dungeons](/dungeons).
+- Dungeons have no Young protection. Entering one of the [dungeons](/dungeons) shows a warning, and monsters inside attack as normal.
 - Young players can't join the Thieves' Guild.
 - Pets can't be transferred or friended between a Young player and a player who isn't Young.
 

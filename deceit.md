@@ -68,7 +68,7 @@ Monsters summoned from braziers belong to no one. They attack anyone nearby, wan
 On floor 4, most of the traps are in the lich lord room.
 
 ## Treasure
-Dungeon chests spawn on every floor of Deceit. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
+[Dungeon chests](/lockpicking#dungeon-chests) spawn on every floor of Deceit.
 
 | Floor | Level 1 | Level 2 | Level 3 | Level 4 |
 |:-|:-:|:-:|:-:|:-:|

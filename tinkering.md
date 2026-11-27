@@ -9,9 +9,9 @@ dateCreated: 2026-11-26T17:47:05.964Z
 ---
 
 # Tinkering
-Tinkering is the skill of making tools, kitchenware, household goods, clockwork parts, jewelry, and traps out of ingots and boards, using a tinker's tools. Tinkers who also train [Inscription](/inscription) can build [golems](/golem), machines that fight on their own. Tinkering also puts locks on a carpenter's containers. See [Crafted Containers](/lockpicking#crafted-containers).
+Tinkering is the skill of making tools, kitchenware, household goods, clockwork parts, jewelry, and traps out of ingots and boards, using a tinker's tools. Tinkers who also train [Inscription](/inscription) can build [golems](/golem), machines that fight on their own. Tinkering also puts [locks](/lockpicking#crafted-containers) on a carpenter's containers.
 
-Most items have no chance to succeed at their minimum skill, rising to certain success at their maximum. Golems and the potion keg start at `50%` instead. See [Crafting: Success Chance](/crafting#success-chance).
+Most items have no chance to succeed at their minimum skill, rising to certain success at their maximum. Golems and the potion keg start at `50%` instead of the usual [starting chance](/crafting#success-chance).
 
 ## Crafting Tools
 
@@ -123,7 +123,7 @@ A trap is set on an unlocked chest or other lockable container within `2` tiles 
 | Explosion trap | 55 | 105 | 1 ingot, 1 explosion potion |
 
 ## Golems
-Golems need the same amount of Inscription as Tinkering to craft. Crafting them can raise both skills. See [Golem](/golem).
+Golems need the same amount of Inscription as Tinkering to craft, and crafting them can raise both skills.
 
 | Item | Minimum Skill | Maximum Skill | Materials |
 |:-|:-:|:-:|:-:|

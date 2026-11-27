@@ -29,12 +29,12 @@ Smaller places across Britannia and the Lost Lands also hold monsters and loot, 
 | Yew Crypts | Britannia | East of Yew, west of the Shrine of Justice |
 
 ## Graveyards and Ruins
-Graveyards and ruins are scattered across Britannia. They're smaller than dungeons but have monsters of their own, and graveyards hold level 1 dungeon chests. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
+Graveyards and ruins are scattered across Britannia. They're smaller than dungeons but have monsters of their own, and graveyards hold level 1 [dungeon chests](/lockpicking#dungeon-chests).
 
 ## Camps
 Camps of orcs, ratmen, lizardmen, and brigands appear in the wilds. Each camp has a few guards around a campfire and two chests: an unlocked level 1 chest and a locked level 3 chest.
 
-Each camp also holds a prisoner in chains, either a noble or a seeker of adventure, who calls for help when a player comes near. Freeing the prisoner starts an escort. See [Quests](/world#quests).
+Each camp also holds a prisoner in chains, either a noble or a seeker of adventure, who calls for help when a player comes near. Freeing the prisoner starts an [escort](/world#quests).
 
 A camp lasts until both chests are emptied or the prisoner is freed or killed, then disappears `5` minutes later.
 

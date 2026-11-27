@@ -1,5 +1,5 @@
 # Boat
-Boats allow travel by sea and river. They are bought from shipwrights near docks, and sink quickly if left unused. See [Decay](#decay).
+Boats allow travel by sea and river. They are bought from shipwrights near docks, and [sink quickly](#decay) if left unused.
 
 ## Ships
 | Ship | Price (gold) | Hold (stones) |

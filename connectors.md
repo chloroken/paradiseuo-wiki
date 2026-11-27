@@ -30,4 +30,4 @@ These caves and tunnels lead from Britannia to the Lost Lands on foot.
 | Yew Prison | Teleport altar in Yew Prison | Lighthouse at the north end of the desert | Stepping onto the altar |
 | Temple Isle | Temple on the island south of Trinsic | Temple east of Delucia | Walking into the stone table |
 
-The serpent pillars only work from a boat within `10` tiles of a pillar. See [Commands: Places](/commands#places).
+The serpent pillars only work from a boat within `10` tiles of a pillar, by saying their [words](/commands#places).

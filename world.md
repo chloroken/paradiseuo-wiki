@@ -28,7 +28,7 @@ Non-player characters, or NPCs, offer services and trade, and some can even help
 - Escortables ask to be led to another town, as part of a quest.
 - Blacksmiths repair weapons and armor.
 
-Two towns only serve characters of the right Karma: Serpent's Hold for the good, and Buccaneer's Den for the evil. See [Karma Towns](/reputation#karma-towns).
+Two [Karma towns](/reputation#karma-towns) only serve characters of the right Karma: Serpent's Hold for the good, and Buccaneer's Den for the evil.
 
 ## Quests
 *Paradise* has the following quests:

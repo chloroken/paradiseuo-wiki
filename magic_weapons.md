@@ -4,7 +4,7 @@ Weapons found as loot can be magic. Magic is one of the two kinds of modifiers a
 ## Modifiers
 A weapon can have modifiers of two kinds, never both on the same weapon:
 - Magic modifiers come only from loot: damage, accuracy, and durability, each in five strengths. A magic weapon can also be [silver](#silver).
-- The exceptional modifier comes only from crafting. An exceptional weapon does `20%` more damage and lasts `20%` longer, and exceptional armor gets `8` more armor rating. See [Crafting: Exceptional Items](/crafting#exceptional-items).
+- The exceptional modifier comes only from crafting. Its bonuses are listed under [exceptional items](/crafting#exceptional-items).
 
 A modifier's damage is a flat amount. [Critical strikes](/weapon_effects#critical-strikes), [ambushes](/ambush), and shillelagh bonks multiply only the weapon's own damage roll, then add the modifier's damage once. Silver is the exception: it doubles the whole finished hit against the undead.
 
@@ -17,7 +17,7 @@ A modifier's damage is a flat amount. [Critical strikes](/weapon_effects#critica
 | Power | +7 |
 | Vanquishing | +9 |
 
-The bonus is added to the weapon's base damage before Tactics, Strength, and Anatomy, so a fighter with `100` in all three gets `2.25` times the bonus. Fast weapons gain the most, since they hit more often. A crossbow only adds the bonus to the first bolt of each volley. Like every modifier, it isn't multiplied by critical strikes, ambushes, or bonks. See [Modifiers](#modifiers).
+The bonus is added to the weapon's base damage before Tactics, Strength, and Anatomy, so a fighter with `100` in all three gets `2.25` times the bonus. Fast weapons gain the most, since they hit more often. A crossbow only adds the bonus to the first bolt of each volley. Like every [modifier](#modifiers), it isn't multiplied by critical strikes, ambushes, or bonks.
 
 ## Accuracy
 | Property | Weapon Skill Bonus |
@@ -28,7 +28,7 @@ The bonus is added to the weapon's base damage before Tactics, Strength, and Ana
 | Exceedingly accurate | +20 |
 | Supremely accurate | +25 |
 
-The bonus raises the weapon's skill while it's held, which improves both hit chance and defense. See [Hit Chance](/combat#hit-chance).
+The bonus raises the weapon's skill while it's held, which improves both [hit chance](/combat#hit-chance) and defense.
 
 ## Durability
 | Property | Maximum Durability Bonus (%) |

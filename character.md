@@ -11,9 +11,9 @@ Ultima Online doesn't have discrete classes. To play something like an evil warr
 
 - [Fighters](#fighters) decry [Magery](/magery), instead opting to specialize in [weapons](/weapons) and [armor](/armor), leveraging [Valor](/valor) benefits to get ahead.
 - [Mages](#mages) embrace [spellcasting](/spells), sacrificing some or all of Valor's benefits to unlock a trove of utility and damage spells.
-- [Tamers](#tamers) convert wild animals and monsters into followers known as [pets](/pet) to fight for them. See [Animal Taming](/animal_taming).
+- [Tamers](#tamers) convert wild animals and monsters into followers known as [pets](/pet) to fight for them with [Animal Taming](/animal_taming).
 - [Bards](#bards) make monsters infight with [Provocation](/provocation), weaken them with [Discordance](/discordance), or pacify them with [Peacemaking](/peacemaking).
-- [Crafters](#crafters) create goods and gather resources for others, an important part of any society. See [Crafting](/crafting).
+- [Crafters](#crafters) [create goods](/crafting) and gather resources for others, an important part of any society.
 
 The following tables list stats in this order: Strength, Dexterity, Intelligence.
 
@@ -33,7 +33,7 @@ Fighters always take a weapon skill and Tactics.
 | Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | Resists,<br>Weapons | Bandages | The highest damage of all classes, and it can chop wood. Its axes have no weapon effect, so it needs no Arms Lore, but it lacks utility. It only takes Parrying for Valor's toughness, as it has no hands for a shield. |
 
 ## Mages
-Mages always take Magery and Meditation. In the tables, EvalAnat means defending empty-handed with Anatomy and Evaluating Intelligence instead of Wrestling. See [Wrestling: Unarmed Defense](/wrestling#unarmed-defense).
+Mages always take Magery and Meditation. In the tables, EvalAnat means [defending empty-handed](/wrestling#unarmed-defense) with Anatomy and Evaluating Intelligence instead of Wrestling.
 
 | Class | Stats | Skills | Weapons | Defensive<br>Layers | Healing | Description |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|

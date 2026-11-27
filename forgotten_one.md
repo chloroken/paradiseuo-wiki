@@ -16,7 +16,7 @@ The Forgotten One is a demiboss locked in a room on floor 3 of [Deceit](/deceit)
 ## Reaching the Forgotten One
 His room's door is locked. The only way in is the pit in the entrance room of floor 4, which drops into his room on floor 3. Anyone who leaves the room has to fight back down through the dungeon to return.
 
-He can also appear anywhere in Deceit. Every use of a summoning brazier has a `0.1%` chance to call him instead of an ordinary monster. A summoned Forgotten One drops the same loot, but like any summon, he vanishes `1` hour after he appears, even in the middle of a fight. See [Deceit: Summoning Braziers](/deceit#summoning-braziers).
+He can also appear anywhere in Deceit. Every use of a summoning brazier has a `0.1%` chance to call him instead of an ordinary monster. A summoned Forgotten One drops the same loot, but like any summon, he vanishes `1` hour after he appears, even in the middle of a fight, like every monster from the [summoning braziers](/deceit#summoning-braziers).
 
 ## Fighting the Forgotten One
 - He has `15,000` to `20,000` hit points.

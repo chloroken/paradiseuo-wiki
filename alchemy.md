@@ -14,7 +14,7 @@ Alchemy is the skill of brewing potions from reagents. Alchemists heal, cure, st
 ## Brewing
 Double-clicking a mortar and pestle opens the crafting menu. Every potion needs reagents and an empty bottle. A failed attempt loses the reagents but returns the bottle.
 
-The chance to succeed rises evenly from `0%` at a potion's minimum skill to `100%` at its maximum. Some potions have a minimum below `0`, so even a character with no Alchemy can sometimes brew them. See [Crafting](/crafting).
+The chance to succeed rises evenly from `0%` at a potion's minimum skill to `100%` at its maximum. Some potions have a minimum below `0`, so even a character with no Alchemy can sometimes brew them, as with any [crafting](/crafting) skill.
 
 Potions of the same kind stack.
 
@@ -54,7 +54,7 @@ Heal potions restore hit points, with an extra `Alchemy / 10` hit points for alc
 | Greater heal | 9 – 30 | 19 – 40 |
 
 ### Curing
-Cure potions have a chance to cure poison, depending on the potion and the poison's strength. See [Poison: Potions](/poison#potions).
+Cure potions have a [chance to cure poison](/poison#potions), depending on the potion and the poison's strength.
 
 ### Refresh
 Refresh potions restore stamina: `25%` of maximum stamina for a refresh potion, and all of it for a total refresh potion.
@@ -66,7 +66,7 @@ Strength potions raise Strength, and agility potions raise Dexterity, for `2` mi
 A night sight potion lights up the drinker's surroundings, like the [Night Sight](/night_sight) spell.
 
 ### Poison
-Poison potions are used with [Poisoning](/poisoning) to coat weapons, arrows, bolts, and food. See [Poison](/poison).
+Poison potions are used with [Poisoning](/poisoning) to coat weapons, arrows, bolts, and food with [poison](/poison).
 
 ### Explosion
 Explosion potions are thrown at a target. They explode after a short fuse, damaging everyone within `2` tiles. A thrown potion adds `Alchemy / 10` damage. A potion that explodes in the thrower's backpack also damages the thrower.

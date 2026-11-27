@@ -13,7 +13,7 @@ Welcome to the *Paradise* wiki. All <span id="page-count">101</span> pages are c
 
 ![a robed adventurer sits atop a nightmare outside the Papua bank](/home_papua.png)
 
-- New to UO? See [Ultima Online](/ultima_online).
-- Want to join? See [Getting Started](/getting_started).
+- New to UO? Start with [Ultima Online](/ultima_online).
+- Want to join? Head to [Getting Started](/getting_started).
 
 The navigation menu and the search box lead to everything else.

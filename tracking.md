@@ -24,7 +24,7 @@ Tracking range increases with skill. The search range starts at `10` tiles and i
 Tracking requires a successful skill check to find evidence of nearby targets.
 
 ## Archery Accuracy
-Tracking improves the accuracy of bows and crossbows by recovering part of the accuracy missing from a guaranteed hit, up to half at `100` Tracking. Melee attacks get no Tracking bonus.
+Tracking improves the accuracy of [bows and crossbows](/archery) by recovering part of the [accuracy](/combat#hit-chance) missing from a guaranteed hit, up to half at `100` Tracking. Melee attacks get no Tracking bonus.
 
 | Tracking | Missing Accuracy Recovered (%) |
 |:-|:-:|
@@ -35,8 +35,6 @@ Tracking improves the accuracy of bows and crossbows by recovering part of the a
 | 100 | 50 |
 
 For example, an attack with a base hit chance of `60%` has `40%` missing accuracy. At `100` Tracking, half of that missing accuracy is recovered, resulting in an `80%` hit chance.
-
-See [Archery](/archery) and [Combat: Hit Chance](/combat#hit-chance).
 
 ## Fleeing Targets
 Against a creature that is fleeing, Tracking instead recovers a share of the missing accuracy equal to the tracker's Tracking skill. This replaces the normal bonus rather than stacking with it.

@@ -49,7 +49,7 @@ Five switches stand in the necropolis on floor 3. Switching them in a specific, 
 | Floor 3 | None |
 
 ## Treasure
-Dungeon chests spawn on every floor of Covetous and in Mountain Pass B. See [Lockpicking: Dungeon Chests](/lockpicking#dungeon-chests).
+[Dungeon chests](/lockpicking#dungeon-chests) spawn on every floor of Covetous and in Mountain Pass B.
 
 | Area | Level 1 | Level 2 | Level 3 | Level 4 |
 |:-|:-:|:-:|:-:|:-:|

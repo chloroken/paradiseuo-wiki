@@ -13,13 +13,13 @@ Monsters behave differently from later versions of Ultima Online:
 - Monsters only cast Teleport when they're stuck, and never cast Invisibility.
 
 ## Fighting Monsters
-Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. Characters with Parrying and little Magery take less physical damage through [Valor](/valor). See [Combat](/combat).
+Monsters hit players with their full melee damage, twice as hard as on most ServUO shards. Characters with Parrying and little Magery take less physical damage through [Valor](/valor), and the rest of the damage rules are on [Combat](/combat).
 
 ## Demibosses
-Demibosses are powerful monsters unique to *Paradise*, built for groups of players, each with its own lair and artifact. See [Demibosses](/demibosses).
+[Demibosses](/demibosses) are powerful monsters unique to *Paradise*, built for groups of players, each with its own lair and artifact.
 
 ## Dealing with Monsters
-- Many animals and monsters can be tamed. See [Animal Taming](/animal_taming) and [Pet](/pet).
+- Many animals and monsters can be tamed with [Animal Taming](/animal_taming) into [pets](/pet).
 - Bards can turn monsters against each other with [Provocation](/provocation), or calm them with [Peacemaking](/peacemaking).
 
 Outside of dungeons, monsters won't initiate an attack against [Young players](/young_player).

@@ -25,7 +25,7 @@ Fletching uses fletcher's tools, which open the crafting menu. Boards come from 
 | Ammunition | Arrows, bolts |
 | Ranged weapons | Bows, crossbows, heavy crossbows |
 
-Bows fire arrows, and crossbows fire bolts. Every shot uses up ammunition, whether it hits or misses. See [Archery](/archery).
+Bows fire arrows, and crossbows fire bolts. Every [shot](/archery) uses up ammunition, whether it hits or misses.
 
 ## Success Chance
 Every item has a minimum and a maximum skill. Below the minimum it can't be made. The chance to succeed starts at `50%` at the minimum and rises evenly to `100%` at the maximum.
@@ -37,13 +37,13 @@ Fletching has its own exceptional chance: half the success chance, minus `10%`, 
 - `20%` more weapon damage
 - `20%` more durability
 
-The crafter can also mark exceptional items with their name. See [Crafting: Maker's Mark](/crafting#makers-mark).
+The crafter can also [mark](/crafting#makers-mark) exceptional items with their name.
 
 ## Fletching and Archery
 Higher Fletching gives archers more range, a shorter delay after moving, and more recovered ammunition.
 
 ### Range
-Bows and crossbows gain `1` tile of range for every `50` points of Fletching, on top of the weapon's own range. See [Archery: Weapons](/archery#weapons).
+Bows and crossbows gain `1` tile of range for every `50` points of Fletching, on top of the weapon's [own range](/archery#weapons).
 
 | Fletching | Bonus Range (tiles) |
 |:-|:-:|
