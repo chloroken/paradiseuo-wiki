@@ -2,7 +2,7 @@
 title: Crafters
 description: Classes that focus on gathering resources and producing goods
 published: true
-date: 2026-11-28T09:06:51.891Z
+date: 2026-11-28T09:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:06:51.891Z
@@ -19,7 +19,7 @@ Crafters make and gather what everyone else uses, and defend themselves with wha
 ## Artisan
 The Artisan is the town's workshop in one character. It [crafts](/crafting) metal weapons and armor, wooden furniture and staves, clothing and leather armor, potions, scrolls, and tools, and Recalls between workshops to keep production moving. Nearly everything other classes use can come from an Artisan.
 
-It isn't helpless outside town. With Tinkering and Inscription, it can build and unleash golems to defend itself, and its Magery gives it healing and utility spells. Its Alchemy roughly doubles what its own heal potions do, and its Tailoring lets it wear a robe for faster mana regeneration.
+It isn't helpless outside town. With [Tinkering](/tinkering) and [Inscription](/inscription), it can build and unleash [golems](/golem) to defend itself, and its [Magery](/magery) gives it healing and utility spells. Its [Alchemy](/alchemy) roughly doubles what its own heal potions do, and its [Tailoring](/tailoring) lets it wear a robe for faster mana regeneration.
 
 It has no weapon skill and no defensive skills, so it avoids real fights. Its value is in what it makes for others, not what it can kill.
 
@@ -33,9 +33,9 @@ It has no weapon skill and no defensive skills, so it avoids real fights. Its va
 ## Forager
 The Forager gathers raw materials for everyone else. It mines ore, chops wood, and catches fish, then marks its own runes and Recalls home with the load.
 
-It defends itself with the axe or pickaxe it already carries, which Lumberjacking and Mining make hit hard, using Swordsmanship and Tactics. When a fight goes badly, it cooks the fish it catches and eats them for burst healing, and its Magery adds healing spells.
+It defends itself with the axe or pickaxe it already carries, which [Lumberjacking](/lumberjacking) and [Mining](/mining) make hit hard, using [Swordsmanship](/swordsmanship) and [Tactics](/tactics). When a fight goes badly, it cooks the fish it catches and eats them for burst healing, and its Magery adds healing spells.
 
-It's a weak fighter, with no Anatomy, no Parrying, and `100` Magery that leaves it no Valor. It can't hide from what it can't beat, so it has to pick its gathering spots carefully.
+It's a weak fighter, with no [Anatomy](/anatomy), no [Parrying](/parrying), and `100` Magery that leaves it no [Valor](/valor). It can't hide from what it can't beat, so it has to pick its gathering spots carefully.
 
 - Stats: `100` Strength, `100` Dexterity, `25` Intelligence
 - Skills: Mining, Lumberjacking, Fishing, Swordsmanship, Tactics, Magery, and Cooking

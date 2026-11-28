@@ -2,7 +2,7 @@
 title: Herding
 description: Guiding creatures with a shepherd's crook, and the shillelagh
 published: true
-date: 2026-11-27T15:54:43.000Z
+date: 2026-11-28T09:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T18:40:29.000Z
@@ -21,7 +21,7 @@ On success, the herder sees *The animal walks where it was instructed to.* The a
 ## Shillelagh
 In a player's hands, a shepherd's crook becomes a [shillelagh](/weapon_effects#shillelagh), whose bonks grow with Herding, [Magery](/magery), and mana. Spells and equipping the crook don't restart its cooldown, so a spellcaster can fight empty-handed and only take up the crook to bonk.
 
-The crook uses [Mace Fighting](/mace_fighting) to hit and defend. Herding adds no damage to the crook's other hits, and hits never train Herding. With full mana for every bonk, a crook does about as much [damage over time](/dps#staves) as a sword, but mana rarely refills that fast. The Shepherd [class](/character#classes) is built around it.
+The crook uses [Mace Fighting](/mace_fighting) to hit and defend. Herding adds no damage to the crook's other hits, and hits never train Herding. With full mana for every bonk, a crook does about as much [damage over time](/dps#staves) as a sword, but mana rarely refills that fast. The [Shepherd](/mages#shepherd) class is built around it.
 
 ## Manual Training
 
