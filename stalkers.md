@@ -2,7 +2,7 @@
 title: Stalkers
 description: Classes that specialize in infiltration, assassination, and escape
 published: true
-date: 2026-11-28T16:26:12.707Z
+date: 2026-11-28T16:26:30.475Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:55.348Z
@@ -71,5 +71,5 @@ It can't fight at all, so a Thief that's out of escapes is in real trouble. Mons
 - Skills: Stealing, Snooping, Begging, Hiding, Stealth, Lockpicking, and Remove Trap
 - Gear: lockpicks and potions, with leather or no armor, and empty hands for stealing
 - Defense: stealth, vanishing, and begging for mercy
-- Healing: potions only
+- Healing: unbonused potions
 - Weakness: no way to fight, so it depends entirely on not being caught and on its escapes
