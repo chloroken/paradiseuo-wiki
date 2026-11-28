@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-28T11:41:32.789Z
+date: 2026-11-28T12:08:07.493Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -70,5 +70,6 @@ These skills don't have an obvious way to add adventure potential:
 - Give gems some type of meaningful purpose outside of economy, maybe as a secondary currency?
 - More quests from npcs in towns, including hauling quests, boating quests, etc.
 - Fork TazUO and customize defaults for new players, strip egregious branding
+  - Tooltips must be disabled
 - Tinker with UO client and add lines to Cliloc.ENU to enable "profession" selection in client
 - Create "dungeon dive" videos just for fun, highly stylized, appealing for beta testers (when alpha is done)
