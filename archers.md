@@ -2,7 +2,7 @@
 title: Archers
 description: Classes that do sustained damage from distance
 published: true
-date: 2026-11-28T09:19:48.502Z
+date: 2026-11-28T09:27:29.596Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:06.011Z
@@ -13,8 +13,8 @@ Archers fight from range with [Archery](/archery), keeping out of reach of what 
 
 | Class | Unique Qualities |
 |:-|:-:|
-| Ranger | Never misses a fleeing target, and makes its own arrows |
 | Grenadier | Bombs groups of monsters without Magery, and shoots poisoned bolts |
+| Ranger | Never misses a fleeing target, and makes its own arrows |
 
 ## Grenadier
 The Grenadier is a back-line bomber and poisoner. It brews its own [explosion potions](/alchemy#explosion), poisons, and heal potions, then throws bombs into groups of monsters and shoots [poisoned](/poisoning) bolts at whatever's left. It's the only class that does real area damage at range without [Magery](/magery).
