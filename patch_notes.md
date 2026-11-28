@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-28T09:30:00.000Z
+date: 2026-11-28T09:26:59.631Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -15,7 +15,7 @@ Changes to *Paradise*, newest first.
     - Always succeeds, and counts as a Hiding-skill hide for ambushes
     - Needs armor below `26`, and doesn't work while mounted
     - Can't be used again for `5` minutes, scaling to `2` minutes at `100` Stealth
-- Rework the [classes](/character#classes) into tanks, fighters, archers, stalkers, mages, tamers, bards, and crafters, with a page for each group
+- Rework the [classes](/classes) into tanks, fighters, archers, stalkers, mages, tamers, bards, and crafters, with a page for each group
     - Add the Juggernaut, Grenadier, Puppetmaster, Wizard, Golemancer, Priest, Beastwarden, Packleader, and Skald classes
     - Rename Beastmaster to Whisperer
     - Give the Shepherd Cooking instead of Evaluating Intelligence, the Summoner Tailoring and Cooking instead of Anatomy and Evaluating Intelligence, and the Forager Cooking instead of Hiding
@@ -119,7 +119,7 @@ Changes to *Paradise*, newest first.
 - Remove items from after T2A from the [Cooking](/cooking) menu, such as wheat wort, tribal paint, and coffee
 
 ## 2026.11.24
-- Rework the [classes](/character#classes), adding classes built around scaling skills, the shillelagh, and melee ambushes
+- Rework the [classes](/classes), adding classes built around scaling skills, the shillelagh, and melee ambushes
     - Add the Armsmaster class, and move the Warrior to Fencing so it doesn't need Arms Lore
     - Rename Archer to Ranger
 - Make [Arms Lore](/arms_lore) control most [weapon effects](/weapon_effects), from nothing at `0` to full strength at `100`:
