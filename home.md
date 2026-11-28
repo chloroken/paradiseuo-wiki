@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to Paradise, a T2A Ultima Online shard for solo players and small groups
 published: true
-date: 2026-11-28T09:30:59.485Z
+date: 2026-11-28T09:32:27.885Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:50:31.643Z
