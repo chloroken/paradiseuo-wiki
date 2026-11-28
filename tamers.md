@@ -2,7 +2,7 @@
 title: Tamers
 description: Classes that specialize in capturing pets to accomplish their goals
 published: true
-date: 2026-11-28T09:20:59.217Z
+date: 2026-11-28T09:27:58.182Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:05:42.378Z
@@ -13,10 +13,10 @@ Tamers always take [Animal Taming](/animal_taming), [Animal Lore](/animal_lore),
 
 | Class | Unique Qualities |
 |:-|:-:|
-| Whisperer | Has pets and provoked monsters fighting for it at once |
-| Druid | Moves a pet army with Gate Travel and heals pets from range |
 | Beastwarden | Shoots from behind a pet that holds the monster's attention |
+| Druid | Moves a pet army with Gate Travel and heals pets from range |
 | Packleader | Fights beside its pet with a shield and full Valor |
+| Whisperer | Has pets and provoked monsters fighting for it at once |
 
 ## Beastwarden
 The Beastwarden is an archer with a bodyguard. Its pet charges in and holds the monster's attention while the Beastwarden shoots from behind it, and since the monster is busy with the pet, the Beastwarden can shoot freely.
