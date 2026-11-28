@@ -2,7 +2,7 @@
 title: Character
 description: Classes, builds, and what makes a character
 published: true
-date: 2026-11-28T08:30:00.000Z
+date: 2026-11-28T08:38:41.101Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -30,40 +30,15 @@ Ultima Online doesn't have discrete classes. To play something like an evil warr
 
 A class with Magery, Animal Taming, or a bard skill belongs to that group. The Paladin is the exception, since it barely takes Magery.
 
-| Class | Group | What Only It Does |
-|:-|:-:|:-:|
-| Blacksmith | Tank | Saps a monster's vigor behind a metal shield, then splashes Crushing Blows around its target |
-| Carpenter | Tank | Blocks with the sturdiest shield, then flourishes a staff into every monster around it |
-| Paladin | Tank | Saps vigor with a mace while casting Heal and Cure and keeping most of Valor |
-| Juggernaut | Tank | Stacks food, potions, and bandages on top of Valor's toughness and regeneration |
-| Armsmaster | Fighter | Switches weapons to land sword, mace, and polearm effects on one target |
-| Prospector | Fighter | Fights with a pickaxe that hits twice as hard, and mines its own ore |
-| Warrior | Fighter | Gets full Valor with a sword and shield and a bow, without Arms Lore |
-| Woodsman | Fighter | Does the highest damage of any class, and chops wood |
-| Ranger | Archer | Never misses a fleeing target, and makes its own arrows |
-| Grenadier | Archer | Bombs groups of monsters without Magery, and shoots poisoned bolts |
-| Hunter | Stalker | Ambushes from range with a crossbow, then pins the target with Paralyzing Blow |
-| Rogue | Stalker | Backstabs from stealth, then picks the chests its victims guarded |
-| Puppetmaster | Stalker | Sends golems in from hiding, then disarms and picks the chests |
-| Battlemage | Mage | Combines polearm hits and spells, and halves a caster's Intelligence |
-| Monk | Mage | Stuns casters out of their spells with its fists |
-| Shepherd | Mage | Bonks for up to ten times damage, then follows up with a spell |
-| Summoner | Mage | Fields all four elementals at once |
-| Wizard | Mage | Casts from a robe, fires wands between spells, and refills its mana with sweets |
-| Golemancer | Mage | Builds its own golems and keeps one fighting almost nonstop |
-| Priest | Mage | Heals a whole group with spells and bandages, and resurrects with bandages |
-| Whisperer | Tamer | Has pets and provoked monsters fighting for it at once |
-| Druid | Tamer | Moves a pet army with Gate Travel and heals pets from range |
-| Beastwarden | Tamer | Shoots from behind a pet that holds the monster's attention |
-| Packleader | Tamer | Fights beside its pet with a shield and full Valor |
-| Minstrel | Bard | Uses all three bard skills to control a fight |
-| Pirate | Bard | Runs treasure maps from start to finish on its own |
-| Skald | Bard | Discords its target, then cuts it down with a two-handed axe |
-| Artisan | Crafter | Crafts nearly everything: gear, potions, scrolls, and golems |
-| Forager | Crafter | Gathers ore, wood, and fish, and cooks its catch in the field |
-
 ## Tanks
 Tanks are built to stand in front of a monster and outlast it. The Blacksmith, Carpenter, and Paladin weaken a monster's hits with [one-handed maces](/weapon_effects#sapping-vigor), while the Juggernaut simply heals through them.
+
+| Class | What Only It Does |
+|:-|:-:|
+| Blacksmith | Saps a monster's vigor behind a metal shield, then splashes Crushing Blows around its target |
+| Carpenter | Blocks with the sturdiest shield, then flourishes a staff into every monster around it |
+| Paladin | Saps vigor with a mace while casting Heal and Cure and keeping most of Valor |
+| Juggernaut | Stacks food, potions, and bandages on top of Valor's toughness and regeneration |
 
 ### Blacksmith
 A smith that makes and repairs its own gear, and tanks with a one-handed mace and a metal shield. It switches to a two-handed mace to [splash](/weapon_effects#crushing-blow) its Crushing Blows onto every monster around its target.
@@ -112,6 +87,13 @@ A pure tank that gives up Tactics to stack three layers of healing on top of Val
 ## Fighters
 Fighters always take a weapon skill and Tactics, and most take Parrying and Anatomy for the rest of Valor.
 
+| Class | What Only It Does |
+|:-|:-:|
+| Armsmaster | Switches weapons to land sword, mace, and polearm effects on one target |
+| Prospector | Fights with a pickaxe that hits twice as hard, and mines its own ore |
+| Warrior | Gets full Valor with a sword and shield and a bow, without Arms Lore |
+| Woodsman | Does the highest damage of any class, and chops wood |
+
 ### Armsmaster
 Carries different weapons and switches between them to land multiple [weapon effects](/weapon_effects) on a target. Always brings the right tool for the job.
 
@@ -155,6 +137,11 @@ The highest damage of all classes, and it can chop wood. Its axes have no weapon
 ## Archers
 Archers fight from range with [Archery](/archery), keeping out of reach of what they shoot.
 
+| Class | What Only It Does |
+|:-|:-:|
+| Ranger | Never misses a fleeing target, and makes its own arrows |
+| Grenadier | Bombs groups of monsters without Magery, and shoots poisoned bolts |
+
 ### Ranger
 A long-range, nimble bow or crossbow user, excellent at finishing off fleeing targets. It makes its own ammunition in the field, assuming birds are present for feathers.
 
@@ -177,6 +164,12 @@ A back-line bomber that throws explosion potions into groups of monsters and sho
 
 ## Stalkers
 Stalkers use Hiding and Stealth to get into position, then strike before the enemy can answer.
+
+| Class | What Only It Does |
+|:-|:-:|
+| Hunter | Ambushes from range with a crossbow, then pins the target with Paralyzing Blow |
+| Rogue | Backstabs from stealth, then picks the chests its victims guarded |
+| Puppetmaster | Sends golems in from hiding, then disarms and picks the chests |
 
 ### Hunter
 Ambushes from stealth with a heavy crossbow for huge burst damage at range, then pins targets in place with a poisoned spear's Paralyzing Blow.
@@ -210,6 +203,16 @@ A dungeon lockpicker that never lifts a weapon. It hides and stealths into posit
 
 ## Mages
 Mages always take Magery and Meditation. Mages who expect to be caught in melee defend with Wrestling or a weapon, while those who stay out of reach can take Tailoring and wear a [robe](/meditation#robes) for faster mana regeneration.
+
+| Class | What Only It Does |
+|:-|:-:|
+| Battlemage | Combines polearm hits and spells, and halves a caster's Intelligence |
+| Monk | Stuns casters out of their spells with its fists |
+| Shepherd | Bonks for up to ten times damage, then follows up with a spell |
+| Summoner | Fields all four elementals at once |
+| Wizard | Casts from a robe, fires wands between spells, and refills its mana with sweets |
+| Golemancer | Builds its own golems and keeps one fighting almost nonstop |
+| Priest | Heals a whole group with spells and bandages, and resurrects with bandages |
 
 ### Battlemage
 A classic T2A halberd mage. Combining damage spells and polearm hits allows for burst damage, and [Concussion Blows](/weapon_effects#concussion-blow) can devastate other mages. Casting spells unequips the polearm, but since it has such a long cooldown on its swing timer, there is plenty of time to cast.
@@ -284,6 +287,13 @@ A group healer that mends allies with spells and bandages and brings the fallen 
 ## Tamers
 Tamers always take Animal Taming, Animal Lore, and Veterinary, and their pets do most of their fighting.
 
+| Class | What Only It Does |
+|:-|:-:|
+| Whisperer | Has pets and provoked monsters fighting for it at once |
+| Druid | Moves a pet army with Gate Travel and heals pets from range |
+| Beastwarden | Shoots from behind a pet that holds the monster's attention |
+| Packleader | Fights beside its pet with a shield and full Valor |
+
 ### Whisperer
 Despite being harmless itself, the Whisperer is one of the strongest builds for hunting, with both pets and provoked monsters fighting for it. Its pets are backed by the fastest bandages from maximum Dexterity.
 
@@ -327,6 +337,12 @@ Fights side by side with its pet behind a kryss and a shield. The only tamer tha
 ## Bards
 Bards always take Musicianship, since every bard skill needs a good performance first.
 
+| Class | What Only It Does |
+|:-|:-:|
+| Minstrel | Uses all three bard skills to control a fight |
+| Pirate | Runs treasure maps from start to finish on its own |
+| Skald | Discords its target, then cuts it down with a two-handed axe |
+
 ### Minstrel
 A pure bard that controls the battlefield with all three bard skills, then finishes enemies off with a bow or crossbow from afar. Its Discordance even works on [demibosses](/demibosses), giving it a role in boss fights.
 
@@ -358,6 +374,12 @@ A war bard that discords its target, then cuts it down with a two-handed axe and
 - Weakness: no Resisting Spells or Magery, so casters hurt, and half its attempts to discord a demiboss fail
 
 ## Crafters
+Crafters make and gather what everyone else uses, and defend themselves with what they carry.
+
+| Class | What Only It Does |
+|:-|:-:|
+| Artisan | Crafts nearly everything: gear, potions, scrolls, and golems |
+| Forager | Gathers ore, wood, and fish, and cooks its catch in the field |
 
 ### Artisan
 Makes gear, potions, scrolls, and golems for everyone else, and Recalls between workshops. With Tinkering and Inscription, it can unleash the golems it builds to defend itself.
