@@ -2,7 +2,7 @@
 title: Character
 description: Classes, builds, and what makes a character
 published: true
-date: 2026-11-28T08:39:59.362Z
+date: 2026-11-28T08:41:14.560Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -22,7 +22,7 @@ Ultima Online doesn't have discrete classes. To play something like an evil warr
 ## Tanks
 Tanks are built to stand in front of a monster and outlast it. The Blacksmith, Carpenter, and Paladin weaken a monster's hits with [one-handed maces](/weapon_effects#sapping-vigor), while the Juggernaut simply heals through them.
 
-| Class | What Only It Does |
+| Class | Unique Qualities |
 |:-|:-:|
 | Blacksmith | Saps a monster's vigor behind a metal shield, then splashes Crushing Blows around its target |
 | Carpenter | Blocks with the sturdiest shield, then flourishes a staff into every monster around it |
@@ -76,7 +76,7 @@ A pure tank that gives up Tactics to stack three layers of healing on top of Val
 ## Fighters
 Fighters always take a weapon skill and Tactics, and most take Parrying and Anatomy for the rest of Valor.
 
-| Class | What Only It Does |
+| Class | Unique Qualities |
 |:-|:-:|
 | Armsmaster | Switches weapons to land sword, mace, and polearm effects on one target |
 | Prospector | Fights with a pickaxe that hits twice as hard, and mines its own ore |
@@ -126,7 +126,7 @@ The highest damage of all classes, and it can chop wood. Its axes have no weapon
 ## Archers
 Archers fight from range with [Archery](/archery), keeping out of reach of what they shoot.
 
-| Class | What Only It Does |
+| Class | Unique Qualities |
 |:-|:-:|
 | Ranger | Never misses a fleeing target, and makes its own arrows |
 | Grenadier | Bombs groups of monsters without Magery, and shoots poisoned bolts |
@@ -154,7 +154,7 @@ A back-line bomber that throws explosion potions into groups of monsters and sho
 ## Stalkers
 Stalkers use Hiding and Stealth to get into position, then strike before the enemy can answer.
 
-| Class | What Only It Does |
+| Class | Unique Qualities |
 |:-|:-:|
 | Hunter | Ambushes from range with a crossbow, then pins the target with Paralyzing Blow |
 | Rogue | Backstabs from stealth, then picks the chests its victims guarded |
@@ -193,7 +193,7 @@ A dungeon lockpicker that never lifts a weapon. It hides and stealths into posit
 ## Mages
 Mages always take Magery and Meditation. Mages who expect to be caught in melee defend with Wrestling or a weapon, while those who stay out of reach can take Tailoring and wear a [robe](/meditation#robes) for faster mana regeneration.
 
-| Class | What Only It Does |
+| Class | Unique Qualities |
 |:-|:-:|
 | Battlemage | Combines polearm hits and spells, and halves a caster's Intelligence |
 | Monk | Stuns casters out of their spells with its fists |
