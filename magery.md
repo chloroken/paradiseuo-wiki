@@ -2,7 +2,7 @@
 title: Magery
 description: Casting spells, casting chances by circle, and travel magic
 published: true
-date: 2026-11-23T01:52:48.921Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:10:03.878Z
@@ -32,7 +32,7 @@ At `100` Magery, 7th circle spells succeed `86%` of the time and 8th circle spel
 Casting from a scroll counts as two circles lower, so a scroll of an 8th circle spell is cast with the chances of a 6th circle spell. A grandmaster never fails a scroll of any circle.
 
 ## Related Skills
-- [Evaluating Intelligence](/evaluating_intelligence) raises spell damage, and gives unarmed defense alongside Anatomy.
+- [Evaluating Intelligence](/evaluating_intelligence) raises spell damage.
 - [Meditation](/meditation) regenerates mana faster.
 - [Inscription](/inscription) makes scrolls, and strengthens [Reactive Armor](/reactive_armor) and [Protection](/protection).
 - [Resisting Spells](/resisting_spells) protects against spells, and a caster's Magery makes their spells harder to resist.

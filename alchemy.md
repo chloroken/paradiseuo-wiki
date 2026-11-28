@@ -2,7 +2,7 @@
 title: Alchemy
 description: Brewing potions from reagents, every potion's recipe, and what each one does
 published: true
-date: 2026-11-26T15:45:11.961Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T05:14:48.220Z
@@ -45,13 +45,13 @@ Even a grandmaster alchemist only brews deadly poison `20%` of the time.
 
 ## Potions
 ### Healing
-Heal potions restore hit points, with an extra `Alchemy / 10` hit points for alchemists. After drinking one, another heal potion can't be drunk for `10` seconds.
+Heal potions restore hit points. For alchemists, the lowest roll is multiplied by `1 + 3 * Alchemy / 100` and the highest by `1 + Alchemy / 100`, so a grandmaster heals at least four times the usual minimum and up to twice the usual maximum. The drinker's own Alchemy counts, not the brewer's. After drinking one, another heal potion can't be drunk for `10` seconds.
 
-| Potion | Hit Points<br>Healed | With 100<br>Alchemy |
-|:-|:-:|:-:|
-| Lesser heal | 3 – 10 | 13 – 20 |
-| Heal | 6 – 20 | 16 – 30 |
-| Greater heal | 9 – 30 | 19 – 40 |
+| Potion | Hit Points<br>Healed | With 50<br>Alchemy | With 100<br>Alchemy |
+|:-|:-:|:-:|:-:|
+| Lesser heal | 3 – 10 | 7 – 15 | 12 – 20 |
+| Heal | 6 – 20 | 15 – 30 | 24 – 40 |
+| Greater heal | 9 – 30 | 22 – 45 | 36 – 60 |
 
 ### Curing
 Cure potions have a [chance to cure poison](/poison#potions), depending on the potion and the poison's strength.

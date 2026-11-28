@@ -2,7 +2,7 @@
 title: Wrestling
 description: Fighting unarmed, the automatic Stun move, and unarmed defense
 published: true
-date: 2026-11-19T08:04:30.856Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T07:33:41.865Z
@@ -29,7 +29,9 @@ Fighting with empty hands allows one move, Stun. It needs no button: when a punc
 - After any attempt, it can't be used again for `10` seconds.
 
 ## Unarmed Defense
-When fighting with bare hands, a character defends with whichever is higher: their Wrestling, or `(Anatomy + Evaluating Intelligence + 20) / 2`, up to `120`. A mage with `100` [Evaluating Intelligence](/evaluating_intelligence) and no Wrestling defends as if they had `60` Wrestling, and one with `100` Anatomy as well defends as if they had `110`.
+A player fighting with bare hands defends with Wrestling alone, so a mage who expects to be caught in melee needs it, and one without it is hit almost every time. Mages who stay out of reach often skip it for a [robe](/meditation#robes) instead.
+
+Monsters defend with whichever is higher: their Wrestling, or `(Anatomy + Evaluating Intelligence + 20) / 2`, up to `120`. A monster mage with `100` [Evaluating Intelligence](/evaluating_intelligence) and little Wrestling still defends as if it had `60` Wrestling.
 
 ## Manual Training
 

@@ -2,7 +2,7 @@
 title: Skills
 description: Every enabled and disabled skill, and the most popular ones
 published: true
-date: 2026-11-27T15:35:09.000Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -23,8 +23,8 @@ These skills define an archetype, and most characters take at least one.
 ## Enabled Skills
 | Skill Name | Active Effect | Passive Effect |
 |:-|:-|:-|
-| [Alchemy](/alchemy) | Brews potions from reagents with a mortar and pestle | More damage with thrown explosion potions |
-| [Anatomy](/anatomy) | Describes a target's Strength, Dexterity, and stamina | More weapon damage, stronger bandages, wrestling stuns, polearm Concussion Blows, unarmed defense, and Valor regeneration |
+| [Alchemy](/alchemy) | Brews potions from reagents with a mortar and pestle | More healing from heal potions, and more damage with thrown explosion potions |
+| [Anatomy](/anatomy) | Describes a target's Strength, Dexterity, and stamina | More weapon damage, stronger bandages, wrestling stuns, polearm Concussion Blows, and Valor regeneration |
 | [Animal Lore](/animal_lore) | Examines a creature's stats, skills, and favorite food | Pets obey more often, bandages heal creatures more, and adds stable slots |
 | [Animal Taming](/animal_taming) | Tames creatures into pets | Pets obey more often, and adds stable slots |
 | [Archery](/archery) | | Hits and defends with bows and crossbows |
@@ -32,12 +32,12 @@ These skills define an archetype, and most characters take at least one.
 | [Begging](/begging) | | |
 | [Blacksmithing](/blacksmithing) | Crafts metal weapons, armor, and shields, and repairs and smelts them | Two-handed mace Crushing Blows splash onto nearby monsters |
 | [Camping](/camping) | | |
-| [Carpentry](/carpentry) | Crafts furniture, containers, staves, wooden shields, instruments, and add-ons | More damage with staves, and more armor on a wooden shield |
+| [Carpentry](/carpentry) | Crafts furniture, containers, staves, wooden shields, instruments, and add-ons | More damage with staves, flourishing Crushing Blows, and more armor on a wooden shield |
 | [Cartography](/cartography) | Crafts maps and sea charts, and decodes treasure maps | |
-| [Cooking](/cooking) | Cooks food | Eating heals, up to `5` hit points per point of hunger filled |
+| [Cooking](/cooking) | Cooks food | Eating restores hit points with savory food and mana with sweets, up to 10 per point of hunger filled |
 | [Detecting Hidden](/detecting_hidden) | Reveals hidden characters nearby | |
-| [Discordance](/discordance) | Lowers a target's stats and skills | |
-| [Evaluating Intelligence](/evaluating_intelligence) | Describes a target's Intelligence and mana | More spell damage, unarmed defense, and a stronger Protection spell |
+| [Discordance](/discordance) | Lowers a target's stats and skills, even a demiboss's | |
+| [Evaluating Intelligence](/evaluating_intelligence) | Describes a target's Intelligence and mana | More spell damage, and a stronger Protection spell |
 | [Fencing](/fencing) | | Hits and defends with daggers, krysses, war forks, pitchforks, and spears |
 | [Fishing](/fishing) | Catches fish | |
 | [Fletching](/fletching) | Crafts bows, crossbows, arrows, and bolts | Archers get more range, a shorter delay after moving, and more missed ammunition back |
@@ -66,7 +66,7 @@ These skills define an archetype, and most characters take at least one.
 | [Stealth](/stealth) | Walks while hidden, for a stronger ambush | |
 | [Swordsmanship](/swordsmanship) | | Hits and defends with swords, axes, polearms, knives, and the pickaxe |
 | [Tactics](/tactics) | | More weapon damage, and Valor adds accuracy |
-| [Tailoring](/tailoring) | Crafts clothing and leather armor | Faster mana regeneration while wearing a robe and no armor |
+| [Tailoring](/tailoring) | Crafts clothing and leather armor | Faster mana regeneration while wearing a robe and no armor, the more so as mana runs low |
 | [Tinkering](/tinkering) | Crafts tools, jewelry, traps, and golems | Puts locks on a carpenter's containers and makes them harder to pick, and unleashes golems with Inscription |
 | [Tracking](/tracking) | Finds nearby animals, monsters, NPCs, or players, and points an arrow to one | Bows and crossbows hit more often, especially against fleeing creatures |
 | [Veterinary](/veterinary) | Bandages creatures, from farther away with more skill | Adds stable slots |

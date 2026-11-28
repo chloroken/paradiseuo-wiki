@@ -1,15 +1,15 @@
 ---
 title: Evaluating Intelligence
-description: More spell damage, judging a target's mind, unarmed defense, and Protection
+description: More spell damage, judging a target's mind, and Protection
 published: true
-date: 2026-11-26T12:02:11.023Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T08:17:34.020Z
 ---
 
 # Evaluating Intelligence
-Evaluating Intelligence is the skill of judging a mind. Its main use is making [Magery](/magery)'s damage spells hit harder. Alongside Anatomy, it also lets an empty-handed mage [defend without Wrestling](/wrestling#unarmed-defense), and it makes the [Protection](/protection) spell harder to disrupt.
+Evaluating Intelligence is the skill of judging a mind. Its main use is making [Magery](/magery)'s damage spells hit harder, and it also makes the [Protection](/protection) spell harder to disrupt.
 
 ## Spell Damage
 Damage spells compare the caster's Evaluating Intelligence to the target's [Resisting Spells](/resisting_spells):

@@ -2,7 +2,7 @@
 title: Carpentry
 description: Turning boards into furniture, containers, weapons, instruments, and house add-ons
 published: true
-date: 2026-11-27T15:35:09.000Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-17T06:34:26.911Z
@@ -64,7 +64,7 @@ A chest, box, or crate made by a carpenter can come with a lock and a key, depen
 | Shepherd's crook | 78.9 | 103.9 | 7 boards |
 | Black staff | 81.5 | 106.5 | 9 boards |
 
-Carpentry also makes black, gnarled, and quarter staves [hit harder](/weapons#scaling-skills) for players.
+Carpentry also makes black, gnarled, and quarter staves [hit harder](/weapons#scaling-skills) for players, and lets their Crushing Blows [flourish](/weapon_effects#crushing-blow) onto every monster around the wielder.
 
 ## Armor
 
@@ -72,7 +72,7 @@ Carpentry also makes black, gnarled, and quarter staves [hit harder](/weapons#sc
 |:-|:-:|:-:|:-:|
 | Wooden shield | 52.6 | 77.6 | 9 boards |
 
-A wooden shield gains armor from its wearer's Carpentry, so at `100` it [blocks like a heater shield](/parrying#shields).
+A wooden shield gains armor from its wearer's Carpentry, so at `100` it [outclasses every other shield](/parrying#shields) against weapons, though it never wards off spells like colored metal.
 
 ## Instruments
 

@@ -2,7 +2,7 @@
 title: Discordance
 description: Weakening an enemy's stats and skills with music
 published: true
-date: 2026-11-19T05:36:56.084Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-08T07:01:20.681Z
@@ -27,6 +27,9 @@ If the bard becomes hidden, through a skill like [Hiding](/hiding) or a spell li
 
 ## Cooldown
 Discordance has a fixed `5` second cooldown, whether it succeeds or fails.
+
+## Demibosses
+[Demibosses](/demibosses) can be discorded whatever their bard difficulty. After a good performance with [Musicianship](/musicianship), the chance to succeed is `Discordance / 200`, so `50%` at grandmaster, and a success weakens them like any other target. Attempts on a demiboss never raise Discordance. Peacemaking and Provocation still have no effect on demibosses.
 
 ## Manual Training
 

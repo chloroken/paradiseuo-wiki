@@ -2,14 +2,14 @@
 title: Tailoring
 description: Sewing clothing, footwear, and leather armor from cloth and leather
 published: true
-date: 2026-11-27T15:35:09.000Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-27T15:35:09.000Z
 ---
 
 # Tailoring
-Tailoring is the skill of sewing clothing, footwear, and leather armor from cloth and leather, using a sewing kit. Cloth is cut from bolts of cloth, which tailors sell and weavers make on a loom. Carving a corpse leaves hides, which scissors cut into leather, or leather straight away if the carver holds a skinning knife. There are no colored leathers, and bone armor is never sewn, only found as loot. Tailors can't repair anything, so worn-out leather armor must be replaced. Tailors who wear a [robe and no armor](/meditation#robes) regenerate mana faster.
+Tailoring is the skill of sewing clothing, footwear, and leather armor from cloth and leather, using a sewing kit. Cloth is cut from bolts of cloth, which tailors sell and weavers make on a loom. Carving a corpse leaves hides, which scissors cut into leather, or leather straight away if the carver holds a skinning knife. There are no colored leathers, and bone armor is never sewn, only found as loot. Tailors can't repair anything, so worn-out leather armor must be replaced. Tailors who wear a [robe and no armor](/meditation#robes) regenerate mana faster, the more so the emptier their mana.
 
 ## Hats
 

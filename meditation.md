@@ -2,7 +2,7 @@
 title: Meditation
 description: Faster mana regeneration, the meditative trance, and how armor slows it
 published: true
-date: 2026-11-26T15:41:44.757Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T08:17:41.202Z
@@ -68,19 +68,21 @@ With `100` Intelligence and `100` Meditation:
 | Full plate | 7 | 5.5 |
 
 ## Robes
-A player with [Tailoring](/tailoring) who wears a robe and no armor regenerates mana faster outside a trance. Any robe counts, including a death robe. Any armor or shield cancels the bonus, even leather. The delay between mana points, after the armor penalty, is multiplied by:
+A player with [Tailoring](/tailoring) who wears a robe and no armor regenerates mana faster outside a trance, and the emptier their mana, the bigger the bonus. Any robe counts, including a death robe. Any armor or shield cancels the bonus, even leather. The delay between mana points, after the armor penalty, is multiplied by:
 
-`1 - 0.25 * Tailoring / 100`
+`1 - 0.5 * (Tailoring / 100) * (1 - Mana / Maximum Mana)`
 
-The robe does nothing in a trance, so meditating is still faster.
+The robe does nothing at full mana or in a trance. Near empty, a grandmaster tailor regenerates as fast as a trance without having to stand still.
 
-With `100` Intelligence, `100` Meditation, and a robe:
+With `100` Intelligence, `100` Meditation, `100` Tailoring, and a robe:
 
-| Tailoring | Delay (s) | Mana per Minute |
+| Mana Left (%) | Delay (s) | Mana per Minute |
 |:-|:-:|:-:|
-| 0 | 1 | 60 |
-| 50 | 0.88 | 69 |
-| 100 | 0.75 | 80 |
+| 100 | 1 | 60 |
+| 75 | 0.88 | 69 |
+| 50 | 0.75 | 80 |
+| 25 | 0.63 | 96 |
+| 0 | 0.5 | 120 |
 
 ## Spells
 - Reactive Armor's maximum absorb is `(Magery + Meditation + Inscription) / 3`, up to `75`.

@@ -2,7 +2,7 @@
 title: Character
 description: Classes, builds, and what makes a character
 published: true
-date: 2026-11-28T05:38:45.089Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -17,59 +17,364 @@ A character's build, or class, is determined by its stats, skills, and reputatio
 - [Reputation](/reputation): builds up passively while interacting with the world.
 
 ## Classes
-Ultima Online doesn't have discrete classes. To play something like an evil warrior, one would spend stat points on Strength and Dexterity and skill points on weapon skills, then commit bad deeds to lower karma.
+Ultima Online doesn't have discrete classes. To play something like an evil warrior, one would spend stat points on Strength and Dexterity and skill points on weapon skills, then commit bad deeds to lower karma. The classes below are proven builds of `700` skill points, grouped by how they fight.
 
+- [Tanks](#tanks) hold a monster's attention and outlast it, weakening its hits or soaking them.
 - [Fighters](#fighters) decry [Magery](/magery), instead opting to specialize in [weapons](/weapons) and [armor](/armor), leveraging [Valor](/valor) benefits to get ahead.
+- [Archers](#archers) fight from range with bows and crossbows.
+- [Stalkers](#stalkers) use [Hiding](/hiding) and [Stealth](/stealth) to choose when a fight starts, and end it before the enemy can answer.
 - [Mages](#mages) embrace [spellcasting](/spells), sacrificing some or all of Valor's benefits to unlock a trove of utility and damage spells.
 - [Tamers](#tamers) convert wild animals and monsters into followers known as [pets](/pet) to fight for them with [Animal Taming](/animal_taming).
 - [Bards](#bards) make monsters infight with [Provocation](/provocation), weaken them with [Discordance](/discordance), or pacify them with [Peacemaking](/peacemaking).
 - [Crafters](#crafters) [create goods](/crafting) and gather resources for others, an important part of any society.
 
-The following tables list stats in this order: Strength, Dexterity, Intelligence.
+A class with Magery, Animal Taming, or a bard skill belongs to that group. The Paladin is the exception, since it barely takes Magery.
+
+| Class | Group | What Only It Does |
+|:-|:-:|:-:|
+| Blacksmith | Tank | Saps a monster's vigor behind a metal shield, then splashes Crushing Blows around its target |
+| Carpenter | Tank | Blocks with the sturdiest shield, then flourishes a staff into every monster around it |
+| Paladin | Tank | Saps vigor with a mace while casting Heal and Cure and keeping most of Valor |
+| Juggernaut | Tank | Stacks food, potions, and bandages on top of Valor's toughness and regeneration |
+| Armsmaster | Fighter | Switches weapons to land sword, mace, and polearm effects on one target |
+| Prospector | Fighter | Fights with a pickaxe that hits twice as hard, and mines its own ore |
+| Warrior | Fighter | Gets full Valor with a sword and shield and a bow, without Arms Lore |
+| Woodsman | Fighter | Does the highest damage of any class, and chops wood |
+| Ranger | Archer | Never misses a fleeing target, and makes its own arrows |
+| Grenadier | Archer | Bombs groups of monsters without Magery, and shoots poisoned bolts |
+| Hunter | Stalker | Ambushes from range with a crossbow, then pins the target with Paralyzing Blow |
+| Rogue | Stalker | Backstabs from stealth, then picks the chests its victims guarded |
+| Puppetmaster | Stalker | Sends golems in from hiding, then disarms and picks the chests |
+| Battlemage | Mage | Combines polearm hits and spells, and halves a caster's Intelligence |
+| Monk | Mage | Stuns casters out of their spells with its fists |
+| Shepherd | Mage | Bonks for up to ten times damage, then follows up with a spell |
+| Summoner | Mage | Fields all four elementals at once |
+| Wizard | Mage | Casts from a robe, fires wands between spells, and refills its mana with sweets |
+| Golemancer | Mage | Builds its own golems and keeps one fighting almost nonstop |
+| Priest | Mage | Heals a whole group with spells and bandages, and resurrects with bandages |
+| Whisperer | Tamer | Has pets and provoked monsters fighting for it at once |
+| Druid | Tamer | Moves a pet army with Gate Travel and heals pets from range |
+| Beastwarden | Tamer | Shoots from behind a pet that holds the monster's attention |
+| Packleader | Tamer | Fights beside its pet with a shield and full Valor |
+| Minstrel | Bard | Uses all three bard skills to control a fight |
+| Pirate | Bard | Runs treasure maps from start to finish on its own |
+| Skald | Bard | Discords its target, then cuts it down with a two-handed axe |
+| Artisan | Crafter | Crafts nearly everything: gear, potions, scrolls, and golems |
+| Forager | Crafter | Gathers ore, wood, and fish, and cooks its catch in the field |
+
+## Tanks
+Tanks are built to stand in front of a monster and outlast it. The Blacksmith, Carpenter, and Paladin weaken a monster's hits with [one-handed maces](/weapon_effects#sapping-vigor), while the Juggernaut simply heals through them.
+
+### Blacksmith
+A smith that makes and repairs its own gear, and tanks with a one-handed mace and a metal shield. It switches to a two-handed mace to [splash](/weapon_effects#crushing-blow) its Crushing Blows onto every monster around its target.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Blacksmithing, Mace Fighting, Tactics, Arms Lore, Parrying, Healing, and Resisting Spells
+- Gear: one-handed mace, metal shield, and a war hammer or war axe, with plate
+- Defense: Mace Fighting, shield blocks, Valor's accuracy and toughness, and resisted spells
+- Healing: bandages and potions
+- Weakness: no Anatomy, so no Valor regeneration and bandages that can't cure poison
+
+Its shield and armor can be forged from [colored metal](/armor#metal-types), which wards off spells, so it holds up best against casters.
+
+### Carpenter
+A fighter skilled with wooden equipment. It tanks with a club and a wooden shield, which Carpentry makes the [sturdiest shield](/parrying#shields) against weapons, then switches to a staff when surrounded. A staff's Crushing Blows can flourish, hitting every monster around the Carpenter.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Carpentry, Mace Fighting, Tactics, Arms Lore, Parrying, Healing, and Resisting Spells
+- Gear: club, wooden shield, and a black, gnarled, or quarter staff, with plate
+- Defense: Mace Fighting, shield blocks, Valor's accuracy and toughness, and resisted spells
+- Healing: bandages and potions
+- Weakness: a wooden shield never wards off spells, and with no Anatomy its bandages can't cure poison
+
+Wood blocks the most from big hitters, while the Blacksmith's metal does better against magic.
+
+### Paladin
+A hybrid fighter-mage-tank that uses a mace to weaken monsters' hits and Magery for Heal, Cure, and buffs, while keeping most of Valor's benefits. Its Anatomy lets its bandages cure poison.
+
+- Stats: `100` Strength, `40` Dexterity, `85` Intelligence
+- Skills: Mace Fighting, Arms Lore, Healing, Parrying, Tactics, Resisting Spells, `40` Magery, and `60` Anatomy
+- Gear: one-handed mace, shield, and spellbook, with plate
+- Defense: Mace Fighting, shield blocks, most of Valor, and resisted spells
+- Healing: bandages and spells
+- Weakness: casting moves its mace and shield to the backpack, so it must time its spells wisely
+
+### Juggernaut
+A pure tank that gives up Tactics to stack three layers of healing on top of Valor's toughness and regeneration. It can outlast almost anything, but kills slowly.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Fencing, Anatomy, Parrying, Healing, Alchemy, Cooking, and Resisting Spells
+- Gear: kryss or war fork and shield, with plate
+- Defense: Fencing, shield blocks, Valor's toughness, and resisted spells
+- Healing: [food](/cooking#eating-as-a-cook) for bursts, [potions](/alchemy#healing) in between, bandages for steady healing, and Valor's regeneration
+- Weakness: no Tactics, so it does about a third of the damage of other fighters and misses more often
 
 ## Fighters
-Fighters always take a weapon skill and Tactics.
+Fighters always take a weapon skill and Tactics, and most take Parrying and Anatomy for the rest of Valor.
 
-| Class | Stats | Skills | Weapons | Armor | Defensive<br>Layers | Healing,<br>Curing | Description |
-|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Armsmaster | 100<br>100<br>25 | Swordsmanship<br>Mace Fighting<br>Arms Lore<br>Tactics<br>Anatomy<br>Healing<br>Resisting Spells | Swords,<br>Polearms,<br>Maces,<br>War hammers | Plate | Resists,<br>Weapons| Bandages | Carries different weapons and switches between them to land multiple weapon effects on a target. Always brings the right tool for the job. |
-| Blacksmith | 100<br>100<br>25 | Blacksmithing<br>Mace Fighting<br>Tactics<br>Arms Lore<br>Parrying<br>Healing<br>Resisting Spells | One-handed maces,<br>Shields,<br>War hammers,<br>War axes | Plate | Maces,<br>Resists,<br>Shields,<br>Weapons | Bandages, Potions | A smith that can make and repair its own gear. Uses a one-handed mace and shield to tank with, and switches to a bigger mace to do area attacks thanks to Blacksmithing's interaction with two-handed maces.  |
-| Carpenter | 100<br>100<br>25 | Carpentry<br>Mace Fighting<br>Tactics<br>Arms Lore<br>Parrying<br>Healing<br>Resisting Spells | Quarter staves,<br>Clubs,<br>Wooden shields | Plate | Resists,<br>Shields<br>Weapons | Bandages, Potions | A fighter skilled with wooden equipment. Does more damage with staves and blocks with wooden shields as if they were heater shields. |
-| Hunter | 100<br>100<br>25 | Fencing<br>Archery<br>Tactics<br>Arms Lore<br>Poisoning<br>Hiding<br>Stealth | Heavy crossbows,<br>Two-handed spears | Leather | Stealth,<br>Weapons | Potions | Ambushes from stealth with a heavy crossbow for huge burst damage at range, then pins targets in place with a poisoned spear's Paralyzing Blow. |
-| Prospector | 100<br>100<br>25 | Mining<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Pickaxes,<br>Shields | Plate | Resists,<br>Shields,<br>Weapons | Bandages | A miner who fights back. Keeps up with other fighters thanks to Mining's huge boost to pickaxe damage. |
-| Ranger | 100<br>100<br>25 | Archery<br>Tactics<br>Anatomy<br>Tracking<br>Fletching<br>Healing<br>Resisting Spells | Bows,<br>Crossbows | Studded leather | Resists,<br>Weapons | Bandages | A long-range, nimble bow or crossbow user excellent at finishing off fleeing targets, and it can make its own ammunition in the field, assuming birds are present for feathers. |
-| Rogue | 100<br>100<br>25 | Fencing<br>Tactics<br>Anatomy<br>Hiding<br>Stealth<br>Poisoning<br>Lockpicking | Daggers,<br>Krysses,<br>War forks | Leather | Stealth,<br>Weapons | Potions | Backstabs from stealth with a poisoned dagger for a huge opening hit, finishes the fight quickly with a kryss or war fork, then picks the dungeon chests its victims were guarding. |
-| Warrior | 100<br>100<br>25 | Fencing<br>Archery<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Krysses,<br>War forks,<br>Shields,<br>Bows | Plate | Resists,<br>Shields,<br>Weapons | Bandages | The most well-rounded fighter, with full Valor benefits and no need for Arms Lore. It fights with a kryss or war fork and a shield, the strongest one-handed weapons without a weapon effect, and a bow for anything out of reach. |
-| Woodsman | 100<br>100<br>25 | Lumberjacking<br>Swordsmanship<br>Tactics<br>Anatomy<br>Parrying<br>Healing<br>Resisting Spells | Two-handed axes | Plate | Resists,<br>Weapons | Bandages | The highest damage of all classes, and it can chop wood. Its axes have no weapon effect, so it needs no Arms Lore, but it lacks utility. It only takes Parrying for Valor's toughness, as it has no hands for a shield. |
+### Armsmaster
+Carries different weapons and switches between them to land multiple [weapon effects](/weapon_effects) on a target. Always brings the right tool for the job.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Swordsmanship, Mace Fighting, Arms Lore, Tactics, Anatomy, Healing, and Resisting Spells
+- Gear: swords, polearms, maces, and war hammers, with plate
+- Defense: its weapon skills, Valor's accuracy and regeneration, and resisted spells
+- Healing: bandages
+- Weakness: no Parrying, so it gets none of Valor's toughness
+
+### Prospector
+A miner who fights back. It keeps up with other fighters thanks to Mining's huge boost to [pickaxe damage](/weapons#scaling-skills).
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Mining, Swordsmanship, Tactics, Anatomy, Parrying, Healing, and Resisting Spells
+- Gear: pickaxe and shield, with plate
+- Defense: Swordsmanship, shield blocks, full Valor, and resisted spells
+- Healing: bandages
+- Weakness: the pickaxe has no weapon effect, so it has little utility
+
+### Warrior
+The most well-rounded fighter, with full Valor and no need for Arms Lore. It fights with a kryss or war fork and a shield, the strongest one-handed weapons without a weapon effect, and a bow for anything out of reach.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Fencing, Archery, Tactics, Anatomy, Parrying, Healing, and Resisting Spells
+- Gear: kryss or war fork, shield, and bow, with plate
+- Defense: Fencing, shield blocks, full Valor, and resisted spells
+- Healing: bandages
+- Weakness: no weapon effects and no utility
+
+### Woodsman
+The highest damage of all classes, and it can chop wood. Its axes have no weapon effect, so it needs no Arms Lore.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Lumberjacking, Swordsmanship, Tactics, Anatomy, Parrying, Healing, and Resisting Spells
+- Gear: two-handed axes, with plate
+- Defense: Swordsmanship, full Valor, and resisted spells
+- Healing: bandages
+- Weakness: no hands for a shield and no utility, so it only takes Parrying for Valor's toughness
+
+## Archers
+Archers fight from range with [Archery](/archery), keeping out of reach of what they shoot.
+
+### Ranger
+A long-range, nimble bow or crossbow user, excellent at finishing off fleeing targets. It makes its own ammunition in the field, assuming birds are present for feathers.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Archery, Tactics, Anatomy, Tracking, Fletching, Healing, and Resisting Spells
+- Gear: bows and crossbows, with studded leather
+- Defense: range, Valor's accuracy and regeneration, and resisted spells
+- Healing: bandages
+- Weakness: weak once something reaches it
+
+### Grenadier
+A back-line bomber that throws explosion potions into groups of monsters and shoots poisoned bolts at the rest. It brews its own bombs, poisons, and heal potions.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Alchemy, Archery, Tactics, Anatomy, Poisoning, Healing, and Resisting Spells
+- Gear: crossbow and explosion potions, with studded leather
+- Defense: range, Valor's accuracy and regeneration, and resisted spells
+- Healing: bandages and stronger heal potions
+- Weakness: goes through reagents fast, and its explosions hit allies too
+
+## Stalkers
+Stalkers use Hiding and Stealth to get into position, then strike before the enemy can answer.
+
+### Hunter
+Ambushes from stealth with a heavy crossbow for huge burst damage at range, then pins targets in place with a poisoned spear's Paralyzing Blow.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Fencing, Archery, Tactics, Arms Lore, Poisoning, Hiding, and Stealth
+- Gear: heavy crossbow and two-handed spear, with leather
+- Defense: stealth, Valor's accuracy, and its weapon skills
+- Healing: potions
+- Weakness: stealth limits it to light armor, and it heals with potions only
+
+### Rogue
+Backstabs from stealth with a poisoned dagger for a huge opening hit, finishes the fight quickly with a kryss or war fork, then picks the [dungeon chests](/lockpicking#dungeon-chests) its victims were guarding.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Fencing, Tactics, Anatomy, Hiding, Stealth, Poisoning, and Lockpicking
+- Gear: daggers, krysses, and war forks, with leather
+- Defense: stealth, Valor's accuracy and regeneration, and Fencing
+- Healing: potions
+- Weakness: fragile in a straight fight, with no shield and potions only
+
+### Puppetmaster
+A dungeon lockpicker that never lifts a weapon. It hides and stealths into position, unleashes [golems](/golem) to clear out a chest's guards, then disarms and picks the chest and loots it. Monsters ignore golems and can't see a hidden owner, which makes it a relaxed build for casual players.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Tinkering, Inscription, Hiding, Stealth, Lockpicking, Remove Trap, and Healing
+- Gear: golems, lockpicks, and Blade Spirits scrolls, with leather
+- Defense: stealth and golems that do the fighting
+- Healing: bandages
+- Weakness: golems are weak and only last `30` seconds, and it can't fight on its own
 
 ## Mages
-Mages always take Magery and Meditation. In the tables, EvalAnat means [defending empty-handed](/wrestling#unarmed-defense) with Anatomy and Evaluating Intelligence instead of Wrestling.
+Mages always take Magery and Meditation. Mages who expect to be caught in melee defend with Wrestling or a weapon, while those who stay out of reach can take Tailoring and wear a [robe](/meditation#robes) for faster mana regeneration.
 
-| Class | Stats | Skills | Weapons | Armor | Defensive<br>Layers | Healing | Description |
-|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Battlemage | 100<br>25<br>100 | Swordsmanship<br>Tactics<br>Anatomy<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Polearms,<br>Spellbook | Leather | EvalAnat,<br>Resists,<br>Weapons | Spells | A classic T2A halberd mage. Combining damage spells and polearm hits allows for burst damage, and Concussion Blows can devastate other mages. Casting spells unequips the polearm, but since it has such a long cooldown on its swing timer, there is plenty of time to cast. Since it takes Anatomy to trigger Concussion Blows and Evaluating Intelligence for offensive magic, it doesn't need to take any other skills to properly defend against attacks. |
-| Monk | 100<br>25<br>100 | Magery<br>Evaluating Intelligence<br>Meditation<br>Wrestling<br>Anatomy<br>Tactics<br>Resisting Spells | Fists,<br>Spellbook | Leather | EvalAnat,<br>Resists | Spells | Fights with fists and magic, wearing leather armor so its mana regeneration isn't slowed. Its punches try to stun the target in place every 10 seconds, succeeding half the time at grandmaster, and since a stunned caster can't start a spell the Monk has a high level of control against mages. As it defends with Anatomy and Evaluating Intelligence, it only uses Wrestling for offense. |
-| Paladin | 100<br>40<br>85 | Mace Fighting<br>Arms Lore<br>Healing<br>Parrying<br>Tactics<br>Resisting Spells<br>Magery 40<br>Anatomy 60 | One-handed maces,<br>Shields,<br>Spellbook | Plate | Maces,<br>Resists,<br>Shields,<br>Weapons | Bandages,<br>Spells | A hybrid fighter-mage-tank that uses maces to weaken monsters' hits and Magery for Heal, Cure, and buffs while keeping most of Valor's benefits. Its Anatomy lets its bandages cure poison. It defends with Mace Fighting while holding its mace, and since casting a spell moves its mace and shield to the backpack, it must time its spellcasting wisely. |
-| Shepherd | 100<br>25<br>100 | Herding<br>Magery<br>Meditation<br>Evaluating Intelligence<br>Tactics<br>Mace Fighting<br>Resisting Spells | Shepherd's crooks,<br>Spellbook | Leather | Resists,<br>Weapons | Spells | A spellcasting shepherd that uses the shillelagh to fight with hit-and-run tactics, casting spells between swings. Every 7 seconds, the crook's next hit consumes mana to gain range and bonks for up to 10× damage, and a bonk followed by a damage spell makes a strong burst. Uses Mace Fighting to defend with the crook, but is completely vulnerable while casting. |
-| Summoner | 100<br>25<br>100 | Magery<br>Meditation<br>Evaluating Intelligence<br>Anatomy<br>Inscription<br>Resisting Spells<br>Spirit Speak | Spellbook | Leather | EvalAnat,<br>Inscribed Auras | Spells | A pure caster. Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. Because it takes Evaluating Intelligence for offensive magic, taking Anatomy offers better defense against attacks than Wrestling. |
+### Battlemage
+A classic T2A halberd mage. Combining damage spells and polearm hits allows for burst damage, and [Concussion Blows](/weapon_effects#concussion-blow) can devastate other mages. Casting spells unequips the polearm, but since it has such a long cooldown on its swing timer, there is plenty of time to cast.
+
+- Stats: `100` Strength, `25` Dexterity, `100` Intelligence
+- Skills: Swordsmanship, Tactics, Anatomy, Magery, Evaluating Intelligence, Meditation, and Resisting Spells
+- Gear: polearm and spellbook, with leather
+- Defense: Swordsmanship while holding its polearm and resisted spells
+- Healing: spells
+- Weakness: no defense while casting with its polearm put away
+
+### Monk
+Fights with fists and magic, wearing leather armor so its mana regeneration isn't slowed. Its punches try to [stun](/wrestling#wrestling-moves) the target in place every `10` seconds, succeeding half the time at grandmaster. Since a stunned caster can't start a spell, the Monk has a high level of control against mages.
+
+- Stats: `100` Strength, `25` Dexterity, `100` Intelligence
+- Skills: Magery, Evaluating Intelligence, Meditation, Wrestling, Anatomy, Tactics, and Resisting Spells
+- Gear: fists and spellbook, with leather
+- Defense: Wrestling and resisted spells
+- Healing: spells
+- Weakness: fists do little damage, and leather is its only armor
+
+### Shepherd
+A spellcasting shepherd that uses the [shillelagh](/weapon_effects#shillelagh) to fight with hit-and-run tactics, casting spells between swings. Every `7` seconds, the crook's next hit consumes mana to gain range and bonks for up to `10` times damage. Bonks burn mana fast, so it eats sweets to refill.
+
+- Stats: `100` Strength, `25` Dexterity, `100` Intelligence
+- Skills: Herding, Magery, Meditation, Tactics, Mace Fighting, Cooking, and Resisting Spells
+- Gear: shepherd's crook and spellbook, with leather
+- Defense: Mace Fighting while holding the crook and resisted spells
+- Healing: spells, with sweets for mana
+- Weakness: completely vulnerable while casting, and without Evaluating Intelligence its follow-up spells hit softer
+
+### Summoner
+A pure caster whose [summons](/summon) do the fighting. Spirit Speak strengthens its summons and lets it field all four elementals at once, while Inscription and Meditation make its Reactive Armor and Protection unusually strong. It wears a robe for mana and eats sweets to keep summoning.
+
+- Stats: `100` Strength, `25` Dexterity, `100` Intelligence
+- Skills: Magery, Meditation, Tailoring, Cooking, Inscription, Resisting Spells, and Spirit Speak
+- Gear: spellbook, with a robe
+- Defense: strengthened Reactive Armor and Protection, resisted spells, and its summons
+- Healing: spells, with sweets for mana
+- Weakness: no melee defense of its own, and its own damage spells are weak
+
+### Wizard
+A pure damage caster that never stops casting. It wears a robe that regenerates mana fastest when it's nearly empty, eats sweets to refill it, and fires [wands](/magic_items#wands) between spells.
+
+- Stats: `100` Strength, `25` Dexterity, `100` Intelligence
+- Skills: Magery, Meditation, Evaluating Intelligence, Tailoring, Alchemy, Cooking, and Resisting Spells
+- Gear: spellbook and wands, with a robe
+- Defense: range and resisted spells
+- Healing: spells and stronger heal potions, with sweets for mana
+- Weakness: no melee defense at all
+
+### Golemancer
+A full mage that builds its own golems and keeps one fighting almost nonstop for damage. Monsters ignore golems, so it takes every hit itself, behind Reactive Armor and Protection strengthened by Inscription and Meditation.
+
+- Stats: `100` Strength, `25` Dexterity, `100` Intelligence
+- Skills: Magery, Meditation, Evaluating Intelligence, Tailoring, Tinkering, Inscription, and Resisting Spells
+- Gear: golems and spellbook, with a robe
+- Defense: resisted spells and strengthened Reactive Armor and Protection
+- Healing: spells
+- Weakness: every golem costs gems, and monsters always come for the Golemancer
+
+### Priest
+A group healer that mends allies with spells and bandages and brings the fallen back with [bandage resurrection](/healing#resurrection). It wears a robe for mana and wrestles off anything that reaches it.
+
+- Stats: `100` Strength, `40` Dexterity, `85` Intelligence
+- Skills: Magery, Meditation, Healing, Anatomy, Wrestling, Tailoring, and Resisting Spells
+- Gear: spellbook and bandages, with a robe
+- Defense: Wrestling and resisted spells
+- Healing: spells and bandages
+- Weakness: no Evaluating Intelligence, so its damage spells are weak
 
 ## Tamers
+Tamers always take Animal Taming, Animal Lore, and Veterinary, and their pets do most of their fighting.
 
-| Class | Stats | Skills | Weapons | Armor | Defensive<br>Layers | Healing | Description |
-|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Beastmaster | 100<br>100<br>25 | Animal Taming<br>Animal Lore<br>Veterinary<br>Musicianship<br>Peacemaking<br>Provocation<br>Hiding | Instruments | Leather | Hiding | Potions | Despite being harmless itself, the Beastmaster is one of the strongest builds for hunting, with both pets and provoked monsters fighting for it. Its pets are backed by the fastest bandages from maximum Dexterity. However, it has no Magery, which limits its utility and travel speed. It has no true defenses and gets no benefits from Valor, making it exceptionally fragile. |
-| Druid | 100<br>40<br>85 | Animal Taming<br>Animal Lore<br>Veterinary<br>Magery<br>Evaluating Intelligence<br>Meditation<br>Resisting Spells | Spellbook | Leather | Resists | Spells | A magical tamer who collects a pet army, moves it around with Gate Travel, and heals pets from range with Greater Heal, and up close with bandages sped up by its 40 Dexterity. Highly flexible and capable of saving pets with Cure and even Invisibility. |
+### Whisperer
+Despite being harmless itself, the Whisperer is one of the strongest builds for hunting, with both pets and provoked monsters fighting for it. Its pets are backed by the fastest bandages from maximum Dexterity.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Animal Taming, Animal Lore, Veterinary, Musicianship, Peacemaking, Provocation, and Hiding
+- Gear: instruments, with leather
+- Defense: Hiding and Peacemaking
+- Healing: potions
+- Weakness: no true defenses, no Valor, and no Magery for travel, making it exceptionally fragile
+
+### Druid
+A magical tamer who collects a pet army, moves it around with Gate Travel, and heals pets from range with Greater Heal and up close with bandages sped up by its `40` Dexterity. Highly flexible and capable of saving pets with Cure and even Invisibility.
+
+- Stats: `100` Strength, `40` Dexterity, `85` Intelligence
+- Skills: Animal Taming, Animal Lore, Veterinary, Magery, Evaluating Intelligence, Meditation, and Resisting Spells
+- Gear: spellbook, with leather
+- Defense: its pets and resisted spells
+- Healing: spells
+- Weakness: no melee defense of its own
+
+### Beastwarden
+An archer with a bodyguard. Its pet holds the monster's attention while the Beastwarden shoots from behind it, bandaging both itself and its pet.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Animal Taming, Animal Lore, Veterinary, Archery, Tactics, Anatomy, and Healing
+- Gear: bows and crossbows, with studded leather
+- Defense: its pet, range, and Valor's accuracy and regeneration
+- Healing: bandages
+- Weakness: no Parrying or Magery, so no Valor toughness and no Gate Travel for its pets
+
+### Packleader
+Fights side by side with its pet behind a kryss and a shield. The only tamer that can take hits itself, it splits a monster's attention with its pet so whichever one is ignored does free damage.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Animal Taming, Animal Lore, Veterinary, Fencing, Tactics, Anatomy, and Parrying
+- Gear: kryss or war fork and shield, with plate
+- Defense: Fencing, shield blocks, and full Valor
+- Healing: Valor's regeneration and potions
+- Weakness: no Healing for itself and no Resisting Spells, so casters hurt
 
 ## Bards
+Bards always take Musicianship, since every bard skill needs a good performance first.
 
-| Class | Stats | Skills | Weapons | Armor | Defensive<br>Layers | Healing,<br>Curing | Description |
-|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Minstrel | 100<br>100<br>25 | Musicianship<br>Peacemaking<br>Provocation<br>Discordance<br>Archery<br>Tactics<br>Healing | Bows,<br>Crossbows,<br>Instruments | Studded leather | Peacemaking,<br>Weapons | Bandages,<br>Potions | A pure bard that controls the battlefield with all three bardic skills, then finishes enemies off with a bow or crossbow from afar. Without Anatomy or Magery it can't cure poison, so it carries cure potions to compensate. |
-| Pirate | 100<br>25<br>100 | Magery<br>Meditation<br>Musicianship<br>Provocation<br>Cartography<br>Lockpicking<br>Hiding | Instruments,<br>Spellbook | Leather | Hiding | Spells | A treasure mapper that provokes for map drops, quickly travels to the digsite, locates the chest and digs it up, unlocks and disarms the chest, provokes the guardians, and grabs the loot. All without taking a scratch. |
+### Minstrel
+A pure bard that controls the battlefield with all three bard skills, then finishes enemies off with a bow or crossbow from afar. Its Discordance even works on [demibosses](/demibosses), giving it a role in boss fights.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Musicianship, Peacemaking, Provocation, Discordance, Archery, Tactics, and Healing
+- Gear: bows, crossbows, and instruments, with studded leather
+- Defense: Peacemaking, range, and Valor's accuracy
+- Healing: bandages and potions
+- Weakness: without Anatomy or Magery it can't cure poison, so it carries cure potions
+
+### Pirate
+A [treasure](/treasure_map) mapper that provokes for map drops, quickly travels to the digsite, locates the chest and digs it up, unlocks and disarms the chest, provokes the guardians, and grabs the loot, all without taking a scratch.
+
+- Stats: `100` Strength, `25` Dexterity, `100` Intelligence
+- Skills: Magery, Meditation, Musicianship, Provocation, Cartography, Lockpicking, and Hiding
+- Gear: instruments and spellbook, with leather
+- Defense: Hiding and Provocation
+- Healing: spells
+- Weakness: almost no fighting ability of its own
+
+### Skald
+A war bard that discords its target, then cuts it down with a two-handed axe and full Valor. Bard skills only need an instrument in the backpack, so it plays without putting its axe away.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Musicianship, Discordance, Swordsmanship, Tactics, Anatomy, Parrying, and Healing
+- Gear: two-handed axe and instrument, with plate
+- Defense: Swordsmanship, full Valor, and a weakened target
+- Healing: bandages
+- Weakness: no Resisting Spells or Magery, so casters hurt, and half its attempts to discord a demiboss fail
 
 ## Crafters
 
-| Class | Stats | Skills | Description |
-|:-|:-:|:-:|:-:|
-| Artisan | 100<br>25<br>100 | Alchemy<br>Blacksmithing<br>Carpentry<br>Inscription<br>Magery<br>Tailoring<br>Tinkering | Makes gear, potions, and scrolls for everyone else, and Recalls between workshops. |
-| Forager | 100<br>100<br>25 | Mining<br>Lumberjacking<br>Fishing<br>Swordsmanship<br>Tactics<br>Magery<br>Hiding | Gathers raw materials, defends itself with the boosted axe or pickaxe it already carries, hides from what it can't fight, and marks its own runes to Recall home with the load. |
+### Artisan
+Makes gear, potions, scrolls, and golems for everyone else, and Recalls between workshops. With Tinkering and Inscription, it can unleash the golems it builds to defend itself.
+
+- Stats: `100` Strength, `25` Dexterity, `100` Intelligence
+- Skills: Alchemy, Blacksmithing, Carpentry, Inscription, Magery, Tailoring, and Tinkering
+- Gear: crafting tools and golems, with a robe
+- Defense: golems and spells
+- Healing: spells and stronger heal potions
+- Weakness: no weapon skill and no defensive skills
+
+### Forager
+Gathers raw materials, defends itself with the boosted axe or pickaxe it already carries, and marks its own runes to Recall home with the load. It cooks the fish it catches for burst healing in the field.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Mining, Lumberjacking, Fishing, Swordsmanship, Tactics, Magery, and Cooking
+- Gear: axe or pickaxe, with leather
+- Defense: Swordsmanship with its axe or pickaxe
+- Healing: spells and food
+- Weakness: a weak fighter that can't hide from what it can't beat

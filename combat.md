@@ -2,7 +2,7 @@
 title: Combat
 description: Hit chance, swing speed, and damage
 published: true
-date: 2026-11-27T15:54:43.000Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T18:40:29.000Z
@@ -43,7 +43,7 @@ Each attack compares the attacker's weapon skill to the defender's:
 
 `(Attacker's Weapon Skill + 50) / ((Defender's Weapon Skill + 50) * 2)`
 
-The defender uses the skill of whatever weapon they're holding, so a fencer defends with Fencing and an archer with Archery. An unarmed character defends with Wrestling, or with [Anatomy and Evaluating Intelligence](/wrestling#unarmed-defense).
+The defender uses the skill of whatever weapon they're holding, so a fencer defends with Fencing and an archer with Archery. An unarmed player defends with [Wrestling](/wrestling#unarmed-defense) alone.
 
 | Attacker Skill | Defender Skill | Hit Chance (%) |
 |:-|:-:|:-:|

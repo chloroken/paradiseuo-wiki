@@ -2,7 +2,7 @@
 title: Parrying
 description: Blocking with shields, every shield's stats, and Valor's toughness bonus
 published: true
-date: 2026-11-20T16:31:06.576Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T03:26:26.815Z
@@ -31,7 +31,6 @@ Shields with more armor block less often but stop more damage when they do.
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Buckler | 7 | 44.5 | 91 | 2 | 4 |
 | Wooden shield | 8 | 44 | 90 | 2 | 5 |
-| Wooden shield (100 Carpentry) | 23 | 36.5 | 75 | 6 | 12 |
 | Bronze shield | 10 | 43 | 88 | 3 | 6 |
 | Metal shield | 11 | 42.5 | 87 | 3 | 6 |
 | Wooden kite shield | 12 | 42 | 86 | 3 | 7 |
@@ -39,10 +38,11 @@ Shields with more armor block less often but stop more damage when they do.
 | Heater shield | 23 | 36.5 | 75 | 6 | 12 |
 | Order shield | 30 | 33 | 68 | 8 | 16 |
 | Chaos shield | 32 | 32 | 66 | 8 | 17 |
+| Wooden shield (100 Carpentry) | 33 | 31.5 | 65 | 8 | 17 |
 
 The table is for shields of regular quality at full durability. An exceptional shield has `8` more armor, so it blocks less often and stops more damage per block. A worn shield loses armor as its durability drops, down to half.
 
-A wooden shield gains armor from its wearer's [Carpentry](/carpentry), up to `15` more at `100`, growing evenly with the skill. At `100` Carpentry it blocks like a heater shield, and slows mana regeneration like one too. Only players get this bonus.
+A wooden shield gains armor from its wearer's [Carpentry](/carpentry), up to `25` more at `100`, growing evenly with the skill. At `100` Carpentry it has more armor than any other shield, even a chaos shield, and slows mana regeneration to match. Wood is never a [colored metal](/armor#metal-types), so it doesn't ward off spells the way a colored metal shield can. Only players get this bonus.
 
 Shields are made with [Blacksmithing](/blacksmithing), except the wooden shield, which is made with Carpentry. Order shields can only be equipped by members of an Order guild, and chaos shields by members of a Chaos guild.
 

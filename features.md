@@ -2,7 +2,7 @@
 title: Features
 description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-27T15:35:09.000Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -30,7 +30,7 @@ Characters who fight with weapons are enhanced to keep pace with mages, tamers, 
 - Bows, crossbows, one-handed fencing weapons, and knives [ambush](/ambush) for bonus damage when they break Hiding, more after Stealth, and daggers backstab.
 - Each weapon type has its own identity through [weapon effects](/weapon_effects): swords critically strike, one-handed maces sap a monster's vigor, two-handed maces and staves slow its attacks, polearms concuss, and the shepherd's crook bonks as a shillelagh. Most of them are powered by [Arms Lore](/arms_lore), so each fighter chooses whether to pay for them, and only players land them.
 - Weapon damage is [rebalanced](/dps) so more weapons are worth using.
-- Lumberjacking, Carpentry, and Mining make their own weapons hit harder as [scaling skills](/weapons#scaling-skills), Blacksmithing lets two-handed maces splash their Crushing Blows, and Carpentry makes the wooden shield as sturdy as a heater shield.
+- Lumberjacking, Carpentry, and Mining make their own weapons hit harder as [scaling skills](/weapons#scaling-skills), Blacksmithing and Carpentry spread the Crushing Blows of two-handed maces and staves onto nearby monsters, and Carpentry makes the wooden shield the sturdiest shield against weapons.
 - Dexterity adds [carrying capacity](/stats#carrying-capacity), half as much per point as Strength.
 
 ## Archer Rework
@@ -63,9 +63,9 @@ Fame gives a choice between better gem prices at high Fame and faster skill gain
 
 ## Other Changes
 - Equipping weapons doesn't reset the swing timer.
-- Tailors who wear a [robe and no armor](/meditation#robes) regenerate mana faster outside a trance.
+- Tailors who wear a [robe and no armor](/meditation#robes) regenerate mana faster outside a trance, up to twice as fast as their mana runs out.
 - [Hungry](/cooking#hunger) characters don't regenerate hit points, and starving characters waste away.
-- Cooks [heal when they eat](/cooking#healing-from-food), so a chef can save up a burst of healing by staying hungry.
+- Cooks [restore hit points and mana](/cooking#eating-as-a-cook) by eating savory food and sweets, so a chef can save up a burst by staying hungry, and [alcohol](/cooking#alcohol) makes a little room in the stomach.
 - Monsters hit players with attacks much harder than on other shards.
 - Starting items aren't protected, so they drop on death once a character is [no longer Young](/young_player#losing-young-status).
 - Dungeons hide curiosities, such as the [summoning braziers](/deceit#summoning-braziers) of Deceit, which call random monsters from the dark.

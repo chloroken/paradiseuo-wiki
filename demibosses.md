@@ -2,7 +2,7 @@
 title: Demibosses
 description: What demibosses are, their artifacts, and how to beat them
 published: true
-date: 2026-11-26T13:45:51.277Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T09:16:37.588Z
@@ -34,7 +34,8 @@ How the effects players can use work on each demiboss.
 | Mana Vampire | Magery | Resisted half to three quarters of the time at 100 Magery | Resisted about a quarter of the time at 100 Magery | No effect |
 | Paralyze | Magery | Can't move or cast until damage breaks it | Can't move or cast until damage breaks it | Can't move until damage breaks it, but still attacks anything in reach |
 | [Poison](/poison) | Poisoned weapons and spells | Immune | Poisoned, but it can cure itself | Immune |
-| Provocation, Peacemaking, and Discordance | Bard skills | No effect | No effect | No effect |
+| [Discordance](/discordance#demibosses) | Bard skills | Lower stats and skills, half the time at 100 Discordance | Lower stats and skills, half the time at 100 Discordance | Lower stats and skills, half the time at 100 Discordance |
+| Provocation and Peacemaking | Bard skills | No effect | No effect | No effect |
 
 - Concussion Blow and Mana Vampire do nothing to the Forgotten One, who has no mana.
 - Sapping vigor and Crushing Blow only affect melee. The Lich King and the Greater Elemental fight mainly with spells, but the Forgotten One fights only in melee.

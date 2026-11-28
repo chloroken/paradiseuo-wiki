@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, blows, the shillelagh, and other effects on hit
 published: true
-date: 2026-11-27T15:54:43.000Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T18:40:29.000Z
@@ -20,6 +20,7 @@ Most weapon effects trigger more often with [Arms Lore](/arms_lore), so a charac
 | [Concussion Blow](#concussion-blow) | Reduces enemy Intelligence | Polearms | Anatomy / 400, no Arms Lore needed | Anything |
 | [Crushing Blow](#crushing-blow) | Reduces enemy attack speed | Two-handed maces, staves | Arms Lore / 400 | Monsters |
 | Crushing Blow (secondary effect) | Splash damage hits everything within a tile | Two-handed maces | Blacksmithing / 100 | Monsters |
+| Crushing Blow (secondary effect) | Flourish damage hits everything within a tile of the wielder | Black, gnarled, and quarter staves | Carpentry / 100 | Monsters |
 | [Paralyzing Blow](#paralyzing-blow) | Freezes enemy | Pitchforks, short spears, spears | Arms Lore / 400 | Anything |
 | [Shillelagh](#shillelagh) | Up to 10× damage | Shepherd's crook | First hit after a 7 second cooldown, scaled by Herding, Magery, and mana, no Arms Lore needed | Anything |
 | [Stun](#stun) | Freezes enemy | Fists | (Wrestling + Anatomy) / 400, no Arms Lore needed | Anything |
@@ -55,9 +56,11 @@ Two-handed maces and staves can land a Crushing Blow, which makes the target att
 
 Crushing Blow only works against monsters. Everyone nearby sees *\*looks dazed\** over the target.
 
-With a two-handed mace, each Crushing Blow has a `Blacksmithing / 100` chance to splash, every time at grandmaster [Blacksmithing](/blacksmithing). Every creature within `1` tile of the target takes the same hit, each reduced by its own armor. Since the splash needs a Crushing Blow first, it needs Arms Lore too. The splash only does damage, with no slow, and gives no skill gains. Staves never splash.
+With a two-handed mace, each Crushing Blow has a `Blacksmithing / 100` chance to splash, every time at grandmaster [Blacksmithing](/blacksmithing). Every creature within `1` tile of the target takes the same hit, each reduced by its own armor. Since the splash needs a Crushing Blow first, it needs Arms Lore too. The splash only does damage, with no slow, and gives no skill gains.
 
-The splash only hits creatures that are fair game: monsters and the creatures they summon. It never hits players, pets, summons, hirelings, or anything innocent, such as townsfolk and animals.
+With a black, gnarled, or quarter staff, each Crushing Blow instead has a `Carpentry / 100` chance to flourish, every time at grandmaster [Carpentry](/carpentry). Every creature within `1` tile of the wielder takes the same hit, each reduced by its own armor, so a flourish is strongest when surrounded. The main target isn't hit twice. Like the splash, the flourish needs Arms Lore, only does damage, and gives no skill gains.
+
+The splash and the flourish only hit creatures that are fair game: monsters and the creatures they summon. It never hits players, pets, summons, hirelings, or anything innocent, such as townsfolk and animals.
 
 ## Paralyzing Blow
 Spears, short spears, and pitchforks can land a Paralyzing Blow, which freezes the target in place for `2` seconds.

@@ -2,7 +2,7 @@
 title: Weapons
 description: Every weapon type, its skill, its weapon effect, and magic weapons
 published: true
-date: 2026-11-27T16:03:31.832Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -39,4 +39,4 @@ Some gathering and crafting skills make their own weapons hit harder, for player
 | Carpentry | Black, gnarled, and quarter staves | 5 | 15 |
 | Mining | Pickaxe | 33.3 | 100 |
 
-Hits with axes, except the pickaxe, can train Lumberjacking, but hits never train Carpentry or Mining. Two more skills scale weapons in other ways: Herding powers the shepherd's crook's [shillelagh](/weapon_effects#shillelagh), and Blacksmithing lets a two-handed mace's [Crushing Blow](/weapon_effects#crushing-blow) splash onto every monster around the target. Carpentry also makes the wooden shield as sturdy as a [heater shield](/parrying#shields).
+Hits with axes, except the pickaxe, can train Lumberjacking, but hits never train Carpentry or Mining. Two more skills scale weapons in other ways: Herding powers the shepherd's crook's [shillelagh](/weapon_effects#shillelagh), Blacksmithing lets a two-handed mace's [Crushing Blow](/weapon_effects#crushing-blow) splash onto every monster around the target, and Carpentry lets a stave's Crushing Blow flourish onto every monster around the wielder. Carpentry also makes the wooden shield the sturdiest [shield](/parrying#shields) against weapons.

@@ -2,7 +2,7 @@
 title: Lockpicking
 description: Picking town, dungeon, treasure, and crafted chests
 published: true
-date: 2026-11-27T15:35:09.000Z
+date: 2026-11-28T08:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-15T21:00:26.779Z
@@ -29,6 +29,8 @@ Dungeon chests are found in dungeons and hold traditional dungeon loot. They ran
 | 2 | 72 |
 | 3 | 84 |
 | 4 | 92 |
+
+Every dungeon chest also carries a magic trap, stronger the higher its level, with a trap power of `1` to `25` times the chest's level. It goes off when the chest is opened, unless it's disarmed first with [Remove Trap](/remove_trap) or the Magic Untrap spell (unconfirmed).
 
 A lockpicker needs the chest's skill to try, and from there the lock never fails. Because it never fails, a dungeon chest only trains Lockpicking when picked with a skeleton key, which lets a lockpicker try with `10` less skill.
 
