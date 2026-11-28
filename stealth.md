@@ -2,14 +2,14 @@
 title: Stealth
 description: Moving while hidden, its requirements, and its role in an ambush
 published: true
-date: 2026-11-28T09:42:02.352Z
+date: 2026-11-28T09:45:25.880Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T07:34:20.704Z
 ---
 
 # Stealth
-Stealth is the skill of moving while hidden. A character usually has to be hidden with [Hiding](/hiding) first, but a grandmaster at both Hiding and Stealth can use Stealth to vanish in the middle of a fight.
+Stealth is the skill of moving while hidden. A character usually has to be hidden with [Hiding](/hiding) first, but a grandmaster at both Hiding and Stealth can use Stealth to [vanish](#vanish) in the middle of a fight.
 
 ## Requirements
 - At least `80` Hiding, or the attempt fails with *You are not hidden well enough*.
@@ -33,13 +33,6 @@ Using Stealth while visible vanishes the character: they hide at once and can st
 A vanish always succeeds, with a puff of smoke and *You vanish!* It turns off war mode and gives the usual `10` steps, and those steps build an ambush like steps after Hiding. Monsters that use Detecting Hidden or cast Reveal can still find a vanished character.
 
 Afterward, the character can't vanish again for `2` minutes. Trying too soon shows how long is left, such as *You can vanish again in 1:45.*, and *You feel capable of vanishing again.* appears when it's ready. A failed attempt doesn't start the cooldown.
-
-| Stealth | Cooldown (minutes) |
-|:-|:-:|
-| 0.1 | 5 |
-| 50 | 3.5 |
-| 80 | 2.6 |
-| 100 | 2 |
 
 ## Ambush
 Each stealthed step before an attack makes an ambush stronger, up to `10` steps. A melee attacker has to reach the target before the steps run out, and the rest is covered under [Ambush](/ambush).
