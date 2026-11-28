@@ -2,14 +2,14 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T16:55:28.549Z
+date: 2026-11-28T16:57:04.211Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
 ---
 
 # Tanks
-Tanks are built to stand in front of a monster and outlast it. The Blacksmith, Carpenter, and Paladin are mitigation tanks that weaken a monster's hits with [one-handed maces](/weapon_effects#sapping-vigor), while the Juggernaut is a sustain tank that heals through incoming damage.
+Tanks are built to stand in front of a monster and outlast it. The Blacksmith, Carpenter, and Paladin are mitigation tanks that weaken a monster's hits by [sapping vigor](/weapon_effects#sapping-vigor) and landing [crushing blows](/weapon_effects#crushing-blow), while the Juggernaut is a sustain tank that heals through incoming damage.
 
 | Class | Unique Qualities |
 |:-|:-:|
