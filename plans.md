@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-28T08:27:44.103Z
+date: 2026-11-28T11:41:17.369Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -54,12 +54,17 @@ These skills don't have an obvious way to add adventure potential:
 - Use template to make page for every spell
 - Add pages with incoming links that are missing
 
-## Projects
-- Total "social" rework, have villagers, townsfolks, people walking town to town (can rob/kill them, etc)
+## Guilds
+- Make a guild for more skills/skillgroups
+- Have incentives and some systems in place
+
+## People
 - Fill world with trainers, like shepherds in farms
-- Rework stealing/snooping into something more. Stealing from npcs/monsters should be a whole thing.
-- Karma Town Trinkets to complete reputation rework
+- Total "social" rework, have villagers, townsfolks, people walking town to town (can rob/kill them, etc)
 - Crafting overhaul & expansion, allow for solo economy with NPCs (npcs in towns sometimes offer jobs to crafters. weighted based on town, e.g., yew more likely to offer fletchers a job.), give guilds a purpose
+
+## Projects
+- Karma Town Trinkets to complete reputation rework
 - Give gems some type of meaningful purpose outside of economy, maybe as a secondary currency?
 - More quests from npcs in towns, including hauling quests, boating quests, etc.
 - Fork TazUO and customize defaults for new players, strip egregious branding
