@@ -2,7 +2,7 @@
 title: Tamers
 description: Classes that specialize in capturing pets to accomplish their goals
 published: true
-date: 2026-11-28T15:28:29.217Z
+date: 2026-11-28T15:46:19.079Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:05:42.378Z
@@ -63,7 +63,7 @@ It has no Healing for itself, so it relies on Valor's regeneration and potions, 
 ## Whisperer
 The Whisperer is a soft-spoken tamer that never swings a weapon, yet it's one of the strongest builds for hunting. It tames powerful pets and then uses its music to turn monsters on each other with [Provocation](/provocation), so its pets and the monsters it provokes are all fighting for it at once.
 
-Its maximum Dexterity makes its pet bandages fast, and Veterinary lets it bandage from a distance. When a fight gets out of hand, [Peacemaking](/peacemaking) calms the monsters around it, and [Hiding](/hiding) takes it out of sight.
+Its maximum Dexterity makes its pet bandages fast, and Veterinary lets it bandage from a distance. When a fight gets out of hand, [Peacemaking](/peacemaking) calms the monsters around it, which gives it the chance to slip out of sight with [Hiding](/hiding).
 
 It's exceptionally fragile. With no Valor, no armor skills, no Magery, and no weapon, anything that reaches it can hurt it badly, and it heals itself only with potions. Without Magery it can't Recall or Gate Travel, so moving its pets around is slow.
 
