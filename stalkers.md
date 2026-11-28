@@ -2,7 +2,7 @@
 title: Stalkers
 description: Classes that specialize in infiltration, assassination, and escape
 published: true
-date: 2026-11-28T09:20:04.417Z
+date: 2026-11-28T09:27:36.494Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:55.348Z
@@ -14,8 +14,8 @@ Stalkers use [Hiding](/hiding) and [Stealth](/stealth) to get into position, the
 | Class | Unique Qualities |
 |:-|:-:|
 | Hunter | Ambushes from range with a crossbow, then pins the target with Paralyzing Blow |
-| Rogue | Backstabs from stealth, then picks the chests its victims guarded |
 | Puppetmaster | Sends golems in from hiding, then disarms and picks the chests |
+| Rogue | Backstabs from stealth, then picks the chests its victims guarded |
 
 ## Hunter
 The Hunter is a patient sniper. It stalks its prey unseen, lines up the shot, and opens with a heavy crossbow [ambush](/ambush). After ten stealthed steps, the ambush does two and a half times damage and can't miss, the biggest single hit of any weapon in the game.
