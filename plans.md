@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-28T15:55:18.335Z
+date: 2026-11-28T16:00:12.864Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -37,10 +37,6 @@ These skills don't have an obvious way to add adventure potential:
 - Use template to make page for every spell
 - Add pages with incoming links that are missing
 
-## Guilds
-- 50 skill requirement to get in + fee
-- Have incentives, like a quest system
-
 ## People
 - More quests from npcs in towns, including hauling quests, boating quests, etc.
 - Remove mondain questers, be careful for 'shared' xmlspawners
@@ -49,6 +45,7 @@ These skills don't have an obvious way to add adventure potential:
 - Crafting overhaul & expansion, allow for solo economy with NPCs (npcs in towns sometimes offer jobs to crafters. weighted based on town, e.g., yew more likely to offer fletchers a job.), give guilds a purpose
 
 ## Projects
+- Guild dailies?
 - Sea market trade port
 - Magincia bazaar
 - Karma Town Trinkets to complete reputation rework
