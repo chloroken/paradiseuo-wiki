@@ -2,7 +2,7 @@
 title: Mages
 description: Classes that leverage magic spells to gain advantage
 published: true
-date: 2026-11-28T15:46:05.329Z
+date: 2026-11-28T16:33:41.034Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:04:49.054Z
@@ -32,7 +32,7 @@ With `100` Magery, it gets none of [Valor](/valor)'s bonuses. It defends with [S
 - Skills: Swordsmanship, Tactics, Anatomy, Magery, Evaluating Intelligence, Meditation, and Resisting Spells
 - Gear: polearm and spellbook, with leather
 - Defense: Swordsmanship while holding its polearm and resisted spells
-- Healing: spells
+- Healing: spells, unbonused potions
 - Weakness: no defense while casting with its polearm put away
 
 ## Golemancer
@@ -46,7 +46,7 @@ Every golem costs gems, and now and then one breaks down for good. With no Wrest
 - Skills: Magery, Meditation, Evaluating Intelligence, Tailoring, Tinkering, Inscription, and Resisting Spells
 - Gear: golems and spellbook, with a robe
 - Defense: resisted spells and strengthened Reactive Armor and Protection
-- Healing: spells
+- Healing: spells, unbonused potions
 - Weakness: every golem costs gems, and monsters always come for the Golemancer
 
 ## Monk
@@ -60,7 +60,7 @@ Fists do little damage, especially without Tactics, so the Monk does most of its
 - Skills: Magery, Evaluating Intelligence, Meditation, Wrestling, Anatomy, Inscription, and Resisting Spells
 - Gear: fists and spellbook, with leather
 - Defense: Wrestling, stuns, the strongest Reactive Armor and Protection, and resisted spells
-- Healing: spells
+- Healing: spells, unbonused potions
 - Weakness: fists do little damage, and leather is its only armor
 
 ## Priest
@@ -74,7 +74,7 @@ Without Evaluating Intelligence, its damage spells are weak, so it does little d
 - Skills: Magery, Meditation, Healing, Anatomy, Cooking, Tailoring, and Resisting Spells
 - Gear: spellbook, bandages, and sweets, with a robe
 - Defense: Reactive Armor, resisted spells, and its group
-- Healing: spells and bandages, with sweets for mana
+- Healing: spells, food, bandages, unbonused potions
 - Weakness: no Evaluating Intelligence or Wrestling, so it does little damage and can't hold off what reaches it
 
 ## Summoner
@@ -88,7 +88,7 @@ Its own damage spells are weak without Evaluating Intelligence, so it depends on
 - Skills: Magery, Meditation, Tailoring, Cooking, Wrestling, Resisting Spells, and Spirit Speak
 - Gear: spellbook, with a robe
 - Defense: Wrestling, resisted spells, and its summons
-- Healing: spells, with sweets for mana
+- Healing: spells, food, unbonused potions
 - Weakness: its own damage spells are weak, and it loses most of its strength when its summons are dispelled
 
 ## Wizard
@@ -102,5 +102,5 @@ It has no way to avoid melee hits. No Wrestling, no weapon skill, and no armor m
 - Skills: Magery, Meditation, Evaluating Intelligence, Tailoring, Alchemy, Cooking, and Resisting Spells
 - Gear: spellbook and wands, with a robe
 - Defense: range, Reactive Armor, and resisted spells
-- Healing: spells and stronger heal potions, with sweets for mana
+- Healing: bonused potions, spells, food
 - Weakness: no way to avoid melee hits
