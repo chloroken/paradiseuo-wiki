@@ -2,7 +2,7 @@
 title: Stalkers
 description: Classes that specialize in infiltration, assassination, and escape
 published: true
-date: 2026-11-28T15:45:23.299Z
+date: 2026-11-28T16:25:45.459Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:55.348Z
@@ -29,7 +29,7 @@ A monster stays alert for a minute after an ambush, so the Hunter gets one big o
 - Skills: Archery, Tactics, Anatomy, Poisoning, Tracking, Hiding, and Stealth
 - Gear: heavy crossbow and crossbow, with leather
 - Defense: range, stealth, vanishing, and Valor's accuracy and regeneration
-- Healing: Valor's regeneration
+- Healing: unbonused potions
 - Weakness: stealth limits it to light armor, and it has no melee skill or healing skill
 
 ## Puppetmaster
