@@ -2,14 +2,14 @@
 title: Home
 description: Welcome to Paradise, a T2A Ultima Online shard for solo players and small groups
 published: true
-date: 2026-11-28T09:11:46.613Z
+date: 2026-11-28T09:12:08.123Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:50:31.643Z
 ---
 
 # Home
-Welcome to the *Paradise* wiki. All <span id="page-count">105</span> pages are checked against the shard's own code. 
+Welcome to the *Paradise* wiki. All <span id="page-count">105</span> articles reference the shard's exact code. 
 
 ![a robed adventurer sits atop a nightmare outside the Papua bank](/home_papua.png)
 
