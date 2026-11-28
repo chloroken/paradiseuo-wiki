@@ -2,7 +2,7 @@
 title: Character
 description: Classes, builds, and what makes a character
 published: true
-date: 2026-11-28T08:38:41.101Z
+date: 2026-11-28T08:39:59.362Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -17,18 +17,7 @@ A character's build, or class, is determined by its stats, skills, and reputatio
 - [Reputation](/reputation): builds up passively while interacting with the world.
 
 ## Classes
-Ultima Online doesn't have discrete classes. To play something like an evil warrior, one would spend stat points on Strength and Dexterity and skill points on weapon skills, then commit bad deeds to lower karma. The classes below are proven builds of `700` skill points, grouped by how they fight.
-
-- [Tanks](#tanks) hold a monster's attention and outlast it, weakening its hits or soaking them.
-- [Fighters](#fighters) decry [Magery](/magery), instead opting to specialize in [weapons](/weapons) and [armor](/armor), leveraging [Valor](/valor) benefits to get ahead.
-- [Archers](#archers) fight from range with bows and crossbows.
-- [Stalkers](#stalkers) use [Hiding](/hiding) and [Stealth](/stealth) to choose when a fight starts, and end it before the enemy can answer.
-- [Mages](#mages) embrace [spellcasting](/spells), sacrificing some or all of Valor's benefits to unlock a trove of utility and damage spells.
-- [Tamers](#tamers) convert wild animals and monsters into followers known as [pets](/pet) to fight for them with [Animal Taming](/animal_taming).
-- [Bards](#bards) make monsters infight with [Provocation](/provocation), weaken them with [Discordance](/discordance), or pacify them with [Peacemaking](/peacemaking).
-- [Crafters](#crafters) [create goods](/crafting) and gather resources for others, an important part of any society.
-
-A class with Magery, Animal Taming, or a bard skill belongs to that group. The Paladin is the exception, since it barely takes Magery.
+Ultima Online doesn't have discrete classes. To play something like an evil warrior, one would spend stat points on Strength and Dexterity and skill points on weapon skills, then commit bad deeds to lower karma. The classes below are ideas, grouped by purpose.
 
 ## Tanks
 Tanks are built to stand in front of a monster and outlast it. The Blacksmith, Carpenter, and Paladin weaken a monster's hits with [one-handed maces](/weapon_effects#sapping-vigor), while the Juggernaut simply heals through them.
