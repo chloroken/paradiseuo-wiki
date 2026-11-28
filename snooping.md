@@ -2,7 +2,7 @@
 title: Snooping
 description: Spotting prizes while stealing, and peeking into backpacks
 published: true
-date: 2026-11-28T16:11:34.955Z
+date: 2026-11-28T16:13:35.812Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T13:31:07.199Z
@@ -19,7 +19,8 @@ Without Snooping, a prize is buried among the gold and gems, so reaching it can 
 ## Peeking into Backpacks
 A backpack shown on a townsperson's paperdoll can be double-clicked from within `1` tile to peek inside. It opens on a success, which is `Snooping%` of the time. A peek also fills the townsperson's pocket the same way a theft does, and items in an open pocket can be stolen one by one.
 
-- Only members of the [Thieves' Guild](/guilds#thieves-guild) can peek into townsfolk's backpacks, even in guarded towns. In the [Karma towns](/stealing#karma-towns), a peek also needs the town's Karma.
+- Only members of the [Thieves' Guild](/guilds#thieves-guild) can peek into townsfolk's backpacks.
+- In the [Karma towns](/stealing#karma-towns), a peek also needs to meet the town's Karma requirement.
 - Monsters have no paperdolls, so their pockets are only reached by stealing.
 - A pocket holding a prize shows *Something valuable is tucked away in here.* when it opens.
 - Every peek costs `4` Karma.
