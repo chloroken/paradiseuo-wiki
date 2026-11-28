@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-28T13:30:00.000Z
+date: 2026-11-28T14:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -59,6 +59,9 @@ Changes to *Paradise*, newest first.
     - Let staves' Crushing Blows [flourish](/weapon_effects#crushing-blow) onto every monster around the wielder
     - Raise the wooden shield's Carpentry bonus to `25` armor, past every other shield
 - Let [Discordance](/discordance#demibosses) work on demibosses, succeeding `Discordance / 200` of the time
+- Change [Reactive Armor](/reactive_armor)'s maximum absorb to `(Magery + Meditation) / 4 + Inscription / 4`, so Inscription raises it from `50` to `75`
+- Add a `10` second wait between lighting [explosion potions](/alchemy#explosion)
+- Keep shields equipped while [casting](/magery#spells), so only weapons go to the backpack
 
 ## 2026.11.27
 - Lower golem break down chance to `10%`

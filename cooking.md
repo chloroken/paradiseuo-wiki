@@ -2,7 +2,7 @@
 title: Cooking
 description: The skill that makes food, its recipes, and effects
 published: true
-date: 2026-11-28T08:30:00.000Z
+date: 2026-11-28T14:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T18:29:05.245Z
@@ -39,6 +39,8 @@ Big meals restore the most per bite. The tables below list each food's fill valu
 
 ## Alcohol
 Drinking ale, wine, cider, or liquor lowers hunger by `1`, at most once every `10` seconds, so a cook can make room for another meal, even in the middle of a fight. The drinker sees *The drink settles your stomach.* Alcohol never lowers hunger to `5` or below on its own: at hunger `6` or lower, the drink still makes the drinker drunk but shows *Your stomach is already empty.* instead. Hunger can still drop below `6` from the usual drain right after a drink.
+
+Every drink adds drunkenness: `1` for ale, `2` for wine, `3` for cider, and `4` for liquor, up to `60`. Every `5` seconds, a drunk character loses `1` mana and `1` stamina and has a `10%` chance to lose `1` drunkenness, so each point lasts about `50` seconds. Now and then they hiccup with *\*hic\**, and if they aren't mounted, they also turn to face a random direction. When drunkenness runs out, they see *You feel sober.*
 
 ## Ingredients
 

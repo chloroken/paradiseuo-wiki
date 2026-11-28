@@ -2,7 +2,7 @@
 title: Golem
 description: The machines used by tinkers in combat, their stats, and crafting requirements
 published: true
-date: 2026-11-27T11:42:18.899Z
+date: 2026-11-28T14:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T17:47:52.916Z
@@ -39,7 +39,7 @@ Double-clicking a golem in the backpack unleashes it beside its owner. It can't 
 - Without enough free follower slots
 - Within `30` seconds of unleashing another golem of any kind
 
-Unleashing a golem doesn't raise any skill, and golems can be unleashed in town.
+Unleashing a golem doesn't raise any skill or reveal a hidden owner, and golems can be unleashed in town.
 
 ## Fighting
 A golem can't be commanded. It attacks the closest red or gray creature, and walks around obstacles to reach it. It never attacks players, blue creatures, NPCs, or anyone's followers. Gray creatures in town are fair game, and attacking them isn't a crime, so guards ignore it.

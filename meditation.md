@@ -2,7 +2,7 @@
 title: Meditation
 description: Faster mana regeneration, the meditative trance, and how armor slows it
 published: true
-date: 2026-11-28T08:30:00.000Z
+date: 2026-11-28T14:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T08:17:41.202Z
@@ -85,7 +85,7 @@ With `100` Intelligence, `100` Meditation, `100` Tailoring, and a robe:
 | 0 | 0.5 | 120 |
 
 ## Spells
-- Reactive Armor's maximum absorb is `(Magery + Meditation + Inscription) / 3`, up to `75`.
+- Reactive Armor's maximum absorb is `(Magery + Meditation) / 4 + Inscription / 4`.
 - Protection's chance to keep a spell from being disrupted is `(Evaluating Intelligence + Meditation + Inscription) / 4` percent, up to `75%`.
 
 ## Manual Training

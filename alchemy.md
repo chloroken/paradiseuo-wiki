@@ -2,7 +2,7 @@
 title: Alchemy
 description: Brewing potions from reagents, every potion's recipe, and what each one does
 published: true
-date: 2026-11-28T08:30:00.000Z
+date: 2026-11-28T14:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-20T05:14:48.220Z
@@ -44,6 +44,8 @@ Potions of the same kind stack.
 Even a grandmaster alchemist only brews deadly poison `20%` of the time.
 
 ## Potions
+Potions are drunk or thrown with full hands, so there's no need to put down a weapon or shield first.
+
 ### Healing
 Heal potions restore hit points. For alchemists, the lowest roll is multiplied by `1 + 3 * Alchemy / 100` and the highest by `1 + Alchemy / 100`, so a grandmaster heals at least four times the usual minimum and up to twice the usual maximum. The drinker's own Alchemy counts, not the brewer's. After drinking one, another heal potion can't be drunk for `10` seconds.
 
@@ -70,6 +72,8 @@ Poison potions are used with [Poisoning](/poisoning) to coat weapons, arrows, bo
 
 ### Explosion
 Explosion potions are thrown at a target. They explode after a short fuse, damaging everyone within `2` tiles. A thrown potion adds `Alchemy / 10` damage. A potion that explodes in the thrower's backpack also damages the thrower.
+
+After lighting an explosion potion, another can't be lit for `10` seconds. Trying too soon shows *You must wait before lighting another explosion potion.* A potion that's already lit can still be picked up and thrown.
 
 | Potion | Damage | With 100<br>Alchemy |
 |:-|:-:|:-:|

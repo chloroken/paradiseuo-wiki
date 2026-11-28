@@ -2,7 +2,7 @@
 title: Magery
 description: Casting spells, casting chances by circle, and travel magic
 published: true
-date: 2026-11-28T08:30:00.000Z
+date: 2026-11-28T14:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T04:10:03.878Z
@@ -12,6 +12,8 @@ Magery is the skill of casting spells. It offers damage, healing, utility, and t
 
 ## Spells
 Magery has `64` [spells](/spells), split evenly across `8` circles. Each spell needs reagents and mana, and is cast from a spellbook or a scroll.
+
+Casting a spell puts any weapon the caster is holding into their backpack, but a shield stays equipped. Equipping a weapon during a cast disrupts the spell, while equipping a shield doesn't.
 
 ## Casting Chance
 Each circle has a range of Magery where its spells can fail. Below the range a spell always fails, above it the spell always succeeds, and in between the chance rises evenly.

@@ -2,7 +2,7 @@
 title: Valor
 description: The warrior's virtue: accuracy, toughness, and regeneration for characters who fight without magic
 published: true
-date: 2026-11-28T09:30:00.000Z
+date: 2026-11-28T14:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T03:38:56.754Z
@@ -14,7 +14,7 @@ Valor is the warrior's virtue. Characters who fight with weapons instead of magi
 ## Bonuses
 - Accuracy, from [Tactics](/tactics): up to `30` points added to the attacker's weapon skill when rolling to hit, for every kind of weapon, including bows and bare hands. The bonus is `30 * (Tactics / 100) * ((100 - Magery) / 100)` points.
 - Toughness, from [Parrying](/parrying): physical damage taken is reduced by up to `20%`, before armor. The reduction is `20% * (Parrying / 100) * ((100 - Magery) / 100)`. It covers weapons and monsters' melee attacks, but not spells, breath, or poison. It doesn't need a shield.
-- Regeneration, from [Anatomy](/anatomy): hit points regenerate up to `5` times as fast. The speed is `1 + 4 * (Anatomy / 100) * ((100 - Magery) / 100)` times normal.
+- Regeneration, from [Anatomy](/anatomy): hit points regenerate up to `5` times as fast, from the usual `1` point every `10` seconds to `1` every `2` seconds. The speed is `1 + 4 * (Anatomy / 100) * ((100 - Magery) / 100)` times normal.
 
 | Magery | Accuracy Bonus<br>(points at 100 Tactics) | Damage Taken at<br>100 Parrying (%) | Regeneration Speed<br>at 100 Anatomy |
 |:-|:-:|:-:|:-:|
