@@ -1,24 +1,24 @@
 ---
-title: Character
+title: Classes
 description: Classes, builds, and what makes a character
 published: true
-date: 2026-11-28T09:11:15.953Z
+date: 2026-11-28T09:23:23.705Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
 ---
 
-# Character
-A character's build, or class, is determined by its stats, skills, and reputation.
+# Classes
+Ultima Online doesn't have discrete classes. To play something like an evil warrior, one would spend stat points on Strength and Dexterity and skill points on weapon skills, then commit bad deeds to lower karma.
 
 ## Building Blocks
+A character's build, or class, is determined by its stats, skills, and reputation.
 - [Stats](/stats): Strength, Dexterity, and Intelligence, and what each one does.
 - [Skills](/skills): every skill, including the ones that are disabled.
 - [Reputation](/reputation): builds up passively while interacting with the world.
 
-## Classes
-Ultima Online doesn't have discrete classes. To play something like an evil warrior, one would spend stat points on Strength and Dexterity and skill points on weapon skills, then commit bad deeds to lower karma.
-
+## Roles
+The following roles are categories of classes, grouped by purpose.
 - [Tanks](/tanks) mitigate and heal incoming damage.
 - [Fighters](/fighters) offer melee damage and debuffs.
 - [Archers](/archers) offer safe ranged damage.
