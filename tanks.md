@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T16:40:43.602Z
+date: 2026-11-28T16:45:59.398Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
