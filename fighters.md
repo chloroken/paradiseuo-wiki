@@ -2,7 +2,7 @@
 title: Fighters
 description: Classes that do high damage in melee range
 published: true
-date: 2026-11-28T15:27:41.049Z
+date: 2026-11-28T15:44:07.640Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:02:11.564Z
@@ -14,8 +14,8 @@ Fighters always take a weapon skill and [Tactics](/tactics), and most take [Parr
 | Class | Unique Qualities |
 |:-|:-:|
 | Armsmaster | Stacks weapon effects that weaken, slow, and drain one target |
-| Prospector | Fights with a pickaxe that hits twice as hard, and mines its own ore |
-| Warrior | Gets full Valor with a sword and shield and a bow, without Arms Lore |
+| Prospector | Fights with a pickaxe that Mining makes hit far harder, and mines its own ore |
+| Warrior | Gets full Valor with a kryss or war fork, a shield, and a bow, without Arms Lore |
 | Woodsman | Does the highest damage of any class, and chops wood |
 
 ## Armsmaster
