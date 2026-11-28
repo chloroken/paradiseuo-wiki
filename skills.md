@@ -2,14 +2,14 @@
 title: Skills
 description: Every enabled and disabled skill, and the most popular ones
 published: true
-date: 2026-11-28T09:00:00.000Z
+date: 2026-11-28T09:24:36.030Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
 ---
 
 # Skills
-A character can have up to `700` skill points. Common [class builds](/character#classes) aim for powerful synergies.
+A character can have up to `700` skill points. Common [builds](/classes) aim for powerful synergies.
 
 Skills are trained by using them. However, it's part of UO culture to use [macros](/scripting) to train skills automatically.
 
