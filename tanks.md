@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T15:44:24.450Z
+date: 2026-11-28T16:30:05.600Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
@@ -31,7 +31,7 @@ Its limits come from what it leaves out. Without [Anatomy](/anatomy), it gets no
 - Skills: Blacksmithing, Mace Fighting, [Tactics](/tactics), Arms Lore, Parrying, Alchemy, and Resisting Spells
 - Gear: one-handed mace, metal shield, and a war hammer or war axe, with colored metal plate
 - Defense: Mace Fighting, shield blocks, Valor's accuracy and toughness, colored metal, and resisted spells
-- Healing: stronger heal potions
+- Healing: bonused heal potions
 - Weakness: no Anatomy or Healing, so no Valor regeneration and nothing to heal with between potions
 
 ## Carpenter
@@ -40,6 +40,13 @@ The Carpenter is a tank built around wood. It crafts its own clubs, staves, and 
 It tanks with a club and that wooden shield. A club is a one-handed mace, so with Arms Lore it saps a monster's vigor, and Carpentry makes it hit harder and sap more. When it's surrounded, it switches to a black, gnarled, or quarter staff, which Carpentry also strengthens. A staff's Crushing Blow slows its target, and Carpentry lets it flourish, sweeping the same hit through every monster standing next to the Carpenter, so it rewards being mobbed.
 
 Wood can't be forged from colored metal, so its shield never wards off spells, and casters hurt it more than tanks in colored metal. It heals with its own stronger potions and has no Anatomy, so it gets no Valor regeneration. A staff is two-handed, so flourishing means giving up the shield.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Carpentry, Mace Fighting, Tactics, Arms Lore, Parrying, Alchemy, and Resisting Spells
+- Gear: club, wooden shield, and a black, gnarled, or quarter staff, with plate
+- Defense: Mace Fighting, shield blocks, Valor's accuracy and toughness, and resisted spells
+- Healing: bonused heal potions
+- Weakness: a wooden shield never wards off spells, and with no Anatomy it gets no Valor regeneration 
 
 ## Juggernaut
 The Juggernaut is the immovable object. It gives up Tactics, and with it most of its damage, to stack three separate layers of healing on top of a shield, Valor's toughness, and Valor's five-fold regeneration. It isn't trying to kill quickly, only to still be standing when everything else has fallen.
@@ -52,7 +59,7 @@ It fights with a kryss or war fork and a shield, so it needs no Arms Lore, and w
 - Skills: Fencing, Anatomy, Parrying, Healing, Alchemy, Cooking, and Resisting Spells
 - Gear: kryss or war fork and shield, with plate
 - Defense: Fencing, shield blocks, Valor's toughness, and resisted spells
-- Healing: food for bursts, stronger potions in between, bandages for steady healing, and Valor's regeneration
+- Healing: food, bonused potions, and bandages
 - Weakness: no Tactics, so it does about a third of the damage of other fighters and misses more often
 
 ## Paladin
