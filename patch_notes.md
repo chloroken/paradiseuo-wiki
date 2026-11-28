@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-28T14:59:01.887Z
+date: 2026-11-28T15:47:15.051Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,7 +11,6 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 ## 2026.11.28
-- Let [Carpentry](/carpentry) strengthen clubs, and [Blacksmithing](/blacksmithing) strengthen hammer picks, maces, mauls, and war maces, each by up to `15%` like staves
 - Rework [Stealing](/stealing) to rob monsters and townsfolk:
     - Fill a creature's pocket on its first theft: once for monsters, and again after `2` to `6` hours for townsfolk
     - Fill pockets by the owner's work or Fame, and roll a lottery on each, from a gem pouch at `1` in `100` to a castle deed at `1` in `1,000,000`
@@ -51,6 +50,8 @@ Changes to *Paradise*, newest first.
     - Give the Blacksmith, Carpenter, and Beastwarden Alchemy instead of Healing, the Puppetmaster Cooking instead of Healing, the Monk Inscription instead of Tactics, and the Summoner Wrestling instead of Inscription
     - Rework the Hunter into a stealth sniper with Archery, Tactics, Anatomy, Poisoning, Tracking, Hiding, and Stealth
     - Rework the Paladin into a group healer, and give it and the Forager `65` Dexterity and `60` Intelligence
+    - Give the Priest Cooking instead of Wrestling
+    - Let [Carpentry](/carpentry) strengthen clubs, and [Blacksmithing](/blacksmithing) strengthen hammer picks, maces, mauls, and war maces, each by up to `15%` like staves
 - [Cooking](/cooking):
     - Double the healing from eating to `Cooking / 10` per point of hunger filled
     - Make sweets restore mana instead of hit points
