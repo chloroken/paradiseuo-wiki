@@ -2,7 +2,7 @@
 title: Crafters
 description: Classes that focus on gathering resources and producing goods
 published: true
-date: 2026-11-28T15:46:35.030Z
+date: 2026-11-28T15:50:05.051Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:06:51.891Z
@@ -14,7 +14,7 @@ Crafters make and gather what everyone else uses, and defend themselves with wha
 | Class | Unique Qualities |
 |:-|:-:|
 | Artisan | Crafts nearly everything: gear, potions, scrolls, and golems |
-| Forager | Gathers ore, wood, and fish, and cooks its catch in the field |
+| Forager | Gathers ore, wood, and fish, and eats its own catch for burst healing |
 
 ## Artisan
 The Artisan is the town's workshop in one character. It [crafts](/crafting) metal weapons and armor, wooden furniture and staves, clothing and leather armor, potions, scrolls, and tools, and Recalls between workshops to keep production moving. Nearly everything other classes use can come from an Artisan.
