@@ -2,7 +2,7 @@
 title: Mages
 description: Classes that leverage magic spells to gain advantage
 published: true
-date: 2026-11-28T15:28:06.314Z
+date: 2026-11-28T15:46:05.329Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:04:49.054Z
@@ -16,7 +16,7 @@ Mages always take [Magery](/magery) and Meditation. Mages who expect to be caugh
 | Battlemage | Combines polearm hits and spells, and halves a caster's Intelligence |
 | Golemancer | Builds its own golems and keeps one fighting almost nonstop |
 | Monk | Stuns casters out of their spells with its fists |
-| Priest | Heals a whole group with spells and bandages, and resurrects with bandages |
+| Priest | Heals a whole group with spells and bandages, and resurrects two ways |
 | Shepherd | Bonks for up to ten times damage, then follows up with a spell |
 | Summoner | Fields all four elementals at once |
 | Wizard | Casts from a robe, fires wands between spells, and refills its mana with sweets |
@@ -36,7 +36,7 @@ With `100` Magery, it gets none of [Valor](/valor)'s bonuses. It defends with [S
 - Weakness: no defense while casting with its polearm put away
 
 ## Golemancer
-The Golemancer is a full mage who builds its own fighting machines. [Tinkering](/tinkering) builds its [golems](/golem), and [Inscription](/inscription) brings them to life, so it can make and use the strongest terror golems. Its Magery lets it scribe its own Blade Spirits scrolls for them, so it needs only gems to keep building.
+The Golemancer is a full mage who builds its own fighting machines. [Tinkering](/tinkering) builds its [golems](/golem), and [Inscription](/inscription) brings them to life, so it can make and use the strongest terror golems. Its Magery lets it scribe its own Blade Spirits scrolls for them, so its main cost is gems.
 
 It keeps a golem fighting almost nonstop, unleashing a new one as soon as the last winds down, and adds damage spells powered by Evaluating Intelligence on top. Monsters ignore golems, so they come for the Golemancer instead, and it has to hold them off itself. Inscription raises its [Reactive Armor](/reactive_armor) and [Protection](/protection) to their strongest for exactly that, and its robe keeps its mana flowing.
 
@@ -64,32 +64,18 @@ Fists do little damage, especially without Tactics, so the Monk does most of its
 - Weakness: fists do little damage, and leather is its only armor
 
 ## Priest
-The Priest is a group healer. It mends allies with Magery and bandages at the same time, cures poison with both, and brings fallen allies back with [bandage resurrection](/healing#resurrection), which its Healing and Anatomy make possible. A group with a Priest can push much deeper than one without.
+The Priest is a group healer. It mends allies with Magery and bandages at the same time and cures poison with both. It also has two ways to resurrect: the Resurrection spell and [bandage resurrection](/healing#resurrection), which its Healing and Anatomy make possible, so when one fails it can try the other. A group with a Priest can push much deeper than one without.
 
-It stays close to the group, healing whoever is hurt. Its robe regenerates mana fastest when it's low, which suits a healer that spends mana in bursts. Its Wrestling lets it hold off anything that reaches it while it keeps casting, and with its Anatomy, its punches can also stun.
+It stays close to the group, healing whoever is hurt. Its robe regenerates mana fastest when it's low, and [Cooking](/cooking#eating-as-a-cook) lets it eat sweets to refill mana in the middle of a fight, so it rarely runs dry. It counts on the group to keep monsters off it.
 
-Without Evaluating Intelligence, its damage spells are weak, so it does little damage on its own and is slow to solo. It's built to keep others alive, not to kill.
+Without Evaluating Intelligence, its damage spells are weak, so it does little damage on its own and is slow to solo. It has no Wrestling or weapon skill either, so anything that reaches it hits almost every time. It's built to keep others alive, not to kill.
 
 - Stats: `100` Strength, `40` Dexterity, `85` Intelligence
-- Skills: Magery, Meditation, Healing, Anatomy, Wrestling, Tailoring, and Resisting Spells
-- Gear: spellbook and bandages, with a robe
-- Defense: Wrestling, stuns, and resisted spells
-- Healing: spells and bandages
-- Weakness: no Evaluating Intelligence, so its damage spells are weak
-
-## Shepherd
-The Shepherd is a spellcasting herder who turns a humble shepherd's crook into a weapon. [Herding](/herding) makes the crook a [shillelagh](/weapon_effects#shillelagh): every `7` seconds, its next hit spends mana to reach farther and bonks for up to ten times the crook's damage, growing with Herding and Magery. A bonk never misses.
-
-It fights hit-and-run. It bonks, casts while the bonk recharges, and bonks again, and a bonk followed by a damage spell is a strong burst. Spells and re-equipping the crook don't restart the bonk's cooldown, so it can cast empty-handed and only pick up the crook to bonk. Bonks burn mana quickly, so [Cooking](/cooking) lets it eat sweets to refill its mana in the middle of a fight.
-
-It defends with [Mace Fighting](/mace_fighting) only while holding the crook, so it's completely vulnerable while casting. Without Evaluating Intelligence, its follow-up spells hit softer than a pure mage's, and it gets none of Valor's bonuses.
-
-- Stats: `100` Strength, `25` Dexterity, `100` Intelligence
-- Skills: Herding, Magery, Meditation, Tactics, Mace Fighting, Cooking, and Resisting Spells
-- Gear: shepherd's crook and spellbook, with leather
-- Defense: Mace Fighting while holding the crook and resisted spells
-- Healing: spells, with sweets for mana
-- Weakness: completely vulnerable while casting, and without Evaluating Intelligence its follow-up spells hit softer
+- Skills: Magery, Meditation, Healing, Anatomy, Cooking, Tailoring, and Resisting Spells
+- Gear: spellbook, bandages, and sweets, with a robe
+- Defense: Reactive Armor, resisted spells, and its group
+- Healing: spells and bandages, with sweets for mana
+- Weakness: no Evaluating Intelligence or Wrestling, so it does little damage and can't hold off what reaches it
 
 ## Summoner
 The Summoner is a conjurer whose [summons](/summon) do the fighting. [Spirit Speak](/spirit_speak) makes its summons last up to twice as long, resist being dispelled, and take fewer follower slots, and it makes its elementals hit harder and its summon spells never fail at grandmaster. With enough Spirit Speak, it can field all four elementals at once.
