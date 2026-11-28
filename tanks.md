@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T17:02:20.048Z
+date: 2026-11-28T17:04:50.107Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
@@ -39,7 +39,7 @@ The Carpenter is a mitigation tank built around wood. It crafts its own clubs, s
 
 It tanks with a club and that wooden shield. A club is a one-handed mace, so with Arms Lore it saps a monster's vigor, and Carpentry makes it hit harder and sap more. When it's surrounded, it switches to a black, gnarled, or quarter staff, which Carpentry also strengthens. A staff's Crushing Blow slows its target, and Carpentry lets it flourish, sweeping the same hit through every monster standing next to the Carpenter, so it rewards being mobbed.
 
-Wood can't be forged from colored metal, so its shield never wards off spells, and casters hurt it more than tanks in colored metal. It heals with its own stronger potions and has no Anatomy, so it gets no Valor regeneration. A staff is two-handed, so flourishing means giving up the shield.
+Wood can't be forged from colored metal, so its shield never wards off spells. But it can lean into the wooden shield's extra armor by using magical metal armor with extra armor rating and fielding the highest physical defense of all classes. It heals with its own stronger potions and has no Anatomy, so it gets no Valor regeneration. A staff is two-handed, so flourishing means giving up the shield.
 
 - Stats: `100` Strength, `100` Dexterity, `25` Intelligence
 - Skills: Carpentry, Mace Fighting, Tactics, Arms Lore, Parrying, Alchemy, and Resisting Spells
