@@ -2,7 +2,7 @@
 title: Hiding
 description: Disappearing from sight, staying hidden, and setting up an ambush
 published: true
-date: 2026-11-28T09:00:00.000Z
+date: 2026-11-28T09:42:38.109Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T07:33:58.907Z
@@ -16,7 +16,7 @@ Using the skill attempts to hide. The chance to succeed is the character's Hidin
 
 - Inside a house where the character is an owner, co-owner, or friend, hiding always succeeds.
 - Standing right next to a house adds `50%` to the chance.
-- Hiding fails with *You can't seem to hide right now* if an enemy fighting the character is close by and can see them. The higher the Hiding skill, the closer the enemy has to be to stop it: `8` tiles at `100` skill, and up to `18` tiles at lower skill. A grandmaster can [vanish](/stealth#vanish) with Stealth instead, which ignores nearby enemies.
+- Hiding fails with *You can't seem to hide right now* if an enemy fighting the character is close by and can see them. The higher the Hiding skill, the closer the enemy has to be to stop it: `8` tiles at `100` skill, and up to `18` tiles at lower skill. A grandmaster  at Hiding and Stealth can [vanish](/stealth#vanish) instead, which ignores nearby enemies.
 - Hiding can't be used while casting a spell.
 - A successful hide turns off war mode. A failed attempt reveals the character.
 - After each attempt, the skill can't be used again for `10` seconds, unless a nearby enemy stopped the attempt.
