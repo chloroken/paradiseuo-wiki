@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-28T14:45:00.000Z
+date: 2026-11-28T14:59:01.887Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,6 +11,7 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 ## 2026.11.28
+- Let [Carpentry](/carpentry) strengthen clubs, and [Blacksmithing](/blacksmithing) strengthen hammer picks, maces, mauls, and war maces, each by up to `15%` like staves
 - Rework [Stealing](/stealing) to rob monsters and townsfolk:
     - Fill a creature's pocket on its first theft: once for monsters, and again after `2` to `6` hours for townsfolk
     - Fill pockets by the owner's work or Fame, and roll a lottery on each, from a gem pouch at `1` in `100` to a castle deed at `1` in `1,000,000`
