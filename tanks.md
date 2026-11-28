@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T16:32:17.485Z
+date: 2026-11-28T16:33:59.286Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
@@ -59,7 +59,7 @@ It fights with a kryss or war fork and a shield, so it needs no Arms Lore, and w
 - Skills: Fencing, Anatomy, Parrying, Healing, Alchemy, Cooking, and Resisting Spells
 - Gear: kryss or war fork and shield, with plate
 - Defense: Fencing, shield blocks, Valor's toughness, and resisted spells
-- Healing: bonused potions, food, and bandages
+- Healing: bonused potions, food, bandages
 - Weakness: no Tactics, so it does about a third of the damage of other fighters and misses more often
 
 ## Paladin
