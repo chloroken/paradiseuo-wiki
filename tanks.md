@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T17:00:15.057Z
+date: 2026-11-28T17:01:07.667Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
@@ -13,8 +13,8 @@ Tanks are built to stand in front of a monster and outlast it. The Blacksmith, C
 
 | Class | Unique Qualities |
 |:-|:-:|
-| Blacksmith | Crushing blows, metal armor |
-| Carpenter | Flourish, wooden armor |
+| Blacksmith | Crushing blows, colored metal |
+| Carpenter | Flourish, wooden shield |
 | Juggernaut | Three self heals |
 | Paladin | Can buff and heal party |
 
