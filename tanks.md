@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T09:30:00.000Z
+date: 2026-11-28T09:19:02.123Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
@@ -46,20 +46,6 @@ Wood can't be forged from colored metal, so its shield never wards off spells, a
 - Healing: bandages and potions
 - Weakness: a wooden shield never wards off spells, and with no Anatomy its bandages can't cure poison
 
-## Paladin
-The Paladin is a holy knight: a mace-and-shield tank with just enough [Magery](/magery) to heal, cure, and bless itself. It weakens monsters' hits with a one-handed mace like the other tanks, and its `60` Anatomy lets its bandages cure poison. With only `40` Magery, it keeps most of Valor: three fifths of the accuracy and toughness a pure fighter gets, and some of the regeneration.
-
-It fights in metal, so it can wear colored metal plate and a colored metal shield for protection from spells. In a fight it alternates between its mace and its spellbook. Heal and Cure keep it going between bandages, and spells like Bless and [Protection](/protection) prepare it before a pull. It's the most self-sufficient tank, and its utility spells make it useful in a group.
-
-Its catch is timing. Casting a spell moves its mace and shield into the backpack, so every spell leaves it without its shield or Mace Fighting until it re-equips. Its low Magery limits it to the lower circles and weak damage spells. It also has less Dexterity, so its bandages are slower than a pure fighter's.
-
-- Stats: `100` Strength, `40` Dexterity, `85` Intelligence
-- Skills: Mace Fighting, Arms Lore, Healing, Parrying, Tactics, Resisting Spells, `40` Magery, and `60` Anatomy
-- Gear: one-handed mace, shield, and spellbook, with plate
-- Defense: Mace Fighting, shield blocks, most of Valor, colored metal, and resisted spells
-- Healing: bandages and spells
-- Weakness: casting moves its mace and shield to the backpack, so it must time its spells wisely
-
 ## Juggernaut
 The Juggernaut is the immovable object. It gives up [Tactics](/tactics), and with it most of its damage, to stack three separate layers of healing on top of a shield, Valor's toughness, and Valor's five-fold regeneration. It isn't trying to kill quickly, only to still be standing when everything else has fallen.
 
@@ -73,3 +59,17 @@ It fights with a kryss or war fork and a shield, so it needs no Arms Lore, and w
 - Defense: Fencing, shield blocks, Valor's toughness, and resisted spells
 - Healing: food for bursts, potions in between, bandages for steady healing, and Valor's regeneration
 - Weakness: no Tactics, so it does about a third of the damage of other fighters and misses more often
+
+## Paladin
+The Paladin is a holy knight: a mace-and-shield tank with just enough [Magery](/magery) to heal, cure, and bless itself. It weakens monsters' hits with a one-handed mace like the other tanks, and its `60` Anatomy lets its bandages cure poison. With only `40` Magery, it keeps most of Valor: three fifths of the accuracy and toughness a pure fighter gets, and some of the regeneration.
+
+It fights in metal, so it can wear colored metal plate and a colored metal shield for protection from spells. In a fight it alternates between its mace and its spellbook. Heal and Cure keep it going between bandages, and spells like Bless and [Protection](/protection) prepare it before a pull. It's the most self-sufficient tank, and its utility spells make it useful in a group.
+
+Its catch is timing. Casting a spell moves its mace and shield into the backpack, so every spell leaves it without its shield or Mace Fighting until it re-equips. Its low Magery limits it to the lower circles and weak damage spells. It also has less Dexterity, so its bandages are slower than a pure fighter's.
+
+- Stats: `100` Strength, `40` Dexterity, `85` Intelligence
+- Skills: Mace Fighting, Arms Lore, Healing, Parrying, Tactics, Resisting Spells, `40` Magery, and `60` Anatomy
+- Gear: one-handed mace, shield, and spellbook, with plate
+- Defense: Mace Fighting, shield blocks, most of Valor, colored metal, and resisted spells
+- Healing: bandages and spells
+- Weakness: casting moves its mace and shield to the backpack, so it must time its spells wisely
