@@ -2,7 +2,7 @@
 title: Crafters
 description: Classes that focus on gathering resources and producing goods
 published: true
-date: 2026-11-28T14:45:00.000Z
+date: 2026-11-28T15:05:57.165Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:06:51.891Z
@@ -43,3 +43,17 @@ It's a weak fighter, with no [Anatomy](/anatomy), no [Parrying](/parrying), and 
 - Defense: Swordsmanship with its axe or pickaxe
 - Healing: spells and food
 - Weakness: a weak fighter that can't hide from what it can't beat
+
+## Prospector
+The Prospector is a miner who fights back. [Mining](/mining) doubles the damage of the pickaxe at grandmaster, turning a gathering tool into a weapon that keeps up with any sword. It fights with the same pickaxe it digs with, so it can head into a dungeon, clear a path, and mine the ore at the end of it without changing gear.
+
+With a pickaxe in one hand and a shield in the other, it gets full Valor: accuracy, toughness, and regeneration. It's a sturdy, simple fighter that blocks, hits hard, and bandages itself, curing poison with its Anatomy. Mining also makes digging up [treasure](/treasure_map) easier, and its ore can go to a blacksmith for [colored metal](/armor#metal-types) armor.
+
+The pickaxe has no weapon effect, so the Prospector has no Crushing Blows, critical strikes, or other tricks. It's straightforward damage and nothing else, and like every fighter it travels on foot.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Mining, Swordsmanship, Tactics, Anatomy, Parrying, Healing, and Resisting Spells
+- Gear: pickaxe and shield, with plate
+- Defense: Swordsmanship, shield blocks, full Valor, and resisted spells
+- Healing: bandages
+- Weakness: the pickaxe has no weapon effect, so it has little utility
