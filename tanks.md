@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T09:19:02.123Z
+date: 2026-11-28T09:27:13.160Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
@@ -15,8 +15,8 @@ Tanks are built to stand in front of a monster and outlast it. The Blacksmith, C
 |:-|:-:|
 | Blacksmith | Saps a monster's vigor behind a metal shield, then splashes Crushing Blows around its target |
 | Carpenter | Blocks with the sturdiest shield, then flourishes a staff into every monster around it |
-| Paladin | Saps vigor with a mace while casting Heal and Cure and keeping most of Valor |
 | Juggernaut | Stacks food, potions, and bandages on top of Valor's toughness and regeneration |
+| Paladin | Saps vigor with a mace while casting Heal and Cure and keeping most of Valor |
 
 ## Blacksmith
 The Blacksmith is a self-made tank. It forges its own weapons, armor, and shields at the anvil, and [repairs](/blacksmithing#repairing) them between fights, so it never depends on anyone else for gear. Its whole kit is metal, and that matters: plate and shields forged from [colored metal](/armor#metal-types) ward off spell damage, up to a tenth of it for a full valorite set with a shield. No other tank holds up as well against casters, such as liches and the Lich King.
