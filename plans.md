@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-28T14:11:54.163Z
+date: 2026-11-28T15:55:18.335Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -49,6 +49,8 @@ These skills don't have an obvious way to add adventure potential:
 - Crafting overhaul & expansion, allow for solo economy with NPCs (npcs in towns sometimes offer jobs to crafters. weighted based on town, e.g., yew more likely to offer fletchers a job.), give guilds a purpose
 
 ## Projects
+- Sea market trade port
+- Magincia bazaar
 - Karma Town Trinkets to complete reputation rework
 - Give gems some type of meaningful purpose outside of economy, maybe as a secondary currency?
 - Fork TazUO and customize defaults for new players, strip egregious branding
