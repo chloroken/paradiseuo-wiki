@@ -2,7 +2,7 @@
 title: Crafters
 description: Classes that focus on gathering resources and producing goods
 published: true
-date: 2026-11-28T15:50:05.051Z
+date: 2026-11-28T16:34:53.410Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:06:51.891Z
@@ -27,7 +27,7 @@ It has no weapon skill and no defensive skills, so it avoids real fights. Its va
 - Skills: Alchemy, Blacksmithing, Carpentry, Inscription, Magery, Tailoring, and Tinkering
 - Gear: crafting tools and golems, with a robe
 - Defense: golems and spells
-- Healing: spells and stronger heal potions
+- Healing: bonused potions, spells
 - Weakness: no weapon skill and no defensive skills
 
 ## Forager
@@ -41,5 +41,5 @@ It's a weak fighter, with no [Anatomy](/anatomy), no [Parrying](/parrying), and 
 - Skills: Mining, Lumberjacking, Fishing, Swordsmanship, Tactics, Magery, and Cooking
 - Gear: axe or pickaxe, with leather
 - Defense: Swordsmanship with its axe or pickaxe
-- Healing: spells and food
+- Healing: spells, food, unbonused potions
 - Weakness: a weak fighter that can't hide from what it can't beat
