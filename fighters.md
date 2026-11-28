@@ -2,7 +2,7 @@
 title: Fighters
 description: Classes that do high damage in melee range
 published: true
-date: 2026-11-28T15:05:42.266Z
+date: 2026-11-28T15:07:09.588Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:02:11.564Z
@@ -31,6 +31,20 @@ It skips Parrying to fit both weapon skills, so it gets none of Valor's toughnes
 - Defense: its weapon skills, Valor's accuracy and regeneration, and resisted spells
 - Healing: bandages
 - Weakness: no Parrying, so it gets none of Valor's toughness
+
+## Prospector
+The Prospector is a miner who fights back. [Mining](/mining) doubles the damage of the pickaxe at grandmaster, turning a gathering tool into a weapon that keeps up with any sword. It fights with the same pickaxe it digs with, so it can head into a dungeon right after a mining session.
+
+With a pickaxe in one hand and a shield in the other, it gets full Valor: accuracy, toughness, and regeneration. It's a sturdy, simple fighter that blocks, hits hard, and bandages itself, curing poison with its Anatomy. Mining also makes digging up [treasure](/treasure_map) easier, and its ore can go to a blacksmith for [colored metal](/armor#metal-types) armor.
+
+The pickaxe has no weapon effect, so the Prospector has no Crushing Blows, critical strikes, or other tricks. It's straightforward damage and nothing else, and like every fighter it travels on foot.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Mining, Swordsmanship, Tactics, Anatomy, Parrying, Healing, and Resisting Spells
+- Gear: pickaxe and shield, with plate
+- Defense: Swordsmanship, shield blocks, full Valor, and resisted spells
+- Healing: bandages
+- Weakness: the pickaxe has no weapon effect, so it has little utility
 
 ## Warrior
 The Warrior is the most well-rounded fighter, and the easiest to play well. It has full Valor and needs no Arms Lore, because it uses weapons without weapon effects. A kryss or war fork with a shield are the strongest one-handed weapons that have no effect to pay for.
