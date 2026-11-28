@@ -2,7 +2,7 @@
 title: Archers
 description: Classes that do sustained damage from distance
 published: true
-date: 2026-11-28T14:45:00.000Z
+date: 2026-11-28T15:44:40.599Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:06.011Z
