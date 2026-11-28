@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-28T13:35:57.828Z
+date: 2026-11-28T13:37:30.179Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -38,9 +38,8 @@ These skills don't have an obvious way to add adventure potential:
 - Add pages with incoming links that are missing
 
 ## Guilds
-- Make a guild for more skills/skillgroups?
 - 50 skill requirement to get in + fee
-- Have incentives
+- Have incentives, like a quest system
 
 ## People
 - Fill world with trainers, like shepherds in farms
