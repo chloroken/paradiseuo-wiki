@@ -2,10 +2,10 @@
 title: Ambush
 description: Attacking from Hiding and Stealth for extra damage and accuracy
 published: true
-date: 2026-11-28T09:00:00.000Z
+date: 2026-11-28T15:38:23.992Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-26T18:40:29.000Z
+dateCreated: 2026-11-24T03:38:15.264Z
 ---
 
 # Ambush
@@ -42,8 +42,8 @@ Moving with Stealth before the attack makes the ambush stronger.
 
 Each use of Stealth allows `1` step for every `10` points of Stealth, so with `100` Stealth the 10th step uses the last one. One more step reveals the attacker, and the attack becomes an ordinary hit. An archer can fire from where they stand, but a melee attacker has to be next to the target by then, or use Stealth again before the steps run out. How far Stealth moves is covered under [moving quietly](/stealth#moving-quietly).
 
-## Daggers
-A dagger is the backstabber's weapon: weak in a long fight, but with the biggest ambush of all. With `100` Tactics, Strength, and Anatomy, a perfect ambush averages about:
+## Ambush Damage
+The heavy crossbow's high base damage makes its ambush the strongest of any weapon, but it takes Archery. The dagger is the clear melee choice: it gets a special bonus from stealthed steps, and a fencer can follow up with a kryss or war fork, which do more damage over time than bows. With `100` Tactics, Strength, and Anatomy, a perfect ambush averages about:
 
 | Weapon | Perfect Ambush Damage |
 |:-|:-:|
