@@ -2,7 +2,7 @@
 title: Weapons
 description: Every weapon type, its skill, its weapon effect, and magic weapons
 published: true
-date: 2026-11-28T08:30:00.000Z
+date: 2026-11-28T15:00:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:29:24.473Z
@@ -23,10 +23,10 @@ Each type of weapon is trained with its own skill, and most types have a [weapon
 | Krysses | Fencing | Kryss | Poison | |
 | Spears (1H) | Fencing | War fork | Poison | |
 | Spears (2H) | Fencing | Pitchfork, short spear, spear | [Paralyzing Blow](/weapon_effects#paralyzing-blow), poison | |
-| Maces (1H) | [Mace Fighting](/mace_fighting) | Club, hammer pick, mace, maul, war mace | [Sapping vigor](/weapon_effects#sapping-vigor) | |
-| Maces (2H) | Mace Fighting | War axe, war hammer | [Crushing Blow](/weapon_effects#crushing-blow) | [Blacksmithing](/blacksmithing) |
+| Maces (1H) | [Mace Fighting](/mace_fighting) | Club, hammer pick, mace, maul, war mace | [Sapping vigor](/weapon_effects#sapping-vigor) | [Blacksmithing](/blacksmithing),<br>[Carpentry](/carpentry) for the club |
+| Maces (2H) | Mace Fighting | War axe, war hammer | [Crushing Blow](/weapon_effects#crushing-blow) | Blacksmithing |
 | Shepherd's Crook | Mace Fighting | Shepherd's crook | [Shillelagh](/weapon_effects#shillelagh) | [Herding](/herding) |
-| Staves | Mace Fighting | Black staff, gnarled staff, quarter staff | Crushing Blow | [Carpentry](/carpentry) |
+| Staves | Mace Fighting | Black staff, gnarled staff, quarter staff | Crushing Blow | Carpentry |
 | Bows | [Archery](/archery) | Bow, crossbow, heavy crossbow | [Volley](/archery#crossbow-volley) (crossbow),<br>poisoned ammunition | |
 | Fists | [Wrestling](/wrestling) | Bare hands | [Stun](/weapon_effects#stun) | |
 
@@ -36,7 +36,8 @@ Some gathering and crafting skills make their own weapons hit harder, for player
 | Scaling Skill | Weapons | Bonus at 50 (%) | Bonus at 100 (%) |
 |:-|:-:|:-:|:-:|
 | Lumberjacking | Axes, except the pickaxe | 10 | 30 |
-| Carpentry | Black, gnarled, and quarter staves | 5 | 15 |
+| Carpentry | Clubs and black, gnarled, and quarter staves | 5 | 15 |
+| Blacksmithing | Hammer picks, maces, mauls, and war maces | 5 | 15 |
 | Mining | Pickaxe | 33.3 | 100 |
 
-Hits with axes, except the pickaxe, can train Lumberjacking, but hits never train Carpentry or Mining. Two more skills scale weapons in other ways: Herding powers the shepherd's crook's [shillelagh](/weapon_effects#shillelagh), Blacksmithing lets a two-handed mace's [Crushing Blow](/weapon_effects#crushing-blow) splash onto every monster around the target, and Carpentry lets a stave's Crushing Blow flourish onto every monster around the wielder. Carpentry also makes the wooden shield the sturdiest [shield](/parrying#shields) against weapons.
+Hits with axes, except the pickaxe, can train Lumberjacking, but hits never train Carpentry, Blacksmithing, or Mining. Herding scales the shepherd's crook in its own way, through the [shillelagh](/weapon_effects#shillelagh). Blacksmithing also lets a two-handed mace's [Crushing Blow](/weapon_effects#crushing-blow) splash onto every monster around the target, and Carpentry lets a stave's Crushing Blow flourish onto every monster around the wielder. Carpentry also makes the wooden shield the sturdiest [shield](/parrying#shields) against weapons.

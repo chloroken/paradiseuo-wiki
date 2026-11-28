@@ -2,7 +2,7 @@
 title: Skills
 description: Every enabled and disabled skill, and the most popular ones
 published: true
-date: 2026-11-28T13:30:00.000Z
+date: 2026-11-28T15:00:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -30,9 +30,9 @@ These skills define an archetype, and most characters take at least one.
 | [Archery](/archery) | | Hits and defends with bows and crossbows |
 | [Arms Lore](/arms_lore) | Judges a weapon's or armor's condition, damage or protection, and poison | Powers critical strikes, sapping vigor, Crushing Blow, and Paralyzing Blow |
 | [Begging](/begging) | Pacifies a monster fighting the beggar, or begs townsfolk for gold | |
-| [Blacksmithing](/blacksmithing) | Crafts metal weapons, armor, and shields, and repairs and smelts them | Two-handed mace Crushing Blows splash onto nearby monsters |
+| [Blacksmithing](/blacksmithing) | Crafts metal weapons, armor, and shields, and repairs and smelts them | More damage with one-handed maces, except the club, and two-handed mace Crushing Blows splash onto nearby monsters |
 | [Camping](/camping) | | |
-| [Carpentry](/carpentry) | Crafts furniture, containers, staves, wooden shields, instruments, and add-ons | More damage with staves, flourishing Crushing Blows, and more armor on a wooden shield |
+| [Carpentry](/carpentry) | Crafts furniture, containers, staves, wooden shields, instruments, and add-ons | More damage with clubs and staves, flourishing Crushing Blows, and more armor on a wooden shield |
 | [Cartography](/cartography) | Crafts maps and sea charts, and decodes treasure maps | |
 | [Cooking](/cooking) | Cooks food | Eating restores hit points with savory food and mana with sweets, up to 10 per point of hunger filled |
 | [Detecting Hidden](/detecting_hidden) | Reveals hidden characters nearby | |

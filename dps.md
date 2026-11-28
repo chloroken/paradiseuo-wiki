@@ -2,7 +2,7 @@
 title: Damage Per Second
 description: Every weapon's damage, speed, and damage per second
 published: true
-date: 2026-11-27T15:54:43.000Z
+date: 2026-11-28T15:00:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T18:40:29.000Z
@@ -11,7 +11,7 @@ dateCreated: 2026-11-26T18:40:29.000Z
 # Damage Per Second
 Every weapon's base damage, speed, and damage per second (DPS) for a fighter with `100` Tactics, Strength, Anatomy, and Stamina, using a regular-quality, non-magic weapon. DPS assumes every swing hits and ignores armor.
 
-Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for swords at `100` [Arms Lore](/arms_lore), a [shillelagh](/weapon_effects#shillelagh) bonk every third swing with `100` [Herding](/herding), `100` [Magery](/magery), and full mana for the shepherd's crook, and all `3` bolts of a crossbow volley landing. For axes, the black, gnarled, and quarter staves, and the pickaxe, it adds `100` in their [scaling skill](/weapons#scaling-skills): [Lumberjacking](/lumberjacking), [Carpentry](/carpentry), and [Mining](/mining) respectively. A sword wielder without Arms Lore lands no critical strikes, so their damage is the DPS column, not EDPS.
+Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for swords at `100` [Arms Lore](/arms_lore), a [shillelagh](/weapon_effects#shillelagh) bonk every third swing with `100` [Herding](/herding), `100` [Magery](/magery), and full mana for the shepherd's crook, and all `3` bolts of a crossbow volley landing. For weapons with a [scaling skill](/weapons#scaling-skills), such as [Lumberjacking](/lumberjacking) for axes, it adds `100` in that skill. A sword wielder without Arms Lore lands no critical strikes, so their damage is the DPS column, not EDPS.
 
 ## Swords
 | Weapon | Damage | Speed | Critical Strike<br>Chance (%) | Swing Delay (s) | DPS | EDPS |
@@ -54,13 +54,13 @@ Effective DPS (EDPS) adds the weapon's damage effect: critical strikes for sword
 ## Maces
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
 |:-|:-:|:-:|:-:|:-:|:-:|
-| Club | 8 – 24 | 40 | 1.88 | 19.2 |  |
-| Hammer pick | 6 – 33 | 30 | 2.5 | 17.6 |  |
-| Mace | 8 – 32 | 30 | 2.5 | 18.0 |  |
-| Maul | 11 – 33 | 27 | 2.78 | 17.8 |  |
+| Club | 8 – 24 | 40 | 1.88 | 19.2 | 21.1 |
+| Hammer pick | 6 – 33 | 30 | 2.5 | 17.6 | 19.4 |
+| Mace | 8 – 32 | 30 | 2.5 | 18.0 | 19.8 |
+| Maul | 11 – 33 | 27 | 2.78 | 17.8 | 19.6 |
 | War axe | 9 – 27 | 40 | 1.88 | 21.6 |  |
 | War hammer | 8 – 36 | 31 | 2.42 | 20.5 |  |
-| War mace | 10 – 30 | 32 | 2.34 | 19.2 |  |
+| War mace | 10 – 30 | 32 | 2.34 | 19.2 | 21.1 |
 
 ## Staves
 | Weapon | Damage | Speed | Swing Delay (s) | DPS | EDPS |
