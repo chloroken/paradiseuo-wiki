@@ -2,7 +2,7 @@
 title: Stalkers
 description: Classes that specialize in infiltration, assassination, and escape
 published: true
-date: 2026-11-28T09:30:00.000Z
+date: 2026-11-28T09:20:04.417Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:55.348Z
@@ -31,20 +31,6 @@ A monster stays alert for a minute after an ambush, so the Hunter gets one big o
 - Healing: potions
 - Weakness: stealth limits it to light armor, and it heals with potions only
 
-## Rogue
-The Rogue is a backstabber and a thief. It creeps up behind its target and opens with a poisoned dagger, where ten stealthed steps make the ambush do five times damage and never miss. Then it finishes the fight quickly with a kryss or war fork and picks the [dungeon chests](/lockpicking#dungeon-chests) its victims were guarding.
-
-A Rogue's fights are short by design. The backstab does most of the work, poison keeps chipping away, and its Anatomy gives it [Valor](/valor)'s regeneration between fights. Lockpicking turns every cleared room into loot, since dungeon chests hold gold, gems, magic items, and [wands](/magic_items#wands), and get richer the deeper they're found.
-
-It's fragile once it has to stand and fight. Leather, no shield, no Parrying, and healing that comes only from potions mean a Rogue that loses the element of surprise should leave, which is what vanishing is for. Dungeon chests are also trapped, and without [Remove Trap](/remove_trap) it has to take the hit or bring magic to disarm them.
-
-- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
-- Skills: Fencing, Tactics, Anatomy, Hiding, Stealth, Poisoning, and Lockpicking
-- Gear: daggers, krysses, and war forks, with leather
-- Defense: stealth, vanishing, Valor's accuracy and regeneration, and Fencing
-- Healing: potions
-- Weakness: fragile once it has to stand and fight, with no shield and potions only, so it leans on vanishing to escape
-
 ## Puppetmaster
 The Puppetmaster is a dungeon lockpicker that never lifts a weapon. It builds [golems](/golem) with [Tinkering](/tinkering) and brings them to life with [Inscription](/inscription), sneaks up to a chest's guards, and lets its machines do the fighting. Once the room is clear, it disarms the chest's trap with Remove Trap, picks the lock, and takes the loot.
 
@@ -58,3 +44,17 @@ Golems are weak next to a real fighter, and the Puppetmaster can't fight on its 
 - Defense: stealth, vanishing, and golems that do the fighting
 - Healing: bandages
 - Weakness: golems are weak and only last `30` seconds, and it can't fight on its own
+
+## Rogue
+The Rogue is a backstabber and a thief. It creeps up behind its target and opens with a poisoned dagger, where ten stealthed steps make the ambush do five times damage and never miss. Then it finishes the fight quickly with a kryss or war fork and picks the [dungeon chests](/lockpicking#dungeon-chests) its victims were guarding.
+
+A Rogue's fights are short by design. The backstab does most of the work, poison keeps chipping away, and its Anatomy gives it [Valor](/valor)'s regeneration between fights. Lockpicking turns every cleared room into loot, since dungeon chests hold gold, gems, magic items, and [wands](/magic_items#wands), and get richer the deeper they're found.
+
+It's fragile once it has to stand and fight. Leather, no shield, no Parrying, and healing that comes only from potions mean a Rogue that loses the element of surprise should leave, which is what vanishing is for. Dungeon chests are also trapped, and without [Remove Trap](/remove_trap) it has to take the hit or bring magic to disarm them.
+
+- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
+- Skills: Fencing, Tactics, Anatomy, Hiding, Stealth, Poisoning, and Lockpicking
+- Gear: daggers, krysses, and war forks, with leather
+- Defense: stealth, vanishing, Valor's accuracy and regeneration, and Fencing
+- Healing: potions
+- Weakness: fragile once it has to stand and fight, with no shield and potions only, so it leans on vanishing to escape
