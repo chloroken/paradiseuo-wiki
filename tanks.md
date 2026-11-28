@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T16:53:07.694Z
+date: 2026-11-28T16:54:24.188Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
@@ -63,7 +63,7 @@ It fights with a kryss or war fork and a shield, so it needs no Arms Lore, and w
 - Weakness: no Tactics, so it does about a third of the damage of other fighters and misses more often
 
 ## Paladin
-The Paladin is a holy knight: a mace-and-shield tank with just enough [Magery](/magery) to heal and cure the whole group. It weakens monsters' hits with a one-handed mace like the other tanks, and its `60` Anatomy lets its [bandages](/healing) cure poison. With only `40` Magery, it keeps most of Valor: three fifths of the accuracy and toughness a pure fighter gets, and some of the regeneration.
+The Paladin is a holy knight: a mitigation tank with just enough [Magery](/magery) to buff and heal the group. It weakens monsters' hits with a one-handed mace like the other tanks, and its `60` Anatomy lets its [bandages](/healing) cure poison. With only `40` Magery, it keeps most of Valor: three fifths of the accuracy and toughness a pure fighter gets, and some of the regeneration.
 
 Its shield stays on while it casts, so it can hold the front and still look after everyone behind it. Buffing, healing, and curing magic reach allies at range, and its bandages heal and cure anyone beside it. It fights in metal, so it can wear colored metal plate and a colored metal shield for protection from spells. It's the tank a group wants when the damage is spread around.
 
