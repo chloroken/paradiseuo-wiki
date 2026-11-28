@@ -2,14 +2,14 @@
 title: Stealth
 description: Moving while hidden, its requirements, and its role in an ambush
 published: true
-date: 2026-11-28T09:00:00.000Z
+date: 2026-11-28T09:42:02.352Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T07:34:20.704Z
 ---
 
 # Stealth
-Stealth is the skill of moving while hidden. A character usually has to be hidden with [Hiding](/hiding) first, but a grandmaster at Hiding can use Stealth to [vanish](#vanish) in the middle of a fight.
+Stealth is the skill of moving while hidden. A character usually has to be hidden with [Hiding](/hiding) first, but a grandmaster at both Hiding and Stealth can use Stealth to vanish in the middle of a fight.
 
 ## Requirements
 - At least `80` Hiding, or the attempt fails with *You are not hidden well enough*.
@@ -26,13 +26,13 @@ The chance to succeed is `(Stealth + 20 - 2 * Armor Rating)%`. Without armor, it
 
 ## Vanish
 Using Stealth while visible vanishes the character: they hide at once and can start walking, even with monsters fighting them right next to them. Monsters lose sight of the character, who can simply walk away. It needs:
-- `100` Hiding and any Stealth. Without `100` Hiding, the attempt fails with *You must hide first*.
+- `100` Hiding and `100` Stealth. Vanishing is a capstone of both skills, and without both at grandmaster, the attempt fails with *You must hide first*.
 - Armor totaling less than `26` armor rating, the same as for Stealth.
 - No mount: *You can't vanish while mounted.*
 
-A vanish always succeeds, with a puff of smoke and *You vanish!* It turns off war mode and gives the usual `1` step for every `10` points of Stealth, and those steps build an ambush like steps after Hiding. Monsters that use Detecting Hidden or cast Reveal can still find a vanished character.
+A vanish always succeeds, with a puff of smoke and *You vanish!* It turns off war mode and gives the usual `10` steps, and those steps build an ambush like steps after Hiding. Monsters that use Detecting Hidden or cast Reveal can still find a vanished character.
 
-Afterward, the character can't vanish again for `2 + 3 * (1 - Stealth / 100)` minutes. Trying too soon shows how long is left, such as *You can vanish again in 1:45.* A failed attempt doesn't start the cooldown.
+Afterward, the character can't vanish again for `2` minutes. Trying too soon shows how long is left, such as *You can vanish again in 1:45.*, and *You feel capable of vanishing again.* appears when it's ready. A failed attempt doesn't start the cooldown.
 
 | Stealth | Cooldown (minutes) |
 |:-|:-:|
