@@ -2,7 +2,7 @@
 title: Stalkers
 description: Classes that specialize in infiltration, assassination, and escape
 published: true
-date: 2026-11-28T09:44:01.964Z
+date: 2026-11-28T10:10:23.374Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:55.348Z
@@ -48,12 +48,12 @@ Golems are weak next to a real fighter, and the Puppetmaster can't fight on its 
 ## Rogue
 The Rogue is a backstabber and a thief. It creeps up behind its target and opens with a poisoned dagger, where ten stealthed steps make the ambush do five times damage and never miss. Then it finishes the fight quickly with a kryss or war fork and picks the [dungeon chests](/lockpicking#dungeon-chests) its victims were guarding.
 
-A Rogue's fights are short by design. The backstab does most of the work, poison keeps chipping away, and its Anatomy gives it Valor's regeneration between fights. Lockpicking turns every cleared room into loot, since dungeon chests hold gold, gems, magic items, and [wands](/magic_items#wands), and get richer the deeper they're found.
+A Rogue's fights are short by design. The backstab does most of the work and poison keeps chipping away even when the Rogue runs off. Lockpicking and Remove Trap turns every cleared room into loot, since dungeon chests hold gold, gems, magic items, and [wands](/magic_items#wands), and get richer the deeper they're found.
 
 It's fragile once it has to stand and fight. Leather, no shield, no Parrying, and healing that comes only from potions mean a Rogue that loses the element of surprise should leave, which is what vanishing is for. Dungeon chests are also trapped, and without Remove Trap it has to take the hit or bring magic to disarm them.
 
 - Stats: `100` Strength, `100` Dexterity, `25` Intelligence
-- Skills: Fencing, Tactics, Anatomy, Hiding, Stealth, Poisoning, and Lockpicking
+- Skills: Fencing, Tactics, Hiding, Stealth, Poisoning, Remove Trap and Lockpicking 
 - Gear: daggers, krysses, and war forks, with leather
 - Defense: stealth, vanishing, Valor's accuracy and regeneration, and Fencing
 - Healing: potions
