@@ -2,7 +2,7 @@
 title: Mages
 description: Classes that leverage magic spells to gain advantage
 published: true
-date: 2026-11-28T09:20:36.582Z
+date: 2026-11-28T09:27:45.338Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:04:49.054Z
@@ -14,12 +14,12 @@ Mages always take [Magery](/magery) and Meditation. Mages who expect to be caugh
 | Class | Unique Qualities |
 |:-|:-:|
 | Battlemage | Combines polearm hits and spells, and halves a caster's Intelligence |
+| Golemancer | Builds its own golems and keeps one fighting almost nonstop |
 | Monk | Stuns casters out of their spells with its fists |
+| Priest | Heals a whole group with spells and bandages, and resurrects with bandages |
 | Shepherd | Bonks for up to ten times damage, then follows up with a spell |
 | Summoner | Fields all four elementals at once |
 | Wizard | Casts from a robe, fires wands between spells, and refills its mana with sweets |
-| Golemancer | Builds its own golems and keeps one fighting almost nonstop |
-| Priest | Heals a whole group with spells and bandages, and resurrects with bandages |
 
 ## Battlemage
 The Battlemage is a classic T2A halberd mage. It combines the full spellbook with the slow, crushing hits of a polearm, landing a big swing and following it with a damage spell for burst damage few others can match. Its polearm's [Concussion Blows](/weapon_effects#concussion-blow), powered by [Anatomy](/anatomy), halve a target's Intelligence, which devastates other casters.
