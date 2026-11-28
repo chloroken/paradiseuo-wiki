@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-28T11:41:24.581Z
+date: 2026-11-28T11:41:32.789Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -56,6 +56,7 @@ These skills don't have an obvious way to add adventure potential:
 
 ## Guilds
 - Make a guild for more skills/skillgroups
+- 50 skill requirement to get in + fee
 - One guild at a time per character
 - Have incentives and some systems in place
 
