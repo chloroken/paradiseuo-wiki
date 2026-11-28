@@ -2,7 +2,7 @@
 title: Stalkers
 description: Classes that specialize in infiltration, assassination, and escape
 published: true
-date: 2026-11-28T09:27:36.494Z
+date: 2026-11-28T09:40:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:55.348Z
@@ -27,12 +27,12 @@ A monster stays alert for a minute after an ambush, so the Hunter gets one big o
 - Stats: `100` Strength, `100` Dexterity, `25` Intelligence
 - Skills: Fencing, Archery, Tactics, Arms Lore, Poisoning, Hiding, and Stealth
 - Gear: heavy crossbow and two-handed spear, with leather
-- Defense: stealth, vanishing, Valor's accuracy, and its weapon skills
+- Defense: stealth, vanishing, [Valor](/valor)'s accuracy, and its weapon skills
 - Healing: potions
 - Weakness: stealth limits it to light armor, and it heals with potions only
 
 ## Puppetmaster
-The Puppetmaster is a dungeon lockpicker that never lifts a weapon. It builds [golems](/golem) with [Tinkering](/tinkering) and brings them to life with [Inscription](/inscription), sneaks up to a chest's guards, and lets its machines do the fighting. Once the room is clear, it disarms the chest's trap with Remove Trap, picks the lock, and takes the loot.
+The Puppetmaster is a dungeon lockpicker that never lifts a weapon. It builds [golems](/golem) with [Tinkering](/tinkering) and brings them to life with [Inscription](/inscription), sneaks up to a chest's guards, and lets its machines do the fighting. Once the room is clear, it disarms the chest's trap with [Remove Trap](/remove_trap), picks the lock, and takes the loot.
 
 Its golems are invulnerable, attack the nearest monster on their own, and are ignored by monsters, so a hidden Puppetmaster is never in danger while they work. A terror golem lasts `30` seconds and can be unleashed again `30` seconds later, and it usually drops back to the ground to be picked up again. Its Healing patches up any mistakes, and it vanishes if something does spot it. That makes it a relaxed, low-stress way to delve dungeons, well suited to casual players.
 
@@ -48,9 +48,9 @@ Golems are weak next to a real fighter, and the Puppetmaster can't fight on its 
 ## Rogue
 The Rogue is a backstabber and a thief. It creeps up behind its target and opens with a poisoned dagger, where ten stealthed steps make the ambush do five times damage and never miss. Then it finishes the fight quickly with a kryss or war fork and picks the [dungeon chests](/lockpicking#dungeon-chests) its victims were guarding.
 
-A Rogue's fights are short by design. The backstab does most of the work, poison keeps chipping away, and its Anatomy gives it [Valor](/valor)'s regeneration between fights. Lockpicking turns every cleared room into loot, since dungeon chests hold gold, gems, magic items, and [wands](/magic_items#wands), and get richer the deeper they're found.
+A Rogue's fights are short by design. The backstab does most of the work, poison keeps chipping away, and its Anatomy gives it Valor's regeneration between fights. Lockpicking turns every cleared room into loot, since dungeon chests hold gold, gems, magic items, and [wands](/magic_items#wands), and get richer the deeper they're found.
 
-It's fragile once it has to stand and fight. Leather, no shield, no Parrying, and healing that comes only from potions mean a Rogue that loses the element of surprise should leave, which is what vanishing is for. Dungeon chests are also trapped, and without [Remove Trap](/remove_trap) it has to take the hit or bring magic to disarm them.
+It's fragile once it has to stand and fight. Leather, no shield, no Parrying, and healing that comes only from potions mean a Rogue that loses the element of surprise should leave, which is what vanishing is for. Dungeon chests are also trapped, and without Remove Trap it has to take the hit or bring magic to disarm them.
 
 - Stats: `100` Strength, `100` Dexterity, `25` Intelligence
 - Skills: Fencing, Tactics, Anatomy, Hiding, Stealth, Poisoning, and Lockpicking

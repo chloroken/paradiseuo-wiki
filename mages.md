@@ -2,7 +2,7 @@
 title: Mages
 description: Classes that leverage magic spells to gain advantage
 published: true
-date: 2026-11-28T09:27:45.338Z
+date: 2026-11-28T09:40:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:04:49.054Z
@@ -36,9 +36,9 @@ With `100` Magery, it gets none of [Valor](/valor)'s bonuses. It defends with [S
 - Weakness: no defense while casting with its polearm put away
 
 ## Golemancer
-The Golemancer is a full mage who builds its own fighting machines. [Tinkering](/tinkering) builds its [golems](/golem), and Inscription brings them to life, so it can make and use the strongest terror golems. Its Magery lets it scribe its own Blade Spirits scrolls for them, so it needs only gems to keep building.
+The Golemancer is a full mage who builds its own fighting machines. [Tinkering](/tinkering) builds its [golems](/golem), and [Inscription](/inscription) brings them to life, so it can make and use the strongest terror golems. Its Magery lets it scribe its own Blade Spirits scrolls for them, so it needs only gems to keep building.
 
-It keeps a golem fighting almost nonstop, unleashing a new one as soon as the last winds down, and adds damage spells powered by Evaluating Intelligence on top. Monsters ignore golems, so they come for the Golemancer instead, and it has to hold them off itself. Inscription and Meditation make its Reactive Armor and Protection unusually strong for exactly that, and its robe keeps its mana flowing.
+It keeps a golem fighting almost nonstop, unleashing a new one as soon as the last winds down, and adds damage spells powered by Evaluating Intelligence on top. Monsters ignore golems, so they come for the Golemancer instead, and it has to hold them off itself. Inscription and Meditation make its [Reactive Armor](/reactive_armor) and [Protection](/protection) unusually strong for exactly that, and its robe keeps its mana flowing.
 
 Every golem costs gems, and now and then one breaks down for good. With no Wrestling or weapon skill, it has no real melee defense beyond its spells, so it survives by keeping its protections up rather than by avoiding hits.
 
@@ -94,7 +94,7 @@ It defends with [Mace Fighting](/mace_fighting) only while holding the crook, so
 ## Summoner
 The Summoner is a conjurer whose [summons](/summon) do the fighting. [Spirit Speak](/spirit_speak) makes its summons last up to twice as long, resist being dispelled, and take fewer follower slots, and it makes its elementals hit harder and its summon spells never fail at grandmaster. With enough Spirit Speak, it can field all four elementals at once.
 
-It stays back while its summons hold the line. [Inscription](/inscription) and Meditation make its [Reactive Armor](/reactive_armor) and [Protection](/protection) unusually strong, so whatever reaches it has a hard time hurting it or interrupting its spells. It wears a robe, which regenerates mana fastest when its mana is low, and eats sweets to refill mana after a round of summoning.
+It stays back while its summons hold the line. Inscription and Meditation make its Reactive Armor and Protection unusually strong, so whatever reaches it has a hard time hurting it or interrupting its spells. It wears a robe, which regenerates mana fastest when its mana is low, and eats sweets to refill mana after a round of summoning.
 
 Its own damage spells are weak without Evaluating Intelligence, so it depends on its summons for damage. It has no melee defense of its own, and enemies that dispel its summons, or [demibosses](/demibosses) that do double damage to them, take away most of its strength.
 

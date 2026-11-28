@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T09:27:13.160Z
+date: 2026-11-28T09:40:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
@@ -26,7 +26,7 @@ In a fight, it holds the front with a one-handed mace and a metal shield. Every 
 Its limits come from what it leaves out. Without [Anatomy](/anatomy), it gets no Valor regeneration, and its [bandages](/healing) heal less and can't cure poison, so it carries cure potions. It has no ranged attack and no magic, so it walks everywhere and has to close the distance to anything it fights.
 
 - Stats: `100` Strength, `100` Dexterity, `25` Intelligence
-- Skills: Blacksmithing, Mace Fighting, Tactics, Arms Lore, Parrying, Healing, and Resisting Spells
+- Skills: Blacksmithing, Mace Fighting, [Tactics](/tactics), Arms Lore, Parrying, Healing, and Resisting Spells
 - Gear: one-handed mace, metal shield, and a war hammer or war axe, with colored metal plate
 - Defense: Mace Fighting, shield blocks, Valor's accuracy and toughness, colored metal, and resisted spells
 - Healing: bandages and potions
@@ -47,9 +47,9 @@ Wood can't be forged from colored metal, so its shield never wards off spells, a
 - Weakness: a wooden shield never wards off spells, and with no Anatomy its bandages can't cure poison
 
 ## Juggernaut
-The Juggernaut is the immovable object. It gives up [Tactics](/tactics), and with it most of its damage, to stack three separate layers of healing on top of a shield, Valor's toughness, and Valor's five-fold regeneration. It isn't trying to kill quickly, only to still be standing when everything else has fallen.
+The Juggernaut is the immovable object. It gives up Tactics, and with it most of its damage, to stack three separate layers of healing on top of a shield, Valor's toughness, and Valor's five-fold regeneration. It isn't trying to kill quickly, only to still be standing when everything else has fallen.
 
-Its healing layers each work on their own timer. Bandages heal steadily, and Anatomy lets them cure poison. Alchemy roughly doubles what a heal potion does for it, so a [potion](/alchemy#healing) gives a large, reliable heal every `10` seconds. Cooking turns [food](/cooking#eating-as-a-cook) into an emergency button: a few bites of savory food can restore its whole health bar in seconds. The price is hunger. Once its stomach is full, it has to wait for hunger to drop, or drink [alcohol](/cooking#alcohol) between fights, before it can eat for healing again.
+Its healing layers each work on their own timer. Bandages heal steadily, and Anatomy lets them cure poison. Alchemy roughly doubles what a heal [potion](/alchemy#healing) does for it, so a potion gives a large, reliable heal every `10` seconds. Cooking turns [food](/cooking#eating-as-a-cook) into an emergency button: a few bites of savory food can restore its whole health bar in seconds. The price is hunger. Once its stomach is full, it has to wait for hunger to drop, or drink [alcohol](/cooking#alcohol) between fights, before it can eat for healing again.
 
 It fights with a kryss or war fork and a shield, so it needs no Arms Lore, and wears plate, ideally colored metal. Without Tactics, it does about a third of the damage of other fighters and misses more often, so solo fights take a long time. It shines in groups, holding a demiboss while others do the damage.
 
