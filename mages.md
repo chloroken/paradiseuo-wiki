@@ -2,7 +2,7 @@
 title: Mages
 description: Classes that leverage magic spells to gain advantage
 published: true
-date: 2026-11-28T14:45:00.000Z
+date: 2026-11-28T15:28:06.314Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:04:49.054Z
@@ -66,7 +66,7 @@ Fists do little damage, especially without Tactics, so the Monk does most of its
 ## Priest
 The Priest is a group healer. It mends allies with Magery and bandages at the same time, cures poison with both, and brings fallen allies back with [bandage resurrection](/healing#resurrection), which its Healing and Anatomy make possible. A group with a Priest can push much deeper than one without.
 
-It stays close to the group, healing whoever is hurt. Its robe regenerates mana fastest when it's low, which suits a healer that spends mana in bursts. Its Wrestling lets it hold off anything that reaches it while it keeps casting, and with its Anatomy, its punches can stun like a Monk's.
+It stays close to the group, healing whoever is hurt. Its robe regenerates mana fastest when it's low, which suits a healer that spends mana in bursts. Its Wrestling lets it hold off anything that reaches it while it keeps casting, and with its Anatomy, its punches can also stun.
 
 Without Evaluating Intelligence, its damage spells are weak, so it does little damage on its own and is slow to solo. It's built to keep others alive, not to kill.
 
