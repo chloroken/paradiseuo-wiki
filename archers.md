@@ -2,7 +2,7 @@
 title: Archers
 description: Classes that do sustained damage from distance
 published: true
-date: 2026-11-28T15:44:47.188Z
+date: 2026-11-28T16:33:00.448Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:06.011Z
@@ -27,7 +27,7 @@ Its power costs reagents, and a lot of them: every bomb, poison, and potion has 
 - Skills: Alchemy, Archery, [Tactics](/tactics), [Anatomy](/anatomy), Poisoning, Healing, and Resisting Spells
 - Gear: crossbow and explosion potions, with studded leather
 - Defense: range, [Valor](/valor)'s accuracy and regeneration, and resisted spells
-- Healing: bandages and stronger heal potions
+- Healing: bonused potions, bandages
 - Weakness: goes through reagents fast, and its explosions hit allies too
 
 ## Ranger
@@ -41,5 +41,5 @@ Once something reaches it, the Ranger is in trouble. It has no shield, no [Parry
 - Skills: Archery, Tactics, Anatomy, Tracking, Fletching, Healing, and Resisting Spells
 - Gear: bows and crossbows, with studded leather
 - Defense: range, Valor's accuracy and regeneration, and resisted spells
-- Healing: bandages
+- Healing: bandages, unbonused potions
 - Weakness: weak once something reaches it
