@@ -2,14 +2,14 @@
 title: Stalkers
 description: Classes that specialize in infiltration, assassination, and escape
 published: true
-date: 2026-11-28T09:40:00.000Z
+date: 2026-11-28T09:44:01.964Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:55.348Z
 ---
 
 # Stalkers
-Stalkers use [Hiding](/hiding) and [Stealth](/stealth) to get into position, then strike before the enemy can answer. With `100` Hiding, all three can [vanish](/stealth#vanish) when a fight turns against them and walk away.
+Stalkers use [Hiding](/hiding) and [Stealth](/stealth) to get into position, then strike before the enemy can answer. With `100` Hiding and `100` Stealth, all three can [vanish](/stealth#vanish) when a fight turns against them and walk away.
 
 | Class | Unique Qualities |
 |:-|:-:|
