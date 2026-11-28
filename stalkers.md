@@ -2,7 +2,7 @@
 title: Stalkers
 description: Classes that specialize in infiltration, assassination, and escape
 published: true
-date: 2026-11-28T16:25:45.459Z
+date: 2026-11-28T16:26:12.707Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:55.348Z
@@ -57,7 +57,7 @@ It's fragile once it has to stand and fight. Leather, no shield, no Parrying, an
 - Skills: Fencing, Tactics, Hiding, Stealth, Poisoning, Lockpicking, and Remove Trap
 - Gear: daggers, krysses, and war forks, with leather
 - Defense: stealth, vanishing, Valor's accuracy, and Fencing
-- Healing: potions only
+- Healing: unbonused potions
 - Weakness: fragile once it has to stand and fight, with no shield and potions only, so it leans on vanishing to escape
 
 ## Thief
