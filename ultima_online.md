@@ -2,17 +2,17 @@
 title: Ultima Online
 description: An introduction to Ultima Online for new players
 published: true
-date: 2026-11-27T15:54:43.000Z
+date: 2026-11-28T09:24:22.177Z
 tags: 
 editor: markdown
-dateCreated: 2026-11-26T18:40:29.000Z
+dateCreated: 2026-11-24T04:10:50.129Z
 ---
 
 # Ultima Online
 Ultima Online is a sandbox: there are no levels, no set path, and no wrong way to play within the shard's rules. Players go on adventures, hoard treasure, and construct their own houses.
 
 ## Choosing Skills
-A character may have up to `700` skill points spread across its skills. Skills work best in combinations that support each other, and a character who spreads too thin ends up good at nothing. A mage wants Evaluating Intelligence for spell damage and Meditation for mana, a tamer wants Animal Lore to control pets and Veterinary to heal them, and a blacksmith needs a way to get ore, usually Mining. The [class](/character#classes) ideas are starting points, and [Skills](/skills) lists every skill.
+A character may have up to `700` skill points spread across its skills. Skills work best in combinations that support each other, and a character who spreads too thin ends up good at nothing. A mage wants Evaluating Intelligence for spell damage and Meditation for mana, a tamer wants Animal Lore to control pets and Veterinary to heal them, and a blacksmith needs a way to get ore, usually Mining. The [class](/classes) ideas are starting points, and [Skills](/skills) lists every skill.
 
 ## Training Skills
 Many townspeople teach the basics of their trade for a fee. Saying `<name> train` near one lists the skills they teach, and dropping the gold they ask for on them pays for a lesson. Gold in the bank is taken out by saying `withdraw <amount>` near a banker, one of many speech [commands](/commands).
