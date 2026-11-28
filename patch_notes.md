@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-28T08:36:03.704Z
+date: 2026-11-28T08:53:41.149Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,6 +11,10 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 ## 2026.11.28
+- Add [vanishing](/stealth#vanish): using Stealth while visible with `100` Hiding hides a player at once, even in the middle of a fight, and starts Stealth's steps
+    - Always succeeds, and counts as a Hiding-skill hide for ambushes
+    - Needs armor below `26`, and doesn't work while mounted
+    - Can't be used again for `5` minutes, scaling to `2` minutes at `100` Stealth
 - Rework the [classes](/character#classes) into tanks, fighters, archers, stalkers, mages, tamers, bards, and crafters, with a section for each class
     - Add the Juggernaut, Grenadier, Puppetmaster, Wizard, Golemancer, Priest, Beastwarden, Packleader, and Skald classes
     - Rename Beastmaster to Whisperer
