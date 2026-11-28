@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T16:30:05.600Z
+date: 2026-11-28T16:31:36.027Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
@@ -31,7 +31,7 @@ Its limits come from what it leaves out. Without [Anatomy](/anatomy), it gets no
 - Skills: Blacksmithing, Mace Fighting, [Tactics](/tactics), Arms Lore, Parrying, Alchemy, and Resisting Spells
 - Gear: one-handed mace, metal shield, and a war hammer or war axe, with colored metal plate
 - Defense: Mace Fighting, shield blocks, Valor's accuracy and toughness, colored metal, and resisted spells
-- Healing: bonused heal potions
+- Healing: bonused potions
 - Weakness: no Anatomy or Healing, so no Valor regeneration and nothing to heal with between potions
 
 ## Carpenter
@@ -45,7 +45,7 @@ Wood can't be forged from colored metal, so its shield never wards off spells, a
 - Skills: Carpentry, Mace Fighting, Tactics, Arms Lore, Parrying, Alchemy, and Resisting Spells
 - Gear: club, wooden shield, and a black, gnarled, or quarter staff, with plate
 - Defense: Mace Fighting, shield blocks, Valor's accuracy and toughness, and resisted spells
-- Healing: bonused heal potions
+- Healing: bonused potions
 - Weakness: a wooden shield never wards off spells, and with no Anatomy it gets no Valor regeneration 
 
 ## Juggernaut
@@ -59,7 +59,7 @@ It fights with a kryss or war fork and a shield, so it needs no Arms Lore, and w
 - Skills: Fencing, Anatomy, Parrying, Healing, Alchemy, Cooking, and Resisting Spells
 - Gear: kryss or war fork and shield, with plate
 - Defense: Fencing, shield blocks, Valor's toughness, and resisted spells
-- Healing: food, bonused potions, and bandages
+- Healing: bonused potions, food, and bandages
 - Weakness: no Tactics, so it does about a third of the damage of other fighters and misses more often
 
 ## Paladin
@@ -73,5 +73,5 @@ Its catch is its mace. Casting still puts the mace in the backpack, so every spe
 - Skills: Mace Fighting, Arms Lore, Healing, Parrying, Tactics, Resisting Spells, `40` Magery, and `60` Anatomy
 - Gear: one-handed mace, shield, and spellbook, with plate
 - Defense: Mace Fighting, shield blocks, most of Valor, colored metal, and resisted spells
-- Healing: bandages and spells, for itself and its group
+- Healing: bandages, spells
 - Weakness: casting puts its mace in the backpack, so it must time its spells wisely
