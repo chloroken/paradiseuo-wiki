@@ -2,7 +2,7 @@
 title: Tamers
 description: Classes that specialize in capturing pets to accomplish their goals
 published: true
-date: 2026-11-28T15:46:19.079Z
+date: 2026-11-28T16:34:27.036Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:05:42.378Z
@@ -29,7 +29,7 @@ It has no [Parrying](/parrying), so no Valor toughness, and no [Magery](/magery)
 - Skills: Animal Taming, Animal Lore, Veterinary, Archery, Tactics, Anatomy, and Alchemy
 - Gear: bows and crossbows, with studded leather
 - Defense: its pet, range, and Valor's accuracy and regeneration
-- Healing: stronger heal potions
+- Healing: bonused potions
 - Weakness: no Parrying or Magery, so no Valor toughness and no Gate Travel for its pets
 
 ## Druid
@@ -43,7 +43,7 @@ It has no melee defense of its own, so anything that gets past its pets is dange
 - Skills: Animal Taming, Animal Lore, Veterinary, Magery, Evaluating Intelligence, Meditation, and [Resisting Spells](/resisting_spells)
 - Gear: spellbook, with leather
 - Defense: its pets and resisted spells
-- Healing: spells
+- Healing: spells, unbonused potions
 - Weakness: no melee defense of its own
 
 ## Packleader
@@ -57,7 +57,7 @@ It has no Healing for itself, so it relies on Valor's regeneration and potions, 
 - Skills: Animal Taming, Animal Lore, Veterinary, Fencing, Tactics, Anatomy, and Parrying
 - Gear: kryss or war fork and shield, with plate
 - Defense: Fencing, shield blocks, and full Valor
-- Healing: Valor's regeneration
+- Healing: unbonused potions
 - Weakness: no Healing for itself and no Resisting Spells, so casters hurt
 
 ## Whisperer
@@ -71,5 +71,5 @@ It's exceptionally fragile. With no Valor, no armor skills, no Magery, and no we
 - Skills: Animal Taming, Animal Lore, Veterinary, Musicianship, Peacemaking, Provocation, and Hiding
 - Gear: instruments, with leather
 - Defense: Hiding and Peacemaking
-- Healing: potions only
+- Healing: unbonused potions
 - Weakness: no true defenses, no Valor, and no Magery for travel, making it exceptionally fragile
