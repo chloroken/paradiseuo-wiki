@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T17:04:50.107Z
+date: 2026-11-28T17:06:14.705Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
@@ -19,7 +19,7 @@ Tanks are built to stand in front of a monster and outlast it. The Blacksmith, C
 | Paladin | Can buff and heal party |
 
 ## Blacksmith
-The Blacksmith is a self-made mitigation tank. It forges its own weapons, armor, and shields at the anvil, and [repairs](/blacksmithing#repairing) them between fights, so it never depends on anyone else for gear. Its whole kit is metal, and that matters: plate and shields forged from [colored metal](/armor#metal-types) ward off spell damage, up to a tenth of it for a full valorite set with a shield.
+The Blacksmith is a self-made mitigation tank. It forges its own weapons, armor, and shields at the anvil, and [repairs](/blacksmithing#repairing) them between fights, so it never depends on anyone else for gear. Its whole kit is metal, and that matters: plate and shields forged from [colored metal](/armor#metal-types) ward off spell damage, up to a tenth of it for a full valorite set with a shield, meaning the Blacksmjth can choose between physical mitigation from magical armor or magic mitigation from colored metal armor.
 
 In a fight, it holds the front with a one-handed mace and a metal shield. Every mace hit, powered by [Arms Lore](/arms_lore), saps the monster's vigor, so its melee hits land as if it were weaker. Blacksmithing makes its mace [hit harder](/weapons#scaling-skills), so each hit also saps more. Shield blocks, [Mace Fighting](/mace_fighting), and [Valor](/valor)'s accuracy and toughness keep the damage that does land low. When monsters bunch up, it switches to a war hammer or war axe. With Arms Lore behind it, a two-handed mace lands Crushing Blows that halve a monster's attack speed, and Blacksmithing makes each one [splash](/weapon_effects#crushing-blow) the same hit onto every monster around the target.
 
