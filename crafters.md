@@ -2,7 +2,7 @@
 title: Crafters
 description: Classes that focus on gathering resources and producing goods
 published: true
-date: 2026-11-28T15:06:03.105Z
+date: 2026-11-28T15:46:35.030Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:06:51.891Z
@@ -33,7 +33,7 @@ It has no weapon skill and no defensive skills, so it avoids real fights. Its va
 ## Forager
 The Forager gathers raw materials for everyone else. It mines ore, chops wood, and catches fish, then marks its own runes and Recalls home with the load. Its stats balance carrying capacity against mana, so it can haul a heavy load and still Recall back and forth.
 
-It defends itself with the axe or pickaxe it already carries, which [Lumberjacking](/lumberjacking) and [Mining](/mining) make hit hard, using [Swordsmanship](/swordsmanship) and [Tactics](/tactics). When a fight goes badly, it cooks the fish it catches and eats them for burst healing, and its Magery adds healing spells.
+It defends itself with the axe or pickaxe it already carries, which [Lumberjacking](/lumberjacking) and [Mining](/mining) make hit hard, using [Swordsmanship](/swordsmanship) and [Tactics](/tactics). When a fight goes badly, it eats fish it cooked earlier for burst healing, and its Magery adds healing spells.
 
 It's a weak fighter, with no [Anatomy](/anatomy), no [Parrying](/parrying), and `100` Magery that leaves it no [Valor](/valor). It can't hide from what it can't beat, so it has to pick its gathering spots carefully.
 
