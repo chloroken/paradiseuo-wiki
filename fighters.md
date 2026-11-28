@@ -2,7 +2,7 @@
 title: Fighters
 description: Classes that do high damage in melee range
 published: true
-date: 2026-11-28T15:44:07.640Z
+date: 2026-11-28T16:32:43.519Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:02:11.564Z
@@ -29,7 +29,7 @@ It skips Parrying to fit both weapon skills, so it gets none of Valor's toughnes
 - Skills: Swordsmanship, Mace Fighting, Arms Lore, Tactics, Anatomy, Healing, and Resisting Spells
 - Gear: swords, polearms, maces, and war hammers, with plate
 - Defense: its weapon skills, Valor's accuracy and regeneration, and resisted spells
-- Healing: bandages
+- Healing: bandages, unbonused potions
 - Weakness: no Parrying, so it gets none of Valor's toughness
 
 ## Prospector
@@ -57,7 +57,7 @@ What it trades for that reliability is anything special. It has no weapon effect
 - Skills: Fencing, Archery, Tactics, Anatomy, Parrying, Healing, and Resisting Spells
 - Gear: kryss or war fork, shield, and bow, with plate
 - Defense: Fencing, shield blocks, full Valor, and resisted spells
-- Healing: bandages
+- Healing: bandages, unbonused potions
 - Weakness: no weapon effects and no utility
 
 ## Woodsman
@@ -71,5 +71,5 @@ A two-handed axe leaves no hand for a shield, so it takes Parrying only for Valo
 - Skills: Lumberjacking, Swordsmanship, Tactics, Anatomy, Parrying, Healing, and Resisting Spells
 - Gear: two-handed axes, with plate
 - Defense: Swordsmanship, full Valor, and resisted spells
-- Healing: bandages
+- Healing: bandages, unbonused potions
 - Weakness: no hands for a shield and no utility, so it only takes Parrying for Valor's toughness
