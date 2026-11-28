@@ -2,7 +2,7 @@
 title: Fighters
 description: Classes that do high damage in melee range
 published: true
-date: 2026-11-28T15:11:42.887Z
+date: 2026-11-28T15:17:02.223Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:02:11.564Z
@@ -33,9 +33,9 @@ It skips Parrying to fit both weapon skills, so it gets none of Valor's toughnes
 - Weakness: no Parrying, so it gets none of Valor's toughness
 
 ## Prospector
-The Prospector is a miner who fights back. [Mining](/mining) doubles the damage of the pickaxe at grandmaster, turning a gathering tool into a weapon that keeps up with any sword. It fights with the same pickaxe it digs with, so it can head into a dungeon right after a mining session.
+The Prospector is a miner who fights back. [Mining](/mining) dramatically increases the damage of the pickaxe at grandmaster, turning a gathering tool into a weapon that keeps up with any sword. It fights with the same pickaxe it digs with, so it can head into a dungeon right after a mining session.
 
-With a pickaxe in one hand and a shield in the other, it gets full Valor: accuracy, toughness, and regeneration. It's a sturdy, simple fighter that blocks, hits hard, and bandages itself, curing poison with its Anatomy. If a Blacksmith is around, it will always have colored metal armor because it can fetch the colored ore itself.
+While the Prospector doesn't have the raw damage of a Woodsman, its defenses are better. With a pickaxe in one hand and a shield in the other, it gets full Valor: accuracy, toughness, and regeneration. It's a sturdy, simple fighter that blocks, hits hard, and bandages itself, curing poison with its Anatomy. If a Blacksmith is around, it has easy access to [colored metal](/armor#metal-types) armor because it can fetch the colored ore itself.
 
 The pickaxe has no weapon effect, so the Prospector has no Crushing Blows, critical strikes, or other tricks. It's straightforward damage and nothing else, and like every fighter it travels on foot.
 
@@ -47,7 +47,7 @@ The pickaxe has no weapon effect, so the Prospector has no Crushing Blows, criti
 - Weakness: the pickaxe has no weapon effect, so it has little utility
 
 ## Warrior
-The Warrior is the most well-rounded fighter, and the easiest to play well. It has full Valor and needs no Arms Lore, because it uses weapons without weapon effects. A kryss or war fork with a shield are the strongest one-handed weapons that have no effect to pay for.
+The Warrior is the most well-rounded fighter: competitive melee damage, a bow for range, and a shield to tank with. It has full Valor and needs no Arms Lore, because it uses weapons without weapon effects. A kryss or war fork is the strongest one-handed weapon that doesn't need Arms Lore, and it leaves a hand free for the shield.
 
 Up close, it fights sword and board: fast fencing hits, shield blocks, and every Valor bonus. When something stays out of reach, it switches to a bow, since [Archery](/archery) lets it fire from range with the same Tactics and Anatomy bonuses. Its bandages heal well and cure poison. It can handle almost anything reasonably well, without any one weakness for monsters to exploit.
 
