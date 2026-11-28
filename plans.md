@@ -2,7 +2,7 @@
 title: Plans
 description: What's planned before Paradise moves to beta
 published: true
-date: 2026-11-28T12:08:07.493Z
+date: 2026-11-28T13:25:40.325Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-22T12:00:49.987Z
@@ -11,24 +11,8 @@ dateCreated: 2026-11-22T12:00:49.987Z
 # Plans
 *Paradise* is in alpha, and thus receives constant development. This page serves as a way of keeping track of the bigger picture: getting the game suitable for beta.
 
-## Classes
-- Thief (noncombat, uses stealing/snooping in dungeons)
-  - Begging
-  - Snooping
-  - Stealing
-  - Hiding
-  - Stealth
-  - Lockpicking
-  - Remove Trap
-- NPCs can call guards which send you to jail, increasingly as chain caught
-
 ## Skills
 Skills should have adventure potential, or some aspect that makes them not feel "useless" to take on a main character suitable for dungeon diving.
-
-These skills create an alternate playstyle:
-- Begging (pacify a hostile target, 100% at lv100 snoop+steal)
-- Snooping (creates new lootpacks in monster bags, deleted on death)
-- Stealing (allows stealing from monsters)
 
 These skills don't have an obvious way to add adventure potential:
 - Camping
@@ -36,7 +20,6 @@ These skills don't have an obvious way to add adventure potential:
 - Fishing
 - Forensic Evaluation
 - Item Identification
-- Remove Trap
 
 ## Dungeons
 - All dungeons get a page with lore
@@ -55,7 +38,7 @@ These skills don't have an obvious way to add adventure potential:
 - Add pages with incoming links that are missing
 
 ## Guilds
-- Make a guild for more skills/skillgroups
+- Make a guild for more skills/skillgroups?
 - 50 skill requirement to get in + fee
 - One guild at a time per character
 - Have incentives and some systems in place
