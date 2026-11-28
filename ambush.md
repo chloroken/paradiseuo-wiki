@@ -2,7 +2,7 @@
 title: Ambush
 description: Attacking from Hiding and Stealth for extra damage and accuracy
 published: true
-date: 2026-11-27T15:54:43.000Z
+date: 2026-11-28T09:00:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T18:40:29.000Z
@@ -55,7 +55,7 @@ These are before armor, with a regular, non-magic weapon. An ambush multiplies o
 
 ## Restrictions
 - Only the Hiding skill counts. Hiding with the [Invisibility](/invisibility) spell or an [invisibility potion](/invisibility_potion) won't trigger an ambush.
-- Hiding must be used before Stealth, or stealthed steps don't count.
+- Hiding or a [vanish](/stealth#vanish) must come before Stealth, or stealthed steps don't count.
 - Once a monster or animal has been damaged by an ambush, it becomes alert for `1` minute. Ambushes on an alert target get no bonus damage or accuracy, and don't refresh the alert duration.
 - Ambush is capped at `2×` damage to players, and players do not become alert when ambushed.
 - Only players can ambush.

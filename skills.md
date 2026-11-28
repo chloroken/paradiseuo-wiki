@@ -2,7 +2,7 @@
 title: Skills
 description: Every enabled and disabled skill, and the most popular ones
 published: true
-date: 2026-11-28T08:30:00.000Z
+date: 2026-11-28T09:00:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -63,7 +63,7 @@ These skills define an archetype, and most characters take at least one.
 | [Snooping](/snooping) | | |
 | [Spirit Speak](/spirit_speak) | Understands ghosts for a while | Summons last longer, resist Dispel, and take fewer follower slots, elementals hit harder, and summoning never fails at grandmaster |
 | [Stealing](/stealing) | | |
-| [Stealth](/stealth) | Walks while hidden, for a stronger ambush | |
+| [Stealth](/stealth) | Walks while hidden, for a stronger ambush, or vanishes mid-fight at 100 Hiding | |
 | [Swordsmanship](/swordsmanship) | | Hits and defends with swords, axes, polearms, knives, and the pickaxe |
 | [Tactics](/tactics) | | More weapon damage, and Valor adds accuracy |
 | [Tailoring](/tailoring) | Crafts clothing and leather armor | Faster mana regeneration while wearing a robe and no armor, the more so as mana runs low |

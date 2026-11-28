@@ -2,7 +2,7 @@
 title: Character
 description: Classes, builds, and what makes a character
 published: true
-date: 2026-11-28T08:41:14.560Z
+date: 2026-11-28T09:00:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -152,7 +152,7 @@ A back-line bomber that throws explosion potions into groups of monsters and sho
 - Weakness: goes through reagents fast, and its explosions hit allies too
 
 ## Stalkers
-Stalkers use Hiding and Stealth to get into position, then strike before the enemy can answer.
+Stalkers use Hiding and Stealth to get into position, then strike before the enemy can answer. With `100` Hiding, all three can [vanish](/stealth#vanish) when a fight turns against them and walk away.
 
 | Class | Unique Qualities |
 |:-|:-:|
@@ -166,7 +166,7 @@ Ambushes from stealth with a heavy crossbow for huge burst damage at range, then
 - Stats: `100` Strength, `100` Dexterity, `25` Intelligence
 - Skills: Fencing, Archery, Tactics, Arms Lore, Poisoning, Hiding, and Stealth
 - Gear: heavy crossbow and two-handed spear, with leather
-- Defense: stealth, Valor's accuracy, and its weapon skills
+- Defense: stealth, vanishing, Valor's accuracy, and its weapon skills
 - Healing: potions
 - Weakness: stealth limits it to light armor, and it heals with potions only
 
@@ -176,9 +176,9 @@ Backstabs from stealth with a poisoned dagger for a huge opening hit, finishes t
 - Stats: `100` Strength, `100` Dexterity, `25` Intelligence
 - Skills: Fencing, Tactics, Anatomy, Hiding, Stealth, Poisoning, and Lockpicking
 - Gear: daggers, krysses, and war forks, with leather
-- Defense: stealth, Valor's accuracy and regeneration, and Fencing
+- Defense: stealth, vanishing, Valor's accuracy and regeneration, and Fencing
 - Healing: potions
-- Weakness: fragile in a straight fight, with no shield and potions only
+- Weakness: fragile once it has to stand and fight, with no shield and potions only, so it leans on vanishing to escape
 
 ### Puppetmaster
 A dungeon lockpicker that never lifts a weapon. It hides and stealths into position, unleashes [golems](/golem) to clear out a chest's guards, then disarms and picks the chest and loots it. Monsters ignore golems and can't see a hidden owner, which makes it a relaxed build for casual players.
@@ -186,7 +186,7 @@ A dungeon lockpicker that never lifts a weapon. It hides and stealths into posit
 - Stats: `100` Strength, `100` Dexterity, `25` Intelligence
 - Skills: Tinkering, Inscription, Hiding, Stealth, Lockpicking, Remove Trap, and Healing
 - Gear: golems, lockpicks, and Blade Spirits scrolls, with leather
-- Defense: stealth and golems that do the fighting
+- Defense: stealth, vanishing, and golems that do the fighting
 - Healing: bandages
 - Weakness: golems are weak and only last `30` seconds, and it can't fight on its own
 

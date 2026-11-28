@@ -2,7 +2,7 @@
 title: Features
 description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-28T08:30:00.000Z
+date: 2026-11-28T09:00:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -27,7 +27,7 @@ Characters who fight with weapons are enhanced to keep pace with mages, tamers, 
 - Armor and shields of [colored metal](/armor#metal-types) ward off spell damage instead of adding armor rating, giving tanks an edge against mages.
 - Wrestling's [stun](/wrestling#wrestling-moves) happens automatically, and Disarm is gone, so every move is a stun.
 - The chance to inflict [poison](/poisoning) is tied to Poisoning, giving it a use in the field.
-- Bows, crossbows, one-handed fencing weapons, and knives [ambush](/ambush) for bonus damage when they break Hiding, more after Stealth, and daggers backstab.
+- Bows, crossbows, one-handed fencing weapons, and knives [ambush](/ambush) for bonus damage when they break Hiding, more after Stealth, and daggers backstab. Grandmasters at Hiding can [vanish](/stealth#vanish) with Stealth in the middle of a fight and walk away.
 - Each weapon type has its own identity through [weapon effects](/weapon_effects): swords critically strike, one-handed maces sap a monster's vigor, two-handed maces and staves slow its attacks, polearms concuss, and the shepherd's crook bonks as a shillelagh. Most of them are powered by [Arms Lore](/arms_lore), so each fighter chooses whether to pay for them, and only players land them.
 - Weapon damage is [rebalanced](/dps) so more weapons are worth using.
 - Lumberjacking, Carpentry, and Mining make their own weapons hit harder as [scaling skills](/weapons#scaling-skills), Blacksmithing and Carpentry spread the Crushing Blows of two-handed maces and staves onto nearby monsters, and Carpentry makes the wooden shield the sturdiest shield against weapons.
