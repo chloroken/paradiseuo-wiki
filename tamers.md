@@ -2,7 +2,7 @@
 title: Tamers
 description: Classes that specialize in capturing pets to accomplish their goals
 published: true
-date: 2026-11-28T09:40:00.000Z
+date: 2026-11-28T14:45:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:05:42.378Z
@@ -21,15 +21,15 @@ Tamers always take [Animal Taming](/animal_taming), [Animal Lore](/animal_lore),
 ## Beastwarden
 The Beastwarden is an archer with a bodyguard. Its pet charges in and holds the monster's attention while the Beastwarden shoots from behind it, and since the monster is busy with the pet, the Beastwarden can shoot freely.
 
-It plays like a Ranger with a tank. Its [Tactics](/tactics) and [Anatomy](/anatomy) give it [Valor](/valor)'s accuracy and regeneration, and its [bandages](/healing) heal and cure itself while Veterinary keeps its pet going. It can still tame the strongest pets, since its Intelligence doesn't affect taming.
+It plays like a Ranger with a tank. Its [Tactics](/tactics) and [Anatomy](/anatomy) give it [Valor](/valor)'s accuracy and regeneration. Its bandages go to its pet, so it heals itself with potions, which [Alchemy](/alchemy#healing) makes more than twice as strong and which never interrupt a pet's bandage. It can still tame the strongest pets, since its Intelligence doesn't affect taming.
 
 It has no [Parrying](/parrying), so no Valor toughness, and no [Magery](/magery), so no Gate Travel to move its pets around. If its pet goes down, it's an archer with no melee skills and only studded leather between it and the monster.
 
 - Stats: `100` Strength, `100` Dexterity, `25` Intelligence
-- Skills: Animal Taming, Animal Lore, Veterinary, Archery, Tactics, Anatomy, and Healing
+- Skills: Animal Taming, Animal Lore, Veterinary, Archery, Tactics, Anatomy, and Alchemy
 - Gear: bows and crossbows, with studded leather
 - Defense: its pet, range, and Valor's accuracy and regeneration
-- Healing: bandages
+- Healing: stronger heal potions
 - Weakness: no Parrying or Magery, so no Valor toughness and no Gate Travel for its pets
 
 ## Druid
@@ -57,7 +57,7 @@ It has no Healing for itself, so it relies on Valor's regeneration and potions, 
 - Skills: Animal Taming, Animal Lore, Veterinary, Fencing, Tactics, Anatomy, and Parrying
 - Gear: kryss or war fork and shield, with plate
 - Defense: Fencing, shield blocks, and full Valor
-- Healing: Valor's regeneration and potions
+- Healing: Valor's regeneration
 - Weakness: no Healing for itself and no Resisting Spells, so casters hurt
 
 ## Whisperer
@@ -71,5 +71,5 @@ It's exceptionally fragile. With no Valor, no armor skills, no Magery, and no we
 - Skills: Animal Taming, Animal Lore, Veterinary, Musicianship, Peacemaking, Provocation, and Hiding
 - Gear: instruments, with leather
 - Defense: Hiding and Peacemaking
-- Healing: potions
+- Healing: potions only
 - Weakness: no true defenses, no Valor, and no Magery for travel, making it exceptionally fragile

@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-28T14:30:00.000Z
+date: 2026-11-28T14:45:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -47,6 +47,9 @@ Changes to *Paradise*, newest first.
     - Rename Beastmaster to Whisperer
     - Give the Shepherd Cooking instead of Evaluating Intelligence, the Summoner Tailoring and Cooking instead of Anatomy and Evaluating Intelligence, and the Forager Cooking instead of Hiding
     - Move the Carpenter and the Paladin to tanks
+    - Give the Blacksmith, Carpenter, and Beastwarden Alchemy instead of Healing, the Puppetmaster Cooking instead of Healing, the Monk Inscription instead of Tactics, and the Summoner Wrestling instead of Inscription
+    - Rework the Hunter into a stealth sniper with Archery, Tactics, Anatomy, Poisoning, Tracking, Hiding, and Stealth
+    - Rework the Paladin into a group healer, and give it and the Forager `65` Dexterity and `60` Intelligence
 - [Cooking](/cooking):
     - Double the healing from eating to `Cooking / 10` per point of hunger filled
     - Make sweets restore mana instead of hit points

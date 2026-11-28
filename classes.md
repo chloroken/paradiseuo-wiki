@@ -2,7 +2,7 @@
 title: Classes
 description: Classes, builds, and what makes a character
 published: true
-date: 2026-11-28T09:35:11.226Z
+date: 2026-11-28T14:45:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -15,6 +15,8 @@ Ultima Online doesn't have discrete classes. A character's build, or class, is d
 - [Reputation](/reputation): builds up passively while interacting with the world.
 
 To play something like an evil warrior, one would spend stat points on Strength and Dexterity and skill points on weapon skills, then commit bad deeds to lower karma.
+
+Every class can drink [potions](/alchemy#potions) to heal and cure, even with full hands. Each class's Healing line lists only what its own skills add.
 
 ## Roles
 Roles are categories of classes, grouped by purpose or style.

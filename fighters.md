@@ -2,7 +2,7 @@
 title: Fighters
 description: Classes that do high damage in melee range
 published: true
-date: 2026-11-28T09:30:00.000Z
+date: 2026-11-28T14:45:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:02:11.564Z
@@ -13,17 +13,17 @@ Fighters always take a weapon skill and [Tactics](/tactics), and most take [Parr
 
 | Class | Unique Qualities |
 |:-|:-:|
-| Armsmaster | Switches weapons to land sword, mace, and polearm effects on one target |
+| Armsmaster | Stacks weapon effects that weaken, slow, and drain one target |
 | Prospector | Fights with a pickaxe that hits twice as hard, and mines its own ore |
 | Warrior | Gets full Valor with a sword and shield and a bow, without Arms Lore |
 | Woodsman | Does the highest damage of any class, and chops wood |
 
 ## Armsmaster
-The Armsmaster is a weapons expert who carries a small armory and always brings the right tool for the job. [Arms Lore](/arms_lore) powers most [weapon effects](/weapon_effects), and [Swordsmanship](/swordsmanship) and [Mace Fighting](/mace_fighting) cover nearly every weapon that has one, so it can use whichever effect a fight calls for.
+The Armsmaster is a weapons expert who carries a small armory and wears a monster down instead of out-damaging it. [Arms Lore](/arms_lore) powers most [weapon effects](/weapon_effects), and [Swordsmanship](/swordsmanship) and [Mace Fighting](/mace_fighting) cover nearly every weapon that has one, so it can stack several on the same target.
 
-It opens with whatever fits the target. A sword lands [critical strikes](/weapon_effects#critical-strikes) that double its damage, a war hammer's Crushing Blow halves a monster's attack speed, a one-handed mace saps its vigor, and a polearm's Concussion Blow halves a caster's Intelligence, which needs Anatomy instead of Arms Lore. Since each effect lasts a while, it can land one, switch weapons, and stack another on the same target. Its Anatomy gives it Valor's regeneration and stronger [bandages](/healing) that cure poison.
+A one-handed mace [saps its vigor](/weapon_effects#sapping-vigor), so its melee hits land as if it were weaker. A war hammer's [Crushing Blow](/weapon_effects#crushing-blow) halves its attack speed, and a polearm's [Concussion Blow](/weapon_effects#concussion-blow) halves a caster's Intelligence, using Anatomy instead of Arms Lore. Each effect lasts a while, so it can land one, switch weapons, and stack the next. A drained, slowed monster hits far softer and far less often. Swords add [critical strikes](/weapon_effects#critical-strikes), but those only match the steady damage of weapons with no effect, so they're a side benefit. Its Anatomy gives it Valor's regeneration and stronger [bandages](/healing) that cure poison.
 
-It skips Parrying to fit both weapon skills, so it gets none of Valor's toughness and has no use for a shield. It takes the full weight of every hit, more than any other fighter, and juggling weapons takes attention and backpack space.
+It skips Parrying to fit both weapon skills, so it gets none of Valor's toughness and has no use for a shield. It takes the full weight of every hit until its effects land, and juggling weapons takes attention and backpack space.
 
 - Stats: `100` Strength, `100` Dexterity, `25` Intelligence
 - Skills: Swordsmanship, Mace Fighting, Arms Lore, Tactics, Anatomy, Healing, and Resisting Spells

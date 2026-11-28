@@ -2,7 +2,7 @@
 title: Bards
 description: Classes that use instruments to control the battlefield
 published: true
-date: 2026-11-28T13:30:00.000Z
+date: 2026-11-28T14:45:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:06:21.601Z
@@ -28,7 +28,7 @@ Without [Anatomy](/anatomy) or [Magery](/magery), its [bandages](/healing) can't
 - Skills: Musicianship, Peacemaking, Provocation, Discordance, Archery, Tactics, and Healing
 - Gear: bows, crossbows, and instruments, with studded leather
 - Defense: Peacemaking, range, and Valor's accuracy
-- Healing: bandages and potions
+- Healing: bandages
 - Weakness: without Anatomy or Magery it can't cure poison, so it carries cure potions
 
 ## Pirate
