@@ -2,7 +2,7 @@
 title: Classes
 description: Classes, builds, and what makes a character
 published: true
-date: 2026-11-28T15:22:04.664Z
+date: 2026-11-28T15:22:29.549Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-21T05:59:08.295Z
@@ -27,7 +27,7 @@ Roles are categories of classes, grouped by purpose or style.
   - [Paladin](/tanks#paladin)
 - [Fighters](/fighters) offer melee damage and debuffs.
   - [Armsmaster](/fighters#armsmaster)
-  - [Prospecter](/fighters#prospector)
+  - [Prospector](/fighters#prospector)
   - [Warrior](/fighters#warrior)
   - [Woodsman](/fighters#woodsman)
 - [Archers](/archers) offer safe ranged damage.
