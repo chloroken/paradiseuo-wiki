@@ -2,7 +2,7 @@
 title: Bards
 description: Classes that use instruments to control the battlefield
 published: true
-date: 2026-11-28T14:45:00.000Z
+date: 2026-11-28T16:34:37.223Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:06:21.601Z
@@ -28,7 +28,7 @@ Without [Anatomy](/anatomy) or [Magery](/magery), its [bandages](/healing) can't
 - Skills: Musicianship, Peacemaking, Provocation, Discordance, Archery, Tactics, and Healing
 - Gear: bows, crossbows, and instruments, with studded leather
 - Defense: Peacemaking, range, and Valor's accuracy
-- Healing: bandages
+- Healing: bandages, unbonused potions
 - Weakness: without Anatomy or Magery it can't cure poison, so it carries cure potions
 
 ## Pirate
@@ -42,7 +42,7 @@ It has almost no fighting ability of its own. With no weapon skill, no [Wrestlin
 - Skills: Magery, Meditation, Musicianship, Provocation, Cartography, Lockpicking, and Remove Trap
 - Gear: instruments and spellbook, with leather
 - Defense: Provocation
-- Healing: spells
+- Healing: spells, unbonused potions
 - Weakness: almost no fighting ability of its own
 
 ## Skald
@@ -56,5 +56,5 @@ It has no [Resisting Spells](/resisting_spells) and no Magery, so casters hurt a
 - Skills: Musicianship, Discordance, Swordsmanship, Tactics, Anatomy, Parrying, and Healing
 - Gear: two-handed axe and instrument, with plate
 - Defense: Swordsmanship, full Valor, and a weakened target
-- Healing: bandages
+- Healing: bandages, unbonused potions
 - Weakness: no Resisting Spells or Magery, so casters hurt, and half its attempts to discord a demiboss fail
