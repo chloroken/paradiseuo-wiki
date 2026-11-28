@@ -2,7 +2,7 @@
 title: Stalkers
 description: Classes that specialize in infiltration, assassination, and escape
 published: true
-date: 2026-11-28T14:45:00.000Z
+date: 2026-11-28T15:45:23.299Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:03:55.348Z
@@ -44,10 +44,10 @@ Golems are weak next to a real fighter, and the Puppetmaster can't fight on its 
 - Gear: golems, lockpicks, Blade Spirits scrolls, and food, with leather
 - Defense: stealth, vanishing, and golems that do the fighting
 - Healing: food
-- Weakness: golems are weak and only last `30` seconds, and it can't fight on its own
+- Weakness: golems are weak and cost gems, and it can't fight on its own
 
 ## Rogue
-The Rogue is a backstabber and a thief. It creeps up behind its target and opens with a poisoned dagger, where ten stealthed steps make the ambush do five times damage and never miss. Then it finishes the fight quickly with a kryss or war fork and picks the [dungeon chests](/lockpicking#dungeon-chests) its victims were guarding.
+The Rogue is a backstabber and a chest robber. It creeps up behind its target and opens with a poisoned dagger, where ten stealthed steps make the ambush do five times damage and never miss. Then it finishes the fight quickly with a kryss or war fork and picks the [dungeon chests](/lockpicking#dungeon-chests) its victims were guarding.
 
 A Rogue's fights are short by design. The backstab does most of the work and poison keeps chipping away even when the Rogue runs off. Lockpicking and Remove Trap turn every cleared room into loot, since dungeon chests hold gold, gems, magic items, and [wands](/magic_items#wands), and get richer the deeper they're found.
 
