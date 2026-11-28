@@ -2,7 +2,7 @@
 title: Mages
 description: Classes that leverage magic spells to gain advantage
 published: true
-date: 2026-11-28T09:30:00.000Z
+date: 2026-11-28T09:20:36.582Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:04:49.054Z
@@ -35,6 +35,20 @@ With `100` Magery, it gets none of [Valor](/valor)'s bonuses. It defends with [S
 - Healing: spells
 - Weakness: no defense while casting with its polearm put away
 
+## Golemancer
+The Golemancer is a full mage who builds its own fighting machines. [Tinkering](/tinkering) builds its [golems](/golem), and Inscription brings them to life, so it can make and use the strongest terror golems. Its Magery lets it scribe its own Blade Spirits scrolls for them, so it needs only gems to keep building.
+
+It keeps a golem fighting almost nonstop, unleashing a new one as soon as the last winds down, and adds damage spells powered by Evaluating Intelligence on top. Monsters ignore golems, so they come for the Golemancer instead, and it has to hold them off itself. Inscription and Meditation make its Reactive Armor and Protection unusually strong for exactly that, and its robe keeps its mana flowing.
+
+Every golem costs gems, and now and then one breaks down for good. With no Wrestling or weapon skill, it has no real melee defense beyond its spells, so it survives by keeping its protections up rather than by avoiding hits.
+
+- Stats: `100` Strength, `25` Dexterity, `100` Intelligence
+- Skills: Magery, Meditation, Evaluating Intelligence, Tailoring, Tinkering, Inscription, and Resisting Spells
+- Gear: golems and spellbook, with a robe
+- Defense: resisted spells and strengthened Reactive Armor and Protection
+- Healing: spells
+- Weakness: every golem costs gems, and monsters always come for the Golemancer
+
 ## Monk
 The Monk fights with fists and magic, a martial artist with a full spellbook. It wears leather so its mana regeneration isn't slowed, and keeps its hands free for both punching and casting. Wrestling defends it whether it's punching or casting, so it's never caught without a defense.
 
@@ -48,6 +62,20 @@ Fists do little damage, so the Monk does most of its damage with spells, and it 
 - Defense: Wrestling and resisted spells
 - Healing: spells
 - Weakness: fists do little damage, and leather is its only armor
+
+## Priest
+The Priest is a group healer. It mends allies with Magery and bandages at the same time, cures poison with both, and brings fallen allies back with [bandage resurrection](/healing#resurrection), which its Healing and Anatomy make possible. A group with a Priest can push much deeper than one without.
+
+It stays close to the group, healing whoever is hurt. Its robe regenerates mana fastest when it's low, which suits a healer that spends mana in bursts. Its Wrestling lets it hold off anything that reaches it while it keeps casting.
+
+Without Evaluating Intelligence, its damage spells are weak, so it does little damage on its own and is slow to solo. It's built to keep others alive, not to kill.
+
+- Stats: `100` Strength, `40` Dexterity, `85` Intelligence
+- Skills: Magery, Meditation, Healing, Anatomy, Wrestling, Tailoring, and Resisting Spells
+- Gear: spellbook and bandages, with a robe
+- Defense: Wrestling and resisted spells
+- Healing: spells and bandages
+- Weakness: no Evaluating Intelligence, so its damage spells are weak
 
 ## Shepherd
 The Shepherd is a spellcasting herder who turns a humble shepherd's crook into a weapon. [Herding](/herding) makes the crook a [shillelagh](/weapon_effects#shillelagh): every `7` seconds, its next hit spends mana to reach farther and bonks for up to ten times the crook's damage, growing with Herding and Magery. A bonk never misses.
@@ -90,31 +118,3 @@ It has no melee defense at all. No Wrestling, no weapon skill, and no armor mean
 - Defense: range and resisted spells
 - Healing: spells and stronger heal potions, with sweets for mana
 - Weakness: no melee defense at all
-
-## Golemancer
-The Golemancer is a full mage who builds its own fighting machines. [Tinkering](/tinkering) builds its [golems](/golem), and Inscription brings them to life, so it can make and use the strongest terror golems. Its Magery lets it scribe its own Blade Spirits scrolls for them, so it needs only gems to keep building.
-
-It keeps a golem fighting almost nonstop, unleashing a new one as soon as the last winds down, and adds damage spells powered by Evaluating Intelligence on top. Monsters ignore golems, so they come for the Golemancer instead, and it has to hold them off itself. Inscription and Meditation make its Reactive Armor and Protection unusually strong for exactly that, and its robe keeps its mana flowing.
-
-Every golem costs gems, and now and then one breaks down for good. With no Wrestling or weapon skill, it has no real melee defense beyond its spells, so it survives by keeping its protections up rather than by avoiding hits.
-
-- Stats: `100` Strength, `25` Dexterity, `100` Intelligence
-- Skills: Magery, Meditation, Evaluating Intelligence, Tailoring, Tinkering, Inscription, and Resisting Spells
-- Gear: golems and spellbook, with a robe
-- Defense: resisted spells and strengthened Reactive Armor and Protection
-- Healing: spells
-- Weakness: every golem costs gems, and monsters always come for the Golemancer
-
-## Priest
-The Priest is a group healer. It mends allies with Magery and bandages at the same time, cures poison with both, and brings fallen allies back with [bandage resurrection](/healing#resurrection), which its Healing and Anatomy make possible. A group with a Priest can push much deeper than one without.
-
-It stays close to the group, healing whoever is hurt. Its robe regenerates mana fastest when it's low, which suits a healer that spends mana in bursts. Its Wrestling lets it hold off anything that reaches it while it keeps casting.
-
-Without Evaluating Intelligence, its damage spells are weak, so it does little damage on its own and is slow to solo. It's built to keep others alive, not to kill.
-
-- Stats: `100` Strength, `40` Dexterity, `85` Intelligence
-- Skills: Magery, Meditation, Healing, Anatomy, Wrestling, Tailoring, and Resisting Spells
-- Gear: spellbook and bandages, with a robe
-- Defense: Wrestling and resisted spells
-- Healing: spells and bandages
-- Weakness: no Evaluating Intelligence, so its damage spells are weak
