@@ -2,7 +2,7 @@
 title: Tanks
 description: Classes that absorb damage and hold the line
 published: true
-date: 2026-11-28T15:00:00.000Z
+date: 2026-11-28T15:26:25.949Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:00:41.589Z
@@ -35,18 +35,11 @@ Its limits come from what it leaves out. Without [Anatomy](/anatomy), it gets no
 - Weakness: no Anatomy or Healing, so no Valor regeneration and nothing to heal with between potions
 
 ## Carpenter
-The Carpenter is the woodworker's answer to the Blacksmith: a tank built around wood instead of metal. It crafts its own staves and wooden shields, and [Carpentry](/carpentry) makes a wooden shield the [sturdiest shield](/parrying#shields) in the game against weapons, with more armor than even a chaos shield. That makes it the best tank against monsters that hit hard in melee.
+The Carpenter is a tank built around wood. It crafts its own clubs, staves, and wooden shields, and [Carpentry](/carpentry) makes a wooden shield the [sturdiest shield](/parrying#shields) in the game against weapons, with more armor than even a chaos shield. That makes it the best tank against monsters that hit hard in melee.
 
-It tanks with a club and that wooden shield. A club is a one-handed mace, so with Arms Lore it saps a monster's vigor just like the Blacksmith's mace, and Carpentry makes it hit harder and sap more. When it's surrounded, it switches to a black, gnarled, or quarter staff, which Carpentry also strengthens. A staff's Crushing Blow slows its target, and Carpentry lets it flourish, sweeping the same hit through every monster standing next to the Carpenter. The Blacksmith's splash hits a cluster in front of it, but the Carpenter's flourish rewards being mobbed.
+It tanks with a club and that wooden shield. A club is a one-handed mace, so with Arms Lore it saps a monster's vigor, and Carpentry makes it hit harder and sap more. When it's surrounded, it switches to a black, gnarled, or quarter staff, which Carpentry also strengthens. A staff's Crushing Blow slows its target, and Carpentry lets it flourish, sweeping the same hit through every monster standing next to the Carpenter, so it rewards being mobbed.
 
-Wood can't be forged from colored metal, so its shield never wards off spells, and casters hurt it more than the Blacksmith. Like the Blacksmith, it heals with its own stronger potions and has no Anatomy, so it gets no Valor regeneration. A staff is two-handed, so flourishing means giving up the shield.
-
-- Stats: `100` Strength, `100` Dexterity, `25` Intelligence
-- Skills: Carpentry, Mace Fighting, Tactics, Arms Lore, Parrying, Alchemy, and Resisting Spells
-- Gear: club, wooden shield, and a black, gnarled, or quarter staff, with plate
-- Defense: Mace Fighting, shield blocks, Valor's accuracy and toughness, and resisted spells
-- Healing: stronger heal potions
-- Weakness: a wooden shield never wards off spells, and with no Anatomy it gets no Valor regeneration
+Wood can't be forged from colored metal, so its shield never wards off spells, and casters hurt it more than tanks in colored metal. It heals with its own stronger potions and has no Anatomy, so it gets no Valor regeneration. A staff is two-handed, so flourishing means giving up the shield.
 
 ## Juggernaut
 The Juggernaut is the immovable object. It gives up Tactics, and with it most of its damage, to stack three separate layers of healing on top of a shield, Valor's toughness, and Valor's five-fold regeneration. It isn't trying to kill quickly, only to still be standing when everything else has fallen.
