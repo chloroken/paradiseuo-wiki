@@ -2,7 +2,7 @@
 title: Fighters
 description: Classes that do high damage in melee range
 published: true
-date: 2026-11-28T15:07:09.588Z
+date: 2026-11-28T15:11:42.887Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:02:11.564Z
@@ -35,7 +35,7 @@ It skips Parrying to fit both weapon skills, so it gets none of Valor's toughnes
 ## Prospector
 The Prospector is a miner who fights back. [Mining](/mining) doubles the damage of the pickaxe at grandmaster, turning a gathering tool into a weapon that keeps up with any sword. It fights with the same pickaxe it digs with, so it can head into a dungeon right after a mining session.
 
-With a pickaxe in one hand and a shield in the other, it gets full Valor: accuracy, toughness, and regeneration. It's a sturdy, simple fighter that blocks, hits hard, and bandages itself, curing poison with its Anatomy. Mining also makes digging up [treasure](/treasure_map) easier, and its ore can go to a blacksmith for [colored metal](/armor#metal-types) armor.
+With a pickaxe in one hand and a shield in the other, it gets full Valor: accuracy, toughness, and regeneration. It's a sturdy, simple fighter that blocks, hits hard, and bandages itself, curing poison with its Anatomy. If a Blacksmith is around, it will always have colored metal armor because it can fetch the colored ore itself.
 
 The pickaxe has no weapon effect, so the Prospector has no Crushing Blows, critical strikes, or other tricks. It's straightforward damage and nothing else, and like every fighter it travels on foot.
 
