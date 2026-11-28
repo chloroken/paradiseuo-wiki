@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-27T15:35:25.086Z
+date: 2026-11-28T08:36:03.704Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -10,6 +10,25 @@ dateCreated: 2026-11-04T19:38:55.944Z
 
 # Patch Notes
 Changes to *Paradise*, newest first.
+## 2026.11.28
+- Rework the [classes](/character#classes) into tanks, fighters, archers, stalkers, mages, tamers, bards, and crafters, with a section for each class
+    - Add the Juggernaut, Grenadier, Puppetmaster, Wizard, Golemancer, Priest, Beastwarden, Packleader, and Skald classes
+    - Rename Beastmaster to Whisperer
+    - Give the Shepherd Cooking instead of Evaluating Intelligence, the Summoner Tailoring and Cooking instead of Anatomy and Evaluating Intelligence, and the Forager Cooking instead of Hiding
+    - Move the Carpenter and the Paladin to tanks
+- [Cooking](/cooking):
+    - Double the healing from eating to `Cooking / 10` per point of hunger filled
+    - Make sweets restore mana instead of hit points
+    - Add a `3` second wait between meals
+    - Let alcohol lower hunger by `1`, at most once every `10` seconds and never to `5` or below
+- Make heal potions heal up to four times their minimum and twice their maximum for [alchemists](/alchemy#healing), instead of adding `Alchemy / 10`
+- Make players defend unarmed with [Wrestling](/wrestling#unarmed-defense) alone, instead of Anatomy and Evaluating Intelligence
+- Make the [robe](/meditation#robes) bonus grow as mana drops, up to twice as fast when empty
+- [Carpentry](/carpentry):
+    - Let staves' Crushing Blows [flourish](/weapon_effects#crushing-blow) onto every monster around the wielder
+    - Raise the wooden shield's Carpentry bonus to `25` armor, past every other shield
+- Let [Discordance](/discordance#demibosses) work on demibosses, succeeding `Discordance / 200` of the time
+
 ## 2026.11.27
 - Lower golem break down chance to `10%`
 - Prune [Blacksmithing](/blacksmithing) to T2A:
@@ -40,6 +59,7 @@ Changes to *Paradise*, newest first.
 - Make [Item Identification](/item_identification) succeed or fail in a single roll, and identify magic items too
 - Let wands of identification identify magic items
 - Show an item's name and properties on one line when single-clicked, instead of two
+
 ## 2026.11.26
 - Refresh [Deceit](/deceit):
     - Rework spawns so each floor grows more dangerous, from skeletons and zombies on floor 1 to liches and lich lords on floor 4
