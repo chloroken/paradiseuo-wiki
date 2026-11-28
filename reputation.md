@@ -2,7 +2,7 @@
 title: Reputation
 description: Fame and Karma, their bonuses, the Karma towns, and character titles
 published: true
-date: 2026-11-22T14:29:29.991Z
+date: 2026-11-28T13:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-14T06:31:40.281Z
@@ -40,7 +40,9 @@ Karma is gained by:
 
 Karma is lost by:
 - Killing good creatures.
-- Successfully [begging](/begging).
+- Successfully [begging](/begging#begging-for-gold) townsfolk for gold.
+- Peeking into backpacks with [Snooping](/snooping#peeking-into-backpacks).
+- Getting caught [stealing](/stealing#karma-towns) in a Karma town.
 - Successfully applying poison with [Poisoning](/poisoning).
 - Killing templars.
 
@@ -53,6 +55,7 @@ The people of these two towns only deal with characters of the right Karma.
 | Buccaneer's Den | -5,000 or below | Crossroads west of Vesper |
 
 - Vendors, bankers, animal trainers, healers, trainers, and [hirelings](/hireling) in these towns refuse to deal with characters who don't meet the requirement.
+- Thieves need the same Karma to steal there, and getting caught costs them Karma instead of jail time.
 - Neither town has a moongate. They're reached by boat, by magic, or by teleporter.
 
 ### Templars and Thugs

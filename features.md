@@ -2,7 +2,7 @@
 title: Features
 description: What Paradise is, its rules, and the major ways it differs from T2A
 published: true
-date: 2026-11-28T09:43:44.974Z
+date: 2026-11-28T13:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T23:04:02.833Z
@@ -39,6 +39,14 @@ Archers share Valor, poison, and ambushes with other fighters, and also get:
 - [Crossbow volleys](/archery#crossbow-volley), firing several bolts per shot
 - [Tracking](/tracking#archery-accuracy), which makes ranged attacks more accurate, until shots at fleeing targets never miss
 
+## Thief Rework
+On a shard without PvP, stealing had no one to steal from, so it's been rebuilt around monsters and townsfolk.
+
+- [Stealing](/stealing) robs the pockets of monsters and townsfolk, unseen unless the thief is caught. Every pocket holds a little loot and a lottery roll, from a pouch of gems to a castle deed.
+- [Snooping](/snooping) spots the prize in a pocket, and [Begging](/begging) pleads a monster out of a fight.
+- Thieves caught in guarded towns serve short sentences in [jail](/jail), which a master lockpicker can escape.
+- [Telekinesis](/telekinesis) no longer sets off traps, and [Magic Untrap](/magic_untrap) only works on the weakest chests, so [Remove Trap](/remove_trap) is the way into the best loot.
+
 ## Follower Enhancements
 Controlling [followers](/follower) is a popular fantasy, so it's been enhanced in several ways. Followers keep pace with their owner, even a mounted one, and players can [train on their own followers](/follower#training-on-followers) without becoming criminals. Demibosses do [double damage](/follower#followers-in-combat) to every follower.
 
@@ -59,7 +67,7 @@ Mages who train [Spirit Speak](/spirit_speak) get stronger [summons](/summon) th
 Tinkers who also train Inscription build [golems](/golem): invulnerable machines that monsters ignore, which attack nearby red and gray creatures for a short time before winding down.
 
 ## Reputation
-Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower, and locked Karma is unlocked with shrine mantras. All of it is covered on [Reputation](/reputation).
+Fame gives a choice between better gem prices at high Fame and faster skill gain at low Fame, while Karma decides who can trade and steal in Serpent's Hold and Buccaneer's Den. Templars and thugs outside those towns make Karma easy to raise or lower, and locked Karma is unlocked with shrine mantras. All of it is covered on [Reputation](/reputation).
 
 ## Other Changes
 - Equipping weapons doesn't reset the swing timer.

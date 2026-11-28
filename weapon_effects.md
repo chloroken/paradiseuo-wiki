@@ -2,7 +2,7 @@
 title: Weapon Effects
 description: Critical strikes, blows, the shillelagh, and other effects on hit
 published: true
-date: 2026-11-28T08:30:00.000Z
+date: 2026-11-28T13:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-26T18:40:29.000Z
@@ -72,7 +72,7 @@ With at least `0.1` Herding, the first shepherd's crook hit after a `7` second c
 
 A bonk consumes `20%` of the attacker's current mana, up to `20`. The crook's damage roll is then multiplied by `(Mana Consumed / 2) * (Herding / 100) * (Magery / 100)`, so with less mana, Herding, or Magery, the bonk does much less. It never drops below `1×`, so a bonk always does at least as much as a normal hit. It reaches its maximum of `10×` with at least `100` mana, `100` Herding, and `100` Magery.
 
-Magery counts only base skill, like [Valor](/valor), so the Magery that strengthens a bonk weakens Valor by the same share. When the cooldown ends, an attacker with a crook in hand or in their backpack sees *Your crook hums* in their journal, sees a glowing effect on their character, and hears a sound effect.
+Magery counts only base skill, like [Valor](/valor), so the Magery that strengthens a bonk weakens Valor by the same share. When the cooldown ends, an attacker with a crook in hand sees *Your crook hums.* in their journal, sees a glowing effect on their character, and hears a sound effect. A crook in the backpack only hums if a bonk started the cooldown, so fighting with fists or another weapon never sets it off.
 
 | Herding | Magery | Mana Consumed | Bonk Damage |
 |:-|:-:|:-:|:-:|

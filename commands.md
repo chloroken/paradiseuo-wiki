@@ -2,7 +2,7 @@
 title: Commands
 description: Speech commands for NPCs, followers, and places, and the server commands players can use
 published: true
-date: 2026-11-19T07:49:07.476Z
+date: 2026-11-28T13:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T00:06:15.205Z
@@ -44,8 +44,8 @@ Many actions on *Paradise* use speech: phrases said aloud to the right NPC, foll
 | `<name> train` | Lists the skills a townsperson can teach, for a fee |
 | `<name> time` | Asks a townsperson for the time |
 | `<name> move` | Asks a townsperson to step aside |
-| `join` | Joins the NPC guild of a nearby guildmaster |
-| `resign` | Leaves the NPC guild of a nearby guildmaster |
+| `<name> join` | Asks a guildmaster to join their [NPC guild](/guilds) |
+| `<name> resign` | Leaves a guildmaster's NPC guild |
 | `disguise` | Buys a disguise kit from the Thieves' Guild guildmaster |
 | `news` | Asks a town crier for the news |
 | `appraise` | Asks a real estate broker to value a house deed |
@@ -85,4 +85,4 @@ Players can type commands in the chat line starting with `[` to check or change 
 | `[TimeStamp` | Shows the current date and time |
 | `[WhatIsIt` | Targets an object and shows what type of object it is |
 
-Guildmasters often ask for a certain amount of play time before accepting a new member, which `[TimePlayed` shows.
+Guildmasters only accept members with enough skill, as listed on [Guilds](/guilds#joining).

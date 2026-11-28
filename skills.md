@@ -2,7 +2,7 @@
 title: Skills
 description: Every enabled and disabled skill, and the most popular ones
 published: true
-date: 2026-11-28T09:43:11.577Z
+date: 2026-11-28T13:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:05:20.404Z
@@ -29,7 +29,7 @@ These skills define an archetype, and most characters take at least one.
 | [Animal Taming](/animal_taming) | Tames creatures into pets | Pets obey more often, and adds stable slots |
 | [Archery](/archery) | | Hits and defends with bows and crossbows |
 | [Arms Lore](/arms_lore) | Judges a weapon's or armor's condition, damage or protection, and poison | Powers critical strikes, sapping vigor, Crushing Blow, and Paralyzing Blow |
-| [Begging](/begging) | | |
+| [Begging](/begging) | Pacifies a monster fighting the beggar, or begs townsfolk for gold | |
 | [Blacksmithing](/blacksmithing) | Crafts metal weapons, armor, and shields, and repairs and smelts them | Two-handed mace Crushing Blows splash onto nearby monsters |
 | [Camping](/camping) | | |
 | [Carpentry](/carpentry) | Crafts furniture, containers, staves, wooden shields, instruments, and add-ons | More damage with staves, flourishing Crushing Blows, and more armor on a wooden shield |
@@ -58,11 +58,11 @@ These skills define an archetype, and most characters take at least one.
 | [Peacemaking](/peacemaking) | Pacifies a target, or everything nearby for a moment | |
 | [Poisoning](/poisoning) | Coats fencing weapons, knives, arrows, bolts, and food with poison | Better chance to poison on a hit, and less risk of self-poisoning |
 | [Provocation](/provocation) | Makes two monsters fight each other | |
-| [Remove Trap](/remove_trap) | Disarms trapped treasure chests | |
+| [Remove Trap](/remove_trap) | Disarms trapped chests | |
 | [Resisting Spells](/resisting_spells) | | Chance to resist part of a hostile spell, and less damage from casters with lower Evaluating Intelligence |
-| [Snooping](/snooping) | | |
+| [Snooping](/snooping) | Peeks into a townsperson's backpack | Spots lottery prizes when stealing, and helps beg monsters for mercy |
 | [Spirit Speak](/spirit_speak) | Understands ghosts for a while | Summons last longer, resist Dispel, and take fewer follower slots, elementals hit harder, and summoning never fails at grandmaster |
-| [Stealing](/stealing) | | |
+| [Stealing](/stealing) | Steals from the pockets of monsters and townsfolk | Helps beg monsters for mercy |
 | [Stealth](/stealth) | Walks while hidden, for a stronger ambush, or vanishes mid-fight at 100 Hiding and 100 Stealth | |
 | [Swordsmanship](/swordsmanship) | | Hits and defends with swords, axes, polearms, knives, and the pickaxe |
 | [Tactics](/tactics) | | More weapon damage, and Valor adds accuracy |

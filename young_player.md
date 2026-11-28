@@ -2,7 +2,7 @@
 title: Young Player
 description: The protections new players get, and how Young status ends
 published: true
-date: 2026-11-26T18:33:29.852Z
+date: 2026-11-28T13:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T05:09:09.545Z
@@ -21,7 +21,7 @@ New players start with Young status, which protects their characters while they 
 
 ## Limits
 - Dungeons have no Young protection. Entering one of the [dungeons](/dungeons) shows a warning, and monsters inside attack as normal.
-- Young players can't join the Thieves' Guild.
+- Young players can't join the [Thieves' Guild](/guilds#thieves-guild).
 - Pets can't be transferred or friended between a Young player and a player who isn't Young.
 
 ## Losing Young Status

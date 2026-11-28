@@ -2,7 +2,7 @@
 title: Treasure Map
 description: Decoding treasure maps, opening treasure chests, and what they hold
 published: true
-date: 2026-11-27T15:35:09.000Z
+date: 2026-11-28T13:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-10T01:23:58.121Z
@@ -11,7 +11,7 @@ dateCreated: 2026-11-10T01:23:58.121Z
 # Treasure Map
 Treasure maps drop from monsters and have a level from `1` to `5`, with stronger monsters dropping higher-level maps.
 
-A map must be decoded with [Cartography](/cartography) before the location it shows can be found in the world. The treasure chest must then be dug up with a shovel (made easier with [Mining](/mining)), unlocked with [Lockpicking](/lockpicking) (or the [Unlock](/unlock) spell at levels `1` and `2`), and its trap disarmed with [Magery](/magery) or [Remove Trap](/remove_trap). Finally, the guardian monsters must be defeated. Only then can the treasure chest be looted.
+A map must be decoded with [Cartography](/cartography) before the location it shows can be found in the world. The treasure chest must then be dug up with a shovel (made easier with [Mining](/mining)), unlocked with [Lockpicking](/lockpicking) (or the [Unlock](/unlock) spell at levels `1` and `2`), and its trap disarmed with [Remove Trap](/remove_trap), or [Magic Untrap](/magic_untrap) at level `1`. Finally, the guardian monsters must be defeated. Only then can the treasure chest be looted.
 
 Monsters keep spawning while the chest is looted. The type of monsters that spawn depends on the chest's level.
 
@@ -27,7 +27,7 @@ Double-clicking a treasure map attempts to decode it.
 | 5 | 90 | 100 | None |
 
 ## Opening the Chest
-A lockpicker can use a [lockpick](/lockpick) on a treasure chest to try opening it. A mage can open a level `1` chest with Unlock from `17.5` Magery, or a level `2` chest from `67.5`. Its trap can be disarmed from range with [Telekinesis](/telekinesis), avoiding the explosion and its damage. Without Magery, the only options are Remove Trap or taking the trap damage.
+A lockpicker can use a [lockpick](/lockpick) on a treasure chest to try opening it. A mage can open a level `1` chest with Unlock from `17.5` Magery, or a level `2` chest from `67.5`. Magic Untrap only disarms a level `1` chest's trap, and [Telekinesis](/telekinesis) can't set traps off, so above level `1` the only options are Remove Trap or taking the trap damage.
 
 ## Loot
 A treasure chest's loot depends on its map level. Treasure maps found inside are one level lower, but never below level `1`.

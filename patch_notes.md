@@ -2,7 +2,7 @@
 title: Patch Notes
 description: Every change to Paradise, newest first
 published: true
-date: 2026-11-28T09:41:31.941Z
+date: 2026-11-28T13:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T19:38:55.944Z
@@ -11,6 +11,33 @@ dateCreated: 2026-11-04T19:38:55.944Z
 # Patch Notes
 Changes to *Paradise*, newest first.
 ## 2026.11.28
+- Rework [Stealing](/stealing) to rob monsters and townsfolk:
+    - Fill a creature's pocket on its first theft: once for monsters, and again after `2` to `6` hours for townsfolk
+    - Fill pockets by the owner's work or Fame, and roll a lottery on each, from a gem pouch at `1` in `100` to a castle deed at `1` in `1,000,000`
+    - Only allow pocket items to be stolen, never a monster's own loot or a vendor's stock, and delete pocket items when their owner dies
+    - Stop Stealing from revealing the thief, and roll a `(10 + (100 - Stealing) / 2)%` chance to be caught on every attempt
+    - Make caught monsters attack, and caught townsfolk shout *Thief!*, without flagging the thief a criminal
+    - Require the Thieves' Guild to steal from townsfolk
+    - Count lottery prizes as `1` stone when stolen
+    - Remove the later-era special items stolen from monsters
+- Make [Snooping](/snooping) spot lottery prizes on each theft, and let Thieves' Guild members peek into townsfolk's backpacks
+- Let grandmasters of [Begging](/begging) pacify a monster fighting them for `30` seconds, with a `(Snooping + Stealing) / 200` chance and a `2` minute cooldown
+- Add the Thief class to [stalkers](/stalkers#thief), and give the Pirate Remove Trap instead of Hiding
+- Add the [jail](/jail) for thieves caught in guarded towns:
+    - Sentence `1` minute, plus `1` for each offense on record, up to `60`, with one offense forgiven per day
+    - Count sentences down only while online, and confiscate stolen items
+    - Add cell locks that grandmaster lockpickers can pick, at `1` in `300` per attempt
+- Add thieving rules to the [Karma towns](/stealing#karma-towns):
+    - Require the town's Karma to steal there
+    - Cost `1,000` Karma toward neutral when caught, instead of jail
+    - Add town prizes at `1` in `250`: a silver weapon in Serpent's Hold and a level `5` treasure map in Buccaneer's Den
+- Rework traps:
+    - Stop [Telekinesis](/telekinesis) from setting off traps
+    - Limit [Magic Untrap](/magic_untrap) to level `1` dungeon and treasure chests
+    - Remove [Remove Trap](/remove_trap)'s Detecting Hidden requirement, and make its chance `(Remove Trap - Trap Power / 2) / 50`
+- Make [guildmasters](/guilds) require `50` in their guild's skill instead of play time, and stop them counting join fees as donations
+- Stop vendors from counting a single gold donation twice
+- Only make a crook in the backpack [hum](/weapon_effects#shillelagh) after a bonk
 - Add [vanishing](/stealth#vanish): using Stealth while visible with `100` Hiding and `100` Stealth hides a player at once, even in the middle of a fight, and starts Stealth's steps
     - Always succeeds, and counts as a Hiding-skill hide for ambushes
     - Needs armor below `26`, and doesn't work while mounted

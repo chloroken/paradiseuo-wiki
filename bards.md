@@ -2,7 +2,7 @@
 title: Bards
 description: Classes that use instruments to control the battlefield
 published: true
-date: 2026-11-28T09:30:00.000Z
+date: 2026-11-28T13:30:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-28T09:06:21.601Z
@@ -32,16 +32,16 @@ Without [Anatomy](/anatomy) or [Magery](/magery), its [bandages](/healing) can't
 - Weakness: without Anatomy or Magery it can't cure poison, so it carries cure potions
 
 ## Pirate
-The Pirate is a treasure hunter who runs treasure maps from start to finish without help. It provokes monsters for map drops, decodes the maps with [Cartography](/cartography), Recalls or Gates to the dig site, and digs up the chest. Then it unlocks the chest with [Lockpicking](/lockpicking) and disarms its trap with Magic Untrap, provokes the guardians that rise to defend it into fighting each other, and grabs the loot.
+The Pirate is a treasure hunter who runs treasure maps from start to finish without help. It provokes monsters for map drops, decodes the maps with [Cartography](/cartography), Recalls or Gates to the dig site, and digs up the chest. Then it unlocks the chest with [Lockpicking](/lockpicking) and disarms its trap with [Remove Trap](/remove_trap), provokes the guardians that rise to defend it into fighting each other, and grabs the loot.
 
-Its music and magic do all its fighting. Provocation turns the chest's guardians against one another, [Hiding](/hiding) gets it out of trouble, and its full Magery gives it travel, utility, and healing spells.
+Its music and magic do all its fighting. Provocation turns the chest's guardians against one another, and its full Magery gives it travel, utility, and healing spells.
 
 It has almost no fighting ability of its own. With no weapon skill, no [Wrestling](/wrestling), and no Valor, it depends on Provocation working, and a guardian that can't be provoked is a serious problem.
 
 - Stats: `100` Strength, `25` Dexterity, `100` Intelligence
-- Skills: Magery, Meditation, Musicianship, Provocation, Cartography, Lockpicking, and Hiding
+- Skills: Magery, Meditation, Musicianship, Provocation, Cartography, Lockpicking, and Remove Trap
 - Gear: instruments and spellbook, with leather
-- Defense: Hiding and Provocation
+- Defense: Provocation
 - Healing: spells
 - Weakness: almost no fighting ability of its own
 
